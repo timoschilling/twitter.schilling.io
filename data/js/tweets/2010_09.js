@@ -10,7 +10,7 @@ Grailbird.data.tweets_2010_09 =
   "geo" : {
   },
   "id_str" : "25924294257",
-  "text" : "meinem Taxifahrer scheint sein Führerschein nicht wichtig zu sein",
+  "text" : "meinem Taxifahrer scheint sein F\u00FChrerschein nicht wichtig zu sein",
   "id" : 25924294257,
   "created_at" : "Wed Sep 29 22:48:22 +0000 2010",
   "user" : {
@@ -35,7 +35,7 @@ Grailbird.data.tweets_2010_09 =
     "coordinates" : [ 50.9493058, 6.8800092 ]
   },
   "id_str" : "25878127313",
-  "text" : "just Business — at Die Halle Tor2 http://gowal.la/c/2AtT6?137",
+  "text" : "just Business \u2014 at Die Halle Tor2 http://gowal.la/c/2AtT6?137",
   "id" : 25878127313,
   "created_at" : "Wed Sep 29 12:29:57 +0000 2010",
   "user" : {
@@ -60,7 +60,7 @@ Grailbird.data.tweets_2010_09 =
     "coordinates" : [ 50.9434487518, 6.9581651688 ]
   },
   "id_str" : "25863670422",
-  "text" : "Hallo Köln, schön mal wieder hier zu sein — at Hauptbahnhof Köln http://gowal.la/c/2Aqy8?137",
+  "text" : "Hallo K\u00F6ln, sch\u00F6n mal wieder hier zu sein \u2014 at Hauptbahnhof K\u00F6ln http://gowal.la/c/2Aqy8?137",
   "id" : 25863670422,
   "created_at" : "Wed Sep 29 07:59:29 +0000 2010",
   "user" : {
@@ -83,7 +83,7 @@ Grailbird.data.tweets_2010_09 =
   "geo" : {
   },
   "id_str" : "25800299053",
-  "text" : "bin grade auf eine Apple Seite gestossen die irgentwo bei 10.2 hängen geblieben ist http://bit.ly/old-apple",
+  "text" : "bin grade auf eine Apple Seite gestossen die irgentwo bei 10.2 h\u00E4ngen geblieben ist http://bit.ly/old-apple",
   "id" : 25800299053,
   "created_at" : "Tue Sep 28 16:32:22 +0000 2010",
   "user" : {
@@ -163,7 +163,7 @@ Grailbird.data.tweets_2010_09 =
   },
   "id_str" : "25611723022",
   "in_reply_to_user_id" : 15035029,
-  "text" : "@sippndipp wer will schon Würmer",
+  "text" : "@sippndipp wer will schon W\u00FCrmer",
   "id" : 25611723022,
   "in_reply_to_status_id" : 25478827587,
   "created_at" : "Sun Sep 26 18:07:49 +0000 2010",
@@ -212,7 +212,7 @@ Grailbird.data.tweets_2010_09 =
   "geo" : {
   },
   "id_str" : "25202300854",
-  "text" : "mhm, eine Fleicherei die in der Pferdeweide ansässig ist",
+  "text" : "mhm, eine Fleicherei die in der Pferdeweide ans\u00E4ssig ist",
   "id" : 25202300854,
   "created_at" : "Wed Sep 22 11:17:27 +0000 2010",
   "user" : {
@@ -235,7 +235,7 @@ Grailbird.data.tweets_2010_09 =
   "geo" : {
   },
   "id_str" : "25157638415",
-  "text" : "mäh, mein Kühlschrank mag mich nicht, er hat nichts von dem was ich gerne möchte :(",
+  "text" : "m\u00E4h, mein K\u00FChlschrank mag mich nicht, er hat nichts von dem was ich gerne m\u00F6chte :(",
   "id" : 25157638415,
   "created_at" : "Tue Sep 21 22:34:12 +0000 2010",
   "user" : {
@@ -251,7 +251,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -338,7 +338,7 @@ Grailbird.data.tweets_2010_09 =
   "geo" : {
   },
   "id_str" : "24929454716",
-  "text" : "\"Meinungsfreiheit gild auch für falsche Meinungen\" - Helmut Schmidt",
+  "text" : "\"Meinungsfreiheit gild auch f\u00FCr falsche Meinungen\" - Helmut Schmidt",
   "id" : 24929454716,
   "created_at" : "Sun Sep 19 12:05:15 +0000 2010",
   "user" : {
@@ -396,7 +396,7 @@ Grailbird.data.tweets_2010_09 =
   "geo" : {
   },
   "id_str" : "24654045962",
-  "text" : "kann mir jemand ne gute SIP Software für den Mac empfehlen?",
+  "text" : "kann mir jemand ne gute SIP Software f\u00FCr den Mac empfehlen?",
   "id" : 24654045962,
   "created_at" : "Thu Sep 16 11:00:59 +0000 2010",
   "user" : {
@@ -516,7 +516,7 @@ Grailbird.data.tweets_2010_09 =
   },
   "id_str" : "24578165843",
   "in_reply_to_user_id" : 15071293,
-  "text" : "@DerWesten Userscripts sind Javascripte die im Firefox, Safari oder Chrome lauf und Webseiten verändern können. z.B. http://bit.ly/cjsMjj",
+  "text" : "@DerWesten Userscripts sind Javascripte die im Firefox, Safari oder Chrome lauf und Webseiten ver\u00E4ndern k\u00F6nnen. z.B. http://bit.ly/cjsMjj",
   "id" : 24578165843,
   "in_reply_to_status_id" : 24575680936,
   "created_at" : "Wed Sep 15 15:10:58 +0000 2010",
@@ -613,7 +613,7 @@ Grailbird.data.tweets_2010_09 =
       "indices" : [ 68, 87 ],
       "url" : "http://t.co/mgbwW3K",
       "expanded_url" : "http://50hz.posterous.com/der-vorfall-zeigt-datenmissbrauch-google-ist",
-      "display_url" : "50hz.posterous.com/der-vorfall-ze…"
+      "display_url" : "50hz.posterous.com/der-vorfall-ze\u2026"
     } ]
   },
   "geo" : {
@@ -678,7 +678,7 @@ Grailbird.data.tweets_2010_09 =
   },
   "id_str" : "24469704396",
   "in_reply_to_user_id" : 57618456,
-  "text" : "@3dsupply eure Qualität war aber auch schon mal besser, hab zum 2 mal nen T-Shirt mit fehlerhaften Aufdruck bekommen :(",
+  "text" : "@3dsupply eure Qualit\u00E4t war aber auch schon mal besser, hab zum 2 mal nen T-Shirt mit fehlerhaften Aufdruck bekommen :(",
   "id" : 24469704396,
   "created_at" : "Tue Sep 14 12:11:18 +0000 2010",
   "in_reply_to_screen_name" : "3dsupply",
@@ -709,7 +709,7 @@ Grailbird.data.tweets_2010_09 =
   "geo" : {
   },
   "id_str" : "24460219047",
-  "text" : "Wozu in den Zirkus gehen, wenn ein Ticket für die U-Bahn so viel günstiger ist...? (via @Scherzinfarkt)",
+  "text" : "Wozu in den Zirkus gehen, wenn ein Ticket f\u00FCr die U-Bahn so viel g\u00FCnstiger ist...? (via @Scherzinfarkt)",
   "id" : 24460219047,
   "created_at" : "Tue Sep 14 08:57:18 +0000 2010",
   "user" : {
@@ -766,7 +766,7 @@ Grailbird.data.tweets_2010_09 =
   "geo" : {
   },
   "id_str" : "24137668620",
-  "text" : "und noch ein Ikea Linkshänder MacBook http://img.ly/23qJ",
+  "text" : "und noch ein Ikea Linksh\u00E4nder MacBook http://img.ly/23qJ",
   "id" : 24137668620,
   "created_at" : "Fri Sep 10 21:10:52 +0000 2010",
   "user" : {
@@ -789,7 +789,7 @@ Grailbird.data.tweets_2010_09 =
   "geo" : {
   },
   "id_str" : "24137082673",
-  "text" : "bei Ikea gibt es jetzt MacBook's für Linkshänder http://img.ly/23qE",
+  "text" : "bei Ikea gibt es jetzt MacBook's f\u00FCr Linksh\u00E4nder http://img.ly/23qE",
   "id" : 24137082673,
   "created_at" : "Fri Sep 10 21:01:13 +0000 2010",
   "user" : {

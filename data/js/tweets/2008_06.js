@@ -104,7 +104,7 @@ Grailbird.data.tweets_2008_06 =
   "geo" : {
   },
   "id_str" : "830547111",
-  "text" : "kann mir zufällig jemand bei nem css problem helfen? ich will in einem ul&gt;li display:inline und list-style-image miteinander kombenieren",
+  "text" : "kann mir zuf\u00E4llig jemand bei nem css problem helfen? ich will in einem ul&gt;li display:inline und list-style-image miteinander kombenieren",
   "id" : 830547111,
   "created_at" : "Mon Jun 09 15:25:34 +0000 2008",
   "user" : {
@@ -182,7 +182,7 @@ Grailbird.data.tweets_2008_06 =
   "geo" : {
   },
   "id_str" : "827629097",
-  "text" : "grade auf heise gefunden \"Kartierung der deutschen Blogosphäre\" http://snurl.com/2e3q2",
+  "text" : "grade auf heise gefunden \"Kartierung der deutschen Blogosph\u00E4re\" http://snurl.com/2e3q2",
   "id" : 827629097,
   "created_at" : "Thu Jun 05 13:00:30 +0000 2008",
   "user" : {
@@ -205,7 +205,7 @@ Grailbird.data.tweets_2008_06 =
   "geo" : {
   },
   "id_str" : "824800040",
-  "text" : "macht sicht für heute",
+  "text" : "macht sicht f\u00FCr heute",
   "id" : 824800040,
   "created_at" : "Sun Jun 01 21:17:31 +0000 2008",
   "user" : {
@@ -231,7 +231,7 @@ Grailbird.data.tweets_2008_06 =
   "geo" : {
   },
   "id_str" : "824764793",
-  "text" : "Grade beim Pizza hollen nen neues Geschäftsmodel entwickelt, dass nen ich #VitaminB",
+  "text" : "Grade beim Pizza hollen nen neues Gesch\u00E4ftsmodel entwickelt, dass nen ich #VitaminB",
   "id" : 824764793,
   "created_at" : "Sun Jun 01 19:56:24 +0000 2008",
   "user" : {
@@ -330,7 +330,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "id_str" : "824697619",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb hab zwei Karten fürs EinsLive Radiokonzert am Do",
+  "text" : "@michelb hab zwei Karten f\u00FCrs EinsLive Radiokonzert am Do",
   "id" : 824697619,
   "in_reply_to_status_id" : 824697083,
   "created_at" : "Sun Jun 01 17:24:10 +0000 2008",
@@ -401,7 +401,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "id_str" : "824664695",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb ah du hörst #FettesBrot",
+  "text" : "@michelb ah du h\u00F6rst #FettesBrot",
   "id" : 824664695,
   "in_reply_to_status_id" : 824662864,
   "created_at" : "Sun Jun 01 16:17:19 +0000 2008",
@@ -540,7 +540,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "id_str" : "824657785",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb die habe ich auch grade gehört #Bitsundso",
+  "text" : "@michelb die habe ich auch grade geh\u00F6rt #Bitsundso",
   "id" : 824657785,
   "in_reply_to_status_id" : 824655655,
   "created_at" : "Sun Jun 01 16:02:48 +0000 2008",
@@ -597,7 +597,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "id_str" : "824654542",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb was hörst du denn so?",
+  "text" : "@michelb was h\u00F6rst du denn so?",
   "id" : 824654542,
   "in_reply_to_status_id" : 824628218,
   "created_at" : "Sun Jun 01 15:56:48 +0000 2008",

@@ -60,7 +60,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michał Łomnicki",
+      "name" : "Micha\u0142 \u0141omnicki",
       "screen_name" : "mlomnicki",
       "indices" : [ 0, 10 ],
       "id_str" : "30341256",
@@ -178,7 +178,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "185064286740152320",
-  "text" : "I’m going to \"EuRuKo 2012\"! Who’s joining? http://t.co/0hS7LoWx via @amiando",
+  "text" : "I\u2019m going to \"EuRuKo 2012\"! Who\u2019s joining? http://t.co/0hS7LoWx via @amiando",
   "id" : 185064286740152320,
   "created_at" : "Wed Mar 28 18:02:18 +0000 2012",
   "user" : {
@@ -262,7 +262,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "B. Obachtbär",
+      "name" : "B. Obachtb\u00E4r",
       "screen_name" : "1QUrsu",
       "indices" : [ 3, 10 ],
       "id_str" : "375674198",
@@ -291,7 +291,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 183955784244273152,
     "created_at" : "Sun Mar 25 16:37:31 +0000 2012",
     "user" : {
-      "name" : "B. Obachtbär",
+      "name" : "B. Obachtb\u00E4r",
       "screen_name" : "1QUrsu",
       "protected" : false,
       "id_str" : "375674198",
@@ -328,7 +328,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "184015501385662465",
-  "text" : "RT @koerber: Böse Zungen behaupten, die FDP soll nach der Wahl im nächsten Saar-\"Tatort\" mitspielen. Als Leiche.",
+  "text" : "RT @koerber: B\u00F6se Zungen behaupten, die FDP soll nach der Wahl im n\u00E4chsten Saar-\"Tatort\" mitspielen. Als Leiche.",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
     "entities" : {
@@ -340,7 +340,7 @@ Grailbird.data.tweets_2012_03 =
     "geo" : {
     },
     "id_str" : "183946883230744576",
-    "text" : "Böse Zungen behaupten, die FDP soll nach der Wahl im nächsten Saar-\"Tatort\" mitspielen. Als Leiche.",
+    "text" : "B\u00F6se Zungen behaupten, die FDP soll nach der Wahl im n\u00E4chsten Saar-\"Tatort\" mitspielen. Als Leiche.",
     "id" : 183946883230744576,
     "created_at" : "Sun Mar 25 16:02:09 +0000 2012",
     "user" : {
@@ -407,7 +407,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "agento",
       "protected" : false,
       "id_str" : "16361412",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2478530198/b8bj1qa198hdj9fjouty_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3363743696/20cee6ced791e344793e63700898b118_normal.jpeg",
       "id" : 16361412,
       "verified" : false
     }
@@ -458,7 +458,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "183938333104283650",
-  "text" : "RT @spr2: Danke für deine Kontinuität @hirnrinde #barcamp #orga #bcruhr5 #bcruhr6",
+  "text" : "RT @spr2: Danke f\u00FCr deine Kontinuit\u00E4t @hirnrinde #barcamp #orga #bcruhr5 #bcruhr6",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "entities" : {
@@ -488,7 +488,7 @@ Grailbird.data.tweets_2012_03 =
     "geo" : {
     },
     "id_str" : "183925999820480513",
-    "text" : "Danke für deine Kontinuität @hirnrinde #barcamp #orga #bcruhr5 #bcruhr6",
+    "text" : "Danke f\u00FCr deine Kontinuit\u00E4t @hirnrinde #barcamp #orga #bcruhr5 #bcruhr6",
     "id" : 183925999820480513,
     "created_at" : "Sun Mar 25 14:39:10 +0000 2012",
     "user" : {
@@ -658,7 +658,7 @@ Grailbird.data.tweets_2012_03 =
   },
   "id_str" : "183841283683532800",
   "in_reply_to_user_id" : 17564058,
-  "text" : "@thegcat lol ich auch nur habe ich fast 40 min auf den warten müssen",
+  "text" : "@thegcat lol ich auch nur habe ich fast 40 min auf den warten m\u00FCssen",
   "id" : 183841283683532800,
   "in_reply_to_status_id" : 183840802554908672,
   "created_at" : "Sun Mar 25 09:02:32 +0000 2012",
@@ -746,7 +746,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "cvonposer",
       "protected" : false,
       "id_str" : "16171525",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2369785313/q8rzjqrut13zyuyz76em_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3410196063/762ff8356ee47553936cdc8997e1c451_normal.jpeg",
       "id" : 16171525,
       "verified" : false
     }
@@ -1156,7 +1156,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "183666021155094529",
-  "text" : "RT @rinpaku: .@agento zum Thema Refactoring: \"Ich hatte mal Dreadlocks und hab die rausgekämmt, hat auch nur 3l Pflanzenöl und 3 Stunden ...",
+  "text" : "RT @rinpaku: .@agento zum Thema Refactoring: \"Ich hatte mal Dreadlocks und hab die rausgek\u00E4mmt, hat auch nur 3l Pflanzen\u00F6l und 3 Stunden ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -1174,7 +1174,7 @@ Grailbird.data.tweets_2012_03 =
     "geo" : {
     },
     "id_str" : "183594116892987392",
-    "text" : ".@agento zum Thema Refactoring: \"Ich hatte mal Dreadlocks und hab die rausgekämmt, hat auch nur 3l Pflanzenöl und 3 Stunden gebraucht.\"",
+    "text" : ".@agento zum Thema Refactoring: \"Ich hatte mal Dreadlocks und hab die rausgek\u00E4mmt, hat auch nur 3l Pflanzen\u00F6l und 3 Stunden gebraucht.\"",
     "id" : 183594116892987392,
     "created_at" : "Sat Mar 24 16:40:23 +0000 2012",
     "user" : {
@@ -1238,7 +1238,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ChristophMüllerGirod",
+      "name" : "Mueller-Girod",
       "screen_name" : "schwarzesgold",
       "indices" : [ 0, 14 ],
       "id_str" : "16048372",
@@ -1274,7 +1274,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Philipp Kühn",
+      "name" : "Philipp K\u00FChn",
       "screen_name" : "Weltentummler",
       "indices" : [ 0, 14 ],
       "id_str" : "14445852",
@@ -1326,7 +1326,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "183502118781591552",
-  "text" : "RT @spr2: Wie wär's mit ticketlosem online Check- In mit separater Gepäckaufgabe ;) #bcruhr5",
+  "text" : "RT @spr2: Wie w\u00E4r's mit ticketlosem online Check- In mit separater Gep\u00E4ckaufgabe ;) #bcruhr5",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "entities" : {
@@ -1341,7 +1341,7 @@ Grailbird.data.tweets_2012_03 =
     "geo" : {
     },
     "id_str" : "183478061625380864",
-    "text" : "Wie wär's mit ticketlosem online Check- In mit separater Gepäckaufgabe ;) #bcruhr5",
+    "text" : "Wie w\u00E4r's mit ticketlosem online Check- In mit separater Gep\u00E4ckaufgabe ;) #bcruhr5",
     "id" : 183478061625380864,
     "created_at" : "Sat Mar 24 08:59:13 +0000 2012",
     "user" : {
@@ -1386,7 +1386,7 @@ Grailbird.data.tweets_2012_03 =
     "coordinates" : [ 51.4587690458, 7.0071866475 ]
   },
   "id_str" : "183478532704440321",
-  "text" : "Ich würde sagen die #bcruhr Anmeldung hat ein Skalierungsproblem http://t.co/cIZS8SCV",
+  "text" : "Ich w\u00FCrde sagen die #bcruhr Anmeldung hat ein Skalierungsproblem http://t.co/cIZS8SCV",
   "id" : 183478532704440321,
   "created_at" : "Sat Mar 24 09:01:05 +0000 2012",
   "user" : {
@@ -1415,7 +1415,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "182760951089606656",
-  "text" : "RT @rohkotzt: Sei immer du selbst. \nAußer du kannst Batman sein. Dann sei immer Batman.",
+  "text" : "RT @rohkotzt: Sei immer du selbst. \nAu\u00DFer du kannst Batman sein. Dann sei immer Batman.",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -1427,7 +1427,7 @@ Grailbird.data.tweets_2012_03 =
     "geo" : {
     },
     "id_str" : "182577474830479362",
-    "text" : "Sei immer du selbst. \nAußer du kannst Batman sein. Dann sei immer Batman.",
+    "text" : "Sei immer du selbst. \nAu\u00DFer du kannst Batman sein. Dann sei immer Batman.",
     "id" : 182577474830479362,
     "created_at" : "Wed Mar 21 21:20:36 +0000 2012",
     "user" : {
@@ -1462,7 +1462,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "182134797320196097",
-  "text" : "Auch heute wieder das Moto der Bahn: Genießen sie das Leben in vollen Zügen",
+  "text" : "Auch heute wieder das Moto der Bahn: Genie\u00DFen sie das Leben in vollen Z\u00FCgen",
   "id" : 182134797320196097,
   "created_at" : "Tue Mar 20 16:01:34 +0000 2012",
   "user" : {
@@ -1478,7 +1478,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ᗰᗩᑭ",
+      "name" : "\u15F0\u15E9\u146D",
       "screen_name" : "map",
       "indices" : [ 3, 7 ],
       "id_str" : "6256252",
@@ -1507,7 +1507,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 180261997265420289,
     "created_at" : "Thu Mar 15 11:59:43 +0000 2012",
     "user" : {
-      "name" : "ᗰᗩᑭ",
+      "name" : "\u15F0\u15E9\u146D",
       "screen_name" : "map",
       "protected" : false,
       "id_str" : "6256252",
@@ -1951,7 +1951,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "railslove",
       "protected" : false,
       "id_str" : "13183022",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3188558516/efb1bce74c0b238335ad950337bc437b_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3479021351/2ca0065261191ee1f8bdede4738ecdbf_normal.jpeg",
       "id" : 13183022,
       "verified" : false
     }
@@ -2160,7 +2160,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "13871602",
       "id" : 13871602
     }, {
-      "name" : "Michał Krzyżanowski",
+      "name" : "Micha\u0142 Krzy\u017Canowski",
       "screen_name" : "kkrzyzakk",
       "indices" : [ 42, 52 ],
       "id_str" : "345590863",
@@ -2189,7 +2189,7 @@ Grailbird.data.tweets_2012_03 =
         "id_str" : "13871602",
         "id" : 13871602
       }, {
-        "name" : "Michał Krzyżanowski",
+        "name" : "Micha\u0142 Krzy\u017Canowski",
         "screen_name" : "kkrzyzakk",
         "indices" : [ 25, 35 ],
         "id_str" : "345590863",
@@ -2348,7 +2348,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcin Jędras",
+      "name" : "Marcin J\u0119dras",
       "screen_name" : "mjedras",
       "indices" : [ 0, 8 ],
       "id_str" : "81857317",
@@ -2394,7 +2394,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "26901849",
       "id" : 26901849
     }, {
-      "name" : "Mike Połtyn",
+      "name" : "Mike Po\u0142tyn",
       "screen_name" : "holek_",
       "indices" : [ 115, 122 ],
       "id_str" : "75356636",
@@ -2645,7 +2645,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "177346350340509696",
-  "text" : "auch wenn der VRR Streikt, die Buchhaltungsabteilung anscheint nicht: -85,56 €",
+  "text" : "auch wenn der VRR Streikt, die Buchhaltungsabteilung anscheint nicht: -85,56 \u20AC",
   "id" : 177346350340509696,
   "created_at" : "Wed Mar 07 10:53:59 +0000 2012",
   "user" : {
@@ -2668,7 +2668,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "177345843370803200",
-  "text" : "Ich vermisse die Zeiten zu denen Apple Präsentationen noch spannend waren",
+  "text" : "Ich vermisse die Zeiten zu denen Apple Pr\u00E4sentationen noch spannend waren",
   "id" : 177345843370803200,
   "created_at" : "Wed Mar 07 10:51:58 +0000 2012",
   "user" : {
@@ -2700,7 +2700,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "177345448779071488",
-  "text" : "RT @kyriii: console.log(\"Hier läufts noch\");\ncode\nconsole.log(\"Hier auch noch\");\ncode\nconsole.log(\"Hier auch noch\");\n#JavascriptAlltag",
+  "text" : "RT @kyriii: console.log(\"Hier l\u00E4ufts noch\");\ncode\nconsole.log(\"Hier auch noch\");\ncode\nconsole.log(\"Hier auch noch\");\n#JavascriptAlltag",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
     "entities" : {
@@ -2715,7 +2715,7 @@ Grailbird.data.tweets_2012_03 =
     "geo" : {
     },
     "id_str" : "177330790668046336",
-    "text" : "console.log(\"Hier läufts noch\");\ncode\nconsole.log(\"Hier auch noch\");\ncode\nconsole.log(\"Hier auch noch\");\n#JavascriptAlltag",
+    "text" : "console.log(\"Hier l\u00E4ufts noch\");\ncode\nconsole.log(\"Hier auch noch\");\ncode\nconsole.log(\"Hier auch noch\");\n#JavascriptAlltag",
     "id" : 177330790668046336,
     "created_at" : "Wed Mar 07 09:52:09 +0000 2012",
     "user" : {
@@ -2803,7 +2803,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "177136499454783489",
-  "text" : "I want to ♥★✂✿",
+  "text" : "I want to \u2665\u2605\u2702\u273F",
   "id" : 177136499454783489,
   "created_at" : "Tue Mar 06 21:00:07 +0000 2012",
   "user" : {
@@ -2843,7 +2843,7 @@ Grailbird.data.tweets_2012_03 =
         "indices" : [ 114, 135 ],
         "url" : "https://t.co/S7FyiTqp",
         "expanded_url" : "https://epetitionen.bundestag.de/index.php?action=petition;sa=details;petition=22697",
-        "display_url" : "epetitionen.bundestag.de/index.php?acti…"
+        "display_url" : "epetitionen.bundestag.de/index.php?acti\u2026"
       } ]
     },
     "geo" : {
@@ -2906,7 +2906,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "177102493468209153",
-  "text" : "grade Datamining gemacht und das Rätzel um http://t.co/00speIYx (@railslove) und http://t.co/EM3UaBLJ (@9elements) gelöst",
+  "text" : "grade Datamining gemacht und das R\u00E4tzel um http://t.co/00speIYx (@railslove) und http://t.co/EM3UaBLJ (@9elements) gel\u00F6st",
   "id" : 177102493468209153,
   "created_at" : "Tue Mar 06 18:44:59 +0000 2012",
   "user" : {
@@ -2935,7 +2935,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "177029783274790912",
-  "text" : "RT @ahoi_polloi: Am Tag vor der Apple-Präsentation die Webseiten von Hipsterportalen mit gefaketem iOS-Useragent mit pervers hoher Auflö ...",
+  "text" : "RT @ahoi_polloi: Am Tag vor der Apple-Pr\u00E4sentation die Webseiten von Hipsterportalen mit gefaketem iOS-Useragent mit pervers hoher Aufl\u00F6 ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
@@ -2947,7 +2947,7 @@ Grailbird.data.tweets_2012_03 =
     "geo" : {
     },
     "id_str" : "177018677638606848",
-    "text" : "Am Tag vor der Apple-Präsentation die Webseiten von Hipsterportalen mit gefaketem iOS-Useragent mit pervers hoher Auflösung besuchen.",
+    "text" : "Am Tag vor der Apple-Pr\u00E4sentation die Webseiten von Hipsterportalen mit gefaketem iOS-Useragent mit pervers hoher Aufl\u00F6sung besuchen.",
     "id" : 177018677638606848,
     "created_at" : "Tue Mar 06 13:11:56 +0000 2012",
     "user" : {
@@ -2955,7 +2955,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "ahoi_polloi",
       "protected" : false,
       "id_str" : "218709143",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1726415080/twitter_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3376256587/4eca462fec5dabbce736602c634db5e7_normal.jpeg",
       "id" : 218709143,
       "verified" : false
     }
@@ -3036,7 +3036,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "agento",
       "protected" : false,
       "id_str" : "16361412",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2478530198/b8bj1qa198hdj9fjouty_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3363743696/20cee6ced791e344793e63700898b118_normal.jpeg",
       "id" : 16361412,
       "verified" : false
     }
@@ -3071,7 +3071,7 @@ Grailbird.data.tweets_2012_03 =
   },
   "id_str" : "176969217344667648",
   "in_reply_to_user_id" : 639273,
-  "text" : "@hessi nennt sich das in München nicht Ubahn?",
+  "text" : "@hessi nennt sich das in M\u00FCnchen nicht Ubahn?",
   "id" : 176969217344667648,
   "in_reply_to_status_id" : 176966582973640704,
   "created_at" : "Tue Mar 06 09:55:24 +0000 2012",
@@ -3102,7 +3102,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 10, 30 ],
       "url" : "http://t.co/MIFXyTtV",
       "expanded_url" : "http://www.doodle.com/byff7szh6kkm44rf#table",
-      "display_url" : "doodle.com/byff7szh6kkm44…"
+      "display_url" : "doodle.com/byff7szh6kkm44\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "175678104323362816",
@@ -3136,7 +3136,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "176936465106866176",
-  "text" : "wie sie alle jedes Jahr nach Hanover rennen, gab es da in den letzten 10 Jahren überhaupt was neues, ausser größer, schneller und QR Codes?",
+  "text" : "wie sie alle jedes Jahr nach Hanover rennen, gab es da in den letzten 10 Jahren \u00FCberhaupt was neues, ausser gr\u00F6\u00DFer, schneller und QR Codes?",
   "id" : 176936465106866176,
   "created_at" : "Tue Mar 06 07:45:15 +0000 2012",
   "user" : {
@@ -3193,7 +3193,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "176714025625853952",
-  "text" : "Überraschung des Tages, alten Bekannten getroffen und festgestellt das doch noch was aus ihm geworden ist",
+  "text" : "\u00DCberraschung des Tages, alten Bekannten getroffen und festgestellt das doch noch was aus ihm geworden ist",
   "id" : 176714025625853952,
   "created_at" : "Mon Mar 05 17:01:21 +0000 2012",
   "user" : {
@@ -3256,7 +3256,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "176678200762580994",
-  "text" : "RT @kyriii: @gerritvanaaken imagemap. Das ist so alt das könnte man in HTML5 als neu verkaufen.",
+  "text" : "RT @kyriii: @gerritvanaaken imagemap. Das ist so alt das k\u00F6nnte man in HTML5 als neu verkaufen.",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -3278,7 +3278,7 @@ Grailbird.data.tweets_2012_03 =
     },
     "id_str" : "176656136165011456",
     "in_reply_to_user_id" : 1002981,
-    "text" : "@gerritvanaaken imagemap. Das ist so alt das könnte man in HTML5 als neu verkaufen.",
+    "text" : "@gerritvanaaken imagemap. Das ist so alt das k\u00F6nnte man in HTML5 als neu verkaufen.",
     "id" : 176656136165011456,
     "in_reply_to_status_id" : 176645313426235392,
     "created_at" : "Mon Mar 05 13:11:19 +0000 2012",
@@ -3315,13 +3315,13 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 35, 55 ],
       "url" : "http://t.co/iqnLPENp",
       "expanded_url" : "http://lego.cuusoo.com/ideas/view/10142",
-      "display_url" : "lego.cuusoo.com/ideas/view/101…"
+      "display_url" : "lego.cuusoo.com/ideas/view/101\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "176606167659843584",
-  "text" : "LEGO® CUUSOO | Modular Apple Store http://t.co/iqnLPENp",
+  "text" : "LEGO\u00AE CUUSOO | Modular Apple Store http://t.co/iqnLPENp",
   "id" : 176606167659843584,
   "created_at" : "Mon Mar 05 09:52:46 +0000 2012",
   "user" : {
@@ -3337,7 +3337,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Der Alte Griesgram",
+      "name" : "Dirt Girl #246",
       "screen_name" : "Griesgram999",
       "indices" : [ 0, 13 ],
       "id_str" : "14699309",
@@ -3352,7 +3352,7 @@ Grailbird.data.tweets_2012_03 =
   },
   "id_str" : "176584574413971456",
   "in_reply_to_user_id" : 14699309,
-  "text" : "@Griesgram999 wo geht's den hin, kommst du zurück zu uns?",
+  "text" : "@Griesgram999 wo geht's den hin, kommst du zur\u00FCck zu uns?",
   "id" : 176584574413971456,
   "in_reply_to_status_id" : 176569843745693696,
   "created_at" : "Mon Mar 05 08:26:57 +0000 2012",
@@ -3423,7 +3423,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 27, 47 ],
       "url" : "http://t.co/K6NQRy26",
       "expanded_url" : "http://hcking.de/events/17/single_events/119",
-      "display_url" : "hcking.de/events/17/sing…"
+      "display_url" : "hcking.de/events/17/sing\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "175674326014631936",
@@ -3468,7 +3468,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "175614690309844992",
-  "text" : "I’m going to \"NoSQL Matters Conference\"! Who’s joining? http://t.co/JrVs1OK7 via @amiando",
+  "text" : "I\u2019m going to \"NoSQL Matters Conference\"! Who\u2019s joining? http://t.co/JrVs1OK7 via @amiando",
   "id" : 175614690309844992,
   "created_at" : "Fri Mar 02 16:12:59 +0000 2012",
   "user" : {
@@ -3664,7 +3664,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "MileyCyrus",
       "protected" : false,
       "id_str" : "268414482",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3253240979/1a59c5b57b55f6546ab3bd90b50cbb71_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3588203785/fc59ae00563b9f2e5a6a73f0eb8f35b8_normal.jpeg",
       "id" : 268414482,
       "verified" : true
     }
@@ -3719,7 +3719,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "175558920327278592",
-  "text" : "wie sich auf einmal diese ganzen PHPler über die neue Array Shortsyntax freuen http://t.co/xjeSbHYb",
+  "text" : "wie sich auf einmal diese ganzen PHPler \u00FCber die neue Array Shortsyntax freuen http://t.co/xjeSbHYb",
   "id" : 175558920327278592,
   "created_at" : "Fri Mar 02 12:31:22 +0000 2012",
   "user" : {
@@ -3773,7 +3773,7 @@ Grailbird.data.tweets_2012_03 =
   },
   "id_str" : "175297423705518080",
   "in_reply_to_user_id" : 1321591,
-  "text" : "@koos jep, fährt vom Flughaufen zum Bahnhof durch, brauch nicht viel länger als'n Auto, kostet ca. 15zł, hab ich beim RailsCamp.pl genommen",
+  "text" : "@koos jep, f\u00E4hrt vom Flughaufen zum Bahnhof durch, brauch nicht viel l\u00E4nger als'n Auto, kostet ca. 15z\u0142, hab ich beim RailsCamp.pl genommen",
   "id" : 175297423705518080,
   "in_reply_to_status_id" : 175296236050587648,
   "created_at" : "Thu Mar 01 19:12:17 +0000 2012",
@@ -3833,7 +3833,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "175287529484976128",
-  "text" : "das bei Twitter .̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̨̨̨̨̨̨̨̨̨̨̨̨ dieser ganze Dreck aber auch immer wieder kommen muss",
+  "text" : "das bei Twitter .\u0338\u0338\u0328\u0338\u0338\u0328\u0338\u0338\u0338\u0328\u0338\u0338\u0328\u0338\u0338\u0328\u0338\u0328\u0338\u0338\u0328\u0338\u0338\u0328\u0338\u0328\u0338\u0338\u0328\u0338\u0338\u0328\u0338\u0328\u0338\u0338 dieser ganze Dreck aber auch immer wieder kommen muss",
   "id" : 175287529484976128,
   "created_at" : "Thu Mar 01 18:32:58 +0000 2012",
   "user" : {

@@ -10,7 +10,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "940392293",
-  "text" : "nach zwei tagen offline, wieder in der in die subrealität eingetaucht",
+  "text" : "nach zwei tagen offline, wieder in der in die subrealit\u00E4t eingetaucht",
   "id" : 940392293,
   "created_at" : "Tue Sep 30 10:41:11 +0000 2008",
   "user" : {
@@ -67,7 +67,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "936367077",
-  "text" : "Gute Nacht an alle da Draußen",
+  "text" : "Gute Nacht an alle da Drau\u00DFen",
   "id" : 936367077,
   "created_at" : "Fri Sep 26 23:14:14 +0000 2008",
   "user" : {
@@ -116,7 +116,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "935977682",
-  "text" : "Vögel sind out, Lybellen sind in.",
+  "text" : "V\u00F6gel sind out, Lybellen sind in.",
   "id" : 935977682,
   "created_at" : "Fri Sep 26 17:19:29 +0000 2008",
   "user" : {
@@ -145,7 +145,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "935971376",
-  "text" : "Erlebe grade das merkwürdige verhalten geschlächtsreifer Enten zur Parungszeit #Teich #Stadtpark",
+  "text" : "Erlebe grade das merkw\u00FCrdige verhalten geschl\u00E4chtsreifer Enten zur Parungszeit #Teich #Stadtpark",
   "id" : 935971376,
   "created_at" : "Fri Sep 26 17:14:56 +0000 2008",
   "user" : {
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "935909427",
-  "text" : "Grade in der Mayerschen eine Gruppe Jugendlicher mit Migratiomshintergrund angetroffen,die die Leseecke für einen Konzertsaal gehalten haben",
+  "text" : "Grade in der Mayerschen eine Gruppe Jugendlicher mit Migratiomshintergrund angetroffen,die die Leseecke f\u00FCr einen Konzertsaal gehalten haben",
   "id" : 935909427,
   "created_at" : "Fri Sep 26 16:25:22 +0000 2008",
   "user" : {
@@ -191,7 +191,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "935829941",
-  "text" : "werd mal noch etwas die sonne genießen, wer weiß wie lange sie noch so scheint",
+  "text" : "werd mal noch etwas die sonne genie\u00DFen, wer wei\u00DF wie lange sie noch so scheint",
   "id" : 935829941,
   "created_at" : "Fri Sep 26 15:26:16 +0000 2008",
   "user" : {
@@ -214,7 +214,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "935801776",
-  "text" : "sch*** iTunes Genius, nicht überall wo Rock drauf steht ist auch Rock drin",
+  "text" : "sch*** iTunes Genius, nicht \u00FCberall wo Rock drauf steht ist auch Rock drin",
   "id" : 935801776,
   "created_at" : "Fri Sep 26 15:04:21 +0000 2008",
   "user" : {
@@ -324,7 +324,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felipe Del Río",
+      "name" : "Felipe Del R\u00EDo",
       "screen_name" : "Coffeeandtv",
       "indices" : [ 0, 12 ],
       "id_str" : "1043016686",
@@ -356,7 +356,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felipe Del Río",
+      "name" : "Felipe Del R\u00EDo",
       "screen_name" : "Coffeeandtv",
       "indices" : [ 0, 12 ],
       "id_str" : "1043016686",
@@ -372,7 +372,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "935514010",
-  "text" : "@coffeeandtv du hattest recht #Die-Fünf-Filmfreunde",
+  "text" : "@coffeeandtv du hattest recht #Die-F\u00FCnf-Filmfreunde",
   "id" : 935514010,
   "created_at" : "Fri Sep 26 09:55:44 +0000 2008",
   "user" : {
@@ -455,7 +455,7 @@ Grailbird.data.tweets_2008_09 =
   },
   "id_str" : "935499208",
   "in_reply_to_user_id" : 762000,
-  "text" : "@podpimp schau dir mal @MoritzFiege an, eine Brauerei aus Bochum die twittert und das sehr gut! Vieleicht was für deinen Podcast?",
+  "text" : "@podpimp schau dir mal @MoritzFiege an, eine Brauerei aus Bochum die twittert und das sehr gut! Vieleicht was f\u00FCr deinen Podcast?",
   "id" : 935499208,
   "in_reply_to_status_id" : 935415751,
   "created_at" : "Fri Sep 26 09:30:42 +0000 2008",
@@ -581,7 +581,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "934933456",
-  "text" : "A:wer macht heute die nachtschicht?\nB:keiner\nA:dann können wir das internet ja heute nacht mal abschalten, dann kommt das auch mal zur ruhe",
+  "text" : "A:wer macht heute die nachtschicht?\nB:keiner\nA:dann k\u00F6nnen wir das internet ja heute nacht mal abschalten, dann kommt das auch mal zur ruhe",
   "id" : 934933456,
   "created_at" : "Thu Sep 25 21:55:45 +0000 2008",
   "user" : {
@@ -630,7 +630,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "934925910",
-  "text" : "zurück vom Kinobesuch mit @caffeeandtv, wir haben #Baader-Meinhof-Komplex gesehen, der Film ist zu empfehlen",
+  "text" : "zur\u00FCck vom Kinobesuch mit @caffeeandtv, wir haben #Baader-Meinhof-Komplex gesehen, der Film ist zu empfehlen",
   "id" : 934925910,
   "created_at" : "Thu Sep 25 21:48:42 +0000 2008",
   "user" : {
@@ -734,7 +734,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "934569443",
-  "text" : "Hab mich grade, währent ich auf meine Pizza gewartet habe, beim Bild lesen erwischt. So viel zu Fastfoot macht Dumm.",
+  "text" : "Hab mich grade, w\u00E4hrent ich auf meine Pizza gewartet habe, beim Bild lesen erwischt. So viel zu Fastfoot macht Dumm.",
   "id" : 934569443,
   "created_at" : "Thu Sep 25 16:34:22 +0000 2008",
   "user" : {
@@ -750,7 +750,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felipe Del Río",
+      "name" : "Felipe Del R\u00EDo",
       "screen_name" : "Coffeeandtv",
       "indices" : [ 0, 12 ],
       "id_str" : "1043016686",
@@ -779,7 +779,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felipe Del Río",
+      "name" : "Felipe Del R\u00EDo",
       "screen_name" : "Coffeeandtv",
       "indices" : [ 0, 12 ],
       "id_str" : "1043016686",
@@ -811,7 +811,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felipe Del Río",
+      "name" : "Felipe Del R\u00EDo",
       "screen_name" : "Coffeeandtv",
       "indices" : [ 0, 12 ],
       "id_str" : "1043016686",
@@ -824,7 +824,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "934324680",
-  "text" : "@coffeeandtv währe vieleicht mit dabei, wann und wo willste denn gehen?",
+  "text" : "@coffeeandtv w\u00E4hre vieleicht mit dabei, wann und wo willste denn gehen?",
   "id" : 934324680,
   "created_at" : "Thu Sep 25 13:23:38 +0000 2008",
   "user" : {
@@ -870,7 +870,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "934178660",
-  "text" : "ist ein Tag ohne Twitter, überhaubt ein Tag?",
+  "text" : "ist ein Tag ohne Twitter, \u00FCberhaubt ein Tag?",
   "id" : 934178660,
   "created_at" : "Thu Sep 25 10:28:12 +0000 2008",
   "user" : {
@@ -888,10 +888,10 @@ Grailbird.data.tweets_2008_09 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "Hörbuch",
+      "text" : "H\u00F6rbuch",
       "indices" : [ 43, 51 ]
     }, {
-      "text" : "Millionär",
+      "text" : "Million\u00E4r",
       "indices" : [ 52, 62 ]
     } ],
     "urls" : [ ]
@@ -899,7 +899,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "932321796",
-  "text" : "Beim einschlafen Sarkasmusakku am aufladen #Hörbuch #Millionär",
+  "text" : "Beim einschlafen Sarkasmusakku am aufladen #H\u00F6rbuch #Million\u00E4r",
   "id" : 932321796,
   "created_at" : "Tue Sep 23 23:29:35 +0000 2008",
   "user" : {
@@ -925,7 +925,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "932244106",
-  "text" : "zur rück von der #pl0gbarruhr",
+  "text" : "zur r\u00FCck von der #pl0gbarruhr",
   "id" : 932244106,
   "created_at" : "Tue Sep 23 22:09:13 +0000 2008",
   "user" : {
@@ -997,7 +997,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "931833744",
-  "text" : "lol, meine Camara ist grade abgestürzt http://twitpic.com/cu4p",
+  "text" : "lol, meine Camara ist grade abgest\u00FCrzt http://twitpic.com/cu4p",
   "id" : 931833744,
   "created_at" : "Tue Sep 23 16:10:57 +0000 2008",
   "user" : {
@@ -1020,7 +1020,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "931697532",
-  "text" : "Zurück aus dem Tattoostudio",
+  "text" : "Zur\u00FCck aus dem Tattoostudio",
   "id" : 931697532,
   "created_at" : "Tue Sep 23 14:24:40 +0000 2008",
   "user" : {
@@ -1103,7 +1103,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "931553567",
-  "text" : "nette Beratung von dem leicht schrägen Andi #Tattoo",
+  "text" : "nette Beratung von dem leicht schr\u00E4gen Andi #Tattoo",
   "id" : 931553567,
   "created_at" : "Tue Sep 23 12:07:59 +0000 2008",
   "user" : {
@@ -1355,7 +1355,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "930994334",
-  "text" : "Tweets lesen macht müde; mehr Tweets ich schlaf noch nicht",
+  "text" : "Tweets lesen macht m\u00FCde; mehr Tweets ich schlaf noch nicht",
   "id" : 930994334,
   "created_at" : "Mon Sep 22 23:11:41 +0000 2008",
   "user" : {
@@ -1378,7 +1378,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "930993448",
-  "text" : "Was könnte es doch so einfach sein ...",
+  "text" : "Was k\u00F6nnte es doch so einfach sein ...",
   "id" : 930993448,
   "created_at" : "Mon Sep 22 23:10:31 +0000 2008",
   "user" : {
@@ -1470,7 +1470,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "930816593",
-  "text" : "*glücklich*",
+  "text" : "*gl\u00FCcklich*",
   "id" : 930816593,
   "created_at" : "Mon Sep 22 20:07:58 +0000 2008",
   "user" : {
@@ -1545,7 +1545,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "930615461",
-  "text" : "habe grade ein fauchendes hunde ähnliches wesen gesehen",
+  "text" : "habe grade ein fauchendes hunde \u00E4hnliches wesen gesehen",
   "id" : 930615461,
   "created_at" : "Mon Sep 22 17:01:22 +0000 2008",
   "user" : {
@@ -1568,7 +1568,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "930614048",
-  "text" : "plädiere für Webseiten ABEs",
+  "text" : "pl\u00E4diere f\u00FCr Webseiten ABEs",
   "id" : 930614048,
   "created_at" : "Mon Sep 22 17:00:12 +0000 2008",
   "user" : {
@@ -1705,7 +1705,7 @@ Grailbird.data.tweets_2008_09 =
   },
   "id_str" : "930302869",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb jep, aber ich vertrau einfach mal dem buch hier, es trägt die aufschrift \"don't panik!\" ;) #42",
+  "text" : "@michelb jep, aber ich vertrau einfach mal dem buch hier, es tr\u00E4gt die aufschrift \"don't panik!\" ;) #42",
   "id" : 930302869,
   "in_reply_to_status_id" : 930301532,
   "created_at" : "Mon Sep 22 12:01:16 +0000 2008",
@@ -1871,7 +1871,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "929807214",
-  "text" : "höre grade musik von der ich nicht mal wuste das ich sie habe",
+  "text" : "h\u00F6re grade musik von der ich nicht mal wuste das ich sie habe",
   "id" : 929807214,
   "created_at" : "Sun Sep 21 23:59:49 +0000 2008",
   "user" : {
@@ -1925,7 +1925,7 @@ Grailbird.data.tweets_2008_09 =
   },
   "id_str" : "929796307",
   "in_reply_to_user_id" : 12513512,
-  "text" : "@kehrseite ich wuste schon immer das köln noch beta ist",
+  "text" : "@kehrseite ich wuste schon immer das k\u00F6ln noch beta ist",
   "id" : 929796307,
   "in_reply_to_status_id" : 929785409,
   "created_at" : "Sun Sep 21 23:46:29 +0000 2008",
@@ -1954,7 +1954,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "929784365",
-  "text" : "mist gute playlist gelöscht #itunes",
+  "text" : "mist gute playlist gel\u00F6scht #itunes",
   "id" : 929784365,
   "created_at" : "Sun Sep 21 23:31:34 +0000 2008",
   "user" : {
@@ -2000,7 +2000,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "929688325",
-  "text" : "es gibt doch fast nichts was mehr spass macht als überraschungen zu planen",
+  "text" : "es gibt doch fast nichts was mehr spass macht als \u00FCberraschungen zu planen",
   "id" : 929688325,
   "created_at" : "Sun Sep 21 21:33:06 +0000 2008",
   "user" : {
@@ -2023,7 +2023,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "929622727",
-  "text" : "für mich hat der Begrifff Bedeutungslosigkeit grade eine neue Bedeutung erhalten",
+  "text" : "f\u00FCr mich hat der Begrifff Bedeutungslosigkeit grade eine neue Bedeutung erhalten",
   "id" : 929622727,
   "created_at" : "Sun Sep 21 20:12:31 +0000 2008",
   "user" : {
@@ -2046,7 +2046,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "929237712",
-  "text" : "guten morgen an alle da draußen. die welt schein ja noch die gleiche zu sein, es wird zeit das zu ändern",
+  "text" : "guten morgen an alle da drau\u00DFen. die welt schein ja noch die gleiche zu sein, es wird zeit das zu \u00E4ndern",
   "id" : 929237712,
   "created_at" : "Sun Sep 21 11:24:41 +0000 2008",
   "user" : {
@@ -2095,7 +2095,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "928955516",
-  "text" : "währe ich doch nur so hell wie wach",
+  "text" : "w\u00E4hre ich doch nur so hell wie wach",
   "id" : 928955516,
   "created_at" : "Sun Sep 21 02:21:22 +0000 2008",
   "user" : {
@@ -2118,7 +2118,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "928952055",
-  "text" : "währe doch nur alles so klar wie die Spiegelung im See",
+  "text" : "w\u00E4hre doch nur alles so klar wie die Spiegelung im See",
   "id" : 928952055,
   "created_at" : "Sun Sep 21 02:16:53 +0000 2008",
   "user" : {
@@ -2190,7 +2190,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "928920922",
-  "text" : "Grade festgestellt warum ich früher Trance und Electro gehört habe #mindshaking",
+  "text" : "Grade festgestellt warum ich fr\u00FCher Trance und Electro geh\u00F6rt habe #mindshaking",
   "id" : 928920922,
   "created_at" : "Sun Sep 21 01:33:47 +0000 2008",
   "user" : {
@@ -2262,7 +2262,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "928825197",
-  "text" : "Mist Wasser ins Bett gekippt, das gibt feuchte Träume ;)",
+  "text" : "Mist Wasser ins Bett gekippt, das gibt feuchte Tr\u00E4ume ;)",
   "id" : 928825197,
   "created_at" : "Sat Sep 20 23:19:34 +0000 2008",
   "user" : {
@@ -2377,7 +2377,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "928382204",
-  "text" : "Eichhörnchen sind die Kanadischen Tauben #bitsundso",
+  "text" : "Eichh\u00F6rnchen sind die Kanadischen Tauben #bitsundso",
   "id" : 928382204,
   "created_at" : "Sat Sep 20 13:50:04 +0000 2008",
   "user" : {
@@ -2400,7 +2400,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "928344887",
-  "text" : "kopfschütteln taugt nicht zum gedanken neu ortnen",
+  "text" : "kopfsch\u00FCtteln taugt nicht zum gedanken neu ortnen",
   "id" : 928344887,
   "created_at" : "Sat Sep 20 12:48:50 +0000 2008",
   "user" : {
@@ -2423,7 +2423,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "927205177",
-  "text" : "aufräumen hat schon lange nicht mehr so viel spass gemacht",
+  "text" : "aufr\u00E4umen hat schon lange nicht mehr so viel spass gemacht",
   "id" : 927205177,
   "created_at" : "Fri Sep 19 13:19:11 +0000 2008",
   "user" : {
@@ -2446,7 +2446,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "926567880",
-  "text" : "Mit einem Lächeln und innerer Zufriedenheit ins Bett geh",
+  "text" : "Mit einem L\u00E4cheln und innerer Zufriedenheit ins Bett geh",
   "id" : 926567880,
   "created_at" : "Thu Sep 18 23:59:29 +0000 2008",
   "user" : {
@@ -2475,7 +2475,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "925351747",
-  "text" : "zurück von der #omd2008, messe naja, #OMclub party gut, neue leute sehr gut ;)",
+  "text" : "zur\u00FCck von der #omd2008, messe naja, #OMclub party gut, neue leute sehr gut ;)",
   "id" : 925351747,
   "created_at" : "Thu Sep 18 01:13:43 +0000 2008",
   "user" : {
@@ -2614,7 +2614,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "924598801",
-  "text" : "Düsseldorfer UBahnen und Podcasts geht ma garnicht #laut #leise",
+  "text" : "D\u00FCsseldorfer UBahnen und Podcasts geht ma garnicht #laut #leise",
   "id" : 924598801,
   "created_at" : "Wed Sep 17 13:30:23 +0000 2008",
   "user" : {
@@ -2645,7 +2645,7 @@ Grailbird.data.tweets_2008_09 =
   },
   "id_str" : "924587430",
   "in_reply_to_user_id" : 959201,
-  "text" : "@Katti hab grade 2 Käsebrötchen gekauft, bin so in 20-30 Min da",
+  "text" : "@Katti hab grade 2 K\u00E4sebr\u00F6tchen gekauft, bin so in 20-30 Min da",
   "id" : 924587430,
   "in_reply_to_status_id" : 924559315,
   "created_at" : "Wed Sep 17 13:19:34 +0000 2008",
@@ -2674,7 +2674,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "924557138",
-  "text" : "Bin ein ..., grade in Duisburg ausgestiegen, statt in Duisburg, Zug war zum Glück noch nicht weg. #omd",
+  "text" : "Bin ein ..., grade in Duisburg ausgestiegen, statt in Duisburg, Zug war zum Gl\u00FCck noch nicht weg. #omd",
   "id" : 924557138,
   "created_at" : "Wed Sep 17 12:49:19 +0000 2008",
   "user" : {
@@ -2742,7 +2742,7 @@ Grailbird.data.tweets_2008_09 =
   },
   "id_str" : "924550116",
   "in_reply_to_user_id" : 959201,
-  "text" : "@Katti kann ich machen, was darfs sein? Sollte es aber am HBF in Dü geben",
+  "text" : "@Katti kann ich machen, was darfs sein? Sollte es aber am HBF in D\u00FC geben",
   "id" : 924550116,
   "in_reply_to_status_id" : 924524437,
   "created_at" : "Wed Sep 17 12:41:50 +0000 2008",
@@ -2774,7 +2774,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "924522725",
-  "text" : "Bahn zur #OMD verpasst. Da bleibt wenigstens Zeit für Frühstück und Mittag bei #Kamps",
+  "text" : "Bahn zur #OMD verpasst. Da bleibt wenigstens Zeit f\u00FCr Fr\u00FChst\u00FCck und Mittag bei #Kamps",
   "id" : 924522725,
   "created_at" : "Wed Sep 17 12:09:43 +0000 2008",
   "user" : {
@@ -2929,7 +2929,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "908709628",
-  "text" : "Gute Nacht ihr Vögel",
+  "text" : "Gute Nacht ihr V\u00F6gel",
   "id" : 908709628,
   "created_at" : "Wed Sep 03 23:53:38 +0000 2008",
   "user" : {
@@ -3035,7 +3035,7 @@ Grailbird.data.tweets_2008_09 =
   },
   "id_str" : "908380598",
   "in_reply_to_user_id" : 877051,
-  "text" : "@fapeg das ist wohl Wahr, \"Ateisten sind besser dran\" währe gleich wieder Gotteslästerung",
+  "text" : "@fapeg das ist wohl Wahr, \"Ateisten sind besser dran\" w\u00E4hre gleich wieder Gottesl\u00E4sterung",
   "id" : 908380598,
   "in_reply_to_status_id" : 908323647,
   "created_at" : "Wed Sep 03 18:17:15 +0000 2008",

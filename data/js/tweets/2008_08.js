@@ -52,7 +52,7 @@ Grailbird.data.tweets_2008_08 =
   },
   "id_str" : "903179865",
   "in_reply_to_user_id" : 5769802,
-  "text" : "@pottblog was für Unterlagen? Klär mal die nicht Bürokraten auf",
+  "text" : "@pottblog was f\u00FCr Unterlagen? Kl\u00E4r mal die nicht B\u00FCrokraten auf",
   "id" : 903179865,
   "in_reply_to_status_id" : 903179296,
   "created_at" : "Fri Aug 29 17:47:29 +0000 2008",
@@ -150,7 +150,7 @@ Grailbird.data.tweets_2008_08 =
   "geo" : {
   },
   "id_str" : "897578635",
-  "text" : "Joaquin Phoenix müsste man sein",
+  "text" : "Joaquin Phoenix m\u00FCsste man sein",
   "id" : 897578635,
   "created_at" : "Sun Aug 24 20:50:51 +0000 2008",
   "user" : {
@@ -227,7 +227,7 @@ Grailbird.data.tweets_2008_08 =
   },
   "id_str" : "895637163",
   "in_reply_to_user_id" : 777070,
-  "text" : "@threepwood Zu eurer Spenden und BUS Pro Geschichte, würde ich euch den Webspace für die Kapitelfolgen Sponsoren.",
+  "text" : "@threepwood Zu eurer Spenden und BUS Pro Geschichte, w\u00FCrde ich euch den Webspace f\u00FCr die Kapitelfolgen Sponsoren.",
   "id" : 895637163,
   "in_reply_to_status_id" : 895519872,
   "created_at" : "Fri Aug 22 15:57:03 +0000 2008",
@@ -255,7 +255,7 @@ Grailbird.data.tweets_2008_08 =
   },
   "id_str" : "895636898",
   "in_reply_to_user_id" : 777070,
-  "text" : "@ threepwood Zu eurer Spenden und BUS Pro Geschichte, würde ich euch den Webspace für die Kapitelfolgen Sponsoren.",
+  "text" : "@ threepwood Zu eurer Spenden und BUS Pro Geschichte, w\u00FCrde ich euch den Webspace f\u00FCr die Kapitelfolgen Sponsoren.",
   "id" : 895636898,
   "in_reply_to_status_id" : 895519872,
   "created_at" : "Fri Aug 22 15:56:50 +0000 2008",
@@ -323,7 +323,7 @@ Grailbird.data.tweets_2008_08 =
   },
   "id_str" : "892216338",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb *mmm, gute Frage, nach Berlin? Ne da sind schon alle anderen, las uns doch selbst für Inovationen sorgen.",
+  "text" : "@michelb *mmm, gute Frage, nach Berlin? Ne da sind schon alle anderen, las uns doch selbst f\u00FCr Inovationen sorgen.",
   "id" : 892216338,
   "in_reply_to_status_id" : 891384778,
   "created_at" : "Tue Aug 19 15:04:26 +0000 2008",
@@ -360,7 +360,7 @@ Grailbird.data.tweets_2008_08 =
   },
   "id_str" : "891116652",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb Gesetzt der Masseträgheit #inovationen",
+  "text" : "@michelb Gesetzt der Massetr\u00E4gheit #inovationen",
   "id" : 891116652,
   "in_reply_to_status_id" : 891094386,
   "created_at" : "Mon Aug 18 14:51:03 +0000 2008",
@@ -409,7 +409,7 @@ Grailbird.data.tweets_2008_08 =
   "geo" : {
   },
   "id_str" : "890403977",
-  "text" : "in münchen ist eine bombenstimmung",
+  "text" : "in m\u00FCnchen ist eine bombenstimmung",
   "id" : 890403977,
   "created_at" : "Sun Aug 17 19:25:53 +0000 2008",
   "user" : {
@@ -487,7 +487,7 @@ Grailbird.data.tweets_2008_08 =
   "geo" : {
   },
   "id_str" : "889709536",
-  "text" : "mit @ilonka_ilonka über werbung und so am reden",
+  "text" : "mit @ilonka_ilonka \u00FCber werbung und so am reden",
   "id" : 889709536,
   "created_at" : "Sat Aug 16 21:39:51 +0000 2008",
   "user" : {
@@ -536,7 +536,7 @@ Grailbird.data.tweets_2008_08 =
   "geo" : {
   },
   "id_str" : "885557242",
-  "text" : "#Pl0gBarRuhr Web 2.0 in Kuschelig und Naß",
+  "text" : "#Pl0gBarRuhr Web 2.0 in Kuschelig und Na\u00DF",
   "id" : 885557242,
   "created_at" : "Tue Aug 12 19:57:55 +0000 2008",
   "user" : {
@@ -562,7 +562,7 @@ Grailbird.data.tweets_2008_08 =
   "geo" : {
   },
   "id_str" : "885414673",
-  "text" : "Nach fünf Versuchen und einem Neustart, genieße ich jetzt mein Feierabendbier bei der #PlogBarRuhr http://twitpic.com/7gdi",
+  "text" : "Nach f\u00FCnf Versuchen und einem Neustart, genie\u00DFe ich jetzt mein Feierabendbier bei der #PlogBarRuhr http://twitpic.com/7gdi",
   "id" : 885414673,
   "created_at" : "Tue Aug 12 17:20:20 +0000 2008",
   "user" : {
@@ -653,7 +653,7 @@ Grailbird.data.tweets_2008_08 =
   "geo" : {
   },
   "id_str" : "884675471",
-  "text" : "Frauen sind böse http://flickr.com/photos/captainhagbard/2754468657",
+  "text" : "Frauen sind b\u00F6se http://flickr.com/photos/captainhagbard/2754468657",
   "id" : 884675471,
   "created_at" : "Tue Aug 12 00:02:41 +0000 2008",
   "user" : {

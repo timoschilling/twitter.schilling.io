@@ -94,7 +94,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "id_str" : "13117817106",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel auf welchem Grill wird denn das Opfer dem Frühling da gebracht?",
+  "text" : "@florianfiegel auf welchem Grill wird denn das Opfer dem Fr\u00FChling da gebracht?",
   "id" : 13117817106,
   "in_reply_to_status_id" : 13115070950,
   "created_at" : "Fri Apr 30 08:13:35 +0000 2010",
@@ -236,7 +236,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "13084939558",
-  "text" : "amüsant http://www.stefan-niggemeier.de/blog/journalisten-machen-kemnader-see-unsicher/ (via @kosmar)",
+  "text" : "am\u00FCsant http://www.stefan-niggemeier.de/blog/journalisten-machen-kemnader-see-unsicher/ (via @kosmar)",
   "id" : 13084939558,
   "created_at" : "Thu Apr 29 19:18:41 +0000 2010",
   "user" : {
@@ -252,7 +252,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Björn Schulze",
+      "name" : "Bj\u00F6rn Schulze",
       "screen_name" : "ghostdog19",
       "indices" : [ 3, 14 ],
       "id_str" : "12806792",
@@ -265,7 +265,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "13007170415",
-  "text" : "RT @ghostdog19: Hätte ich mal auf Oma gehört und was ordentliches gelernt. Dann könnte ich jetzt schön als 1-Euro-Jobber in der Sonne Sp ...",
+  "text" : "RT @ghostdog19: H\u00E4tte ich mal auf Oma geh\u00F6rt und was ordentliches gelernt. Dann k\u00F6nnte ich jetzt sch\u00F6n als 1-Euro-Jobber in der Sonne Sp ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -277,11 +277,11 @@ Grailbird.data.tweets_2010_04 =
     "geo" : {
     },
     "id_str" : "13005922289",
-    "text" : "Hätte ich mal auf Oma gehört und was ordentliches gelernt. Dann könnte ich jetzt schön als 1-Euro-Jobber in der Sonne Spargel stechen.",
+    "text" : "H\u00E4tte ich mal auf Oma geh\u00F6rt und was ordentliches gelernt. Dann k\u00F6nnte ich jetzt sch\u00F6n als 1-Euro-Jobber in der Sonne Spargel stechen.",
     "id" : 13005922289,
     "created_at" : "Wed Apr 28 13:20:36 +0000 2010",
     "user" : {
-      "name" : "Björn Schulze",
+      "name" : "Bj\u00F6rn Schulze",
       "screen_name" : "ghostdog19",
       "protected" : false,
       "id_str" : "12806792",
@@ -394,7 +394,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12995873145",
-  "text" : "misst mir ist grade mein Frühstück abgebrannt, dann werd ich jetzt wohl mal den Bäcker aufsuchen",
+  "text" : "misst mir ist grade mein Fr\u00FChst\u00FCck abgebrannt, dann werd ich jetzt wohl mal den B\u00E4cker aufsuchen",
   "id" : 12995873145,
   "created_at" : "Wed Apr 28 08:45:51 +0000 2010",
   "user" : {
@@ -423,7 +423,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12943608530",
-  "text" : "Papst: Das Internet führt zur \"Verschmutzung des Geistes\" - Internet: Der Papst führt zur \"Verschmutzung des Geistes\" (via @scholt)",
+  "text" : "Papst: Das Internet f\u00FChrt zur \"Verschmutzung des Geistes\" - Internet: Der Papst f\u00FChrt zur \"Verschmutzung des Geistes\" (via @scholt)",
   "id" : 12943608530,
   "created_at" : "Tue Apr 27 12:57:03 +0000 2010",
   "user" : {
@@ -446,7 +446,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12938488825",
-  "text" : "habe aus gesundheitlichen Gründen einen Rücken abzugeben ...",
+  "text" : "habe aus gesundheitlichen Gr\u00FCnden einen R\u00FCcken abzugeben ...",
   "id" : 12938488825,
   "created_at" : "Tue Apr 27 10:50:07 +0000 2010",
   "user" : {
@@ -503,7 +503,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "id_str" : "12900245173",
   "in_reply_to_user_id" : 1321591,
-  "text" : "@koos ob es dann noch Bücher gibt? #anno9999",
+  "text" : "@koos ob es dann noch B\u00FCcher gibt? #anno9999",
   "id" : 12900245173,
   "in_reply_to_status_id" : 12899418853,
   "created_at" : "Mon Apr 26 19:29:29 +0000 2010",
@@ -538,7 +538,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12900195144",
-  "text" : "Blog: DCTP-Interview: “Herr des Undsoversum” http://bit.ly/dkzkvx #rp10 (via @undsoversum)",
+  "text" : "Blog: DCTP-Interview: \u201CHerr des Undsoversum\u201D http://bit.ly/dkzkvx #rp10 (via @undsoversum)",
   "id" : 12900195144,
   "created_at" : "Mon Apr 26 19:28:20 +0000 2010",
   "user" : {
@@ -807,7 +807,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12867127269",
-  "text" : "es geht doch nichts über Baustellenlärm am morgen",
+  "text" : "es geht doch nichts \u00FCber Baustellenl\u00E4rm am morgen",
   "id" : 12867127269,
   "created_at" : "Mon Apr 26 05:50:06 +0000 2010",
   "user" : {
@@ -856,7 +856,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "mspro",
       "protected" : false,
       "id_str" : "5751892",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1723502782/mspro_cafe_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3408641243/2edf38d3c995612edf5b3d2e20d74861_normal.jpeg",
       "id" : 5751892,
       "verified" : false
     }
@@ -964,7 +964,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mischa",
+      "name" : "blogwart",
       "screen_name" : "blogwart",
       "indices" : [ 81, 90 ],
       "id_str" : "960271502",
@@ -977,7 +977,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12656400216",
-  "text" : "„Du… langsam fang' ich an, dich zu verstehen…“ „Dann muss ich mich ändern.“ (via @blogwart)",
+  "text" : "\u201EDu\u2026 langsam fang' ich an, dich zu verstehen\u2026\u201C \u201EDann muss ich mich \u00E4ndern.\u201C (via @blogwart)",
   "id" : 12656400216,
   "created_at" : "Thu Apr 22 19:23:23 +0000 2010",
   "user" : {
@@ -1041,7 +1041,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12636010136",
-  "text" : "Ein schönes #Zitat von Erich Kästner, das wunderbar zum #Jugendmedienstaatsvertrag passt http://bit.ly/bWsFZt /via @erstgeborener @Gernot",
+  "text" : "Ein sch\u00F6nes #Zitat von Erich K\u00E4stner, das wunderbar zum #Jugendmedienstaatsvertrag passt http://bit.ly/bWsFZt /via @erstgeborener @Gernot",
   "id" : 12636010136,
   "created_at" : "Thu Apr 22 12:33:21 +0000 2010",
   "user" : {
@@ -1089,7 +1089,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 63, 68 ],
       "id_str" : "18448838",
@@ -1133,7 +1133,7 @@ Grailbird.data.tweets_2010_04 =
     "coordinates" : [ 51.57590049, 6.51608961 ]
   },
   "id_str" : "12576130453",
-  "text" : "arg, sitze in (den) Alpen fest, Bus hatte 15 min. Verspätung und nun muss ich 50 min auf den nächsten Zug warten #fail",
+  "text" : "arg, sitze in (den) Alpen fest, Bus hatte 15 min. Versp\u00E4tung und nun muss ich 50 min auf den n\u00E4chsten Zug warten #fail",
   "id" : 12576130453,
   "created_at" : "Wed Apr 21 13:27:40 +0000 2010",
   "user" : {
@@ -1158,7 +1158,7 @@ Grailbird.data.tweets_2010_04 =
     "coordinates" : [ 51.5073802129, 7.4505972862 ]
   },
   "id_str" : "12560514934",
-  "text" : "Photo: Getränkeauswahl — at Rewe http://gowal.la/c/D247",
+  "text" : "Photo: Getr\u00E4nkeauswahl \u2014 at Rewe http://gowal.la/c/D247",
   "id" : 12560514934,
   "created_at" : "Wed Apr 21 05:32:57 +0000 2010",
   "user" : {
@@ -1181,7 +1181,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12560160047",
-  "text" : "bin etwas müde aber nichts, was man nicht mit Koffein, nicht wieder in den Griff bekommen könnte",
+  "text" : "bin etwas m\u00FCde aber nichts, was man nicht mit Koffein, nicht wieder in den Griff bekommen k\u00F6nnte",
   "id" : 12560160047,
   "created_at" : "Wed Apr 21 05:23:00 +0000 2010",
   "user" : {
@@ -1204,7 +1204,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12520915656",
-  "text" : "Das Internet ist die Fortsetzung der Realität mit anderen Mitteln",
+  "text" : "Das Internet ist die Fortsetzung der Realit\u00E4t mit anderen Mitteln",
   "id" : 12520915656,
   "created_at" : "Tue Apr 20 15:03:46 +0000 2010",
   "user" : {
@@ -1233,7 +1233,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12515779926",
-  "text" : "71% sehen das Internet als Gewinn für ihre Produktivität oder anders gesagt die Verbreitung von Twitter liegt bei 29% (via @diktator)",
+  "text" : "71% sehen das Internet als Gewinn f\u00FCr ihre Produktivit\u00E4t oder anders gesagt die Verbreitung von Twitter liegt bei 29% (via @diktator)",
   "id" : 12515779926,
   "created_at" : "Tue Apr 20 13:22:39 +0000 2010",
   "user" : {
@@ -1249,7 +1249,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -1292,7 +1292,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "id_str" : "12510008369",
   "in_reply_to_user_id" : 19105297,
-  "text" : "@lelei33 das halt 6-8€ das währe zwar 50-100% mehr aber immer noch ok!",
+  "text" : "@lelei33 das halt 6-8\u20AC das w\u00E4hre zwar 50-100% mehr aber immer noch ok!",
   "id" : 12510008369,
   "in_reply_to_status_id" : 12509860777,
   "created_at" : "Tue Apr 20 11:06:05 +0000 2010",
@@ -1318,7 +1318,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12509767161",
-  "text" : "Wie geil ist das denn? So ein Angebot wünsche ich mir in Deutschland. 1GB für 4€, kein Vertrag, kein Mindestumsatz http://bit.ly/94koIG",
+  "text" : "Wie geil ist das denn? So ein Angebot w\u00FCnsche ich mir in Deutschland. 1GB f\u00FCr 4\u20AC, kein Vertrag, kein Mindestumsatz http://bit.ly/94koIG",
   "id" : 12509767161,
   "created_at" : "Tue Apr 20 10:59:23 +0000 2010",
   "user" : {
@@ -1336,7 +1336,7 @@ Grailbird.data.tweets_2010_04 =
     "user_mentions" : [ {
       "name" : "David R Jennings",
       "screen_name" : "Bauart",
-      "indices" : [ 97, 104 ],
+      "indices" : [ 91, 98 ],
       "id_str" : "2776801",
       "id" : 2776801
     } ],
@@ -1347,7 +1347,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12505155472",
-  "text" : "Bill Gates tried leaving his new Microsoft \"Kin\" phone at a bar...\n\n\n\n\n\n\n\nIt's still there. (via @Bauart)",
+  "text" : "Bill Gates tried leaving his new Microsoft \"Kin\" phone at a bar...\n\nIt's still there. (via @Bauart)",
   "id" : 12505155472,
   "created_at" : "Tue Apr 20 08:22:31 +0000 2010",
   "user" : {
@@ -1382,7 +1382,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12451558412",
-  "text" : "iso-8859-1 macht mich noch verr?ckt. utf-8 ist viel sch�ner. (via @yetzt, @emonk_net)",
+  "text" : "iso-8859-1 macht mich noch verr?ckt. utf-8 ist viel sch\uFFFDner. (via @yetzt, @emonk_net)",
   "id" : 12451558412,
   "created_at" : "Mon Apr 19 11:55:29 +0000 2010",
   "user" : {
@@ -1405,7 +1405,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12450647461",
-  "text" : "erst haben wir unser Geld in Island verbrannt, jetzt bekommen wir die Asche zurück",
+  "text" : "erst haben wir unser Geld in Island verbrannt, jetzt bekommen wir die Asche zur\u00FCck",
   "id" : 12450647461,
   "created_at" : "Mon Apr 19 11:30:41 +0000 2010",
   "user" : {
@@ -1437,7 +1437,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12448512292",
-  "text" : "mal wieder großes #Bahn #fail stecke seit über einer Stunde in Dortmund fest #nrwverker",
+  "text" : "mal wieder gro\u00DFes #Bahn #fail stecke seit \u00FCber einer Stunde in Dortmund fest #nrwverker",
   "id" : 12448512292,
   "created_at" : "Mon Apr 19 10:25:25 +0000 2010",
   "user" : {
@@ -1462,7 +1462,7 @@ Grailbird.data.tweets_2010_04 =
     "coordinates" : [ 51.5026829, 7.464422 ]
   },
   "id_str" : "12299404373",
-  "text" : "die beste Pizza von die ganze Dortmund — at Pizzeria D' Angelo II http://gowal.la/s/5ggK",
+  "text" : "die beste Pizza von die ganze Dortmund \u2014 at Pizzeria D' Angelo II http://gowal.la/s/5ggK",
   "id" : 12299404373,
   "created_at" : "Fri Apr 16 19:05:39 +0000 2010",
   "user" : {
@@ -1487,7 +1487,7 @@ Grailbird.data.tweets_2010_04 =
     "coordinates" : [ 51.4295979641, 6.7756891251 ]
   },
   "id_str" : "12272692579",
-  "text" : "die neu Bahnhofsvorhalle ist schön geworden, viel heller — at Duisburg HBF http://gowal.la/s/wUr",
+  "text" : "die neu Bahnhofsvorhalle ist sch\u00F6n geworden, viel heller \u2014 at Duisburg HBF http://gowal.la/s/wUr",
   "id" : 12272692579,
   "created_at" : "Fri Apr 16 08:53:07 +0000 2010",
   "user" : {
@@ -1515,7 +1515,7 @@ Grailbird.data.tweets_2010_04 =
     "coordinates" : [ 51.4963271534, 7.4507153034 ]
   },
   "id_str" : "12212219143",
-  "text" : "#intermodelbau — at Messe Westfalenhallen Dortmund http://gowal.la/s/4jnn",
+  "text" : "#intermodelbau \u2014 at Messe Westfalenhallen Dortmund http://gowal.la/s/4jnn",
   "id" : 12212219143,
   "created_at" : "Thu Apr 15 08:34:05 +0000 2010",
   "user" : {
@@ -1544,7 +1544,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12125547932",
-  "text" : "RT @Scherzinfarkt: Wenn die Kirche sagt, dass Homosexualität der Grund für Pädophilie ist, kann ich auch sagen, dass Katholizismus der G ...",
+  "text" : "RT @Scherzinfarkt: Wenn die Kirche sagt, dass Homosexualit\u00E4t der Grund f\u00FCr P\u00E4dophilie ist, kann ich auch sagen, dass Katholizismus der G ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
@@ -1556,7 +1556,7 @@ Grailbird.data.tweets_2010_04 =
     "geo" : {
     },
     "id_str" : "12125365573",
-    "text" : "Wenn die Kirche sagt, dass Homosexualität der Grund für Pädophilie ist, kann ich auch sagen, dass Katholizismus der Grund für Debilität ist.",
+    "text" : "Wenn die Kirche sagt, dass Homosexualit\u00E4t der Grund f\u00FCr P\u00E4dophilie ist, kann ich auch sagen, dass Katholizismus der Grund f\u00FCr Debilit\u00E4t ist.",
     "id" : 12125365573,
     "created_at" : "Tue Apr 13 21:32:36 +0000 2010",
     "user" : {
@@ -1628,7 +1628,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "id_str" : "12099687350",
   "in_reply_to_user_id" : 17038346,
-  "text" : "@fernmuendlich mit der S-Bahn zur #rp10, dann bist du ja Pünktlich zur #rp11 da ;)",
+  "text" : "@fernmuendlich mit der S-Bahn zur #rp10, dann bist du ja P\u00FCnktlich zur #rp11 da ;)",
   "id" : 12099687350,
   "in_reply_to_status_id" : 12098854159,
   "created_at" : "Tue Apr 13 11:47:54 +0000 2010",
@@ -1775,7 +1775,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "11988522525",
-  "text" : "seit der Ankündigung des iPhone OS 4 fühlt sich mein Classic wie ein PowerPC seit SnowLeopard",
+  "text" : "seit der Ank\u00FCndigung des iPhone OS 4 f\u00FChlt sich mein Classic wie ein PowerPC seit SnowLeopard",
   "id" : 11988522525,
   "created_at" : "Sun Apr 11 12:25:37 +0000 2010",
   "user" : {
@@ -1823,7 +1823,7 @@ Grailbird.data.tweets_2010_04 =
     "coordinates" : [ 51.4932077689, 7.212857008 ]
   },
   "id_str" : "11897278124",
-  "text" : "nach 7 Stunden Zugfahrt entlich wieder hier — at ts.space http://gowal.la/s/Mrn",
+  "text" : "nach 7 Stunden Zugfahrt entlich wieder hier \u2014 at ts.space http://gowal.la/s/Mrn",
   "id" : 11897278124,
   "created_at" : "Fri Apr 09 19:32:01 +0000 2010",
   "user" : {
@@ -1858,7 +1858,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "11829349172",
-  "text" : "$.crash(); »A jQuery plugin for crashing IE6« http://plugins.jquery.com/project/crash (via @es_de_we @gerritvanaaken)",
+  "text" : "$.crash(); \u00BBA jQuery plugin for crashing IE6\u00AB http://plugins.jquery.com/project/crash (via @es_de_we @gerritvanaaken)",
   "id" : 11829349172,
   "created_at" : "Thu Apr 08 15:37:38 +0000 2010",
   "user" : {
@@ -1881,7 +1881,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "11767931062",
-  "text" : "eins muss man Galileo lassen, sie beantworten Fragen die ich mir ohne nie gestellt hätte",
+  "text" : "eins muss man Galileo lassen, sie beantworten Fragen die ich mir ohne nie gestellt h\u00E4tte",
   "id" : 11767931062,
   "created_at" : "Wed Apr 07 17:45:47 +0000 2010",
   "user" : {
@@ -1997,7 +1997,7 @@ Grailbird.data.tweets_2010_04 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "frühlingsduft",
+      "text" : "fr\u00FChlingsduft",
       "indices" : [ 45, 59 ]
     } ],
     "urls" : [ ]
@@ -2005,7 +2005,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "11715143604",
-  "text" : "Laufe an einer frisch gemähten Wiese entlang #frühlingsduft",
+  "text" : "Laufe an einer frisch gem\u00E4hten Wiese entlang #fr\u00FChlingsduft",
   "id" : 11715143604,
   "created_at" : "Tue Apr 06 19:44:35 +0000 2010",
   "user" : {
@@ -2080,7 +2080,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "11691968935",
-  "text" : "\"Sollte Deutschland nicht bereit sein, seine Politik zu ändern, sehe ich mich gezwungen, meine Mitgliedschaft zu beenden.\" (via @saschalobo)",
+  "text" : "\"Sollte Deutschland nicht bereit sein, seine Politik zu \u00E4ndern, sehe ich mich gezwungen, meine Mitgliedschaft zu beenden.\" (via @saschalobo)",
   "id" : 11691968935,
   "created_at" : "Tue Apr 06 10:43:14 +0000 2010",
   "user" : {
@@ -2137,7 +2137,7 @@ Grailbird.data.tweets_2010_04 =
     "coordinates" : [ 51.4760972281, 7.2156208928 ]
   },
   "id_str" : "11598863751",
-  "text" : "das war dann wohl nichts, Ausverkauft #poetryslam — at Freibeuter http://gowal.la/s/3ZDy",
+  "text" : "das war dann wohl nichts, Ausverkauft #poetryslam \u2014 at Freibeuter http://gowal.la/s/3ZDy",
   "id" : 11598863751,
   "created_at" : "Sun Apr 04 18:01:36 +0000 2010",
   "user" : {
@@ -2194,7 +2194,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "11581574120",
-  "text" : "ui, Boxcar fährt Amock und schickt mir alle nachrichten der letzten 3 Wochen am Stück",
+  "text" : "ui, Boxcar f\u00E4hrt Amock und schickt mir alle nachrichten der letzten 3 Wochen am St\u00FCck",
   "id" : 11581574120,
   "created_at" : "Sun Apr 04 10:17:31 +0000 2010",
   "user" : {
@@ -2219,7 +2219,7 @@ Grailbird.data.tweets_2010_04 =
     "coordinates" : [ 51.5164108276, 7.4573822021 ]
   },
   "id_str" : "11575088444",
-  "text" : "ein Crêpe am Morgen, vertreibt Kummer und Sorgen — at Waffeln, Kaffee und Crêpe http://gowal.la/s/5s9y",
+  "text" : "ein Cr\u00EApe am Morgen, vertreibt Kummer und Sorgen \u2014 at Waffeln, Kaffee und Cr\u00EApe http://gowal.la/s/5s9y",
   "id" : 11575088444,
   "created_at" : "Sun Apr 04 06:24:19 +0000 2010",
   "user" : {
@@ -2271,7 +2271,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "11429479278",
-  "text" : "Das Denken ist das Selbstgespräch der Seele. *Plato* (via @zitate)",
+  "text" : "Das Denken ist das Selbstgespr\u00E4ch der Seele. *Plato* (via @zitate)",
   "id" : 11429479278,
   "created_at" : "Thu Apr 01 15:19:52 +0000 2010",
   "user" : {

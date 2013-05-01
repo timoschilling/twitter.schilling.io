@@ -44,7 +44,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "241246040186032128",
-  "text" : "Wer ist eigentlich auf die Idee gekommen es sei cool LED’s in USB Stick’s zu löten?",
+  "text" : "Wer ist eigentlich auf die Idee gekommen es sei cool LED\u2019s in USB Stick\u2019s zu l\u00F6ten?",
   "id" : 241246040186032128,
   "created_at" : "Thu Aug 30 18:48:32 +0000 2012",
   "user" : {
@@ -60,7 +60,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "fat-kun",
+      "name" : "jacob",
       "screen_name" : "fat",
       "indices" : [ 3, 7 ],
       "id_str" : "16521996",
@@ -89,11 +89,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 241225778405191680,
     "created_at" : "Thu Aug 30 17:28:01 +0000 2012",
     "user" : {
-      "name" : "fat-kun",
+      "name" : "jacob",
       "screen_name" : "fat",
       "protected" : false,
       "id_str" : "16521996",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3242456965/bc90fb8855fa899e242aaad1849cbd35_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3587255264/f5b5ea5f93e5239f930ff26e46605f97_normal.jpeg",
       "id" : 16521996,
       "verified" : false
     }
@@ -119,7 +119,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 80, 100 ],
       "url" : "http://t.co/AXBQgIPe",
       "expanded_url" : "http://www.der-postillon.com/2012/08/drogenbeauftragte-warnt-rund-20.html?m=1",
-      "display_url" : "der-postillon.com/2012/08/drogen…"
+      "display_url" : "der-postillon.com/2012/08/drogen\u2026"
     } ]
   },
   "geo" : {
@@ -224,7 +224,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "241082746884210688",
   "in_reply_to_user_id" : 5769802,
-  "text" : "@pottblog aha, ich hab den 6890 in 46“",
+  "text" : "@pottblog aha, ich hab den 6890 in 46\u201C",
   "id" : 241082746884210688,
   "in_reply_to_status_id" : 241081941187772418,
   "created_at" : "Thu Aug 30 07:59:40 +0000 2012",
@@ -324,7 +324,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "240855237898928128",
-  "text" : "RT @TwopTwips: BEFORE you close a web page make sure you scroll up to the top, so it’s in the right position for the next person. \n(via  ...",
+  "text" : "RT @TwopTwips: BEFORE you close a web page make sure you scroll up to the top, so it\u2019s in the right position for the next person. \n(via  ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -342,7 +342,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "240736951173529600",
-    "text" : "BEFORE you close a web page make sure you scroll up to the top, so it’s in the right position for the next person. \n(via @amateuradam)",
+    "text" : "BEFORE you close a web page make sure you scroll up to the top, so it\u2019s in the right position for the next person. \n(via @amateuradam)",
     "id" : 240736951173529600,
     "created_at" : "Wed Aug 29 09:05:36 +0000 2012",
     "user" : {
@@ -382,7 +382,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 39, 59 ],
       "url" : "http://t.co/b1Tzvi4t",
       "expanded_url" : "http://www.youtube.com/watch?v=kXEgk1Hdze0",
-      "display_url" : "youtube.com/watch?v=kXEgk1…"
+      "display_url" : "youtube.com/watch?v=kXEgk1\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "240779966051131393",
@@ -462,7 +462,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "240752312707063808",
-  "text" : "überlege ein Tumblr Blog mit all den verzweifelten Gesichtern zu machen die den Geocache vor meinem Fenster nicht finden",
+  "text" : "\u00FCberlege ein Tumblr Blog mit all den verzweifelten Gesichtern zu machen die den Geocache vor meinem Fenster nicht finden",
   "id" : 240752312707063808,
   "created_at" : "Wed Aug 29 10:06:38 +0000 2012",
   "user" : {
@@ -564,7 +564,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "8bitkid",
       "protected" : false,
       "id_str" : "1817181",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1769368906/l_59a2efb859cf07da42f23783f627a31b_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3416793965/d122d1bfa1782dc8bad53eefbc9b3765_normal.jpeg",
       "id" : 1817181,
       "verified" : false
     }
@@ -597,7 +597,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "240068229559640064",
-  "text" : "RT @Suffkopp: Möchte hier jemand einen Fachinformatiker für Systemintegration im 3. Ausbildungsjahr übernehmen? Mein Betrieb ist insolvent.",
+  "text" : "RT @Suffkopp: M\u00F6chte hier jemand einen Fachinformatiker f\u00FCr Systemintegration im 3. Ausbildungsjahr \u00FCbernehmen? Mein Betrieb ist insolvent.",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
@@ -609,7 +609,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "240040634277298176",
-    "text" : "Möchte hier jemand einen Fachinformatiker für Systemintegration im 3. Ausbildungsjahr übernehmen? Mein Betrieb ist insolvent.",
+    "text" : "M\u00F6chte hier jemand einen Fachinformatiker f\u00FCr Systemintegration im 3. Ausbildungsjahr \u00FCbernehmen? Mein Betrieb ist insolvent.",
     "id" : 240040634277298176,
     "created_at" : "Mon Aug 27 10:58:41 +0000 2012",
     "user" : {
@@ -644,7 +644,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "240054785125019648",
-  "text" : "habe heute eine alte Bekannte wieder getroffen, Miss Verständnis",
+  "text" : "habe heute eine alte Bekannte wieder getroffen, Miss Verst\u00E4ndnis",
   "id" : 240054785125019648,
   "created_at" : "Mon Aug 27 11:54:55 +0000 2012",
   "user" : {
@@ -679,7 +679,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "239833180235001856",
-  "text" : "RT @saschaludwig: OH: „nein wir wollten die Leute von LISP nicht ausklammern“ #FrOSCon #abschlussveranstaltung",
+  "text" : "RT @saschaludwig: OH: \u201Enein wir wollten die Leute von LISP nicht ausklammern\u201C #FrOSCon #abschlussveranstaltung",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -697,7 +697,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "239767189605978114",
-    "text" : "OH: „nein wir wollten die Leute von LISP nicht ausklammern“ #FrOSCon #abschlussveranstaltung",
+    "text" : "OH: \u201Enein wir wollten die Leute von LISP nicht ausklammern\u201C #FrOSCon #abschlussveranstaltung",
     "id" : 239767189605978114,
     "created_at" : "Sun Aug 26 16:52:07 +0000 2012",
     "user" : {
@@ -738,7 +738,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "239821000005525504",
-  "text" : "RT @rzwodezwo: Drogen? Was den Kopf richtig verwirrt ist, wenn man im Zug aus dem Fenster guckt und die Bahn am Gleis direkt daneben plö ...",
+  "text" : "RT @rzwodezwo: Drogen? Was den Kopf richtig verwirrt ist, wenn man im Zug aus dem Fenster guckt und die Bahn am Gleis direkt daneben pl\u00F6 ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
     "entities" : {
@@ -750,7 +750,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "239749999041339392",
-    "text" : "Drogen? Was den Kopf richtig verwirrt ist, wenn man im Zug aus dem Fenster guckt und die Bahn am Gleis direkt daneben plötzlich losfährt.",
+    "text" : "Drogen? Was den Kopf richtig verwirrt ist, wenn man im Zug aus dem Fenster guckt und die Bahn am Gleis direkt daneben pl\u00F6tzlich losf\u00E4hrt.",
     "id" : 239749999041339392,
     "created_at" : "Sun Aug 26 15:43:48 +0000 2012",
     "user" : {
@@ -758,7 +758,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "rzwodezwo",
       "protected" : false,
       "id_str" : "25992708",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3124246995/341ea3786d758b0a2d6f213743b7c07f_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3425862913/6df66d8323c541ec72681ecdbfab049d_normal.jpeg",
       "id" : 25992708,
       "verified" : false
     }
@@ -792,7 +792,7 @@ Grailbird.data.tweets_2012_08 =
       "text" : "zeitung",
       "indices" : [ 105, 113 ]
     }, {
-      "text" : "frühstück",
+      "text" : "fr\u00FChst\u00FCck",
       "indices" : [ 114, 124 ]
     } ],
     "urls" : [ ]
@@ -800,7 +800,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "239652450787794944",
-  "text" : "RT @Ibo: \"Zeitung\" ist so ein Medium, da erfahren die Leute was letzte Woche im Internet stand. #sonntag #zeitung #frühstück",
+  "text" : "RT @Ibo: \"Zeitung\" ist so ein Medium, da erfahren die Leute was letzte Woche im Internet stand. #sonntag #zeitung #fr\u00FChst\u00FCck",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
     "entities" : {
@@ -813,7 +813,7 @@ Grailbird.data.tweets_2012_08 =
         "text" : "zeitung",
         "indices" : [ 96, 104 ]
       }, {
-        "text" : "frühstück",
+        "text" : "fr\u00FChst\u00FCck",
         "indices" : [ 105, 115 ]
       } ],
       "urls" : [ ]
@@ -821,7 +821,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "239629517134647297",
-    "text" : "\"Zeitung\" ist so ein Medium, da erfahren die Leute was letzte Woche im Internet stand. #sonntag #zeitung #frühstück",
+    "text" : "\"Zeitung\" ist so ein Medium, da erfahren die Leute was letzte Woche im Internet stand. #sonntag #zeitung #fr\u00FChst\u00FCck",
     "id" : 239629517134647297,
     "created_at" : "Sun Aug 26 07:45:03 +0000 2012",
     "user" : {
@@ -885,7 +885,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "bhrgero",
       "protected" : false,
       "id_str" : "13093762",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3062043034/ca4b09ca8073c42cc3bc6177995b9fac_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3376421104/8e9bc511cfc15d6dae8b53185c3be3f2_normal.png",
       "id" : 13093762,
       "verified" : false
     }
@@ -991,7 +991,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "NBCNews",
       "protected" : false,
       "id_str" : "14173315",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2479993453/p35ocb1ktbhgdpfgyj87_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3589008446/5e3a7cedd593ac9e7d9fb70dadb1ef8f_normal.jpeg",
       "id" : 14173315,
       "verified" : true
     }
@@ -1099,7 +1099,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "239500338904854528",
-  "text" : "Philippe und ich hatten einen schönen Abend, nur leider ist er etwas zu früh gegangen http://t.co/2O2P2Fb7",
+  "text" : "Philippe und ich hatten einen sch\u00F6nen Abend, nur leider ist er etwas zu fr\u00FCh gegangen http://t.co/2O2P2Fb7",
   "id" : 239500338904854528,
   "created_at" : "Sat Aug 25 23:11:45 +0000 2012",
   "user" : {
@@ -1140,7 +1140,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "239375799139057664",
-    "text" : "Wenn ich in Berlin eine Demo brauche, stelle ich ein Schild mit meinen Anliegen vor ein Haus und inseriere \"2 Zimmer, Dielen, 295 € warm\".",
+    "text" : "Wenn ich in Berlin eine Demo brauche, stelle ich ein Schild mit meinen Anliegen vor ein Haus und inseriere \"2 Zimmer, Dielen, 295 \u20AC warm\".",
     "id" : 239375799139057664,
     "created_at" : "Sat Aug 25 14:56:52 +0000 2012",
     "user" : {
@@ -1168,7 +1168,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "翔",
+      "name" : "\u7FD4",
       "screen_name" : "stardriver88",
       "indices" : [ 3, 16 ],
       "id_str" : "1002166920",
@@ -1186,7 +1186,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "239493825020719105",
-  "text" : "RT @stardriver88: Manchmal hasse ich meine Frau für ihre gemeinen Rachepläne. http://t.co/FFq8pdyn",
+  "text" : "RT @stardriver88: Manchmal hasse ich meine Frau f\u00FCr ihre gemeinen Rachepl\u00E4ne. http://t.co/FFq8pdyn",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -1228,7 +1228,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "238945297429053440",
-    "text" : "Manchmal hasse ich meine Frau für ihre gemeinen Rachepläne. http://t.co/FFq8pdyn",
+    "text" : "Manchmal hasse ich meine Frau f\u00FCr ihre gemeinen Rachepl\u00E4ne. http://t.co/FFq8pdyn",
     "id" : 238945297429053440,
     "created_at" : "Fri Aug 24 10:26:13 +0000 2012",
     "user" : {
@@ -1286,7 +1286,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "239485381467336704",
-  "text" : "„Was hast du den eingeschmissen?“ — „leider nichts!“",
+  "text" : "\u201EWas hast du den eingeschmissen?\u201C \u2014 \u201Eleider nichts!\u201C",
   "id" : 239485381467336704,
   "created_at" : "Sat Aug 25 22:12:19 +0000 2012",
   "user" : {
@@ -1312,7 +1312,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "239478391596797952",
-  "text" : "Clojure die Sprache der Kieferorthopäden #froscon",
+  "text" : "Clojure die Sprache der Kieferorthop\u00E4den #froscon",
   "id" : 239478391596797952,
   "created_at" : "Sat Aug 25 21:44:32 +0000 2012",
   "user" : {
@@ -1394,7 +1394,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "239472646478254080",
-  "text" : "„las den Schokoriegel nicht im Auto liegen, der schmilzt sonst.“, ja aber die Hemdentasche war auch kein besserer Ort!",
+  "text" : "\u201Elas den Schokoriegel nicht im Auto liegen, der schmilzt sonst.\u201C, ja aber die Hemdentasche war auch kein besserer Ort!",
   "id" : 239472646478254080,
   "created_at" : "Sat Aug 25 21:21:42 +0000 2012",
   "user" : {
@@ -1459,7 +1459,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "239468303054143488",
   "in_reply_to_user_id" : 8018382,
-  "text" : "@rinpaku wann und wo ist die nächste Aufführung?",
+  "text" : "@rinpaku wann und wo ist die n\u00E4chste Auff\u00FChrung?",
   "id" : 239468303054143488,
   "in_reply_to_status_id" : 239271564737130496,
   "created_at" : "Sat Aug 25 21:04:27 +0000 2012",
@@ -1497,7 +1497,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "239468133268729856",
-  "text" : "RT @rinpaku: .@rbq hat ein erstklassiges Stand-Up-Comedian-Programm bei dem er einfach nur Fakten über PHP erzählt.",
+  "text" : "RT @rinpaku: .@rbq hat ein erstklassiges Stand-Up-Comedian-Programm bei dem er einfach nur Fakten \u00FCber PHP erz\u00E4hlt.",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
     "entities" : {
@@ -1515,7 +1515,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "239271564737130496",
-    "text" : ".@rbq hat ein erstklassiges Stand-Up-Comedian-Programm bei dem er einfach nur Fakten über PHP erzählt.",
+    "text" : ".@rbq hat ein erstklassiges Stand-Up-Comedian-Programm bei dem er einfach nur Fakten \u00FCber PHP erz\u00E4hlt.",
     "id" : 239271564737130496,
     "created_at" : "Sat Aug 25 08:02:41 +0000 2012",
     "user" : {
@@ -1543,7 +1543,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Hans",
+      "name" : "Christian",
       "screen_name" : "lelei",
       "indices" : [ 3, 9 ],
       "id_str" : "19105297",
@@ -1556,7 +1556,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "239467018267525121",
-  "text" : "RT @lelei: Samsung muss also ein Instagram an Apple zahlen … aber hoffentlich nicht in Facebookaktien",
+  "text" : "RT @lelei: Samsung muss also ein Instagram an Apple zahlen \u2026 aber hoffentlich nicht in Facebookaktien",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "entities" : {
@@ -1568,15 +1568,15 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "239261134706860032",
-    "text" : "Samsung muss also ein Instagram an Apple zahlen … aber hoffentlich nicht in Facebookaktien",
+    "text" : "Samsung muss also ein Instagram an Apple zahlen \u2026 aber hoffentlich nicht in Facebookaktien",
     "id" : 239261134706860032,
     "created_at" : "Sat Aug 25 07:21:14 +0000 2012",
     "user" : {
-      "name" : "Christian Hans",
+      "name" : "Christian",
       "screen_name" : "lelei",
       "protected" : false,
       "id_str" : "19105297",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1420459324/chris_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3543440284/940537793fb1b1faa6a5fa4eb93735e1_normal.jpeg",
       "id" : 19105297,
       "verified" : false
     }
@@ -1671,7 +1671,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eurucamp 2012",
+      "name" : "eurucamp 2013",
       "screen_name" : "eurucamp",
       "indices" : [ 45, 54 ],
       "id_str" : "263762253",
@@ -1718,7 +1718,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "239328344095719426",
   "in_reply_to_user_id" : 17129996,
-  "text" : "@vivianmeally „Blues in Dortmund“ GC1MY05",
+  "text" : "@vivianmeally \u201EBlues in Dortmund\u201C GC1MY05",
   "id" : 239328344095719426,
   "in_reply_to_status_id" : 239289218923380736,
   "created_at" : "Sat Aug 25 11:48:18 +0000 2012",
@@ -1805,7 +1805,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "239060510065188864",
   "in_reply_to_user_id" : 52354508,
-  "text" : "@AliCologne 👍",
+  "text" : "@AliCologne \uD83D\uDC4D",
   "id" : 239060510065188864,
   "in_reply_to_status_id" : 239058289256693762,
   "created_at" : "Fri Aug 24 18:04:01 +0000 2012",
@@ -1831,7 +1831,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "239049069056643073",
-  "text" : "Hilfe! Ich werde hier grade mit Jürgen Klopp verglichen …",
+  "text" : "Hilfe! Ich werde hier grade mit J\u00FCrgen Klopp verglichen \u2026",
   "id" : 239049069056643073,
   "created_at" : "Fri Aug 24 17:18:34 +0000 2012",
   "user" : {
@@ -1894,7 +1894,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "238992054162694144",
-  "text" : "Check this out, fancy CSS stuff: http://t.co/6hbX0Xnm” // via @newmetl",
+  "text" : "Check this out, fancy CSS stuff: http://t.co/6hbX0Xnm\u201D // via @newmetl",
   "id" : 238992054162694144,
   "created_at" : "Fri Aug 24 13:32:00 +0000 2012",
   "user" : {
@@ -2033,7 +2033,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Pamski82",
       "protected" : false,
       "id_str" : "19420748",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3231266462/12783eda6de389e4c62f14426c09b563_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3435120418/4e5a2db734042d110f06f273d954ac0f_normal.jpeg",
       "id" : 19420748,
       "verified" : false
     }
@@ -2066,7 +2066,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "238927196398448640",
-  "text" : "RT @Goesselgold: »Ist das SEO oder kann das weg?«",
+  "text" : "RT @Goesselgold: \u00BBIst das SEO oder kann das weg?\u00AB",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
     "entities" : {
@@ -2078,7 +2078,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "238561526770982912",
-    "text" : "»Ist das SEO oder kann das weg?«",
+    "text" : "\u00BBIst das SEO oder kann das weg?\u00AB",
     "id" : 238561526770982912,
     "created_at" : "Thu Aug 23 09:01:14 +0000 2012",
     "user" : {
@@ -2106,7 +2106,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Hans",
+      "name" : "Christian",
       "screen_name" : "lelei",
       "indices" : [ 0, 6 ],
       "id_str" : "19105297",
@@ -2121,7 +2121,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "238753633817223169",
   "in_reply_to_user_id" : 19105297,
-  "text" : "@lelei und was war’s?",
+  "text" : "@lelei und was war\u2019s?",
   "id" : 238753633817223169,
   "in_reply_to_status_id" : 238571134419873792,
   "created_at" : "Thu Aug 23 21:44:36 +0000 2012",
@@ -2137,7 +2137,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://runtastic.com\" rel=\"nofollow\">runtastic</a>",
+  "source" : "<a href=\"http://runtastic.com\" rel=\"nofollow\">Runtastic</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2163,11 +2163,11 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://runtastic.com\" rel=\"nofollow\">runtastic</a>",
+  "source" : "<a href=\"http://runtastic.com\" rel=\"nofollow\">Runtastic</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "runtastic",
-      "screen_name" : "runtastic",
+      "name" : "Runtastic",
+      "screen_name" : "Runtastic",
       "indices" : [ 10, 20 ],
       "id_str" : "20521192",
       "id" : 20521192
@@ -2251,7 +2251,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Carols10cents",
       "protected" : false,
       "id_str" : "194688433",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1362163672/railsconf-gravatar_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3331127290/54b09f963524de26a1e48dc7c505cb8f_normal.jpeg",
       "id" : 194688433,
       "verified" : false
     }
@@ -2435,7 +2435,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "238550763276754945",
-  "text" : "RT @scholt: Für die einen ist es Twitter, für die anderen ist es das größte Gästebuch der Welt.",
+  "text" : "RT @scholt: F\u00FCr die einen ist es Twitter, f\u00FCr die anderen ist es das gr\u00F6\u00DFte G\u00E4stebuch der Welt.",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -2447,7 +2447,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "238322769861951489",
-    "text" : "Für die einen ist es Twitter, für die anderen ist es das größte Gästebuch der Welt.",
+    "text" : "F\u00FCr die einen ist es Twitter, f\u00FCr die anderen ist es das gr\u00F6\u00DFte G\u00E4stebuch der Welt.",
     "id" : 238322769861951489,
     "created_at" : "Wed Aug 22 17:12:30 +0000 2012",
     "user" : {
@@ -2543,7 +2543,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eurucamp 2012",
+      "name" : "eurucamp 2013",
       "screen_name" : "eurucamp",
       "indices" : [ 3, 12 ],
       "id_str" : "263762253",
@@ -2649,11 +2649,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 238233870183567360,
     "created_at" : "Wed Aug 22 11:19:15 +0000 2012",
     "user" : {
-      "name" : "eurucamp 2012",
+      "name" : "eurucamp 2013",
       "screen_name" : "eurucamp",
       "protected" : false,
       "id_str" : "263762253",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2388566722/37gny66xyjkuazqg0a03_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3580858028/f305f2a4c910b7bd22a82ce35b262859_normal.png",
       "id" : 263762253,
       "verified" : false
     }
@@ -2673,7 +2673,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eurucamp 2012",
+      "name" : "eurucamp 2013",
       "screen_name" : "eurucamp",
       "indices" : [ 0, 9 ],
       "id_str" : "263762253",
@@ -2730,7 +2730,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Johannes Ponader",
+      "name" : "Piratin Johannes",
       "screen_name" : "JohannesPonader",
       "indices" : [ 3, 19 ],
       "id_str" : "54545980",
@@ -2743,7 +2743,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "238228573436137472",
-  "text" : "RT @JohannesPonader: Wenn wir mal an der Macht sind, ernennen wir alle Bürger zu Bundespräsidenten. Dann haben wir das mit dem Grundeink ...",
+  "text" : "RT @JohannesPonader: Wenn wir mal an der Macht sind, ernennen wir alle B\u00FCrger zu Bundespr\u00E4sidenten. Dann haben wir das mit dem Grundeink ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -2755,15 +2755,15 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "238076154777571328",
-    "text" : "Wenn wir mal an der Macht sind, ernennen wir alle Bürger zu Bundespräsidenten. Dann haben wir das mit dem Grundeinkommen auch gelöst.",
+    "text" : "Wenn wir mal an der Macht sind, ernennen wir alle B\u00FCrger zu Bundespr\u00E4sidenten. Dann haben wir das mit dem Grundeinkommen auch gel\u00F6st.",
     "id" : 238076154777571328,
     "created_at" : "Wed Aug 22 00:52:33 +0000 2012",
     "user" : {
-      "name" : "Johannes Ponader",
+      "name" : "Piratin Johannes",
       "screen_name" : "JohannesPonader",
       "protected" : false,
       "id_str" : "54545980",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3228052488/bf33fc72b06d2ae955dbf5d3697ab2e4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3543254362/a5698dcc9f9144f8a9d9a5bb5978f9a4_normal.jpeg",
       "id" : 54545980,
       "verified" : false
     }
@@ -2948,7 +2948,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "238040702817300480",
   "in_reply_to_user_id" : 777070,
-  "text" : "@timohetzel ich zahl ja gern für Plus und 300 aber das der Director’s Cut nach 1 1/2 Monaten immer noch nicht da ist find ich enttäuschent!",
+  "text" : "@timohetzel ich zahl ja gern f\u00FCr Plus und 300 aber das der Director\u2019s Cut nach 1 1/2 Monaten immer noch nicht da ist find ich entt\u00E4uschent!",
   "id" : 238040702817300480,
   "in_reply_to_status_id" : 238037576500510721,
   "created_at" : "Tue Aug 21 22:31:40 +0000 2012",
@@ -2982,7 +2982,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "238037400440426496",
   "in_reply_to_user_id" : 777070,
-  "text" : "@timohetzel wann kommt den endlich der Director’s Cut?",
+  "text" : "@timohetzel wann kommt den endlich der Director\u2019s Cut?",
   "id" : 238037400440426496,
   "in_reply_to_status_id" : 238022156414500865,
   "created_at" : "Tue Aug 21 22:18:33 +0000 2012",
@@ -3035,7 +3035,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Klaus Löfflad",
+      "name" : "Klaus L\u00F6fflad",
       "screen_name" : "MagisterNavis",
       "indices" : [ 3, 17 ],
       "id_str" : "15321182",
@@ -3050,13 +3050,13 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 101, 121 ],
       "url" : "http://t.co/I0ys9duE",
       "expanded_url" : "http://www.youtube.com/watch?v=jWqqtybjzXE&feature=youtu.be",
-      "display_url" : "youtube.com/watch?v=jWqqty…"
+      "display_url" : "youtube.com/watch?v=jWqqty\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "238006443058544640",
-  "text" : "RT @MagisterNavis: Der #iTypewriter: eine Schreibmaschine, die die virtuellen Tasten am iPad drückt. http://t.co/I0ys9duE",
+  "text" : "RT @MagisterNavis: Der #iTypewriter: eine Schreibmaschine, die die virtuellen Tasten am iPad dr\u00FCckt. http://t.co/I0ys9duE",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
     "entities" : {
@@ -3070,17 +3070,17 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 82, 102 ],
         "url" : "http://t.co/I0ys9duE",
         "expanded_url" : "http://www.youtube.com/watch?v=jWqqtybjzXE&feature=youtu.be",
-        "display_url" : "youtube.com/watch?v=jWqqty…"
+        "display_url" : "youtube.com/watch?v=jWqqty\u2026"
       } ]
     },
     "geo" : {
     },
     "id_str" : "237986069960851456",
-    "text" : "Der #iTypewriter: eine Schreibmaschine, die die virtuellen Tasten am iPad drückt. http://t.co/I0ys9duE",
+    "text" : "Der #iTypewriter: eine Schreibmaschine, die die virtuellen Tasten am iPad dr\u00FCckt. http://t.co/I0ys9duE",
     "id" : 237986069960851456,
     "created_at" : "Tue Aug 21 18:54:35 +0000 2012",
     "user" : {
-      "name" : "Klaus Löfflad",
+      "name" : "Klaus L\u00F6fflad",
       "screen_name" : "MagisterNavis",
       "protected" : false,
       "id_str" : "15321182",
@@ -3132,7 +3132,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -3147,7 +3147,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "237973018222137344",
   "in_reply_to_user_id" : 18448838,
-  "text" : "@echt früher im Freibad nannte man Leute wie dich Spanner ;)",
+  "text" : "@echt fr\u00FCher im Freibad nannte man Leute wie dich Spanner ;)",
   "id" : 237973018222137344,
   "in_reply_to_status_id" : 237969966412992512,
   "created_at" : "Tue Aug 21 18:02:43 +0000 2012",
@@ -3166,7 +3166,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -3200,7 +3200,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -3234,7 +3234,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -3249,7 +3249,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "237957329608388608",
   "in_reply_to_user_id" : 18448838,
-  "text" : "@echt wahrscheinlich weil alle anderen Gäste nicht so postprivacy sind wie du",
+  "text" : "@echt wahrscheinlich weil alle anderen G\u00E4ste nicht so postprivacy sind wie du",
   "id" : 237957329608388608,
   "in_reply_to_status_id" : 237956512654442496,
   "created_at" : "Tue Aug 21 17:00:23 +0000 2012",
@@ -3281,7 +3281,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "237956599820480512",
-  "text" : "RT @ReinhardSchinka: Joggerin mit rotem Kopf läuft am Haus vorbei. Ich nuckle am 4. Energydrink und schmunzle bei dem Gedanken, dass wir ...",
+  "text" : "RT @ReinhardSchinka: Joggerin mit rotem Kopf l\u00E4uft am Haus vorbei. Ich nuckle am 4. Energydrink und schmunzle bei dem Gedanken, dass wir ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -3293,7 +3293,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "237948438178852864",
-    "text" : "Joggerin mit rotem Kopf läuft am Haus vorbei. Ich nuckle am 4. Energydrink und schmunzle bei dem Gedanken, dass wir den gleichen Puls haben.",
+    "text" : "Joggerin mit rotem Kopf l\u00E4uft am Haus vorbei. Ich nuckle am 4. Energydrink und schmunzle bei dem Gedanken, dass wir den gleichen Puls haben.",
     "id" : 237948438178852864,
     "created_at" : "Tue Aug 21 16:25:03 +0000 2012",
     "user" : {
@@ -3355,7 +3355,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "翔",
+      "name" : "\u7FD4",
       "screen_name" : "stardriver88",
       "indices" : [ 3, 16 ],
       "id_str" : "1002166920",
@@ -3368,7 +3368,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "237904289706672128",
-  "text" : "RT @stardriver88: Werde Heute gegen 22:30Uhr im Gorillakostüm schreiend in des Schlafzimmer der Kinder stürmen. Dann wissen sie wie es m ...",
+  "text" : "RT @stardriver88: Werde Heute gegen 22:30Uhr im Gorillakost\u00FCm schreiend in des Schlafzimmer der Kinder st\u00FCrmen. Dann wissen sie wie es m ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "entities" : {
@@ -3380,7 +3380,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "237902202394525696",
-    "text" : "Werde Heute gegen 22:30Uhr im Gorillakostüm schreiend in des Schlafzimmer der Kinder stürmen. Dann wissen sie wie es mir Samstagmorgen geht.",
+    "text" : "Werde Heute gegen 22:30Uhr im Gorillakost\u00FCm schreiend in des Schlafzimmer der Kinder st\u00FCrmen. Dann wissen sie wie es mir Samstagmorgen geht.",
     "id" : 237902202394525696,
     "created_at" : "Tue Aug 21 13:21:19 +0000 2012",
     "user" : {
@@ -3420,7 +3420,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 37, 58 ],
       "url" : "https://t.co/73D0VAY0",
       "expanded_url" : "https://github.com/travis-ci/travis-worker/pull/39#issuecomment-7900270",
-      "display_url" : "github.com/travis-ci/trav…"
+      "display_url" : "github.com/travis-ci/trav\u2026"
     } ]
   },
   "geo" : {
@@ -3437,7 +3437,7 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 28, 49 ],
         "url" : "https://t.co/73D0VAY0",
         "expanded_url" : "https://github.com/travis-ci/travis-worker/pull/39#issuecomment-7900270",
-        "display_url" : "github.com/travis-ci/trav…"
+        "display_url" : "github.com/travis-ci/trav\u2026"
       } ]
     },
     "geo" : {
@@ -3451,7 +3451,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "j2h",
       "protected" : false,
       "id_str" : "16601619",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2343215532/fy04ongwx17m5sbjzm0a_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3407676512/4c602d24435781de2322e2b5fa99045e_normal.jpeg",
       "id" : 16601619,
       "verified" : false
     }
@@ -3486,7 +3486,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "237899282596900864",
   "in_reply_to_user_id" : 16663465,
-  "text" : "@newmetl bei mir ist es schon soweit, zögere aber noch …",
+  "text" : "@newmetl bei mir ist es schon soweit, z\u00F6gere aber noch \u2026",
   "id" : 237899282596900864,
   "in_reply_to_status_id" : 237898600439508992,
   "created_at" : "Tue Aug 21 13:09:43 +0000 2012",
@@ -3505,7 +3505,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Klaus Löfflad",
+      "name" : "Klaus L\u00F6fflad",
       "screen_name" : "MagisterNavis",
       "indices" : [ 0, 14 ],
       "id_str" : "15321182",
@@ -3643,7 +3643,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "237863131706171393",
-  "text" : "i have reed this on the @arrrrcamp speakers page:\n“He's been writing HTML since the &lt;font&gt; tag was cool.”\nbut the &lt;font&gt; tag never was cool!",
+  "text" : "i have reed this on the @arrrrcamp speakers page:\n\u201CHe's been writing HTML since the &lt;font&gt; tag was cool.\u201D\nbut the &lt;font&gt; tag never was cool!",
   "id" : 237863131706171393,
   "created_at" : "Tue Aug 21 10:46:04 +0000 2012",
   "user" : {
@@ -3700,7 +3700,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "237855981076348928",
-  "text" : "muss dieser Müllabfuhrwagen ausgerechnet vor meinem Fenster Mittagspause machen?",
+  "text" : "muss dieser M\u00FCllabfuhrwagen ausgerechnet vor meinem Fenster Mittagspause machen?",
   "id" : 237855981076348928,
   "created_at" : "Tue Aug 21 10:17:39 +0000 2012",
   "user" : {
@@ -3889,7 +3889,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Agent_Dexter",
       "protected" : false,
       "id_str" : "22347534",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3235990291/a5d1c990700e65733df41d4f28132c2c_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3522224077/3fb53ca95c2b14bfdd727c777e6c7010_normal.jpeg",
       "id" : 22347534,
       "verified" : false
     }
@@ -3922,7 +3922,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "237824525268574209",
-  "text" : "RT @klaustopher: Flash Update will Adminrechte. Ich hab ein Gefühl als würd ich auf der Defcon stehen und zu rufen \"Mein Root Passwort i ...",
+  "text" : "RT @klaustopher: Flash Update will Adminrechte. Ich hab ein Gef\u00FChl als w\u00FCrd ich auf der Defcon stehen und zu rufen \"Mein Root Passwort i ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -3934,7 +3934,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "237655451968368641",
-    "text" : "Flash Update will Adminrechte. Ich hab ein Gefühl als würd ich auf der Defcon stehen und zu rufen \"Mein Root Passwort ist 1234. Hack me\"",
+    "text" : "Flash Update will Adminrechte. Ich hab ein Gef\u00FChl als w\u00FCrd ich auf der Defcon stehen und zu rufen \"Mein Root Passwort ist 1234. Hack me\"",
     "id" : 237655451968368641,
     "created_at" : "Mon Aug 20 21:00:49 +0000 2012",
     "user" : {
@@ -3942,7 +3942,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "klaustopher",
       "protected" : false,
       "id_str" : "41772499",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2706149879/b7fe257f2694939d65389251e7d114be_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3323388913/b2caec7efff9e70b1c57314735b382be_normal.jpeg",
       "id" : 41772499,
       "verified" : false
     }
@@ -3962,7 +3962,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ateş",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "indices" : [ 0, 9 ],
       "id_str" : "22253",
@@ -3977,7 +3977,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "237823351924609024",
   "in_reply_to_user_id" : 22253,
-  "text" : "@KuraFire reply’s",
+  "text" : "@KuraFire reply\u2019s",
   "id" : 237823351924609024,
   "in_reply_to_status_id" : 237645697510424576,
   "created_at" : "Tue Aug 21 08:08:00 +0000 2012",
@@ -4002,7 +4002,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "129553128",
       "id" : 129553128
     }, {
-      "name" : "eurucamp 2012",
+      "name" : "eurucamp 2013",
       "screen_name" : "eurucamp",
       "indices" : [ 27, 36 ],
       "id_str" : "263762253",
@@ -4014,7 +4014,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 47, 67 ],
       "url" : "http://t.co/TN3aRDY3",
       "expanded_url" : "http://bitboxer.de/2012/08/20/eurucamp-2012",
-      "display_url" : "bitboxer.de/2012/08/20/eur…"
+      "display_url" : "bitboxer.de/2012/08/20/eur\u2026"
     } ]
   },
   "geo" : {
@@ -4025,7 +4025,7 @@ Grailbird.data.tweets_2012_08 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "eurucamp 2012",
+        "name" : "eurucamp 2013",
         "screen_name" : "eurucamp",
         "indices" : [ 13, 22 ],
         "id_str" : "263762253",
@@ -4037,7 +4037,7 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 33, 53 ],
         "url" : "http://t.co/TN3aRDY3",
         "expanded_url" : "http://bitboxer.de/2012/08/20/eurucamp-2012",
-        "display_url" : "bitboxer.de/2012/08/20/eur…"
+        "display_url" : "bitboxer.de/2012/08/20/eur\u2026"
       } ]
     },
     "geo" : {
@@ -4071,7 +4071,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Thomas \"Balu\" Walter",
+      "name" : "Thomas Balu Walter",
       "screen_name" : "balu",
       "indices" : [ 0, 5 ],
       "id_str" : "10078652",
@@ -4124,7 +4124,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "237650690523136000",
-  "text" : "RT @klaustopher: Mein Mitleid an alle, die Android&lt;4.1 nutzen müssen. Guckt ihr eure Filme am Fernseher auch auf 20fps? Selbst heise. ...",
+  "text" : "RT @klaustopher: Mein Mitleid an alle, die Android&lt;4.1 nutzen m\u00FCssen. Guckt ihr eure Filme am Fernseher auch auf 20fps? Selbst heise. ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
@@ -4136,7 +4136,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "237591341700366336",
-    "text" : "Mein Mitleid an alle, die Android&lt;4.1 nutzen müssen. Guckt ihr eure Filme am Fernseher auch auf 20fps? Selbst heise.de ruckelt beim scrollen",
+    "text" : "Mein Mitleid an alle, die Android&lt;4.1 nutzen m\u00FCssen. Guckt ihr eure Filme am Fernseher auch auf 20fps? Selbst heise.de ruckelt beim scrollen",
     "id" : 237591341700366336,
     "created_at" : "Mon Aug 20 16:46:04 +0000 2012",
     "user" : {
@@ -4144,7 +4144,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "klaustopher",
       "protected" : false,
       "id_str" : "41772499",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2706149879/b7fe257f2694939d65389251e7d114be_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3323388913/b2caec7efff9e70b1c57314735b382be_normal.jpeg",
       "id" : 41772499,
       "verified" : false
     }
@@ -4197,7 +4197,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "rzwodezwo",
       "protected" : false,
       "id_str" : "25992708",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3124246995/341ea3786d758b0a2d6f213743b7c07f_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3425862913/6df66d8323c541ec72681ecdbfab049d_normal.jpeg",
       "id" : 25992708,
       "verified" : false
     }
@@ -4305,7 +4305,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 66, 87 ],
       "url" : "https://t.co/1Xa2LXt9",
       "expanded_url" : "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash4/391224_4401674450452_1493005163_n.jpg",
-      "display_url" : "fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash…"
+      "display_url" : "fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash\u2026"
     } ]
   },
   "geo" : {
@@ -4322,7 +4322,7 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 45, 66 ],
         "url" : "https://t.co/1Xa2LXt9",
         "expanded_url" : "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash4/391224_4401674450452_1493005163_n.jpg",
-        "display_url" : "fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash…"
+        "display_url" : "fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash\u2026"
       } ]
     },
     "geo" : {
@@ -4336,7 +4336,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "konstantinhaase",
       "protected" : false,
       "id_str" : "16997374",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2727355820/45aa6a841c8110f918decaf19e888211_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3366144687/62850383d5b4dae925d9741dfc445dfc_normal.jpeg",
       "id" : 16997374,
       "verified" : false
     }
@@ -4356,7 +4356,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ᗰᗩᑭ",
+      "name" : "\u15F0\u15E9\u146D",
       "screen_name" : "map",
       "indices" : [ 3, 7 ],
       "id_str" : "6256252",
@@ -4420,7 +4420,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 237191696071401472,
     "created_at" : "Sun Aug 19 14:18:02 +0000 2012",
     "user" : {
-      "name" : "ᗰᗩᑭ",
+      "name" : "\u15F0\u15E9\u146D",
       "screen_name" : "map",
       "protected" : false,
       "id_str" : "6256252",
@@ -4459,7 +4459,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "237326299306270721",
   "in_reply_to_user_id" : 93881849,
-  "text" : "@artemave it is a scoreboard, but I’m not sure for witch game, snooker?",
+  "text" : "@artemave it is a scoreboard, but I\u2019m not sure for witch game, snooker?",
   "id" : 237326299306270721,
   "in_reply_to_status_id" : 237180484705198080,
   "created_at" : "Sun Aug 19 23:12:53 +0000 2012",
@@ -4488,7 +4488,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "237233989990105088",
-  "text" : "Bei PHP bekommt der Begriff Unkonferenz ne völlig neue Bedeutung #phpunconf",
+  "text" : "Bei PHP bekommt der Begriff Unkonferenz ne v\u00F6llig neue Bedeutung #phpunconf",
   "id" : 237233989990105088,
   "created_at" : "Sun Aug 19 17:06:05 +0000 2012",
   "user" : {
@@ -4511,7 +4511,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "237232897613000705",
-  "text" : "15 Min. Verspätung aus vorheriger Fahrt, das fängt ja gut an",
+  "text" : "15 Min. Versp\u00E4tung aus vorheriger Fahrt, das f\u00E4ngt ja gut an",
   "id" : 237232897613000705,
   "created_at" : "Sun Aug 19 17:01:45 +0000 2012",
   "user" : {
@@ -4639,7 +4639,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "237204295592837120",
-  "text" : "Wenn ich mein iPhone in die Hand nehme, weis ich warum es auf Metal und Glass ist, währe es aus Plastik würde es schon brennen",
+  "text" : "Wenn ich mein iPhone in die Hand nehme, weis ich warum es auf Metal und Glass ist, w\u00E4hre es aus Plastik w\u00FCrde es schon brennen",
   "id" : 237204295592837120,
   "created_at" : "Sun Aug 19 15:08:05 +0000 2012",
   "user" : {
@@ -4685,7 +4685,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eurucamp 2012",
+      "name" : "eurucamp 2013",
       "screen_name" : "eurucamp",
       "indices" : [ 9, 18 ],
       "id_str" : "263762253",
@@ -4965,7 +4965,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "236923295310688256",
-  "text" : "Das nen ich mal nen aussagekräftiges Label http://t.co/fUD13w8V",
+  "text" : "Das nen ich mal nen aussagekr\u00E4ftiges Label http://t.co/fUD13w8V",
   "id" : 236923295310688256,
   "created_at" : "Sat Aug 18 20:31:30 +0000 2012",
   "user" : {
@@ -5037,7 +5037,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "236916883520122881",
   "in_reply_to_user_id" : 10934052,
-  "text" : "Dialog:\n@DASGiB „lass uns den besten Burger der Stadt essen“\nIch „wo treffen wir uns?“\n@DASGiB „vor McDonald’s“",
+  "text" : "Dialog:\n@DASGiB \u201Elass uns den besten Burger der Stadt essen\u201C\nIch \u201Ewo treffen wir uns?\u201C\n@DASGiB \u201Evor McDonald\u2019s\u201C",
   "id" : 236916883520122881,
   "created_at" : "Sat Aug 18 20:06:01 +0000 2012",
   "in_reply_to_screen_name" : "DASGiB",
@@ -5062,7 +5062,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "236909242685194242",
-  "text" : "und ab ins Berliner Nachtleben …",
+  "text" : "und ab ins Berliner Nachtleben \u2026",
   "id" : 236909242685194242,
   "created_at" : "Sat Aug 18 19:35:39 +0000 2012",
   "user" : {
@@ -5211,7 +5211,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "236395443221848065",
-  "text" : "RT @tcaspers: $Möchtegernneukunde will Infos zu meiner Ausbildung. Äääääh, ich bin nicht ausgebildet, ich bilde aus … #wtf",
+  "text" : "RT @tcaspers: $M\u00F6chtegernneukunde will Infos zu meiner Ausbildung. \u00C4\u00E4\u00E4\u00E4\u00E4h, ich bin nicht ausgebildet, ich bilde aus \u2026 #wtf",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -5226,7 +5226,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "236357255522549760",
-    "text" : "$Möchtegernneukunde will Infos zu meiner Ausbildung. Äääääh, ich bin nicht ausgebildet, ich bilde aus … #wtf",
+    "text" : "$M\u00F6chtegernneukunde will Infos zu meiner Ausbildung. \u00C4\u00E4\u00E4\u00E4\u00E4h, ich bin nicht ausgebildet, ich bilde aus \u2026 #wtf",
     "id" : 236357255522549760,
     "created_at" : "Fri Aug 17 07:02:15 +0000 2012",
     "user" : {
@@ -5254,7 +5254,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eurucamp 2012",
+      "name" : "eurucamp 2013",
       "screen_name" : "eurucamp",
       "indices" : [ 0, 9 ],
       "id_str" : "263762253",
@@ -5275,7 +5275,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "236377480146063360",
   "in_reply_to_user_id" : 263762253,
-  "text" : "@eurucamp (@ Hotel Müggelsee w/ 4 others) http://t.co/fyVlpodO",
+  "text" : "@eurucamp (@ Hotel M\u00FCggelsee w/ 4 others) http://t.co/fyVlpodO",
   "id" : 236377480146063360,
   "created_at" : "Fri Aug 17 08:22:37 +0000 2012",
   "in_reply_to_screen_name" : "eurucamp",
@@ -5306,7 +5306,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "236267546301591552",
-  "text" : "RT @zitate: Der Optimist erklärt, dass wir in der besten aller Welten leben, und der Pessimist fürchtet, dass dies wahr ist.\n     \n*Jame ...",
+  "text" : "RT @zitate: Der Optimist erkl\u00E4rt, dass wir in der besten aller Welten leben, und der Pessimist f\u00FCrchtet, dass dies wahr ist.\n     \n*Jame ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://blog.QRum.bz/tags/twitterbot/?utm_source=twitter&utm_medium=applink&utm_campaign=twitterbot_zitate\" rel=\"nofollow\">wandernde Zitate</a>",
     "entities" : {
@@ -5320,7 +5320,7 @@ Grailbird.data.tweets_2012_08 =
       "coordinates" : [ 47.14233, 7.51377 ]
     },
     "id_str" : "236251012313260033",
-    "text" : "Der Optimist erklärt, dass wir in der besten aller Welten leben, und der Pessimist fürchtet, dass dies wahr ist.\n     \n*James Branch Cabell*",
+    "text" : "Der Optimist erkl\u00E4rt, dass wir in der besten aller Welten leben, und der Pessimist f\u00FCrchtet, dass dies wahr ist.\n     \n*James Branch Cabell*",
     "id" : 236251012313260033,
     "created_at" : "Fri Aug 17 00:00:05 +0000 2012",
     "user" : {
@@ -5363,7 +5363,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "236261468725719040",
   "in_reply_to_user_id" : 1321591,
-  "text" : "@koos wo fährt den der N8 an der Friedrichstrasse ab? ;)",
+  "text" : "@koos wo f\u00E4hrt den der N8 an der Friedrichstrasse ab? ;)",
   "id" : 236261468725719040,
   "in_reply_to_status_id" : 236251156236599296,
   "created_at" : "Fri Aug 17 00:41:38 +0000 2012",
@@ -5389,7 +5389,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "236239507765198848",
-  "text" : "Also Berlin das mit dem ausschildern der Bushaltestellen üben wir aber noch mal",
+  "text" : "Also Berlin das mit dem ausschildern der Bushaltestellen \u00FCben wir aber noch mal",
   "id" : 236239507765198848,
   "created_at" : "Thu Aug 16 23:14:22 +0000 2012",
   "user" : {
@@ -5419,7 +5419,7 @@ Grailbird.data.tweets_2012_08 =
     "coordinates" : [ 52.5251514799, 13.3692884445 ]
   },
   "id_str" : "236225352236666882",
-  "text" : "Was die Öffnungszeiten der Läden ist das hier ja eher provinziell (@ Berlin Hauptbahnhof w/ 5 others) http://t.co/PlxK1bp3",
+  "text" : "Was die \u00D6ffnungszeiten der L\u00E4den ist das hier ja eher provinziell (@ Berlin Hauptbahnhof w/ 5 others) http://t.co/PlxK1bp3",
   "id" : 236225352236666882,
   "created_at" : "Thu Aug 16 22:18:07 +0000 2012",
   "user" : {
@@ -5473,7 +5473,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "236198000781832192",
   "in_reply_to_user_id" : 26383033,
-  "text" : "@lippling und hat’s spaß gemacht?",
+  "text" : "@lippling und hat\u2019s spa\u00DF gemacht?",
   "id" : 236198000781832192,
   "in_reply_to_status_id" : 236192862482624512,
   "created_at" : "Thu Aug 16 20:29:26 +0000 2012",
@@ -5562,7 +5562,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "236188464926826497",
-  "text" : "RT @SimSullen: die frühen 90er haben angerufen und wollen ihre hotels ohne internet zurück haben. orrr!",
+  "text" : "RT @SimSullen: die fr\u00FChen 90er haben angerufen und wollen ihre hotels ohne internet zur\u00FCck haben. orrr!",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -5574,7 +5574,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "236175709691858944",
-    "text" : "die frühen 90er haben angerufen und wollen ihre hotels ohne internet zurück haben. orrr!",
+    "text" : "die fr\u00FChen 90er haben angerufen und wollen ihre hotels ohne internet zur\u00FCck haben. orrr!",
     "id" : 236175709691858944,
     "created_at" : "Thu Aug 16 19:00:51 +0000 2012",
     "user" : {
@@ -5798,7 +5798,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eurucamp 2012",
+      "name" : "eurucamp 2013",
       "screen_name" : "eurucamp",
       "indices" : [ 11, 20 ],
       "id_str" : "263762253",
@@ -5848,7 +5848,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "236070748740022272",
-  "text" : "RT @EbbeSand: Nur nicht nach #Bielefeld… http://t.co/SCike5jE",
+  "text" : "RT @EbbeSand: Nur nicht nach #Bielefeld\u2026 http://t.co/SCike5jE",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
     "entities" : {
@@ -5868,7 +5868,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "235846856880562176",
-    "text" : "Nur nicht nach #Bielefeld… http://t.co/SCike5jE",
+    "text" : "Nur nicht nach #Bielefeld\u2026 http://t.co/SCike5jE",
     "id" : 235846856880562176,
     "created_at" : "Wed Aug 15 21:14:07 +0000 2012",
     "user" : {
@@ -5911,7 +5911,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "236026410131656704",
   "in_reply_to_user_id" : 14122938,
-  "text" : "@SimSullen was machst du den da für eine Tour?",
+  "text" : "@SimSullen was machst du den da f\u00FCr eine Tour?",
   "id" : 236026410131656704,
   "in_reply_to_status_id" : 235848199347253248,
   "created_at" : "Thu Aug 16 09:07:35 +0000 2012",
@@ -5943,7 +5943,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "236026001421922304",
-  "text" : "RT @haekelschwein: Nur 0,0008 Prozent der Göttinger Bevölkerung liegt in meinem Bett. Mittelfristig strebe ich 0,0016 Prozent an.",
+  "text" : "RT @haekelschwein: Nur 0,0008 Prozent der G\u00F6ttinger Bev\u00F6lkerung liegt in meinem Bett. Mittelfristig strebe ich 0,0016 Prozent an.",
   "retweeted_status" : {
     "source" : "<a href=\"http://birdhouseapp.com\" rel=\"nofollow\">Birdhouse</a>",
     "entities" : {
@@ -5955,7 +5955,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "235846848752009217",
-    "text" : "Nur 0,0008 Prozent der Göttinger Bevölkerung liegt in meinem Bett. Mittelfristig strebe ich 0,0016 Prozent an.",
+    "text" : "Nur 0,0008 Prozent der G\u00F6ttinger Bev\u00F6lkerung liegt in meinem Bett. Mittelfristig strebe ich 0,0016 Prozent an.",
     "id" : 235846848752009217,
     "created_at" : "Wed Aug 15 21:14:05 +0000 2012",
     "user" : {
@@ -6016,7 +6016,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Enigma424",
       "protected" : false,
       "id_str" : "24397949",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2495760385/sv9guqvzd6m1ife4wt07_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3581202990/9fca3ab88584a74cb47bd4df48306222_normal.jpeg",
       "id" : 24397949,
       "verified" : false
     }
@@ -6036,7 +6036,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Hans",
+      "name" : "Christian",
       "screen_name" : "lelei",
       "indices" : [ 0, 6 ],
       "id_str" : "19105297",
@@ -6104,7 +6104,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Hans",
+      "name" : "Christian",
       "screen_name" : "lelei",
       "indices" : [ 0, 6 ],
       "id_str" : "19105297",
@@ -6151,7 +6151,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "235706466672205824",
-  "text" : "RT @mr_piwell: hmm, Atomstrom wollen wir nicht mehr, kohle sollen wir nicht mehr, sonne ist pleite und wind noch nicht fertig. ich geh‘  ...",
+  "text" : "RT @mr_piwell: hmm, Atomstrom wollen wir nicht mehr, kohle sollen wir nicht mehr, sonne ist pleite und wind noch nicht fertig. ich geh\u2018  ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "entities" : {
@@ -6163,7 +6163,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "235695316819652608",
-    "text" : "hmm, Atomstrom wollen wir nicht mehr, kohle sollen wir nicht mehr, sonne ist pleite und wind noch nicht fertig. ich geh‘ Hamster kaufen.",
+    "text" : "hmm, Atomstrom wollen wir nicht mehr, kohle sollen wir nicht mehr, sonne ist pleite und wind noch nicht fertig. ich geh\u2018 Hamster kaufen.",
     "id" : 235695316819652608,
     "created_at" : "Wed Aug 15 11:11:57 +0000 2012",
     "user" : {
@@ -6207,7 +6207,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "235503344985178116",
-  "text" : "RT @bov: #BER wird wieder verschoben. Wowereit ist einfach eine coole Sau. Macht diese \"Prokrastination\" tatsächlich zur Staatsdoktrin.",
+  "text" : "RT @bov: #BER wird wieder verschoben. Wowereit ist einfach eine coole Sau. Macht diese \"Prokrastination\" tats\u00E4chlich zur Staatsdoktrin.",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -6222,7 +6222,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "235487462342918144",
-    "text" : "#BER wird wieder verschoben. Wowereit ist einfach eine coole Sau. Macht diese \"Prokrastination\" tatsächlich zur Staatsdoktrin.",
+    "text" : "#BER wird wieder verschoben. Wowereit ist einfach eine coole Sau. Macht diese \"Prokrastination\" tats\u00E4chlich zur Staatsdoktrin.",
     "id" : 235487462342918144,
     "created_at" : "Tue Aug 14 21:26:00 +0000 2012",
     "user" : {
@@ -6378,7 +6378,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "235319908580347905",
-  "text" : "Ich hin froh wenn die Ferien- / Urlaubszeit vorbei ist und die Bahnen endlich wieder den „normalen“ Bahnfahrern gehören",
+  "text" : "Ich hin froh wenn die Ferien- / Urlaubszeit vorbei ist und die Bahnen endlich wieder den \u201Enormalen\u201C Bahnfahrern geh\u00F6ren",
   "id" : 235319908580347905,
   "created_at" : "Tue Aug 14 10:20:12 +0000 2012",
   "user" : {
@@ -6453,7 +6453,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "235297959867211776",
-  "text" : "so das @telekom Premieren-Ticket ist gesichert, danke an @pottblog für den Online Tip http://t.co/WChDdjCj",
+  "text" : "so das @telekom Premieren-Ticket ist gesichert, danke an @pottblog f\u00FCr den Online Tip http://t.co/WChDdjCj",
   "id" : 235297959867211776,
   "created_at" : "Tue Aug 14 08:52:59 +0000 2012",
   "user" : {
@@ -6622,7 +6622,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "235140717981351937",
-  "text" : "RT @Propinja: Ich wohn auch in Hamburg, weil man ausgewachsenen, 50 Jahre älteren Männern \"Schüss Jungs!\" hinterher rufen darf und als w ...",
+  "text" : "RT @Propinja: Ich wohn auch in Hamburg, weil man ausgewachsenen, 50 Jahre \u00E4lteren M\u00E4nnern \"Sch\u00FCss Jungs!\" hinterher rufen darf und als w ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
@@ -6634,7 +6634,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "235085666822791168",
-    "text" : "Ich wohn auch in Hamburg, weil man ausgewachsenen, 50 Jahre älteren Männern \"Schüss Jungs!\" hinterher rufen darf und als wohlerzogen gilt.",
+    "text" : "Ich wohn auch in Hamburg, weil man ausgewachsenen, 50 Jahre \u00E4lteren M\u00E4nnern \"Sch\u00FCss Jungs!\" hinterher rufen darf und als wohlerzogen gilt.",
     "id" : 235085666822791168,
     "created_at" : "Mon Aug 13 18:49:25 +0000 2012",
     "user" : {
@@ -6669,7 +6669,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "235139696001421312",
-  "text" : "3Sat sollte sein Programm überarbeiten, um 0:22 kommt „10 vor 10“",
+  "text" : "3Sat sollte sein Programm \u00FCberarbeiten, um 0:22 kommt \u201E10 vor 10\u201C",
   "id" : 235139696001421312,
   "created_at" : "Mon Aug 13 22:24:06 +0000 2012",
   "user" : {
@@ -6704,7 +6704,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "235139090587197440",
-  "text" : "RT @nico_kirch: Für jedes Join stirbt ein Kätzchen. #Datenbanken #wmfra  #40",
+  "text" : "RT @nico_kirch: F\u00FCr jedes Join stirbt ein K\u00E4tzchen. #Datenbanken #wmfra  #40",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -6722,7 +6722,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "235071938853208064",
-    "text" : "Für jedes Join stirbt ein Kätzchen. #Datenbanken #wmfra  #40",
+    "text" : "F\u00FCr jedes Join stirbt ein K\u00E4tzchen. #Datenbanken #wmfra  #40",
     "id" : 235071938853208064,
     "created_at" : "Mon Aug 13 17:54:52 +0000 2012",
     "user" : {
@@ -6730,7 +6730,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "nico_kirch",
       "protected" : false,
       "id_str" : "85773008",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2208795634/Nico_Kirch_twitter_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3525505299/468747dbb65825885b2855dd94f0b61c_normal.png",
       "id" : 85773008,
       "verified" : false
     }
@@ -6763,7 +6763,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "235137142454616064",
-  "text" : "RT @__ole__: Chili gekocht, gegessen, gefurzt. \n\nErweitere mein Xing-Profil um „Erfahrung in Planung, Konstruktion, Bau und Umsetzung vo ...",
+  "text" : "RT @__ole__: Chili gekocht, gegessen, gefurzt. \n\nErweitere mein Xing-Profil um \u201EErfahrung in Planung, Konstruktion, Bau und Umsetzung vo ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -6775,7 +6775,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "234969501245005824",
-    "text" : "Chili gekocht, gegessen, gefurzt. \n\nErweitere mein Xing-Profil um „Erfahrung in Planung, Konstruktion, Bau und Umsetzung von Biogasanlagen.“",
+    "text" : "Chili gekocht, gegessen, gefurzt. \n\nErweitere mein Xing-Profil um \u201EErfahrung in Planung, Konstruktion, Bau und Umsetzung von Biogasanlagen.\u201C",
     "id" : 234969501245005824,
     "created_at" : "Mon Aug 13 11:07:49 +0000 2012",
     "user" : {
@@ -7186,7 +7186,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "233714478129238017",
-  "text" : "RT @zeitweise: 13 Zoll MacBookPro (2008) gewinnt überraschend Gold im Beachballing.",
+  "text" : "RT @zeitweise: 13 Zoll MacBookPro (2008) gewinnt \u00FCberraschend Gold im Beachballing.",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -7198,7 +7198,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "233671718886076416",
-    "text" : "13 Zoll MacBookPro (2008) gewinnt überraschend Gold im Beachballing.",
+    "text" : "13 Zoll MacBookPro (2008) gewinnt \u00FCberraschend Gold im Beachballing.",
     "id" : 233671718886076416,
     "created_at" : "Thu Aug 09 21:10:53 +0000 2012",
     "user" : {
@@ -7241,7 +7241,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "233712048398270464",
   "in_reply_to_user_id" : 28508951,
-  "text" : "@moonbeamlabs that’s true, i hope that it don’t would be the new Gitx",
+  "text" : "@moonbeamlabs that\u2019s true, i hope that it don\u2019t would be the new Gitx",
   "id" : 233712048398270464,
   "in_reply_to_status_id" : 233703695399911424,
   "created_at" : "Thu Aug 09 23:51:09 +0000 2012",
@@ -7275,7 +7275,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "233703023367553024",
   "in_reply_to_user_id" : 28508951,
-  "text" : "@moonbeamlabs i see that different, now I can fix the bugs by my self and don’t need to wait for an long update turn ;)",
+  "text" : "@moonbeamlabs i see that different, now I can fix the bugs by my self and don\u2019t need to wait for an long update turn ;)",
   "id" : 233703023367553024,
   "in_reply_to_status_id" : 233651377434423298,
   "created_at" : "Thu Aug 09 23:15:17 +0000 2012",
@@ -7418,7 +7418,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "233701747741323264",
-  "text" : "Things Sync von @culturedcode ist ja schön und gut, kommt aber 3 Jahre zu spät und fühlt sich ohne iCloud Unterstützung an wie aus den 90ern",
+  "text" : "Things Sync von @culturedcode ist ja sch\u00F6n und gut, kommt aber 3 Jahre zu sp\u00E4t und f\u00FChlt sich ohne iCloud Unterst\u00FCtzung an wie aus den 90ern",
   "id" : 233701747741323264,
   "created_at" : "Thu Aug 09 23:10:13 +0000 2012",
   "user" : {
@@ -7441,7 +7441,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "233700526276108289",
-  "text" : "Ich liebe dieses Gefühl wenn am Ende eines Tweets der Zeichencounter auf 0 steht, so wie es bei diesem Tweet wieder der Fall seihen wird ...",
+  "text" : "Ich liebe dieses Gef\u00FChl wenn am Ende eines Tweets der Zeichencounter auf 0 steht, so wie es bei diesem Tweet wieder der Fall seihen wird ...",
   "id" : 233700526276108289,
   "created_at" : "Thu Aug 09 23:05:22 +0000 2012",
   "user" : {
@@ -7464,7 +7464,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "233699882072952832",
-  "text" : "Erst den ganzen Tag auf das iOS Things Update warten und dann feststellen das ich Things vor langem wegen des mangelnden Syncs gelöscht habe",
+  "text" : "Erst den ganzen Tag auf das iOS Things Update warten und dann feststellen das ich Things vor langem wegen des mangelnden Syncs gel\u00F6scht habe",
   "id" : 233699882072952832,
   "created_at" : "Thu Aug 09 23:02:48 +0000 2012",
   "user" : {
@@ -7527,7 +7527,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "233694650727280641",
-  "text" : "RT @ICEthunersee: Umfrage: Wie oft loggen Sie sich täglich bei Twitter ein? -\n❏ 1-10 x\n❏11-50 x\n❏ 50-100 x\n❏Einloggen?? Ich logge mich n ...",
+  "text" : "RT @ICEthunersee: Umfrage: Wie oft loggen Sie sich t\u00E4glich bei Twitter ein? -\n\u274F 1-10 x\n\u274F11-50 x\n\u274F 50-100 x\n\u274FEinloggen?? Ich logge mich n ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -7539,7 +7539,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "131016362964422656",
-    "text" : "Umfrage: Wie oft loggen Sie sich täglich bei Twitter ein? -\n❏ 1-10 x\n❏11-50 x\n❏ 50-100 x\n❏Einloggen?? Ich logge mich nie aus!",
+    "text" : "Umfrage: Wie oft loggen Sie sich t\u00E4glich bei Twitter ein? -\n\u274F 1-10 x\n\u274F11-50 x\n\u274F 50-100 x\n\u274FEinloggen?? Ich logge mich nie aus!",
     "id" : 131016362964422656,
     "created_at" : "Mon Oct 31 14:35:09 +0000 2011",
     "user" : {
@@ -7579,7 +7579,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 99, 119 ],
       "url" : "http://t.co/zc0BcPFy",
       "expanded_url" : "http://blog.macromates.com/2012/textmate-2-at-github/",
-      "display_url" : "blog.macromates.com/2012/textmate-…"
+      "display_url" : "blog.macromates.com/2012/textmate-\u2026"
     } ]
   },
   "geo" : {
@@ -7596,7 +7596,7 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 82, 102 ],
         "url" : "http://t.co/zc0BcPFy",
         "expanded_url" : "http://blog.macromates.com/2012/textmate-2-at-github/",
-        "display_url" : "blog.macromates.com/2012/textmate-…"
+        "display_url" : "blog.macromates.com/2012/textmate-\u2026"
       } ]
     },
     "geo" : {
@@ -7642,13 +7642,13 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 58, 78 ],
       "url" : "http://t.co/HmZCMpxt",
       "expanded_url" : "http://blog.macromates.com/2012/textmate-2-at-github/",
-      "display_url" : "blog.macromates.com/2012/textmate-…"
+      "display_url" : "blog.macromates.com/2012/textmate-\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "233691385235120128",
-  "text" : "RT @konstantinhaase: TextMate Blog » TextMate 2 at GitHub http://t.co/HmZCMpxt",
+  "text" : "RT @konstantinhaase: TextMate Blog \u00BB TextMate 2 at GitHub http://t.co/HmZCMpxt",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
     "entities" : {
@@ -7659,13 +7659,13 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 37, 57 ],
         "url" : "http://t.co/HmZCMpxt",
         "expanded_url" : "http://blog.macromates.com/2012/textmate-2-at-github/",
-        "display_url" : "blog.macromates.com/2012/textmate-…"
+        "display_url" : "blog.macromates.com/2012/textmate-\u2026"
       } ]
     },
     "geo" : {
     },
     "id_str" : "233584334966231040",
-    "text" : "TextMate Blog » TextMate 2 at GitHub http://t.co/HmZCMpxt",
+    "text" : "TextMate Blog \u00BB TextMate 2 at GitHub http://t.co/HmZCMpxt",
     "id" : 233584334966231040,
     "created_at" : "Thu Aug 09 15:23:39 +0000 2012",
     "user" : {
@@ -7673,7 +7673,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "konstantinhaase",
       "protected" : false,
       "id_str" : "16997374",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2727355820/45aa6a841c8110f918decaf19e888211_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3366144687/62850383d5b4dae925d9741dfc445dfc_normal.jpeg",
       "id" : 16997374,
       "verified" : false
     }
@@ -7706,7 +7706,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "233690484990693376",
-  "text" : "RT @Darth_Lehrer: Vor zynischen Tweets sollte man öfter mal einblenden: \"Nur ein kurzer Spott...\"",
+  "text" : "RT @Darth_Lehrer: Vor zynischen Tweets sollte man \u00F6fter mal einblenden: \"Nur ein kurzer Spott...\"",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -7718,7 +7718,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "233580844575502337",
-    "text" : "Vor zynischen Tweets sollte man öfter mal einblenden: \"Nur ein kurzer Spott...\"",
+    "text" : "Vor zynischen Tweets sollte man \u00F6fter mal einblenden: \"Nur ein kurzer Spott...\"",
     "id" : 233580844575502337,
     "created_at" : "Thu Aug 09 15:09:47 +0000 2012",
     "user" : {
@@ -7814,7 +7814,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "HappySchnitzel",
       "protected" : false,
       "id_str" : "16379529",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2736363132/cb323475a1441ccdab3b0e7cf21ae940_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3549371401/c985c58faef075148dadc682e4fda11f_normal.jpeg",
       "id" : 16379529,
       "verified" : true
     }
@@ -7852,7 +7852,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "233369562127687681",
-  "text" : "RT @BrunoFigueiredo: Amazing picture of México City.  http://t.co/il9DycXV",
+  "text" : "RT @BrunoFigueiredo: Amazing picture of M\u00E9xico City.  http://t.co/il9DycXV",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
     "entities" : {
@@ -7869,7 +7869,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "233304413698129920",
-    "text" : "Amazing picture of México City.  http://t.co/il9DycXV",
+    "text" : "Amazing picture of M\u00E9xico City.  http://t.co/il9DycXV",
     "id" : 233304413698129920,
     "created_at" : "Wed Aug 08 20:51:21 +0000 2012",
     "user" : {
@@ -7897,7 +7897,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ᗰᗩᑭ",
+      "name" : "\u15F0\u15E9\u146D",
       "screen_name" : "map",
       "indices" : [ 0, 4 ],
       "id_str" : "6256252",
@@ -7947,7 +7947,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "233362695284477952",
-  "text" : "RT @steveklabnik: $ rvm use 1.8.7 &amp;&amp; gem install rails -v=2.3.14 #the start of an… adventure",
+  "text" : "RT @steveklabnik: $ rvm use 1.8.7 &amp;&amp; gem install rails -v=2.3.14 #the start of an\u2026 adventure",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -7962,7 +7962,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "233258435200815104",
-    "text" : "$ rvm use 1.8.7 &amp;&amp; gem install rails -v=2.3.14 #the start of an… adventure",
+    "text" : "$ rvm use 1.8.7 &amp;&amp; gem install rails -v=2.3.14 #the start of an\u2026 adventure",
     "id" : 233258435200815104,
     "created_at" : "Wed Aug 08 17:48:39 +0000 2012",
     "user" : {
@@ -8246,7 +8246,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "233142870176063488",
-  "text" : "RT @rinpaku: Das gif zum Morgen zum Thema \"das fünfte Rad am Wagen\": http://t.co/OhnbAjv0",
+  "text" : "RT @rinpaku: Das gif zum Morgen zum Thema \"das f\u00FCnfte Rad am Wagen\": http://t.co/OhnbAjv0",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -8263,7 +8263,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "233103409920737280",
-    "text" : "Das gif zum Morgen zum Thema \"das fünfte Rad am Wagen\": http://t.co/OhnbAjv0",
+    "text" : "Das gif zum Morgen zum Thema \"das f\u00FCnfte Rad am Wagen\": http://t.co/OhnbAjv0",
     "id" : 233103409920737280,
     "created_at" : "Wed Aug 08 07:32:38 +0000 2012",
     "user" : {
@@ -8291,7 +8291,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lukas Martini ",
+      "name" : "Lukas Martini",
       "screen_name" : "lutoma",
       "indices" : [ 3, 10 ],
       "id_str" : "41419667",
@@ -8303,13 +8303,13 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 84, 104 ],
       "url" : "http://t.co/hmJmPJn0",
       "expanded_url" : "http://e.asset.soup.io/asset/3563/2142_66c6.jpeg",
-      "display_url" : "e.asset.soup.io/asset/3563/214…"
+      "display_url" : "e.asset.soup.io/asset/3563/214\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "233128319544090624",
-  "text" : "RT @lutoma: Ich glaube ich werde das hier ausdrucken und an meine Zimmertür kleben: http://t.co/hmJmPJn0",
+  "text" : "RT @lutoma: Ich glaube ich werde das hier ausdrucken und an meine Zimmert\u00FCr kleben: http://t.co/hmJmPJn0",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -8320,17 +8320,17 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 72, 92 ],
         "url" : "http://t.co/hmJmPJn0",
         "expanded_url" : "http://e.asset.soup.io/asset/3563/2142_66c6.jpeg",
-        "display_url" : "e.asset.soup.io/asset/3563/214…"
+        "display_url" : "e.asset.soup.io/asset/3563/214\u2026"
       } ]
     },
     "geo" : {
     },
     "id_str" : "232978593439956992",
-    "text" : "Ich glaube ich werde das hier ausdrucken und an meine Zimmertür kleben: http://t.co/hmJmPJn0",
+    "text" : "Ich glaube ich werde das hier ausdrucken und an meine Zimmert\u00FCr kleben: http://t.co/hmJmPJn0",
     "id" : 232978593439956992,
     "created_at" : "Tue Aug 07 23:16:39 +0000 2012",
     "user" : {
-      "name" : "Lukas Martini ",
+      "name" : "Lukas Martini",
       "screen_name" : "lutoma",
       "protected" : false,
       "id_str" : "41419667",
@@ -8442,7 +8442,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "232972820265701377",
   "in_reply_to_user_id" : 41772499,
-  "text" : "@klaustopher ist ja schon spät und du bist ja auch nicht mehr der jüngste",
+  "text" : "@klaustopher ist ja schon sp\u00E4t und du bist ja auch nicht mehr der j\u00FCngste",
   "id" : 232972820265701377,
   "in_reply_to_status_id" : 232972346372284416,
   "created_at" : "Tue Aug 07 22:53:43 +0000 2012",
@@ -8597,7 +8597,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "K. Oklahoma Sauer",
+      "name" : "Karsten Sauer",
       "screen_name" : "sauerstoff",
       "indices" : [ 3, 14 ],
       "id_str" : "92568087",
@@ -8636,11 +8636,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 232936883066396672,
     "created_at" : "Tue Aug 07 20:30:55 +0000 2012",
     "user" : {
-      "name" : "K. Oklahoma Sauer",
+      "name" : "Karsten Sauer",
       "screen_name" : "sauerstoff",
       "protected" : false,
       "id_str" : "92568087",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3222185188/6c2627bf6f9ea3a3e9bbb0a59c127358_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3594618541/9c10bf3b9fead17883a4d5810dddca10_normal.png",
       "id" : 92568087,
       "verified" : false
     }
@@ -8673,7 +8673,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232928794997035008",
-  "text" : "RT @tomdale: Wow, Mars Curiosity software is over 500k LoC? Seems excessive. I’d prefer to use a small, lean library that does one thing ...",
+  "text" : "RT @tomdale: Wow, Mars Curiosity software is over 500k LoC? Seems excessive. I\u2019d prefer to use a small, lean library that does one thing ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -8685,7 +8685,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "232909848210178048",
-    "text" : "Wow, Mars Curiosity software is over 500k LoC? Seems excessive. I’d prefer to use a small, lean library that does one thing well.",
+    "text" : "Wow, Mars Curiosity software is over 500k LoC? Seems excessive. I\u2019d prefer to use a small, lean library that does one thing well.",
     "id" : 232909848210178048,
     "created_at" : "Tue Aug 07 18:43:29 +0000 2012",
     "user" : {
@@ -8720,7 +8720,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232921481724706818",
-  "text" : "Oje nächstes Wochenende ist ja Berlin angesagt, sollte mich mal langsam um nen Hotel kümmern",
+  "text" : "Oje n\u00E4chstes Wochenende ist ja Berlin angesagt, sollte mich mal langsam um nen Hotel k\u00FCmmern",
   "id" : 232921481724706818,
   "created_at" : "Tue Aug 07 19:29:43 +0000 2012",
   "user" : {
@@ -8749,7 +8749,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232910015692947456",
-  "text" : "RT @moonbeamlabs: New Productivity Hack: Renamed my Todo file to „Do it“.",
+  "text" : "RT @moonbeamlabs: New Productivity Hack: Renamed my Todo file to \u201EDo it\u201C.",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "entities" : {
@@ -8761,7 +8761,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "232896498759778304",
-    "text" : "New Productivity Hack: Renamed my Todo file to „Do it“.",
+    "text" : "New Productivity Hack: Renamed my Todo file to \u201EDo it\u201C.",
     "id" : 232896498759778304,
     "created_at" : "Tue Aug 07 17:50:26 +0000 2012",
     "user" : {
@@ -8802,7 +8802,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232891536889753600",
-  "text" : "RT @zitate: Nichts bewahrt uns so gründlich vor Illusionen wie ein Blick in den Spiegel. \n*Aldous Huxley*",
+  "text" : "RT @zitate: Nichts bewahrt uns so gr\u00FCndlich vor Illusionen wie ein Blick in den Spiegel. \n*Aldous Huxley*",
   "retweeted_status" : {
     "source" : "<a href=\"http://blog.QRum.bz/tags/twitterbot/?utm_source=twitter&utm_medium=applink&utm_campaign=twitterbot_zitate\" rel=\"nofollow\">wandernde Zitate</a>",
     "entities" : {
@@ -8816,7 +8816,7 @@ Grailbird.data.tweets_2012_08 =
       "coordinates" : [ 46.19214, 8.74387 ]
     },
     "id_str" : "232868729883611137",
-    "text" : "Nichts bewahrt uns so gründlich vor Illusionen wie ein Blick in den Spiegel. \n*Aldous Huxley*",
+    "text" : "Nichts bewahrt uns so gr\u00FCndlich vor Illusionen wie ein Blick in den Spiegel. \n*Aldous Huxley*",
     "id" : 232868729883611137,
     "created_at" : "Tue Aug 07 16:00:06 +0000 2012",
     "user" : {
@@ -8874,7 +8874,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232856285983428608",
-  "text" : "Don’t try to fork my mind!",
+  "text" : "Don\u2019t try to fork my mind!",
   "id" : 232856285983428608,
   "created_at" : "Tue Aug 07 15:10:39 +0000 2012",
   "user" : {
@@ -8903,7 +8903,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232855912602292224",
-  "text" : "RT @Darth_Lehrer: Kennt ihr diese Tage, an denen es aussieht, als ob es bald zu regnen beginnt und man mit dem Rasenmähen wartet? Nein?  ...",
+  "text" : "RT @Darth_Lehrer: Kennt ihr diese Tage, an denen es aussieht, als ob es bald zu regnen beginnt und man mit dem Rasenm\u00E4hen wartet? Nein?  ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -8915,7 +8915,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "232852897757540352",
-    "text" : "Kennt ihr diese Tage, an denen es aussieht, als ob es bald zu regnen beginnt und man mit dem Rasenmähen wartet? Nein? Meine Frau auch nicht.",
+    "text" : "Kennt ihr diese Tage, an denen es aussieht, als ob es bald zu regnen beginnt und man mit dem Rasenm\u00E4hen wartet? Nein? Meine Frau auch nicht.",
     "id" : 232852897757540352,
     "created_at" : "Tue Aug 07 14:57:11 +0000 2012",
     "user" : {
@@ -8958,7 +8958,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "232851080411762689",
   "in_reply_to_user_id" : 711803,
-  "text" : "@Nico du musst einfach nur die Gesichter, der Leute die du gerne im Käfig sehen würdest, auf die Vögel projizieren",
+  "text" : "@Nico du musst einfach nur die Gesichter, der Leute die du gerne im K\u00E4fig sehen w\u00FCrdest, auf die V\u00F6gel projizieren",
   "id" : 232851080411762689,
   "in_reply_to_status_id" : 232847433485414400,
   "created_at" : "Tue Aug 07 14:49:58 +0000 2012",
@@ -8984,7 +8984,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232850670330474496",
-  "text" : "Autokorrektur Fail, aus „Kontakte knüpfen“ wurde „Kontakte köpfen“",
+  "text" : "Autokorrektur Fail, aus \u201EKontakte kn\u00FCpfen\u201C wurde \u201EKontakte k\u00F6pfen\u201C",
   "id" : 232850670330474496,
   "created_at" : "Tue Aug 07 14:48:20 +0000 2012",
   "user" : {
@@ -9007,7 +9007,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232847827045322752",
-  "text" : "In der Ubahn sitze und an der Zielhaltestelle denken: „ach komm, einfach mal sitzen bleiben und noch ne runde drehen“",
+  "text" : "In der Ubahn sitze und an der Zielhaltestelle denken: \u201Each komm, einfach mal sitzen bleiben und noch ne runde drehen\u201C",
   "id" : 232847827045322752,
   "created_at" : "Tue Aug 07 14:37:02 +0000 2012",
   "user" : {
@@ -9038,7 +9038,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "232846355054358528",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb guter Titel für ne Doku „das Leben einer Emailadresse im Spam Versender Netzwerk“",
+  "text" : "@michelb guter Titel f\u00FCr ne Doku \u201Edas Leben einer Emailadresse im Spam Versender Netzwerk\u201C",
   "id" : 232846355054358528,
   "in_reply_to_status_id" : 232845688331960320,
   "created_at" : "Tue Aug 07 14:31:11 +0000 2012",
@@ -9107,7 +9107,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "michelb",
       "protected" : false,
       "id_str" : "2716671",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2694977860/df611d2a42a7a2496cc3c36d073b4468_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3346773906/d871507559a2a59d36e904e7fd4dee8b_normal.jpeg",
       "id" : 2716671,
       "verified" : false
     }
@@ -9176,7 +9176,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "232844309244817409",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb naja wenigstens weist du das die Nachricht nicht aus einem Bot kam 😉",
+  "text" : "@michelb naja wenigstens weist du das die Nachricht nicht aus einem Bot kam \uD83D\uDE09",
   "id" : 232844309244817409,
   "in_reply_to_status_id" : 232842017145757697,
   "created_at" : "Tue Aug 07 14:23:04 +0000 2012",
@@ -9212,7 +9212,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232839649247252480",
-  "text" : "Things you don’t see everyday // via http://t.co/pGJqirQi http://t.co/xhV2rz1D",
+  "text" : "Things you don\u2019t see everyday // via http://t.co/pGJqirQi http://t.co/xhV2rz1D",
   "id" : 232839649247252480,
   "created_at" : "Tue Aug 07 14:04:32 +0000 2012",
   "user" : {
@@ -9228,7 +9228,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Philipp Kühn",
+      "name" : "Philipp K\u00FChn",
       "screen_name" : "Weltentummler",
       "indices" : [ 0, 14 ],
       "id_str" : "14445852",
@@ -9275,7 +9275,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232825539675688960",
-  "text" : "ⒽęⱠĿ◉ Ϣ☯ᴙḶÐ",
+  "text" : "\u24BD\u0119\u2C60\u013F\u25C9 \u03E2\u262F\u1D19\u1E36\u00D0",
   "id" : 232825539675688960,
   "created_at" : "Tue Aug 07 13:08:29 +0000 2012",
   "user" : {
@@ -9309,7 +9309,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232824461219487746",
-  "text" : "RT @sixtus: “Menschliches Erinnerungsvermögen verstößt gegen Datenschutz” http://t.co/qN3t8xvP",
+  "text" : "RT @sixtus: \u201CMenschliches Erinnerungsverm\u00F6gen verst\u00F6\u00DFt gegen Datenschutz\u201D http://t.co/qN3t8xvP",
   "retweeted_status" : {
     "source" : "<a href=\"http://bitly.com\" rel=\"nofollow\">bitly</a>",
     "entities" : {
@@ -9326,7 +9326,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "232822928100712448",
-    "text" : "“Menschliches Erinnerungsvermögen verstößt gegen Datenschutz” http://t.co/qN3t8xvP",
+    "text" : "\u201CMenschliches Erinnerungsverm\u00F6gen verst\u00F6\u00DFt gegen Datenschutz\u201D http://t.co/qN3t8xvP",
     "id" : 232822928100712448,
     "created_at" : "Tue Aug 07 12:58:06 +0000 2012",
     "user" : {
@@ -9393,7 +9393,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232810822773125120",
-  "text" : "Vertippet des Tages: µssen anstelle von müssen",
+  "text" : "Vertippet des Tages: \u00B5ssen anstelle von m\u00FCssen",
   "id" : 232810822773125120,
   "created_at" : "Tue Aug 07 12:10:00 +0000 2012",
   "user" : {
@@ -9415,7 +9415,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "14068882",
       "id" : 14068882
     }, {
-      "name" : "Mike Połtyn",
+      "name" : "Mike Po\u0142tyn",
       "screen_name" : "holek_",
       "indices" : [ 11, 18 ],
       "id_str" : "75356636",
@@ -9428,12 +9428,12 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232801094953209857",
-  "text" : "RT @enebo: @holek_ It should be:\n\nif true\n   …\nelsif false\n   …\nend\n\nDon't you think? ;)",
+  "text" : "RT @enebo: @holek_ It should be:\n\nif true\n   \u2026\nelsif false\n   \u2026\nend\n\nDon't you think? ;)",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Mike Połtyn",
+        "name" : "Mike Po\u0142tyn",
         "screen_name" : "holek_",
         "indices" : [ 0, 7 ],
         "id_str" : "75356636",
@@ -9448,7 +9448,7 @@ Grailbird.data.tweets_2012_08 =
     },
     "id_str" : "232775759368966144",
     "in_reply_to_user_id" : 75356636,
-    "text" : "@holek_ It should be:\n\nif true\n   …\nelsif false\n   …\nend\n\nDon't you think? ;)",
+    "text" : "@holek_ It should be:\n\nif true\n   \u2026\nelsif false\n   \u2026\nend\n\nDon't you think? ;)",
     "id" : 232775759368966144,
     "in_reply_to_status_id" : 232775064574103553,
     "created_at" : "Tue Aug 07 09:50:40 +0000 2012",
@@ -9479,7 +9479,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Połtyn",
+      "name" : "Mike Po\u0142tyn",
       "screen_name" : "holek_",
       "indices" : [ 0, 7 ],
       "id_str" : "75356636",
@@ -9562,7 +9562,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "232777220962283520",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb da gibt’s die ganze Zeit Probleme",
+  "text" : "@michelb da gibt\u2019s die ganze Zeit Probleme",
   "id" : 232777220962283520,
   "in_reply_to_status_id" : 232732457357697024,
   "created_at" : "Tue Aug 07 09:56:28 +0000 2012",
@@ -9593,7 +9593,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 63, 83 ],
       "url" : "http://t.co/ciM9aiw6",
       "expanded_url" : "http://www.ruhrnachrichten.de/storage/pic/mdhl/fotostrecken/lokales/rn/dortmund/lokales/dortmund_sued/2012/08-2012/vier_verletzte_nach_schwerem_unfall_auf_wittbraeucker_strasse/3323369_1_Unfall_Wittbrucker_Strae_578_mit_drei_PKW_Foto_Bandermann_14.jpg?version=1344252184",
-      "display_url" : "ruhrnachrichten.de/storage/pic/md…"
+      "display_url" : "ruhrnachrichten.de/storage/pic/md\u2026"
     } ]
   },
   "geo" : {
@@ -9610,7 +9610,7 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 47, 67 ],
         "url" : "http://t.co/ciM9aiw6",
         "expanded_url" : "http://www.ruhrnachrichten.de/storage/pic/mdhl/fotostrecken/lokales/rn/dortmund/lokales/dortmund_sued/2012/08-2012/vier_verletzte_nach_schwerem_unfall_auf_wittbraeucker_strasse/3323369_1_Unfall_Wittbrucker_Strae_578_mit_drei_PKW_Foto_Bandermann_14.jpg?version=1344252184",
-        "display_url" : "ruhrnachrichten.de/storage/pic/md…"
+        "display_url" : "ruhrnachrichten.de/storage/pic/md\u2026"
       } ]
     },
     "geo" : {
@@ -9707,7 +9707,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 3, 8 ],
       "id_str" : "18448838",
@@ -9746,11 +9746,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 232575423081488385,
     "created_at" : "Mon Aug 06 20:34:36 +0000 2012",
     "user" : {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "protected" : false,
       "id_str" : "18448838",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2199838425/_MG_9290_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3514331375/da06ee128ba700ef99de9b8ae165d786_normal.jpeg",
       "id" : 18448838,
       "verified" : false
     }
@@ -9783,7 +9783,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232671713329033216",
-  "text" : "RT @zeitweise: In meinem DSL-Vertrag stand, das Internet würde uns alle retten. Jetzt erinnere ich mich: Hinter dem „retten“ stand eine  ...",
+  "text" : "RT @zeitweise: In meinem DSL-Vertrag stand, das Internet w\u00FCrde uns alle retten. Jetzt erinnere ich mich: Hinter dem \u201Eretten\u201C stand eine  ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -9795,7 +9795,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "232575344618655744",
-    "text" : "In meinem DSL-Vertrag stand, das Internet würde uns alle retten. Jetzt erinnere ich mich: Hinter dem „retten“ stand eine hochgestellte Eins.",
+    "text" : "In meinem DSL-Vertrag stand, das Internet w\u00FCrde uns alle retten. Jetzt erinnere ich mich: Hinter dem \u201Eretten\u201C stand eine hochgestellte Eins.",
     "id" : 232575344618655744,
     "created_at" : "Mon Aug 06 20:34:17 +0000 2012",
     "user" : {
@@ -9823,7 +9823,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jäger",
+      "name" : "Mark J\u00E4ger",
       "screen_name" : "mark_jaeger",
       "indices" : [ 3, 15 ],
       "id_str" : "14556401",
@@ -9836,7 +9836,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232670216893636608",
-  "text" : "RT @mark_jaeger: Unsere Kinder werden es einfacher haben. \nSie müssen ihren Psychologen nur unsere Tweets zeigen.",
+  "text" : "RT @mark_jaeger: Unsere Kinder werden es einfacher haben. \nSie m\u00FCssen ihren Psychologen nur unsere Tweets zeigen.",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -9848,15 +9848,15 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "232597819322662912",
-    "text" : "Unsere Kinder werden es einfacher haben. \nSie müssen ihren Psychologen nur unsere Tweets zeigen.",
+    "text" : "Unsere Kinder werden es einfacher haben. \nSie m\u00FCssen ihren Psychologen nur unsere Tweets zeigen.",
     "id" : 232597819322662912,
     "created_at" : "Mon Aug 06 22:03:36 +0000 2012",
     "user" : {
-      "name" : "Mark Jäger",
+      "name" : "Mark J\u00E4ger",
       "screen_name" : "mark_jaeger",
       "protected" : false,
       "id_str" : "14556401",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2703257449/53ae3b39c7bc9a1d4d2b55bf4afa178c_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3565889956/88cded72d0a72b8c7769e6a440275f69_normal.jpeg",
       "id" : 14556401,
       "verified" : false
     }
@@ -9923,7 +9923,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232522941676527616",
-  "text" : "RT @gallenbitter: »Warum ist Dein iPhone immer auf lautlos?« - »Damit ich nicht höre, wenn jemand anruft.« - »Wozu hast Du dann ein iPho ...",
+  "text" : "RT @gallenbitter: \u00BBWarum ist Dein iPhone immer auf lautlos?\u00AB - \u00BBDamit ich nicht h\u00F6re, wenn jemand anruft.\u00AB - \u00BBWozu hast Du dann ein iPho ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -9935,7 +9935,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "232452639156232192",
-    "text" : "»Warum ist Dein iPhone immer auf lautlos?« - »Damit ich nicht höre, wenn jemand anruft.« - »Wozu hast Du dann ein iPhone?« - »Für Twitter.«",
+    "text" : "\u00BBWarum ist Dein iPhone immer auf lautlos?\u00AB - \u00BBDamit ich nicht h\u00F6re, wenn jemand anruft.\u00AB - \u00BBWozu hast Du dann ein iPhone?\u00AB - \u00BBF\u00FCr Twitter.\u00AB",
     "id" : 232452639156232192,
     "created_at" : "Mon Aug 06 12:26:42 +0000 2012",
     "user" : {
@@ -10023,7 +10023,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232395858396737536",
-  "text" : "Kann nicht mal jemand einen Friesurautomaten erfinden, ich würde sofort einen kaufen",
+  "text" : "Kann nicht mal jemand einen Friesurautomaten erfinden, ich w\u00FCrde sofort einen kaufen",
   "id" : 232395858396737536,
   "created_at" : "Mon Aug 06 08:41:05 +0000 2012",
   "user" : {
@@ -10057,7 +10057,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232394268449333249",
-  "text" : "Diese Marsexpedition wird ihnen präsentiert von Instergram http://t.co/WxUC9jyv // via @jamescroft",
+  "text" : "Diese Marsexpedition wird ihnen pr\u00E4sentiert von Instergram http://t.co/WxUC9jyv // via @jamescroft",
   "id" : 232394268449333249,
   "created_at" : "Mon Aug 06 08:34:45 +0000 2012",
   "user" : {
@@ -10080,7 +10080,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232393514091175936",
-  "text" : "Der krähende Hahn von letzter Woche war doch nur fake, es war die Hupe des Eiermannes",
+  "text" : "Der kr\u00E4hende Hahn von letzter Woche war doch nur fake, es war die Hupe des Eiermannes",
   "id" : 232393514091175936,
   "created_at" : "Mon Aug 06 08:31:46 +0000 2012",
   "user" : {
@@ -10109,7 +10109,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232382006686806016",
-  "text" : "RT @zitate: Die Religion hat der Liebe einen großen Dienst erwiesen, indem sie sie zur Sünde erklärte.\n     \n*Anatole France*",
+  "text" : "RT @zitate: Die Religion hat der Liebe einen gro\u00DFen Dienst erwiesen, indem sie sie zur S\u00FCnde erkl\u00E4rte.\n     \n*Anatole France*",
   "retweeted_status" : {
     "source" : "<a href=\"http://blog.QRum.bz/tags/twitterbot/?utm_source=twitter&utm_medium=applink&utm_campaign=twitterbot_zitate\" rel=\"nofollow\">wandernde Zitate</a>",
     "entities" : {
@@ -10123,7 +10123,7 @@ Grailbird.data.tweets_2012_08 =
       "coordinates" : [ 47.63561, 8.68076 ]
     },
     "id_str" : "232340251073449984",
-    "text" : "Die Religion hat der Liebe einen großen Dienst erwiesen, indem sie sie zur Sünde erklärte.\n     \n*Anatole France*",
+    "text" : "Die Religion hat der Liebe einen gro\u00DFen Dienst erwiesen, indem sie sie zur S\u00FCnde erkl\u00E4rte.\n     \n*Anatole France*",
     "id" : 232340251073449984,
     "created_at" : "Mon Aug 06 05:00:07 +0000 2012",
     "user" : {
@@ -10164,7 +10164,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232251462242160640",
-  "text" : "RT @Weltenweiser: Wenn die Amis das 100m Rennen erfunden hätten, wären es 4x25m mit Werbeblöcken a la Superbowl.",
+  "text" : "RT @Weltenweiser: Wenn die Amis das 100m Rennen erfunden h\u00E4tten, w\u00E4ren es 4x25m mit Werbebl\u00F6cken a la Superbowl.",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
@@ -10176,7 +10176,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "232223709216247808",
-    "text" : "Wenn die Amis das 100m Rennen erfunden hätten, wären es 4x25m mit Werbeblöcken a la Superbowl.",
+    "text" : "Wenn die Amis das 100m Rennen erfunden h\u00E4tten, w\u00E4ren es 4x25m mit Werbebl\u00F6cken a la Superbowl.",
     "id" : 232223709216247808,
     "created_at" : "Sun Aug 05 21:17:01 +0000 2012",
     "user" : {
@@ -10204,7 +10204,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "翔",
+      "name" : "\u7FD4",
       "screen_name" : "stardriver88",
       "indices" : [ 3, 16 ],
       "id_str" : "1002166920",
@@ -10222,7 +10222,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "232250861747834880",
-  "text" : "RT @stardriver88: Also ich möchte hier jetzt keine Blasphemie bertreiben...obwohl, doch will ich! http://t.co/E3Z3taQE",
+  "text" : "RT @stardriver88: Also ich m\u00F6chte hier jetzt keine Blasphemie bertreiben...obwohl, doch will ich! http://t.co/E3Z3taQE",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -10264,7 +10264,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "230672883981119488",
-    "text" : "Also ich möchte hier jetzt keine Blasphemie bertreiben...obwohl, doch will ich! http://t.co/E3Z3taQE",
+    "text" : "Also ich m\u00F6chte hier jetzt keine Blasphemie bertreiben...obwohl, doch will ich! http://t.co/E3Z3taQE",
     "id" : 230672883981119488,
     "created_at" : "Wed Aug 01 14:34:36 +0000 2012",
     "user" : {
@@ -10372,7 +10372,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "tknuewer",
       "protected" : false,
       "id_str" : "1234801",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2623211914/19w32ns4q8swacqx3u0b_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3594640986/154a6df3bf56c3fe9360779ba917dc64_normal.jpeg",
       "id" : 1234801,
       "verified" : true
     }
@@ -10490,7 +10490,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "EmmalineErdbeer",
       "protected" : false,
       "id_str" : "48666852",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3258241716/8b745a14c757317a0b7f985ea7b72bb7_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3545306911/190a1b9454a9bcd05b46747afab44513_normal.jpeg",
       "id" : 48666852,
       "verified" : false
     }
@@ -10630,7 +10630,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Carridwen",
       "protected" : false,
       "id_str" : "197468202",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3196322597/6e077d8923f9b4482fa5a86624da0f6e_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3479952423/b84c010cbc99771461483adc385aab3f_normal.png",
       "id" : 197468202,
       "verified" : false
     }
@@ -10703,7 +10703,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Hans",
+      "name" : "Christian",
       "screen_name" : "lelei",
       "indices" : [ 3, 9 ],
       "id_str" : "19105297",
@@ -10732,11 +10732,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 231501993573748737,
     "created_at" : "Fri Aug 03 21:29:11 +0000 2012",
     "user" : {
-      "name" : "Christian Hans",
+      "name" : "Christian",
       "screen_name" : "lelei",
       "protected" : false,
       "id_str" : "19105297",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1420459324/chris_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3543440284/940537793fb1b1faa6a5fa4eb93735e1_normal.jpeg",
       "id" : 19105297,
       "verified" : false
     }
@@ -10763,7 +10763,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "231514204081909760",
-  "text" : "Inas Nacht ist wie DSDS, Leute singen Lieder von anderen Künstlern, nur das Program da zwischen ist besser",
+  "text" : "Inas Nacht ist wie DSDS, Leute singen Lieder von anderen K\u00FCnstlern, nur das Program da zwischen ist besser",
   "id" : 231514204081909760,
   "created_at" : "Fri Aug 03 22:17:42 +0000 2012",
   "user" : {
@@ -10779,7 +10779,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Hans",
+      "name" : "Christian",
       "screen_name" : "lelei",
       "indices" : [ 0, 6 ],
       "id_str" : "19105297",
@@ -10794,7 +10794,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "231501709153820673",
   "in_reply_to_user_id" : 19105297,
-  "text" : "@lelei dafür hättest du, selbst wenn es Twitter schon gegen hätte, nie diesen oder einen anderen Tweet geschrieben",
+  "text" : "@lelei daf\u00FCr h\u00E4ttest du, selbst wenn es Twitter schon gegen h\u00E4tte, nie diesen oder einen anderen Tweet geschrieben",
   "id" : 231501709153820673,
   "in_reply_to_status_id" : 231501053399547905,
   "created_at" : "Fri Aug 03 21:28:03 +0000 2012",
@@ -10847,7 +10847,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ivan Krstić",
+      "name" : "Ivan Krsti\u0107",
       "screen_name" : "radian",
       "indices" : [ 3, 10 ],
       "id_str" : "271044958",
@@ -10870,7 +10870,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "231493676617043968",
-  "text" : "RT @radian: My code: http://t.co/ka2LPktR\n\nEveryone else’s code: http://t.co/0clWa4Ed\n\n(Said every programmer ever.)",
+  "text" : "RT @radian: My code: http://t.co/ka2LPktR\n\nEveryone else\u2019s code: http://t.co/0clWa4Ed\n\n(Said every programmer ever.)",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "entities" : {
@@ -10892,11 +10892,11 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "231317944183967744",
-    "text" : "My code: http://t.co/ka2LPktR\n\nEveryone else’s code: http://t.co/0clWa4Ed\n\n(Said every programmer ever.)",
+    "text" : "My code: http://t.co/ka2LPktR\n\nEveryone else\u2019s code: http://t.co/0clWa4Ed\n\n(Said every programmer ever.)",
     "id" : 231317944183967744,
     "created_at" : "Fri Aug 03 09:17:50 +0000 2012",
     "user" : {
-      "name" : "Ivan Krstić",
+      "name" : "Ivan Krsti\u0107",
       "screen_name" : "radian",
       "protected" : false,
       "id_str" : "271044958",
@@ -10983,7 +10983,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stefan Oßwald",
+      "name" : "Stefan O\u00DFwald",
       "screen_name" : "StefanOsswald",
       "indices" : [ 3, 17 ],
       "id_str" : "9972472",
@@ -10996,7 +10996,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "231484766740959232",
-  "text" : "RT @StefanOsswald: Was hat man eigentlich für ein Ego-Problem, wenn man als Privatperson eine  Fanpage hat, diese per Anzeige bewirbt &a ...",
+  "text" : "RT @StefanOsswald: Was hat man eigentlich f\u00FCr ein Ego-Problem, wenn man als Privatperson eine  Fanpage hat, diese per Anzeige bewirbt &a ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
@@ -11008,11 +11008,11 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "231413180994289664",
-    "text" : "Was hat man eigentlich für ein Ego-Problem, wenn man als Privatperson eine  Fanpage hat, diese per Anzeige bewirbt &amp; ein iPhone 5 verlost?",
+    "text" : "Was hat man eigentlich f\u00FCr ein Ego-Problem, wenn man als Privatperson eine  Fanpage hat, diese per Anzeige bewirbt &amp; ein iPhone 5 verlost?",
     "id" : 231413180994289664,
     "created_at" : "Fri Aug 03 15:36:16 +0000 2012",
     "user" : {
-      "name" : "Stefan Oßwald",
+      "name" : "Stefan O\u00DFwald",
       "screen_name" : "StefanOsswald",
       "protected" : false,
       "id_str" : "9972472",
@@ -11114,7 +11114,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "231157783855251456",
   "in_reply_to_user_id" : 5408192,
-  "text" : "@marcelfahle was hast du da für ein Tool benutzt?",
+  "text" : "@marcelfahle was hast du da f\u00FCr ein Tool benutzt?",
   "id" : 231157783855251456,
   "in_reply_to_status_id" : 231148782476210176,
   "created_at" : "Thu Aug 02 22:41:25 +0000 2012",
@@ -11167,7 +11167,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Faruk Ateş",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "indices" : [ 3, 12 ],
       "id_str" : "22253",
@@ -11196,11 +11196,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 231063774977744897,
     "created_at" : "Thu Aug 02 16:27:51 +0000 2012",
     "user" : {
-      "name" : "Faruk Ateş",
+      "name" : "Faruk Ate\u015F",
       "screen_name" : "KuraFire",
       "protected" : false,
       "id_str" : "22253",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1778939820/image1327444890_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3376701366/503beea7d1f7e2804fc167d7632f61b0_normal.jpeg",
       "id" : 22253,
       "verified" : false
     }
@@ -11308,7 +11308,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "230961426624303104",
-  "text" : "RT @gallenbitter: Gerade eine .txt und eine .jpg Datei in den Papierkorb geworfen. Mülltrennung ist das natürlich keine.",
+  "text" : "RT @gallenbitter: Gerade eine .txt und eine .jpg Datei in den Papierkorb geworfen. M\u00FClltrennung ist das nat\u00FCrlich keine.",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -11320,7 +11320,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "230784330660716546",
-    "text" : "Gerade eine .txt und eine .jpg Datei in den Papierkorb geworfen. Mülltrennung ist das natürlich keine.",
+    "text" : "Gerade eine .txt und eine .jpg Datei in den Papierkorb geworfen. M\u00FClltrennung ist das nat\u00FCrlich keine.",
     "id" : 230784330660716546,
     "created_at" : "Wed Aug 01 21:57:26 +0000 2012",
     "user" : {
@@ -11361,7 +11361,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "230956218590588929",
-  "text" : "RT @yellowled: Da fragt man nach Textinhalten für eine Webseite, und was bekommt man?\n\nEine Tabelle.\nIn Word verfasst.\nMit Fußnoten.",
+  "text" : "RT @yellowled: Da fragt man nach Textinhalten f\u00FCr eine Webseite, und was bekommt man?\n\nEine Tabelle.\nIn Word verfasst.\nMit Fu\u00DFnoten.",
   "retweeted_status" : {
     "source" : "<a href=\"http://hotot.org\" rel=\"nofollow\">Hotot</a>",
     "entities" : {
@@ -11373,7 +11373,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "224930606822338560",
-    "text" : "Da fragt man nach Textinhalten für eine Webseite, und was bekommt man?\n\nEine Tabelle.\nIn Word verfasst.\nMit Fußnoten.",
+    "text" : "Da fragt man nach Textinhalten f\u00FCr eine Webseite, und was bekommt man?\n\nEine Tabelle.\nIn Word verfasst.\nMit Fu\u00DFnoten.",
     "id" : 224930606822338560,
     "created_at" : "Mon Jul 16 18:16:50 +0000 2012",
     "user" : {
@@ -11450,7 +11450,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "230882291126259712",
   "in_reply_to_user_id" : 15035029,
-  "text" : "@sippndipp ich find es grade eher zu spät",
+  "text" : "@sippndipp ich find es grade eher zu sp\u00E4t",
   "id" : 230882291126259712,
   "in_reply_to_status_id" : 230879898728812544,
   "created_at" : "Thu Aug 02 04:26:42 +0000 2012",
@@ -11544,7 +11544,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 3, 8 ],
       "id_str" : "18448838",
@@ -11573,11 +11573,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 230703904252362753,
     "created_at" : "Wed Aug 01 16:37:51 +0000 2012",
     "user" : {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "protected" : false,
       "id_str" : "18448838",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2199838425/_MG_9290_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3514331375/da06ee128ba700ef99de9b8ae165d786_normal.jpeg",
       "id" : 18448838,
       "verified" : false
     }

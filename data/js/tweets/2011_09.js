@@ -10,7 +10,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "118018141900128256",
-  "text" : "Die Selbsthilfegruppe \"UTF-8-Probleme\" trifft sich diesmal abweichend im grÃƒÂ¼nen Saal.",
+  "text" : "Die Selbsthilfegruppe \"UTF-8-Probleme\" trifft sich diesmal abweichend im gr\u00C3\u0192\u00C2\u00BCnen Saal.",
   "id" : 118018141900128256,
   "created_at" : "Sun Sep 25 17:44:52 +0000 2011",
   "user" : {
@@ -39,7 +39,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "116429451558002689",
-  "text" : "O-Ton RE Zugbegleiter: Auf Grund einer Überholung eins hochwertigeren Zuges verzögert sich die Abfahrt um weitere Minuten #Bahn #Humore",
+  "text" : "O-Ton RE Zugbegleiter: Auf Grund einer \u00DCberholung eins hochwertigeren Zuges verz\u00F6gert sich die Abfahrt um weitere Minuten #Bahn #Humore",
   "id" : 116429451558002689,
   "created_at" : "Wed Sep 21 08:31:59 +0000 2011",
   "user" : {

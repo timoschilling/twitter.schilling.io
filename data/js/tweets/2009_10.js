@@ -248,7 +248,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "5231504264",
-  "text" : "immer diese PR Tweeter \"Freuen Sie sich schon auf unseren nächsten #Newsletter mit exklusiven Angeboten? Schnell abonnieren!\" #web10",
+  "text" : "immer diese PR Tweeter \"Freuen Sie sich schon auf unseren n\u00E4chsten #Newsletter mit exklusiven Angeboten? Schnell abonnieren!\" #web10",
   "id" : 5231504264,
   "created_at" : "Wed Oct 28 14:36:34 +0000 2009",
   "user" : {
@@ -278,7 +278,7 @@ Grailbird.data.tweets_2009_10 =
   },
   "id_str" : "5213876456",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel Herzlichen Glückwunsch zum Geburtstag",
+  "text" : "@florianfiegel Herzlichen Gl\u00FCckwunsch zum Geburtstag",
   "id" : 5213876456,
   "created_at" : "Tue Oct 27 23:02:02 +0000 2009",
   "in_reply_to_screen_name" : "florianfiegel",
@@ -309,7 +309,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "5209920426",
-  "text" : "⌘Q  http://twitpic.com/n6ci5 (via @threepwood)",
+  "text" : "\u2318Q  http://twitpic.com/n6ci5 (via @threepwood)",
   "id" : 5209920426,
   "created_at" : "Tue Oct 27 20:23:30 +0000 2009",
   "user" : {
@@ -365,7 +365,7 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "14122938",
       "id" : 14122938
     }, {
-      "name" : "Marko Tošić",
+      "name" : "Marko To\u0161i\u0107",
       "screen_name" : "markotosic",
       "indices" : [ 23, 34 ],
       "id_str" : "301942772",
@@ -399,7 +399,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marko Tošić",
+      "name" : "Marko To\u0161i\u0107",
       "screen_name" : "markotosic",
       "indices" : [ 1, 12 ],
       "id_str" : "301942772",
@@ -447,7 +447,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "5198360278",
-  "text" : "Wer Twittern für Zeitverschwendung hällt, sollte mal dieses \"Meeting\" ausprobieren. (via @343max)",
+  "text" : "Wer Twittern f\u00FCr Zeitverschwendung h\u00E4llt, sollte mal dieses \"Meeting\" ausprobieren. (via @343max)",
   "id" : 5198360278,
   "created_at" : "Tue Oct 27 11:31:42 +0000 2009",
   "user" : {
@@ -473,7 +473,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "5198135534",
-  "text" : "ein Newsletter informiert mich soeben dadrüber das jetzt .de Kurzdomains registrierbar seihen #fail",
+  "text" : "ein Newsletter informiert mich soeben dadr\u00FCber das jetzt .de Kurzdomains registrierbar seihen #fail",
   "id" : 5198135534,
   "created_at" : "Tue Oct 27 11:14:14 +0000 2009",
   "user" : {
@@ -489,7 +489,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marko Tošić",
+      "name" : "Marko To\u0161i\u0107",
       "screen_name" : "markotosic",
       "indices" : [ 54, 65 ],
       "id_str" : "301942772",
@@ -531,7 +531,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "5181583309",
-  "text" : "RT @florianfiegel: Mal schnell Website retten! Kleine Fingerübung … :/",
+  "text" : "RT @florianfiegel: Mal schnell Website retten! Kleine Finger\u00FCbung \u2026 :/",
   "id" : 5181583309,
   "created_at" : "Mon Oct 26 20:12:03 +0000 2009",
   "user" : {
@@ -547,7 +547,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marko Tošić",
+      "name" : "Marko To\u0161i\u0107",
       "screen_name" : "markotosic",
       "indices" : [ 0, 11 ],
       "id_str" : "301942772",
@@ -562,7 +562,7 @@ Grailbird.data.tweets_2009_10 =
   },
   "id_str" : "5181515633",
   "in_reply_to_user_id" : 23934650,
-  "text" : "@MarkoTosic naja mit dem Örtlichen kann man immer noch heizen",
+  "text" : "@MarkoTosic naja mit dem \u00D6rtlichen kann man immer noch heizen",
   "id" : 5181515633,
   "in_reply_to_status_id" : 5181456533,
   "created_at" : "Mon Oct 26 20:08:59 +0000 2009",
@@ -623,7 +623,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "5176349593",
-  "text" : "ahhhh mir stürzt jedes Programm beim speichern ab",
+  "text" : "ahhhh mir st\u00FCrzt jedes Programm beim speichern ab",
   "id" : 5176349593,
   "created_at" : "Mon Oct 26 16:14:41 +0000 2009",
   "user" : {
@@ -700,7 +700,7 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "17676119",
       "id" : 17676119
     }, {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 87, 92 ],
       "id_str" : "18448838",
@@ -851,7 +851,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "5124454574",
-  "text" : "oh, @tweetie hat Schluckauf beim zählen  http://img.ly/8DR",
+  "text" : "oh, @tweetie hat Schluckauf beim z\u00E4hlen  http://img.ly/8DR",
   "id" : 5124454574,
   "created_at" : "Sat Oct 24 15:23:46 +0000 2009",
   "user" : {
@@ -867,7 +867,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -881,7 +881,7 @@ Grailbird.data.tweets_2009_10 =
   },
   "id_str" : "5124342178",
   "in_reply_to_user_id" : 18448838,
-  "text" : "@echt ich fühl mich geehrt  http://img.ly/8DL",
+  "text" : "@echt ich f\u00FChl mich geehrt  http://img.ly/8DL",
   "id" : 5124342178,
   "created_at" : "Sat Oct 24 15:18:07 +0000 2009",
   "in_reply_to_screen_name" : "echt",
@@ -1185,7 +1185,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Stöcker",
+      "name" : "Christian St\u00F6cker",
       "screen_name" : "ChrisStoecker",
       "indices" : [ 88, 102 ],
       "id_str" : "14176770",
@@ -1210,7 +1210,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "5066130878",
-  "text" : "Wenn das Internet morgen verschwände (20 Bildmontagen): http://tinyurl.com/yh7alt3 (via @ChrisStoecker & @chervel & @haekelschwein)",
+  "text" : "Wenn das Internet morgen verschw\u00E4nde (20 Bildmontagen): http://tinyurl.com/yh7alt3 (via @ChrisStoecker & @chervel & @haekelschwein)",
   "id" : 5066130878,
   "created_at" : "Thu Oct 22 10:20:06 +0000 2009",
   "user" : {
@@ -1325,7 +1325,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "5044158482",
-  "text" : "Diesen Porno könnte ich den ganzen Tag gucken: http://bit.ly/Qhmx0 #lechz #sabber (via @nerotunes)",
+  "text" : "Diesen Porno k\u00F6nnte ich den ganzen Tag gucken: http://bit.ly/Qhmx0 #lechz #sabber (via @nerotunes)",
   "id" : 5044158482,
   "created_at" : "Wed Oct 21 13:43:49 +0000 2009",
   "user" : {
@@ -1377,7 +1377,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "5027012110",
-  "text" : "wenn ich könnte, wie ich wollte, würde ich gar nicht wollen!",
+  "text" : "wenn ich k\u00F6nnte, wie ich wollte, w\u00FCrde ich gar nicht wollen!",
   "id" : 5027012110,
   "created_at" : "Tue Oct 20 20:46:57 +0000 2009",
   "user" : {
@@ -1393,7 +1393,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ChristophMüllerGirod",
+      "name" : "Mueller-Girod",
       "screen_name" : "schwarzesgold",
       "indices" : [ 0, 14 ],
       "id_str" : "16048372",
@@ -1408,7 +1408,7 @@ Grailbird.data.tweets_2009_10 =
   },
   "id_str" : "5021355674",
   "in_reply_to_user_id" : 16048372,
-  "text" : "@schwarzesgold das erklärt deinen Anruf vorhin ;)",
+  "text" : "@schwarzesgold das erkl\u00E4rt deinen Anruf vorhin ;)",
   "id" : 5021355674,
   "in_reply_to_status_id" : 5021043247,
   "created_at" : "Tue Oct 20 15:54:37 +0000 2009",
@@ -1510,7 +1510,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4968249484",
-  "text" : "#hpybdy @sippndipp nachträglich. Wusste garnicht das du hattest",
+  "text" : "#hpybdy @sippndipp nachtr\u00E4glich. Wusste garnicht das du hattest",
   "id" : 4968249484,
   "created_at" : "Sun Oct 18 15:55:32 +0000 2009",
   "user" : {
@@ -1636,7 +1636,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4940154102",
-  "text" : "Möbel mit der U-Bahn transportieren, auch mal was anderes #Umzu",
+  "text" : "M\u00F6bel mit der U-Bahn transportieren, auch mal was anderes #Umzu",
   "id" : 4940154102,
   "created_at" : "Sat Oct 17 11:12:37 +0000 2009",
   "user" : {
@@ -1742,7 +1742,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4897641777",
-  "text" : "schade das Grissom gegangen ist, aber schön das er gefunden hat was er gesucht hat",
+  "text" : "schade das Grissom gegangen ist, aber sch\u00F6n das er gefunden hat was er gesucht hat",
   "id" : 4897641777,
   "created_at" : "Thu Oct 15 20:20:09 +0000 2009",
   "user" : {
@@ -1781,7 +1781,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -1905,7 +1905,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4857942679",
-  "text" : "Prügel mich mit dem IE7 rum",
+  "text" : "Pr\u00FCgel mich mit dem IE7 rum",
   "id" : 4857942679,
   "created_at" : "Wed Oct 14 08:54:34 +0000 2009",
   "user" : {
@@ -1936,7 +1936,7 @@ Grailbird.data.tweets_2009_10 =
   },
   "id_str" : "4845111365",
   "in_reply_to_user_id" : 6798612,
-  "text" : "@tlehmann na, wenn er dich bestätigt hat, wolltest du wohl sein freund sein, also selber schuld ;)",
+  "text" : "@tlehmann na, wenn er dich best\u00E4tigt hat, wolltest du wohl sein freund sein, also selber schuld ;)",
   "id" : 4845111365,
   "in_reply_to_status_id" : 4844989696,
   "created_at" : "Tue Oct 13 21:31:28 +0000 2009",
@@ -2067,7 +2067,7 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "16361412",
       "id" : 16361412
     }, {
-      "name" : "zebramädchen",
+      "name" : "zebram\u00E4dchen",
       "screen_name" : "zebramaedchen",
       "indices" : [ 8, 22 ],
       "id_str" : "379077033",
@@ -2085,7 +2085,7 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "20770113",
       "id" : 20770113
     }, {
-      "name" : "(ツ) ✪ brewtastic ✪",
+      "name" : "(\u30C4) \u272A brewtastic \u272A",
       "screen_name" : "zappyzwo",
       "indices" : [ 45, 54 ],
       "id_str" : "12916162",
@@ -2170,7 +2170,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -2204,7 +2204,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 1, 6 ],
       "id_str" : "18448838",
@@ -2220,7 +2220,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4831164764",
-  "text" : ".@echt in Bochum läuft er #d9twup",
+  "text" : ".@echt in Bochum l\u00E4uft er #d9twup",
   "id" : 4831164764,
   "created_at" : "Tue Oct 13 09:10:11 +0000 2009",
   "user" : {
@@ -2356,7 +2356,7 @@ Grailbird.data.tweets_2009_10 =
   },
   "id_str" : "4808209181",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel Glückwunsch, willkommen im Club #iPhone",
+  "text" : "@florianfiegel Gl\u00FCckwunsch, willkommen im Club #iPhone",
   "id" : 4808209181,
   "in_reply_to_status_id" : 4808042419,
   "created_at" : "Mon Oct 12 13:16:59 +0000 2009",
@@ -2405,7 +2405,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4787278803",
-  "text" : "Mache dann mal Wochenende bevor es zu spät ist",
+  "text" : "Mache dann mal Wochenende bevor es zu sp\u00E4t ist",
   "id" : 4787278803,
   "created_at" : "Sun Oct 11 16:46:01 +0000 2009",
   "user" : {
@@ -2575,7 +2575,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4710627421",
-  "text" : "http://img.ly/5WK Fehlermeldung in \"Word 2008 für Mac\" nach drücken der Return-Taste #fail",
+  "text" : "http://img.ly/5WK Fehlermeldung in \"Word 2008 f\u00FCr Mac\" nach dr\u00FCcken der Return-Taste #fail",
   "id" : 4710627421,
   "created_at" : "Thu Oct 08 15:09:27 +0000 2009",
   "user" : {
@@ -2695,7 +2695,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4639144744",
-  "text" : "ROFL - nach 3 Stunden und mit Hilfe der Nachrichten einen Witzverstanden: Letterman sollte lieber Clinton die Witze erzählen lassen",
+  "text" : "ROFL - nach 3 Stunden und mit Hilfe der Nachrichten einen Witzverstanden: Letterman sollte lieber Clinton die Witze erz\u00E4hlen lassen",
   "id" : 4639144744,
   "created_at" : "Mon Oct 05 22:13:18 +0000 2009",
   "user" : {
@@ -2725,7 +2725,7 @@ Grailbird.data.tweets_2009_10 =
   },
   "id_str" : "4638910555",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb Herzlichen Glückwunsch",
+  "text" : "@michelb Herzlichen Gl\u00FCckwunsch",
   "id" : 4638910555,
   "created_at" : "Mon Oct 05 22:02:41 +0000 2009",
   "in_reply_to_screen_name" : "michelb",
@@ -2829,7 +2829,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chaim (חיים)",
+      "name" : "Chaim (\u05D7\u05D9\u05D9\u05DD)",
       "screen_name" : "creanu",
       "indices" : [ 132, 139 ],
       "id_str" : "14156681",
@@ -2842,7 +2842,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4625456536",
-  "text" : "Warum NPD-Wahlplakate abreissen? Man könnte sie doch auch einfach verbessern:  http://yfrog.com/5nbejj  (via http://bit.ly/1Hnhck & @creanu)",
+  "text" : "Warum NPD-Wahlplakate abreissen? Man k\u00F6nnte sie doch auch einfach verbessern:  http://yfrog.com/5nbejj  (via http://bit.ly/1Hnhck & @creanu)",
   "id" : 4625456536,
   "created_at" : "Mon Oct 05 10:52:48 +0000 2009",
   "user" : {
@@ -2886,7 +2886,7 @@ Grailbird.data.tweets_2009_10 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "problemvonalleingelöst",
+      "text" : "problemvonalleingel\u00F6st",
       "indices" : [ 42, 65 ]
     } ],
     "urls" : [ ]
@@ -2894,7 +2894,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4624586972",
-  "text" : "manchmal hilf prokrastinieren ja wirklich #problemvonalleingelöst",
+  "text" : "manchmal hilf prokrastinieren ja wirklich #problemvonalleingel\u00F6st",
   "id" : 4624586972,
   "created_at" : "Mon Oct 05 09:35:00 +0000 2009",
   "user" : {
@@ -3009,7 +3009,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4586514164",
-  "text" : "Schäuble redet auf VOX über die Freiheitsrechte",
+  "text" : "Sch\u00E4uble redet auf VOX \u00FCber die Freiheitsrechte",
   "id" : 4586514164,
   "created_at" : "Sat Oct 03 20:12:38 +0000 2009",
   "user" : {
@@ -3032,7 +3032,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4585146310",
-  "text" : "schaue grade nach gefühlten 10 Jahren, das erste mal wieder \"Wetten Das...\" und stelle fest das es mir nicht gefehlt hat",
+  "text" : "schaue grade nach gef\u00FChlten 10 Jahren, das erste mal wieder \"Wetten Das...\" und stelle fest das es mir nicht gefehlt hat",
   "id" : 4585146310,
   "created_at" : "Sat Oct 03 19:03:23 +0000 2009",
   "user" : {
@@ -3055,7 +3055,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4532075313",
-  "text" : "der neue Knight Rider auf RTL fährt einen Fort Mustang, bis grade eben mochte ich das Auto",
+  "text" : "der neue Knight Rider auf RTL f\u00E4hrt einen Fort Mustang, bis grade eben mochte ich das Auto",
   "id" : 4532075313,
   "created_at" : "Thu Oct 01 19:07:20 +0000 2009",
   "user" : {
@@ -3094,7 +3094,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Der Alte Griesgram",
+      "name" : "Dirt Girl #246",
       "screen_name" : "Griesgram999",
       "indices" : [ 0, 13 ],
       "id_str" : "14699309",
@@ -3109,7 +3109,7 @@ Grailbird.data.tweets_2009_10 =
   },
   "id_str" : "4525763300",
   "in_reply_to_user_id" : 14699309,
-  "text" : "@Griesgram999 sag einfach mal bescheid wenn du das nächste mal gehst",
+  "text" : "@Griesgram999 sag einfach mal bescheid wenn du das n\u00E4chste mal gehst",
   "id" : 4525763300,
   "in_reply_to_status_id" : 4525687209,
   "created_at" : "Thu Oct 01 14:32:20 +0000 2009",
@@ -3128,7 +3128,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Der Alte Griesgram",
+      "name" : "Dirt Girl #246",
       "screen_name" : "Griesgram999",
       "indices" : [ 0, 13 ],
       "id_str" : "14699309",
@@ -3177,7 +3177,7 @@ Grailbird.data.tweets_2009_10 =
   },
   "id_str" : "4524307885",
   "in_reply_to_user_id" : 959201,
-  "text" : "@Katti na dann mal schönen Urlaub",
+  "text" : "@Katti na dann mal sch\u00F6nen Urlaub",
   "id" : 4524307885,
   "in_reply_to_status_id" : 4524186895,
   "created_at" : "Thu Oct 01 13:21:55 +0000 2009",

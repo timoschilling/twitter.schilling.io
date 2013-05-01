@@ -21,7 +21,7 @@ Grailbird.data.tweets_2010_03 =
   },
   "id_str" : "11385149796",
   "in_reply_to_user_id" : 19105297,
-  "text" : "@lelei33 wenn du die Lösung gefunden hast lass es mich bitte wissen!!! THX #FritzBox #VPN #iPhone",
+  "text" : "@lelei33 wenn du die L\u00F6sung gefunden hast lass es mich bitte wissen!!! THX #FritzBox #VPN #iPhone",
   "id" : 11385149796,
   "in_reply_to_status_id" : 11383162278,
   "created_at" : "Wed Mar 31 20:23:30 +0000 2010",
@@ -54,7 +54,7 @@ Grailbird.data.tweets_2010_03 =
     } ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "qualitätsjournalismus",
+      "text" : "qualit\u00E4tsjournalismus",
       "indices" : [ 59, 81 ]
     }, {
       "text" : "twffm",
@@ -65,7 +65,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "11384881220",
-  "text" : "Geeks haben hohe Ansprüche an Medien die sie nicht nutzen. #qualitätsjournalismus #twffm (via @elektromod) hihi (via @paulinepauline)",
+  "text" : "Geeks haben hohe Anspr\u00FCche an Medien die sie nicht nutzen. #qualit\u00E4tsjournalismus #twffm (via @elektromod) hihi (via @paulinepauline)",
   "id" : 11384881220,
   "created_at" : "Wed Mar 31 20:17:15 +0000 2010",
   "user" : {
@@ -163,7 +163,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "11258054296",
-  "text" : "oh, 10.6.3 ist draußen",
+  "text" : "oh, 10.6.3 ist drau\u00DFen",
   "id" : 11258054296,
   "created_at" : "Mon Mar 29 16:38:19 +0000 2010",
   "user" : {
@@ -186,7 +186,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "11250616120",
-  "text" : "dieser ganze Skype Spam in letzter Zeit fängt an zu nerven!",
+  "text" : "dieser ganze Skype Spam in letzter Zeit f\u00E4ngt an zu nerven!",
   "id" : 11250616120,
   "created_at" : "Mon Mar 29 14:08:31 +0000 2010",
   "user" : {
@@ -238,7 +238,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "11242321206",
-  "text" : "meine neues Sennheiser klingen gefühlte 50% besser",
+  "text" : "meine neues Sennheiser klingen gef\u00FChlte 50% besser",
   "id" : 11242321206,
   "created_at" : "Mon Mar 29 10:16:27 +0000 2010",
   "user" : {
@@ -264,7 +264,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "11242268262",
-  "text" : "hab mich grade beim schnüffeln am Expedit erwischt #holzgeruch",
+  "text" : "hab mich grade beim schn\u00FCffeln am Expedit erwischt #holzgeruch",
   "id" : 11242268262,
   "created_at" : "Mon Mar 29 10:14:28 +0000 2010",
   "user" : {
@@ -289,7 +289,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 51.49243315, 7.3692256 ]
   },
   "id_str" : "11241748341",
-  "text" : "nen halbes Expedit umgetauscht ... — at Ikea http://gowal.la/s/xrY",
+  "text" : "nen halbes Expedit umgetauscht ... \u2014 at Ikea http://gowal.la/s/xrY",
   "id" : 11241748341,
   "created_at" : "Mon Mar 29 09:54:44 +0000 2010",
   "user" : {
@@ -314,7 +314,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 51.4749012977, 6.8517565727 ]
   },
   "id_str" : "11199548851",
-  "text" : "etwas zu viel Braun und Grün heute hier — at Oberhausen Hbf http://gowal.la/s/DML",
+  "text" : "etwas zu viel Braun und Gr\u00FCn heute hier \u2014 at Oberhausen Hbf http://gowal.la/s/DML",
   "id" : 11199548851,
   "created_at" : "Sun Mar 28 15:40:05 +0000 2010",
   "user" : {
@@ -386,7 +386,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "11029742744",
-  "text" : "was macht HostEurope eigentlich für eine mod_rewrite scheisse auf ihren Servern? /xyz =&gt; /xyz.php by default #fail",
+  "text" : "was macht HostEurope eigentlich f\u00FCr eine mod_rewrite scheisse auf ihren Servern? /xyz =&gt; /xyz.php by default #fail",
   "id" : 11029742744,
   "created_at" : "Thu Mar 25 11:39:49 +0000 2010",
   "user" : {
@@ -438,7 +438,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "11003413847",
-  "text" : ".@tlehmann herzlichen Glückwunsch zum Geburtstag!",
+  "text" : ".@tlehmann herzlichen Gl\u00FCckwunsch zum Geburtstag!",
   "id" : 11003413847,
   "created_at" : "Wed Mar 24 23:05:12 +0000 2010",
   "user" : {
@@ -665,7 +665,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 51.45887525, 7.0077189833 ]
   },
   "id_str" : "10814947744",
-  "text" : "#bcruhr3 — at Unperfekthaus http://gowal.la/s/4sm6",
+  "text" : "#bcruhr3 \u2014 at Unperfekthaus http://gowal.la/s/4sm6",
   "id" : 10814947744,
   "created_at" : "Sun Mar 21 09:55:53 +0000 2010",
   "user" : {
@@ -693,7 +693,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 51.5027923499, 7.4728167057 ]
   },
   "id_str" : "10813475749",
-  "text" : "on the Rails to #bcruhr3 — at Stadtbahn Marktgrafenstrasse http://gowal.la/s/28nQ",
+  "text" : "on the Rails to #bcruhr3 \u2014 at Stadtbahn Marktgrafenstrasse http://gowal.la/s/28nQ",
   "id" : 10813475749,
   "created_at" : "Sun Mar 21 08:47:48 +0000 2010",
   "user" : {
@@ -776,7 +776,7 @@ Grailbird.data.tweets_2010_03 =
   },
   "id_str" : "10796316410",
   "in_reply_to_user_id" : 15919327,
-  "text" : "@toshiyori herzlichen Glückwunsch!",
+  "text" : "@toshiyori herzlichen Gl\u00FCckwunsch!",
   "id" : 10796316410,
   "created_at" : "Sun Mar 21 00:08:24 +0000 2010",
   "in_reply_to_screen_name" : "toshiyori",
@@ -865,7 +865,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 51.458820285, 7.0073139668 ]
   },
   "id_str" : "10763683596",
-  "text" : "erster? #bcruhr3 — at Unperfekthaus http://gowal.la/s/ySu",
+  "text" : "erster? #bcruhr3 \u2014 at Unperfekthaus http://gowal.la/s/ySu",
   "id" : 10763683596,
   "created_at" : "Sat Mar 20 07:37:51 +0000 2010",
   "user" : {
@@ -893,7 +893,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 51.5178898198, 7.4592876434 ]
   },
   "id_str" : "10762152895",
-  "text" : "auf dem Weg zum #bcruhr3 — at Dortmund Hauptbahnhof http://gowal.la/s/ena",
+  "text" : "auf dem Weg zum #bcruhr3 \u2014 at Dortmund Hauptbahnhof http://gowal.la/s/ena",
   "id" : 10762152895,
   "created_at" : "Sat Mar 20 06:37:11 +0000 2010",
   "user" : {
@@ -982,7 +982,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "10685368753",
-  "text" : "RT @saschalobo: wie man's auch dreht und wendet，dieser pﬁﬃge tweet enthält mehr aʪ e㏌hundertundⅵerzig zeichen．zählen sie's nach．es s㏌d e ...",
+  "text" : "RT @saschalobo: wie man's auch dreht und wendet\uFF0Cdieser p\uFB01\uFB03ge tweet enth\u00E4lt mehr a\u02AA e\u33CChundertund\u2175erzig zeichen\uFF0Ez\u00E4hlen sie's nach\uFF0Ees s\u33CCd e ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -994,7 +994,7 @@ Grailbird.data.tweets_2010_03 =
     "geo" : {
     },
     "id_str" : "10685222763",
-    "text" : "wie man's auch dreht und wendet，dieser pﬁﬃge tweet enthält mehr aʪ e㏌hundertundⅵerzig zeichen．zählen sie's nach．es s㏌d einhundertundfünfzig.",
+    "text" : "wie man's auch dreht und wendet\uFF0Cdieser p\uFB01\uFB03ge tweet enth\u00E4lt mehr a\u02AA e\u33CChundertund\u2175erzig zeichen\uFF0Ez\u00E4hlen sie's nach\uFF0Ees s\u33CCd einhundertundf\u00FCnfzig.",
     "id" : 10685222763,
     "created_at" : "Thu Mar 18 19:15:26 +0000 2010",
     "user" : {
@@ -1031,7 +1031,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 50.9434487518, 6.9581651688 ]
   },
   "id_str" : "10679726725",
-  "text" : "good by Cologne — at Hauptbahnhof Köln http://gowal.la/s/es2",
+  "text" : "good by Cologne \u2014 at Hauptbahnhof K\u00F6ln http://gowal.la/s/es2",
   "id" : 10679726725,
   "created_at" : "Thu Mar 18 16:53:40 +0000 2010",
   "user" : {
@@ -1056,7 +1056,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 50.94290912, 6.95924419 ]
   },
   "id_str" : "10678499591",
-  "text" : "wenn man schon mal hier ist muss auch ein Kölsch sein und dazu ein Halver Hahn http://img.ly/FVB",
+  "text" : "wenn man schon mal hier ist muss auch ein K\u00F6lsch sein und dazu ein Halver Hahn http://img.ly/FVB",
   "id" : 10678499591,
   "created_at" : "Thu Mar 18 16:24:22 +0000 2010",
   "user" : {
@@ -1081,7 +1081,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 50.9412989898, 6.9581222534 ]
   },
   "id_str" : "10667962266",
-  "text" : "Photo: Ausblick — at Kölner Dom http://gowal.la/c/s7wY",
+  "text" : "Photo: Ausblick \u2014 at K\u00F6lner Dom http://gowal.la/c/s7wY",
   "id" : 10667962266,
   "created_at" : "Thu Mar 18 12:08:58 +0000 2010",
   "user" : {
@@ -1106,7 +1106,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 50.9412989898, 6.9581222534 ]
   },
   "id_str" : "10667798580",
-  "text" : "Photo: Kein Aufzug! Kein Scherz! — at Kölner Dom http://gowal.la/c/s7wY",
+  "text" : "Photo: Kein Aufzug! Kein Scherz! \u2014 at K\u00F6lner Dom http://gowal.la/c/s7wY",
   "id" : 10667798580,
   "created_at" : "Thu Mar 18 12:03:56 +0000 2010",
   "user" : {
@@ -1131,7 +1131,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 50.9412989898, 6.9581222534 ]
   },
   "id_str" : "10667056893",
-  "text" : "Photo:  — at Kölner Dom http://gowal.la/c/s7wY",
+  "text" : "Photo:  \u2014 at K\u00F6lner Dom http://gowal.la/c/s7wY",
   "id" : 10667056893,
   "created_at" : "Thu Mar 18 11:40:09 +0000 2010",
   "user" : {
@@ -1156,7 +1156,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 50.9412989898, 6.9581222534 ]
   },
   "id_str" : "10667011254",
-  "text" : "mal den Ausblick genießen — at Kölner Dom http://gowal.la/s/iwj",
+  "text" : "mal den Ausblick genie\u00DFen \u2014 at K\u00F6lner Dom http://gowal.la/s/iwj",
   "id" : 10667011254,
   "created_at" : "Thu Mar 18 11:38:39 +0000 2010",
   "user" : {
@@ -1179,7 +1179,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "10663447107",
-  "text" : "Ausflugsklasse mit im Zug, Soundkulisse wie im präpubertären Hühnerstall",
+  "text" : "Ausflugsklasse mit im Zug, Soundkulisse wie im pr\u00E4pubert\u00E4ren H\u00FChnerstall",
   "id" : 10663447107,
   "created_at" : "Thu Mar 18 09:22:26 +0000 2010",
   "user" : {
@@ -1195,7 +1195,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marko Tošić",
+      "name" : "Marko To\u0161i\u0107",
       "screen_name" : "markotosic",
       "indices" : [ 0, 11 ],
       "id_str" : "301942772",
@@ -1246,7 +1246,7 @@ Grailbird.data.tweets_2010_03 =
   },
   "id_str" : "10623276090",
   "in_reply_to_user_id" : 20514752,
-  "text" : "@B_zwitschert kennt ihr eigentlich schon die B-Stützen von IKEA? http://bit.ly/d9sfYn",
+  "text" : "@B_zwitschert kennt ihr eigentlich schon die B-St\u00FCtzen von IKEA? http://bit.ly/d9sfYn",
   "id" : 10623276090,
   "created_at" : "Wed Mar 17 14:16:50 +0000 2010",
   "in_reply_to_screen_name" : "B_zwitschert",
@@ -1337,7 +1337,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "10520877059",
-  "text" : "Dear stuff @twitter. Can you please STOP this user!  http://twitpic.com/18r7dz  It´s ridiculous and a shame for all of us! PLEASE RT!",
+  "text" : "Dear stuff @twitter. Can you please STOP this user!  http://twitpic.com/18r7dz  It\u00B4s ridiculous and a shame for all of us! PLEASE RT!",
   "id" : 10520877059,
   "created_at" : "Mon Mar 15 14:58:38 +0000 2010",
   "user" : {
@@ -1362,7 +1362,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 51.5192450754, 7.4606180191 ]
   },
   "id_str" : "10432123349",
-  "text" : "Friendship, ganz klassisch ohne 3D und so — at Cinestar http://gowal.la/s/21Xr",
+  "text" : "Friendship, ganz klassisch ohne 3D und so \u2014 at Cinestar http://gowal.la/s/21Xr",
   "id" : 10432123349,
   "created_at" : "Sat Mar 13 18:07:04 +0000 2010",
   "user" : {
@@ -1393,7 +1393,7 @@ Grailbird.data.tweets_2010_03 =
   },
   "id_str" : "10396832980",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel hättest du lieber T9? ;)",
+  "text" : "@florianfiegel h\u00E4ttest du lieber T9? ;)",
   "id" : 10396832980,
   "in_reply_to_status_id" : 10396668063,
   "created_at" : "Sat Mar 13 00:05:00 +0000 2010",
@@ -1473,7 +1473,7 @@ Grailbird.data.tweets_2010_03 =
   },
   "id_str" : "10251699988",
   "in_reply_to_user_id" : 55509490,
-  "text" : "@Projekt_A hallo Alexander, willkommen im Web 2.0 und ärger deine Eltern nicht so;)",
+  "text" : "@Projekt_A hallo Alexander, willkommen im Web 2.0 und \u00E4rger deine Eltern nicht so;)",
   "id" : 10251699988,
   "in_reply_to_status_id" : 10251491834,
   "created_at" : "Wed Mar 10 02:41:51 +0000 2010",
@@ -1507,7 +1507,7 @@ Grailbird.data.tweets_2010_03 =
   },
   "id_str" : "10251183920",
   "in_reply_to_user_id" : 19105297,
-  "text" : "@lelei33 @bibi86 Glückwunsch an die frisch gebackenen Eltern und alles gute an den kleinen!",
+  "text" : "@lelei33 @bibi86 Gl\u00FCckwunsch an die frisch gebackenen Eltern und alles gute an den kleinen!",
   "id" : 10251183920,
   "in_reply_to_status_id" : 10250437227,
   "created_at" : "Wed Mar 10 02:29:43 +0000 2010",
@@ -1591,7 +1591,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ChristophMüllerGirod",
+      "name" : "Mueller-Girod",
       "screen_name" : "schwarzesgold",
       "indices" : [ 0, 14 ],
       "id_str" : "16048372",
@@ -1605,7 +1605,7 @@ Grailbird.data.tweets_2010_03 =
   },
   "id_str" : "10192760020",
   "in_reply_to_user_id" : 16048372,
-  "text" : "@schwarzesgold alles gute zum Geburtstag! Las dich schön feiern!",
+  "text" : "@schwarzesgold alles gute zum Geburtstag! Las dich sch\u00F6n feiern!",
   "id" : 10192760020,
   "created_at" : "Mon Mar 08 23:13:26 +0000 2010",
   "in_reply_to_screen_name" : "schwarzesgold",
@@ -1664,7 +1664,7 @@ Grailbird.data.tweets_2010_03 =
   },
   "id_str" : "10191593932",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb möp!",
+  "text" : "@michelb m\u00F6p!",
   "id" : 10191593932,
   "in_reply_to_status_id" : 10191500518,
   "created_at" : "Mon Mar 08 22:44:14 +0000 2010",
@@ -1698,7 +1698,7 @@ Grailbird.data.tweets_2010_03 =
   },
   "id_str" : "10191354392",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb das nun nicht, aber eine IE.app währe nicht schlecht!",
+  "text" : "@michelb das nun nicht, aber eine IE.app w\u00E4hre nicht schlecht!",
   "id" : 10191354392,
   "in_reply_to_status_id" : 10191183601,
   "created_at" : "Mon Mar 08 22:38:07 +0000 2010",
@@ -1724,7 +1724,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "10191040574",
-  "text" : "ich würde den IE je weniger hassen wenn ich zum debuggen nicht jedes mal die VM starten müsste",
+  "text" : "ich w\u00FCrde den IE je weniger hassen wenn ich zum debuggen nicht jedes mal die VM starten m\u00FCsste",
   "id" : 10191040574,
   "created_at" : "Mon Mar 08 22:30:10 +0000 2010",
   "user" : {
@@ -1776,7 +1776,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "10190438250",
-  "text" : "Programmieren ist sich selbst ständig mit der eigenen Dummheit von Gestern zu konfrontieren. (via @emonk_net)",
+  "text" : "Programmieren ist sich selbst st\u00E4ndig mit der eigenen Dummheit von Gestern zu konfrontieren. (via @emonk_net)",
   "id" : 10190438250,
   "created_at" : "Mon Mar 08 22:14:39 +0000 2010",
   "user" : {
@@ -1801,7 +1801,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 51.49846589, 7.21620053 ]
   },
   "id_str" : "10188552881",
-  "text" : "meinem Körper mal wieder auf Vordermann bringen — at Fitness GYM http://gowal.la/s/4qvH",
+  "text" : "meinem K\u00F6rper mal wieder auf Vordermann bringen \u2014 at Fitness GYM http://gowal.la/s/4qvH",
   "id" : 10188552881,
   "created_at" : "Mon Mar 08 21:24:28 +0000 2010",
   "user" : {
@@ -1887,7 +1887,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "15257110",
       "id" : 15257110
     }, {
-      "name" : "Jörg Tauss",
+      "name" : "J\u00F6rg Tauss",
       "screen_name" : "tauss",
       "indices" : [ 112, 118 ],
       "id_str" : "18219170",
@@ -1978,7 +1978,7 @@ Grailbird.data.tweets_2010_03 =
     "coordinates" : [ 51.6561754653, 6.6246169545 ]
   },
   "id_str" : "10127969546",
-  "text" : "#lecker — at Wurstreich http://gowal.la/s/4oKy",
+  "text" : "#lecker \u2014 at Wurstreich http://gowal.la/s/4oKy",
   "id" : 10127969546,
   "created_at" : "Sun Mar 07 17:19:41 +0000 2010",
   "user" : {
@@ -2001,7 +2001,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "9988585976",
-  "text" : "hätte mir nicht schon mal eher jemand sagen können das Ruby die Lösung für all meine PHP Probleme ist?",
+  "text" : "h\u00E4tte mir nicht schon mal eher jemand sagen k\u00F6nnen das Ruby die L\u00F6sung f\u00FCr all meine PHP Probleme ist?",
   "id" : 9988585976,
   "created_at" : "Thu Mar 04 20:11:05 +0000 2010",
   "user" : {
@@ -2089,7 +2089,7 @@ Grailbird.data.tweets_2010_03 =
   },
   "id_str" : "9950182302",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel klarer fall von Gedächtnisschwäche!",
+  "text" : "@florianfiegel klarer fall von Ged\u00E4chtnisschw\u00E4che!",
   "id" : 9950182302,
   "in_reply_to_status_id" : 9945014986,
   "created_at" : "Thu Mar 04 01:06:24 +0000 2010",
@@ -2121,7 +2121,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "9943768515",
-  "text" : "Wenn man alle Gesetze studieren wollte, so hätte man gar keine Zeit, sie zu übertreten.\n     *Johann Wolfgang von Goethe* (via @zitate)",
+  "text" : "Wenn man alle Gesetze studieren wollte, so h\u00E4tte man gar keine Zeit, sie zu \u00FCbertreten.\n     *Johann Wolfgang von Goethe* (via @zitate)",
   "id" : 9943768515,
   "created_at" : "Wed Mar 03 22:28:14 +0000 2010",
   "user" : {
@@ -2179,7 +2179,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "9942470875",
-  "text" : "Testsieger schülerVZ, ja ne is klar #SternTV",
+  "text" : "Testsieger sch\u00FClerVZ, ja ne is klar #SternTV",
   "id" : 9942470875,
   "created_at" : "Wed Mar 03 21:54:27 +0000 2010",
   "user" : {
@@ -2499,7 +2499,7 @@ Grailbird.data.tweets_2010_03 =
   },
   "id_str" : "9832249157",
   "in_reply_to_user_id" : 17129996,
-  "text" : "@vivianmeally mhm, ist das nicht etwas übertrieben mit schwerer Artillerie auf die Fuchsjagd zu gehen?",
+  "text" : "@vivianmeally mhm, ist das nicht etwas \u00FCbertrieben mit schwerer Artillerie auf die Fuchsjagd zu gehen?",
   "id" : 9832249157,
   "in_reply_to_status_id" : 9831546976,
   "created_at" : "Mon Mar 01 16:48:07 +0000 2010",
@@ -2525,7 +2525,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "9830140976",
-  "text" : "für welche FireFox Version ist eigentlich mal ein etwas mehr Schnelligkeit vorgesehen?",
+  "text" : "f\u00FCr welche FireFox Version ist eigentlich mal ein etwas mehr Schnelligkeit vorgesehen?",
   "id" : 9830140976,
   "created_at" : "Mon Mar 01 15:53:40 +0000 2010",
   "user" : {

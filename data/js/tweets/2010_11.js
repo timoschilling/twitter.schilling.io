@@ -10,7 +10,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "9734567090982912",
-  "text" : "RT @seosocke: \"Fürs Internet sollte das Baumhaus-Prinzip gelten: Wer zu alt ist,um ohne Hilfe reinzukommen, soll uns darin auch keine Vo ...",
+  "text" : "RT @seosocke: \"F\u00FCrs Internet sollte das Baumhaus-Prinzip gelten: Wer zu alt ist,um ohne Hilfe reinzukommen, soll uns darin auch keine Vo ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
@@ -22,7 +22,7 @@ Grailbird.data.tweets_2010_11 =
     "geo" : {
     },
     "id_str" : "9724530733879296",
-    "text" : "\"Fürs Internet sollte das Baumhaus-Prinzip gelten: Wer zu alt ist,um ohne Hilfe reinzukommen, soll uns darin auch keine Vorschriften machen\"",
+    "text" : "\"F\u00FCrs Internet sollte das Baumhaus-Prinzip gelten: Wer zu alt ist,um ohne Hilfe reinzukommen, soll uns darin auch keine Vorschriften machen\"",
     "id" : 9724530733879296,
     "created_at" : "Tue Nov 30 21:44:43 +0000 2010",
     "user" : {
@@ -103,7 +103,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "id_str" : "9251193691836417",
   "in_reply_to_user_id" : 14122938,
-  "text" : "@SimSullen für @cowodo?",
+  "text" : "@SimSullen f\u00FCr @cowodo?",
   "id" : 9251193691836417,
   "in_reply_to_status_id" : 9250463132155904,
   "created_at" : "Mon Nov 29 14:23:51 +0000 2010",
@@ -169,7 +169,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "id_str" : "8575669432754176",
   "in_reply_to_user_id" : 33271472,
-  "text" : "@die_nina, huch wer twittert den da? Aber über Geschmack lässt sich bekanntlich ja streiten",
+  "text" : "@die_nina, huch wer twittert den da? Aber \u00FCber Geschmack l\u00E4sst sich bekanntlich ja streiten",
   "id" : 8575669432754176,
   "in_reply_to_status_id" : 8574009239146496,
   "created_at" : "Sat Nov 27 17:39:33 +0000 2010",
@@ -300,7 +300,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "7023857546305536",
-  "text" : "Bombendrohung am Porsche Platz in Essen. Es fahren keine Ubahnen mehr über den Porsche Platz. #nrwverker / cc @DerWesten",
+  "text" : "Bombendrohung am Porsche Platz in Essen. Es fahren keine Ubahnen mehr \u00FCber den Porsche Platz. #nrwverker / cc @DerWesten",
   "id" : 7023857546305536,
   "created_at" : "Tue Nov 23 10:53:12 +0000 2010",
   "user" : {
@@ -323,7 +323,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "6433440882753536",
-  "text" : "der Coworking Dortmund e.V. ist gegründet",
+  "text" : "der Coworking Dortmund e.V. ist gegr\u00FCndet",
   "id" : 6433440882753536,
   "created_at" : "Sun Nov 21 19:47:06 +0000 2010",
   "user" : {
@@ -417,7 +417,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "id_str" : "5634708767514624",
   "in_reply_to_user_id" : 15035029,
-  "text" : "@sippndipp have you tried to set the amount as a cent value? 1,23€ as 123 Cents",
+  "text" : "@sippndipp have you tried to set the amount as a cent value? 1,23\u20AC as 123 Cents",
   "id" : 5634708767514624,
   "in_reply_to_status_id" : 5631969194934273,
   "created_at" : "Fri Nov 19 14:53:13 +0000 2010",
@@ -522,7 +522,7 @@ Grailbird.data.tweets_2010_11 =
     "coordinates" : [ 51.480393419, 7.218690121 ]
   },
   "id_str" : "5325072038371329",
-  "text" : "Ist es schon wieder so weit? — at Weihnachtsmarkt http://gowal.la/c/2Vjgz",
+  "text" : "Ist es schon wieder so weit? \u2014 at Weihnachtsmarkt http://gowal.la/c/2Vjgz",
   "id" : 5325072038371329,
   "created_at" : "Thu Nov 18 18:22:50 +0000 2010",
   "user" : {
@@ -611,7 +611,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "5175593138130944",
-  "text" : "http://img.ly/2sh2 gut das ich Umgezogen bin, alte Wohnung ist verpixelt und wahrscheinliche der größte Pixel Bochum's http://bit.ly/bhaByU",
+  "text" : "http://img.ly/2sh2 gut das ich Umgezogen bin, alte Wohnung ist verpixelt und wahrscheinliche der gr\u00F6\u00DFte Pixel Bochum's http://bit.ly/bhaByU",
   "id" : 5175593138130944,
   "created_at" : "Thu Nov 18 08:28:52 +0000 2010",
   "user" : {
@@ -646,7 +646,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "5165912512532480",
-  "text" : "Stellt euch vor, es ist StreetView und die Häuser aller Social-Media-Berater sind verpixelt. (via @furukama @florianfiegel)",
+  "text" : "Stellt euch vor, es ist StreetView und die H\u00E4user aller Social-Media-Berater sind verpixelt. (via @furukama @florianfiegel)",
   "id" : 5165912512532480,
   "created_at" : "Thu Nov 18 07:50:24 +0000 2010",
   "user" : {
@@ -698,7 +698,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "4801153086791680",
-  "text" : "der @michelb hat's bestätigt, die Twitter App pusht! http://img.ly/2rTl",
+  "text" : "der @michelb hat's best\u00E4tigt, die Twitter App pusht! http://img.ly/2rTl",
   "id" : 4801153086791680,
   "created_at" : "Wed Nov 17 07:40:58 +0000 2010",
   "user" : {
@@ -721,7 +721,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "4798223386415104",
-  "text" : "das ich das noch mal erleben darf, die Twitter App fängt an zu pushen? http://img.ly/2rTa",
+  "text" : "das ich das noch mal erleben darf, die Twitter App f\u00E4ngt an zu pushen? http://img.ly/2rTa",
   "id" : 4798223386415104,
   "created_at" : "Wed Nov 17 07:29:20 +0000 2010",
   "user" : {
@@ -767,7 +767,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "4627553725710337",
-  "text" : "ist doch alles Käse http://img.ly/2rH5",
+  "text" : "ist doch alles K\u00E4se http://img.ly/2rH5",
   "id" : 4627553725710337,
   "created_at" : "Tue Nov 16 20:11:09 +0000 2010",
   "user" : {
@@ -783,7 +783,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Björn Schulze",
+      "name" : "Bj\u00F6rn Schulze",
       "screen_name" : "ghostdog19",
       "indices" : [ 41, 52 ],
       "id_str" : "12806792",
@@ -825,7 +825,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "4212533166612480",
-  "text" : "wie schön das mainche Dinge dann doch mal ein Ende haben #projektabschluss",
+  "text" : "wie sch\u00F6n das mainche Dinge dann doch mal ein Ende haben #projektabschluss",
   "id" : 4212533166612480,
   "created_at" : "Mon Nov 15 16:42:00 +0000 2010",
   "user" : {
@@ -848,7 +848,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "3933718116835329",
-  "text" : "das Textmate Update fällt für ein Jahr etwas mau aus",
+  "text" : "das Textmate Update f\u00E4llt f\u00FCr ein Jahr etwas mau aus",
   "id" : 3933718116835329,
   "created_at" : "Sun Nov 14 22:14:06 +0000 2010",
   "user" : {
@@ -966,7 +966,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "2698131128979456",
-  "text" : "ärger mich grade über meine abgesagt #bchh Teilnahme :(",
+  "text" : "\u00E4rger mich grade \u00FCber meine abgesagt #bchh Teilnahme :(",
   "id" : 2698131128979456,
   "created_at" : "Thu Nov 11 12:24:19 +0000 2010",
   "user" : {
@@ -989,7 +989,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "2504246918381568",
-  "text" : "Wunschzettel für den Weihnachtsmann:\n1. Things Cloudsync\n2. Tweetie für Mac 2\n3. AirPlay für AppleTV (1. Gen)",
+  "text" : "Wunschzettel f\u00FCr den Weihnachtsmann:\n1. Things Cloudsync\n2. Tweetie f\u00FCr Mac 2\n3. AirPlay f\u00FCr AppleTV (1. Gen)",
   "id" : 2504246918381568,
   "created_at" : "Wed Nov 10 23:33:53 +0000 2010",
   "user" : {
@@ -1078,7 +1078,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "2372611476561920",
-  "text" : "Post vom Finanzamt: \"Die Förderung von Grund- und Freiheitsrechten ist kein gemeinnütziger Zweck\". (via @netzpolitik)",
+  "text" : "Post vom Finanzamt: \"Die F\u00F6rderung von Grund- und Freiheitsrechten ist kein gemeinn\u00FCtziger Zweck\". (via @netzpolitik)",
   "id" : 2372611476561920,
   "created_at" : "Wed Nov 10 14:50:49 +0000 2010",
   "user" : {
@@ -1187,7 +1187,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "2121665416790017",
-  "text" : "RT @maingold: Wenn die deutsche Polizei schon von ein paar Tagen Castor Demo derart überfordert ist, müsste eine Revolution doch leicht  ...",
+  "text" : "RT @maingold: Wenn die deutsche Polizei schon von ein paar Tagen Castor Demo derart \u00FCberfordert ist, m\u00FCsste eine Revolution doch leicht  ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -1199,7 +1199,7 @@ Grailbird.data.tweets_2010_11 =
     "geo" : {
     },
     "id_str" : "2096435818405888",
-    "text" : "Wenn die deutsche Polizei schon von ein paar Tagen Castor Demo derart überfordert ist, müsste eine Revolution doch leicht machbar sein.",
+    "text" : "Wenn die deutsche Polizei schon von ein paar Tagen Castor Demo derart \u00FCberfordert ist, m\u00FCsste eine Revolution doch leicht machbar sein.",
     "id" : 2096435818405888,
     "created_at" : "Tue Nov 09 20:33:23 +0000 2010",
     "user" : {
@@ -1240,7 +1240,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "2015887078985728",
-  "text" : "RT @343max: Der IE8 ist die blühenden Landschaften unter den Browsern: klar, es ist vieles besser geworden, trotzdem will niemand nach S ...",
+  "text" : "RT @343max: Der IE8 ist die bl\u00FChenden Landschaften unter den Browsern: klar, es ist vieles besser geworden, trotzdem will niemand nach S ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
     "entities" : {
@@ -1252,7 +1252,7 @@ Grailbird.data.tweets_2010_11 =
     "geo" : {
     },
     "id_str" : "2011991224885248",
-    "text" : "Der IE8 ist die blühenden Landschaften unter den Browsern: klar, es ist vieles besser geworden, trotzdem will niemand nach Sachsen Anhalt.",
+    "text" : "Der IE8 ist die bl\u00FChenden Landschaften unter den Browsern: klar, es ist vieles besser geworden, trotzdem will niemand nach Sachsen Anhalt.",
     "id" : 2011991224885248,
     "created_at" : "Tue Nov 09 14:57:50 +0000 2010",
     "user" : {
@@ -1310,7 +1310,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "1938127836946432",
-  "text" : "iPhone Pro Tip: die Skype App taugt auch als Taschenwärmer",
+  "text" : "iPhone Pro Tip: die Skype App taugt auch als Taschenw\u00E4rmer",
   "id" : 1938127836946432,
   "created_at" : "Tue Nov 09 10:04:20 +0000 2010",
   "user" : {
@@ -1341,7 +1341,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "id_str" : "1336819740315648",
   "in_reply_to_user_id" : 710613,
-  "text" : "@Gernot Psydo-Einzel Event oder Diverses-Massen Event, hab die richtige Lösung für mich nicht nicht gefunden. Order jemand bessere Ideen?",
+  "text" : "@Gernot Psydo-Einzel Event oder Diverses-Massen Event, hab die richtige L\u00F6sung f\u00FCr mich nicht nicht gefunden. Order jemand bessere Ideen?",
   "id" : 1336819740315648,
   "in_reply_to_status_id" : 1282189559857152,
   "created_at" : "Sun Nov 07 18:14:57 +0000 2010",
@@ -1373,7 +1373,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "518828601647104",
-  "text" : "RT @gerritvanaaken: Man muss Laien allein deshalb Chrome als Browser empfehlen, weil er sich heimlich selber updatet. Alles andere führt ...",
+  "text" : "RT @gerritvanaaken: Man muss Laien allein deshalb Chrome als Browser empfehlen, weil er sich heimlich selber updatet. Alles andere f\u00FChrt ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
     "entities" : {
@@ -1385,7 +1385,7 @@ Grailbird.data.tweets_2010_11 =
     "geo" : {
     },
     "id_str" : "487744929271808",
-    "text" : "Man muss Laien allein deshalb Chrome als Browser empfehlen, weil er sich heimlich selber updatet. Alles andere führt zu nichts auf Dauer.",
+    "text" : "Man muss Laien allein deshalb Chrome als Browser empfehlen, weil er sich heimlich selber updatet. Alles andere f\u00FChrt zu nichts auf Dauer.",
     "id" : 487744929271808,
     "created_at" : "Fri Nov 05 10:01:02 +0000 2010",
     "user" : {
@@ -1443,7 +1443,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "472691626741760",
-  "text" : "oh man Google will wohl beim Chrome nächstes Jahr umbedingt die 100.0 feiern",
+  "text" : "oh man Google will wohl beim Chrome n\u00E4chstes Jahr umbedingt die 100.0 feiern",
   "id" : 472691626741760,
   "created_at" : "Fri Nov 05 09:01:13 +0000 2010",
   "user" : {
@@ -1482,7 +1482,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -1497,7 +1497,7 @@ Grailbird.data.tweets_2010_11 =
   },
   "id_str" : "467450818732032",
   "in_reply_to_user_id" : 18448838,
-  "text" : "@echt wo für braucht man ein iPhone wenn man 3 Tage lang Twitter nicht nutzt?",
+  "text" : "@echt wo f\u00FCr braucht man ein iPhone wenn man 3 Tage lang Twitter nicht nutzt?",
   "id" : 467450818732032,
   "in_reply_to_status_id" : 466006925385728,
   "created_at" : "Fri Nov 05 08:40:23 +0000 2010",
@@ -1612,7 +1612,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "29689958978",
-  "text" : "iOS 4.2 jetzt mit Support für Internetausdrucker http://img.ly/2nbh",
+  "text" : "iOS 4.2 jetzt mit Support f\u00FCr Internetausdrucker http://img.ly/2nbh",
   "id" : 29689958978,
   "created_at" : "Thu Nov 04 18:22:56 +0000 2010",
   "user" : {
@@ -1735,7 +1735,7 @@ Grailbird.data.tweets_2010_11 =
     "coordinates" : [ 51.43670131, 7.0051252842 ]
   },
   "id_str" : "29564164336",
-  "text" : "Versuch Nr. 2 #iPhone — at T-Punkt (Rüttenscheid) http://gowal.la/c/2PkmC",
+  "text" : "Versuch Nr. 2 #iPhone \u2014 at T-Punkt (R\u00FCttenscheid) http://gowal.la/c/2PkmC",
   "id" : 29564164336,
   "created_at" : "Wed Nov 03 12:00:29 +0000 2010",
   "user" : {
@@ -1758,7 +1758,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "29555413126",
-  "text" : "dafür sind 32er Geräte vorrätig, können jedoch noch nicht verkauft werden weil die neuen Tarife noch nicht in der Kasse sind",
+  "text" : "daf\u00FCr sind 32er Ger\u00E4te vorr\u00E4tig, k\u00F6nnen jedoch noch nicht verkauft werden weil die neuen Tarife noch nicht in der Kasse sind",
   "id" : 29555413126,
   "created_at" : "Wed Nov 03 09:26:43 +0000 2010",
   "user" : {
@@ -1829,7 +1829,7 @@ Grailbird.data.tweets_2010_11 =
     "coordinates" : [ 51.44513815, 7.01014775 ]
   },
   "id_str" : "29552709902",
-  "text" : "die Telekom wirbt jetzt offen mit Knebelverträgen  http://img.ly/2mFO",
+  "text" : "die Telekom wirbt jetzt offen mit Knebelvertr\u00E4gen  http://img.ly/2mFO",
   "id" : 29552709902,
   "created_at" : "Wed Nov 03 08:28:59 +0000 2010",
   "user" : {
@@ -1845,7 +1845,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Hans",
+      "name" : "Christian",
       "screen_name" : "lelei",
       "indices" : [ 0, 6 ],
       "id_str" : "19105297",
@@ -1895,7 +1895,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "29551583727",
-  "text" : "Zugführer begründet Verspätung mit \"ich kann nicht richtig bremsen\", sehr vertrauenserweckend #bahn #fail #nrwverker",
+  "text" : "Zugf\u00FChrer begr\u00FCndet Versp\u00E4tung mit \"ich kann nicht richtig bremsen\", sehr vertrauenserweckend #bahn #fail #nrwverker",
   "id" : 29551583727,
   "created_at" : "Wed Nov 03 08:04:32 +0000 2010",
   "user" : {

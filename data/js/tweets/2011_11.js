@@ -3,7 +3,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -18,7 +18,7 @@ Grailbird.data.tweets_2011_11 =
   },
   "id_str" : "140183057528401920",
   "in_reply_to_user_id" : 18448838,
-  "text" : "@echt viel Spaß euch beiden",
+  "text" : "@echt viel Spa\u00DF euch beiden",
   "id" : 140183057528401920,
   "in_reply_to_status_id" : 140165510154289153,
   "created_at" : "Fri Nov 25 21:40:20 +0000 2011",
@@ -75,7 +75,7 @@ Grailbird.data.tweets_2011_11 =
   },
   "id_str" : "136516550655098880",
   "in_reply_to_user_id" : 12262052,
-  "text" : "@tmmd üben, übern und noch mal's üben",
+  "text" : "@tmmd \u00FCben, \u00FCbern und noch mal's \u00FCben",
   "id" : 136516550655098880,
   "in_reply_to_status_id" : 136505353297870849,
   "created_at" : "Tue Nov 15 18:50:56 +0000 2011",
@@ -110,7 +110,7 @@ Grailbird.data.tweets_2011_11 =
   "geo" : {
   },
   "id_str" : "135007948371001346",
-  "text" : "RT @bralenn: \"BarCamp ist Gangbang für's Gehirn.\" o_O #bchh11",
+  "text" : "RT @bralenn: \"BarCamp ist Gangbang f\u00FCr's Gehirn.\" o_O #bchh11",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
@@ -125,7 +125,7 @@ Grailbird.data.tweets_2011_11 =
     "geo" : {
     },
     "id_str" : "134991040854757376",
-    "text" : "\"BarCamp ist Gangbang für's Gehirn.\" o_O #bchh11",
+    "text" : "\"BarCamp ist Gangbang f\u00FCr's Gehirn.\" o_O #bchh11",
     "id" : 134991040854757376,
     "created_at" : "Fri Nov 11 13:49:06 +0000 2011",
     "user" : {
@@ -153,7 +153,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 3, 8 ],
       "id_str" : "18448838",
@@ -169,7 +169,7 @@ Grailbird.data.tweets_2011_11 =
   "geo" : {
   },
   "id_str" : "134958704863887360",
-  "text" : "RT @echt: Meine Session morgen auf dem #bchh11: \"Kölsch trinken für Umsteiger - Wege aus der Altbierhölle...\"",
+  "text" : "RT @echt: Meine Session morgen auf dem #bchh11: \"K\u00F6lsch trinken f\u00FCr Umsteiger - Wege aus der Altbierh\u00F6lle...\"",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -184,15 +184,15 @@ Grailbird.data.tweets_2011_11 =
     "geo" : {
     },
     "id_str" : "134652963938508800",
-    "text" : "Meine Session morgen auf dem #bchh11: \"Kölsch trinken für Umsteiger - Wege aus der Altbierhölle...\"",
+    "text" : "Meine Session morgen auf dem #bchh11: \"K\u00F6lsch trinken f\u00FCr Umsteiger - Wege aus der Altbierh\u00F6lle...\"",
     "id" : 134652963938508800,
     "created_at" : "Thu Nov 10 15:25:42 +0000 2011",
     "user" : {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "protected" : false,
       "id_str" : "18448838",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2199838425/_MG_9290_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3514331375/da06ee128ba700ef99de9b8ae165d786_normal.jpeg",
       "id" : 18448838,
       "verified" : false
     }
@@ -225,7 +225,7 @@ Grailbird.data.tweets_2011_11 =
   "geo" : {
   },
   "id_str" : "133948649775431682",
-  "text" : "Auf dem Weg nach Köle zur @cgnjs",
+  "text" : "Auf dem Weg nach K\u00F6le zur @cgnjs",
   "id" : 133948649775431682,
   "created_at" : "Tue Nov 08 16:47:01 +0000 2011",
   "user" : {

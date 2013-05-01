@@ -45,7 +45,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "19646411789",
-  "text" : "ach ja, falls jemand sein iPhone zurück geben möchte ich nehme es gerne!",
+  "text" : "ach ja, falls jemand sein iPhone zur\u00FCck geben m\u00F6chte ich nehme es gerne!",
   "id" : 19646411789,
   "created_at" : "Tue Jul 27 10:26:15 +0000 2010",
   "user" : {
@@ -103,7 +103,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "19438830960",
-  "text" : "RT @DWDL: Gelände laut WDR für 500.000 Besucher geeignet. 1,5 Mio. Besucher wurden erwartet. Mangelnde Mathematik-Kenntnisse können Lebe ...",
+  "text" : "RT @DWDL: Gel\u00E4nde laut WDR f\u00FCr 500.000 Besucher geeignet. 1,5 Mio. Besucher wurden erwartet. Mangelnde Mathematik-Kenntnisse k\u00F6nnen Lebe ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
@@ -115,7 +115,7 @@ Grailbird.data.tweets_2010_07 =
     "geo" : {
     },
     "id_str" : "19437808423",
-    "text" : "Gelände laut WDR für 500.000 Besucher geeignet. 1,5 Mio. Besucher wurden erwartet. Mangelnde Mathematik-Kenntnisse können Leben kosten...",
+    "text" : "Gel\u00E4nde laut WDR f\u00FCr 500.000 Besucher geeignet. 1,5 Mio. Besucher wurden erwartet. Mangelnde Mathematik-Kenntnisse k\u00F6nnen Leben kosten...",
     "id" : 19437808423,
     "created_at" : "Sat Jul 24 18:04:29 +0000 2010",
     "user" : {
@@ -150,7 +150,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "19438772059",
-  "text" : "5 Polizisten a.D. lassen hier im Zug die Sau raus, saufen, gröhlen und lästern über Schwule. Eine schade für jede deutsche Uniform",
+  "text" : "5 Polizisten a.D. lassen hier im Zug die Sau raus, saufen, gr\u00F6hlen und l\u00E4stern \u00FCber Schwule. Eine schade f\u00FCr jede deutsche Uniform",
   "id" : 19438772059,
   "created_at" : "Sat Jul 24 18:22:37 +0000 2010",
   "user" : {
@@ -205,7 +205,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "19329200633",
-  "text" : "5 Polizisten a.D. lassen hier im Zug die Sau raus, saufen, gröhlen und lästern über Schwule. Eine schade für jede deutsche Uniform",
+  "text" : "5 Polizisten a.D. lassen hier im Zug die Sau raus, saufen, gr\u00F6hlen und l\u00E4stern \u00FCber Schwule. Eine schade f\u00FCr jede deutsche Uniform",
   "id" : 19329200633,
   "created_at" : "Fri Jul 23 10:35:03 +0000 2010",
   "user" : {
@@ -244,7 +244,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "*",
+      "name" : "Echter Hase",
       "screen_name" : "annelinja",
       "indices" : [ 3, 13 ],
       "id_str" : "130375462",
@@ -279,11 +279,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19320559890,
     "created_at" : "Fri Jul 23 07:16:23 +0000 2010",
     "user" : {
-      "name" : "*",
+      "name" : "Echter Hase",
       "screen_name" : "annelinja",
       "protected" : false,
       "id_str" : "130375462",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3181000081/7497551e09a4b01f0cdc5daffd21e113_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3571285028/aad262211baa00bc12e7bd3f81000bbf_normal.jpeg",
       "id" : 130375462,
       "verified" : false
     }
@@ -338,7 +338,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "19281557322",
-  "text" : "einen Vorteil haben verbrannte Fingerkuppen ja, Touch-Geräte lassen sich damit sehr gut bedienen",
+  "text" : "einen Vorteil haben verbrannte Fingerkuppen ja, Touch-Ger\u00E4te lassen sich damit sehr gut bedienen",
   "id" : 19281557322,
   "created_at" : "Thu Jul 22 20:28:48 +0000 2010",
   "user" : {
@@ -395,7 +395,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "19249412875",
-  "text" : "mein neues Projekt hat was mit dem Bedrucken von toten Bäumen zu tun, ist aber eigentlich ein ganz cooles Magazin http://bit.ly/fahrstil",
+  "text" : "mein neues Projekt hat was mit dem Bedrucken von toten B\u00E4umen zu tun, ist aber eigentlich ein ganz cooles Magazin http://bit.ly/fahrstil",
   "id" : 19249412875,
   "created_at" : "Thu Jul 22 12:06:43 +0000 2010",
   "user" : {
@@ -606,7 +606,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "♛Michaela Aichberger",
+      "name" : "\u265BMichaela Aichberger",
       "screen_name" : "frauenfuss",
       "indices" : [ 0, 11 ],
       "id_str" : "34912856",
@@ -640,7 +640,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "♛Michaela Aichberger",
+      "name" : "\u265BMichaela Aichberger",
       "screen_name" : "frauenfuss",
       "indices" : [ 0, 11 ],
       "id_str" : "34912856",
@@ -677,7 +677,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "♛Michaela Aichberger",
+      "name" : "\u265BMichaela Aichberger",
       "screen_name" : "frauenfuss",
       "indices" : [ 0, 11 ],
       "id_str" : "34912856",
@@ -692,7 +692,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "id_str" : "18949620304",
   "in_reply_to_user_id" : 34912856,
-  "text" : "@frauenfuss wo ist denn für dich die Rostbratwurstmetropolregion?",
+  "text" : "@frauenfuss wo ist denn f\u00FCr dich die Rostbratwurstmetropolregion?",
   "id" : 18949620304,
   "in_reply_to_status_id" : 18949314965,
   "created_at" : "Mon Jul 19 23:03:21 +0000 2010",
@@ -746,7 +746,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 51.4768829346, 7.2152328491 ]
   },
   "id_str" : "18857099059",
-  "text" : "Zitat von vor der Wortschatz-Bühne: \"wer so einen Text auswendig lehren kann, kann auch Latein studieren\"",
+  "text" : "Zitat von vor der Wortschatz-B\u00FChne: \"wer so einen Text auswendig lehren kann, kann auch Latein studieren\"",
   "id" : 18857099059,
   "created_at" : "Sun Jul 18 18:36:17 +0000 2010",
   "user" : {
@@ -1039,7 +1039,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 51.4757967486, 7.2149062157 ]
   },
   "id_str" : "18788822019",
-  "text" : "sone Twitterlesung hat ja schon was von nem Klassentreffen — at Twitterlesung http://gowal.la/r/LSjf",
+  "text" : "sone Twitterlesung hat ja schon was von nem Klassentreffen \u2014 at Twitterlesung http://gowal.la/r/LSjf",
   "id" : 18788822019,
   "created_at" : "Sat Jul 17 20:09:22 +0000 2010",
   "user" : {
@@ -1070,7 +1070,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "id_str" : "18777610394",
   "in_reply_to_user_id" : 19961029,
-  "text" : "@shinaio oh schön du auch da, komme auch gleich",
+  "text" : "@shinaio oh sch\u00F6n du auch da, komme auch gleich",
   "id" : 18777610394,
   "in_reply_to_status_id" : 18777050204,
   "created_at" : "Sat Jul 17 16:37:57 +0000 2010",
@@ -1104,7 +1104,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "id_str" : "18770000369",
   "in_reply_to_user_id" : 16171525,
-  "text" : "@cvonposer wird knapp um 22 Uhr wird dicht gemacht, nach Essen kommt man aber auch gut über die Landstraße",
+  "text" : "@cvonposer wird knapp um 22 Uhr wird dicht gemacht, nach Essen kommt man aber auch gut \u00FCber die Landstra\u00DFe",
   "id" : 18770000369,
   "in_reply_to_status_id" : 18769874836,
   "created_at" : "Sat Jul 17 14:39:02 +0000 2010",
@@ -1162,7 +1162,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "id_str" : "18629036732",
   "in_reply_to_user_id" : 15035029,
-  "text" : "@sippndipp mach nicht so nen Lärm du Tröte",
+  "text" : "@sippndipp mach nicht so nen L\u00E4rm du Tr\u00F6te",
   "id" : 18629036732,
   "created_at" : "Thu Jul 15 20:26:37 +0000 2010",
   "in_reply_to_screen_name" : "sippndipp",
@@ -1241,7 +1241,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "18550752464",
-  "text" : "wo für die Telekom 101 Leitlinien braucht, schafft Google mit nur einer \"don't be evel\"",
+  "text" : "wo f\u00FCr die Telekom 101 Leitlinien braucht, schafft Google mit nur einer \"don't be evel\"",
   "id" : 18550752464,
   "created_at" : "Wed Jul 14 21:46:40 +0000 2010",
   "user" : {
@@ -1289,7 +1289,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 51.4931944092, 7.2131037712 ]
   },
   "id_str" : "18542881968",
-  "text" : "dann halt Pizza — at Pizzeria Peppone http://gowal.la/r/B38B",
+  "text" : "dann halt Pizza \u2014 at Pizzeria Peppone http://gowal.la/r/B38B",
   "id" : 18542881968,
   "created_at" : "Wed Jul 14 19:26:24 +0000 2010",
   "user" : {
@@ -1314,7 +1314,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 51.493000693, 7.2128784657 ]
   },
   "id_str" : "18542838553",
-  "text" : "Gyros Spieß ist am Ende — at Thomas Grill http://gowal.la/r/B32q",
+  "text" : "Gyros Spie\u00DF ist am Ende \u2014 at Thomas Grill http://gowal.la/r/B32q",
   "id" : 18542838553,
   "created_at" : "Wed Jul 14 19:25:38 +0000 2010",
   "user" : {
@@ -1360,7 +1360,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "18515230113",
-  "text" : "arg das Q war mal wieder zu nahm am W #⌘",
+  "text" : "arg das Q war mal wieder zu nahm am W #\u2318",
   "id" : 18515230113,
   "created_at" : "Wed Jul 14 12:23:02 +0000 2010",
   "user" : {
@@ -1417,7 +1417,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "18504741675",
-  "text" : "\"Definiere Deutschland.\" - \"Treppe gesperrt, weil Stufen nicht normgerecht. Umbau nicht möglich wegen Denkmalschutz.\" (via @xbg)",
+  "text" : "\"Definiere Deutschland.\" - \"Treppe gesperrt, weil Stufen nicht normgerecht. Umbau nicht m\u00F6glich wegen Denkmalschutz.\" (via @xbg)",
   "id" : 18504741675,
   "created_at" : "Wed Jul 14 08:23:46 +0000 2010",
   "user" : {
@@ -1448,7 +1448,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "id_str" : "18372951175",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb er hat's aufgegeben und ist zurück nach Bochum gefahren",
+  "text" : "@michelb er hat's aufgegeben und ist zur\u00FCck nach Bochum gefahren",
   "id" : 18372951175,
   "in_reply_to_status_id" : 18371382456,
   "created_at" : "Mon Jul 12 18:19:22 +0000 2010",
@@ -1479,7 +1479,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "id_str" : "18223940730",
   "in_reply_to_user_id" : 19105297,
-  "text" : ".@lelei33 fängt an wie ne schlechte Fortsetzung und endet mit der Hoffnung auf Teil 3, nur leider ohne Katzen an den Wänden #boondocksaints2",
+  "text" : ".@lelei33 f\u00E4ngt an wie ne schlechte Fortsetzung und endet mit der Hoffnung auf Teil 3, nur leider ohne Katzen an den W\u00E4nden #boondocksaints2",
   "id" : 18223940730,
   "in_reply_to_status_id" : 18218264864,
   "created_at" : "Sat Jul 10 21:20:56 +0000 2010",
@@ -1530,7 +1530,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "id_str" : "18218041577",
   "in_reply_to_user_id" : 19105297,
-  "text" : "@lelei33 viel kann man nach Minute 7 noch nicht sagen, aber ich werde dir nach Minute 115 mein Résumé mitteillen",
+  "text" : "@lelei33 viel kann man nach Minute 7 noch nicht sagen, aber ich werde dir nach Minute 115 mein R\u00E9sum\u00E9 mitteillen",
   "id" : 18218041577,
   "in_reply_to_status_id" : 18217694651,
   "created_at" : "Sat Jul 10 19:31:40 +0000 2010",
@@ -1559,7 +1559,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "18217564687",
-  "text" : "was cool ist: mit Bier und Film in der Wanne liegen und abkühlen #boondocksaints2",
+  "text" : "was cool ist: mit Bier und Film in der Wanne liegen und abk\u00FChlen #boondocksaints2",
   "id" : 18217564687,
   "created_at" : "Sat Jul 10 19:22:55 +0000 2010",
   "user" : {
@@ -1590,7 +1590,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "id_str" : "18108735118",
   "in_reply_to_user_id" : 16707501,
-  "text" : "@rattazong wollte nicht hin, wollte weg und war kurzzeitig iritiert weil in der Auswahlliste \"Zollver...Süd\" stand",
+  "text" : "@rattazong wollte nicht hin, wollte weg und war kurzzeitig iritiert weil in der Auswahlliste \"Zollver...S\u00FCd\" stand",
   "id" : 18108735118,
   "in_reply_to_status_id" : 18108464773,
   "created_at" : "Fri Jul 09 10:45:05 +0000 2010",
@@ -1616,7 +1616,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "18106919622",
-  "text" : "was denn jetzt Nord oder Süd? http://img.ly/1Eth",
+  "text" : "was denn jetzt Nord oder S\u00FCd? http://img.ly/1Eth",
   "id" : 18106919622,
   "created_at" : "Fri Jul 09 10:03:09 +0000 2010",
   "user" : {
@@ -1668,7 +1668,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "18106728861",
-  "text" : "mit mehr als 2 Stunden Verspätung erreichen wir nun Oberhausen Hbf, keine Sorge ihren Anschlußzug werden sie sicher nicht mehr errreichen",
+  "text" : "mit mehr als 2 Stunden Versp\u00E4tung erreichen wir nun Oberhausen Hbf, keine Sorge ihren Anschlu\u00DFzug werden sie sicher nicht mehr errreichen",
   "id" : 18106728861,
   "created_at" : "Fri Jul 09 09:58:55 +0000 2010",
   "user" : {
@@ -1702,7 +1702,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 51.48849427, 7.00513869 ]
   },
   "id_str" : "18105054096",
-  "text" : "stecke seit fast ner Stunde in Altenessen fest, weil die Bahn die Türen nicht zu bekommt #nrwverker #bahn #fail",
+  "text" : "stecke seit fast ner Stunde in Altenessen fest, weil die Bahn die T\u00FCren nicht zu bekommt #nrwverker #bahn #fail",
   "id" : 18105054096,
   "created_at" : "Fri Jul 09 09:19:02 +0000 2010",
   "user" : {
@@ -1725,7 +1725,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "18074840577",
-  "text" : "stelle mal wieder fest das OSX sich mit unter zu intuitiv bedienen lässt",
+  "text" : "stelle mal wieder fest das OSX sich mit unter zu intuitiv bedienen l\u00E4sst",
   "id" : 18074840577,
   "created_at" : "Fri Jul 09 00:31:44 +0000 2010",
   "user" : {
@@ -1748,7 +1748,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "18067340377",
-  "text" : "habe heute 40 Min. in der Notaufnahme gewartet, zum Glück war es nichts ernstes, sonst währe der Tod sichlich schneller gewesen als der Arzt",
+  "text" : "habe heute 40 Min. in der Notaufnahme gewartet, zum Gl\u00FCck war es nichts ernstes, sonst w\u00E4hre der Tod sichlich schneller gewesen als der Arzt",
   "id" : 18067340377,
   "created_at" : "Thu Jul 08 22:27:28 +0000 2010",
   "user" : {
@@ -1773,7 +1773,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 51.4683586269, 7.2108507156 ]
   },
   "id_str" : "18053283079",
-  "text" : "I'm at Berufsgenossenschaftlichen Universitätsklinikum Bergmannsheil in Bochum http://gowal.la/r/sajR",
+  "text" : "I'm at Berufsgenossenschaftlichen Universit\u00E4tsklinikum Bergmannsheil in Bochum http://gowal.la/r/sajR",
   "id" : 18053283079,
   "created_at" : "Thu Jul 08 18:12:22 +0000 2010",
   "user" : {
@@ -1798,7 +1798,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 51.4784858167, 7.21900635 ]
   },
   "id_str" : "18026750264",
-  "text" : "nen MBP gekauft — at Gravis http://gowal.la/r/rXqd",
+  "text" : "nen MBP gekauft \u2014 at Gravis http://gowal.la/r/rXqd",
   "id" : 18026750264,
   "created_at" : "Thu Jul 08 11:09:52 +0000 2010",
   "user" : {
@@ -1823,7 +1823,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 51.4804229649, 7.2188033846 ]
   },
   "id_str" : "18026228072",
-  "text" : "lol, die Mitarbeiter verstecken sich vor der Hitze im Kühlachrank — at Starbucks http://gowal.la/r/rX8a",
+  "text" : "lol, die Mitarbeiter verstecken sich vor der Hitze im K\u00FChlachrank \u2014 at Starbucks http://gowal.la/r/rX8a",
   "id" : 18026228072,
   "created_at" : "Thu Jul 08 10:58:02 +0000 2010",
   "user" : {
@@ -1967,7 +1967,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "17978948485",
-  "text" : "was mir an dem Ergebnis gefällt ist, das die Beklopptenrate auf der Straße sich heute in Grenzen hält!",
+  "text" : "was mir an dem Ergebnis gef\u00E4llt ist, das die Beklopptenrate auf der Stra\u00DFe sich heute in Grenzen h\u00E4lt!",
   "id" : 17978948485,
   "created_at" : "Wed Jul 07 20:32:12 +0000 2010",
   "user" : {
@@ -2035,7 +2035,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "André Paetzel",
+      "name" : "Andr\u00E9 Paetzel",
       "screen_name" : "paetzel",
       "indices" : [ 3, 11 ],
       "id_str" : "18607838",
@@ -2076,7 +2076,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17938974271,
     "created_at" : "Wed Jul 07 10:27:05 +0000 2010",
     "user" : {
-      "name" : "André Paetzel",
+      "name" : "Andr\u00E9 Paetzel",
       "screen_name" : "paetzel",
       "protected" : false,
       "id_str" : "18607838",
@@ -2168,7 +2168,7 @@ Grailbird.data.tweets_2010_07 =
   },
   "id_str" : "17822430890",
   "in_reply_to_user_id" : 15729530,
-  "text" : "@_robin hätte nen paar Fragen, kannst du mir da vielleicht weiterhelfen?",
+  "text" : "@_robin h\u00E4tte nen paar Fragen, kannst du mir da vielleicht weiterhelfen?",
   "id" : 17822430890,
   "in_reply_to_status_id" : 17822197680,
   "created_at" : "Mon Jul 05 22:46:51 +0000 2010",
@@ -2272,7 +2272,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "17692233656",
-  "text" : "kaum will man schlafen fangen die Vögel an zu tweeten #rcg4",
+  "text" : "kaum will man schlafen fangen die V\u00F6gel an zu tweeten #rcg4",
   "id" : 17692233656,
   "created_at" : "Sun Jul 04 02:37:42 +0000 2010",
   "user" : {
@@ -2329,7 +2329,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 50.9488632778, 6.9857490063 ]
   },
   "id_str" : "17686575104",
-  "text" : "between working partying — at Gebäude 9 http://gowal.la/r/mM1y",
+  "text" : "between working partying \u2014 at Geb\u00E4ude 9 http://gowal.la/r/mM1y",
   "id" : 17686575104,
   "created_at" : "Sun Jul 04 00:43:10 +0000 2010",
   "user" : {
@@ -2352,7 +2352,7 @@ Grailbird.data.tweets_2010_07 =
   "geo" : {
   },
   "id_str" : "17651441462",
-  "text" : "das einzig gute beim Fußball schaun http://img.ly/1Cue",
+  "text" : "das einzig gute beim Fu\u00DFball schaun http://img.ly/1Cue",
   "id" : 17651441462,
   "created_at" : "Sat Jul 03 14:27:45 +0000 2010",
   "user" : {
@@ -2400,7 +2400,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 50.94712835, 7.00043737 ]
   },
   "id_str" : "17646920139",
-  "text" : "ich glaube die Welt geht unter, oder zumindest Köln",
+  "text" : "ich glaube die Welt geht unter, oder zumindest K\u00F6ln",
   "id" : 17646920139,
   "created_at" : "Sat Jul 03 13:14:43 +0000 2010",
   "user" : {
@@ -2418,7 +2418,7 @@ Grailbird.data.tweets_2010_07 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "abkürzung",
+      "text" : "abk\u00FCrzung",
       "indices" : [ 15, 25 ]
     } ],
     "urls" : [ ]
@@ -2428,7 +2428,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 50.94712835, 7.00043737 ]
   },
   "id_str" : "17646705846",
-  "text" : "YEAH Regen!!!! #abkürzung",
+  "text" : "YEAH Regen!!!! #abk\u00FCrzung",
   "id" : 17646705846,
   "created_at" : "Sat Jul 03 13:10:35 +0000 2010",
   "user" : {
@@ -2456,7 +2456,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 50.9489659333, 6.9867775167 ]
   },
   "id_str" : "17641530997",
-  "text" : "#rc4 — at Coworking Cologne http://gowal.la/r/mnRy",
+  "text" : "#rc4 \u2014 at Coworking Cologne http://gowal.la/r/mnRy",
   "id" : 17641530997,
   "created_at" : "Sat Jul 03 11:11:54 +0000 2010",
   "user" : {
@@ -2504,7 +2504,7 @@ Grailbird.data.tweets_2010_07 =
     "coordinates" : [ 51.5436594712, 7.2176742554 ]
   },
   "id_str" : "17494573901",
-  "text" : "Hey, wow, hier wird dann doch mal ein Aufzug gebaut — at Herne Bahnhof http://gowal.la/r/kgq1",
+  "text" : "Hey, wow, hier wird dann doch mal ein Aufzug gebaut \u2014 at Herne Bahnhof http://gowal.la/r/kgq1",
   "id" : 17494573901,
   "created_at" : "Thu Jul 01 14:06:00 +0000 2010",
   "user" : {

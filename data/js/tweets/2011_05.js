@@ -16,7 +16,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "74959108075290624",
-  "text" : "RT @videopunk: Großartiger Trailer! Eine derartige Serie geht nur in den USA, dem Land des Wahnsinns. http://vimeo.com/23929790",
+  "text" : "RT @videopunk: Gro\u00DFartiger Trailer! Eine derartige Serie geht nur in den USA, dem Land des Wahnsinns. http://vimeo.com/23929790",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -28,7 +28,7 @@ Grailbird.data.tweets_2011_05 =
     "geo" : {
     },
     "id_str" : "74957584230121472",
-    "text" : "Großartiger Trailer! Eine derartige Serie geht nur in den USA, dem Land des Wahnsinns. http://vimeo.com/23929790",
+    "text" : "Gro\u00DFartiger Trailer! Eine derartige Serie geht nur in den USA, dem Land des Wahnsinns. http://vimeo.com/23929790",
     "id" : 74957584230121472,
     "created_at" : "Sun May 29 21:57:35 +0000 2011",
     "user" : {
@@ -110,7 +110,7 @@ Grailbird.data.tweets_2011_05 =
     "coordinates" : [ 52.52125978, 13.41101294 ]
   },
   "id_str" : "74850567033335809",
-  "text" : "when Coders say goodbye “begin\n  t = Train.new\n  t.push(@koos)\nrescue\n  # ...\nend” via @juliancheal #eurucamp",
+  "text" : "when Coders say goodbye \u201Cbegin\n  t = Train.new\n  t.push(@koos)\nrescue\n  # ...\nend\u201D via @juliancheal #eurucamp",
   "id" : 74850567033335809,
   "created_at" : "Sun May 29 14:52:20 +0000 2011",
   "user" : {
@@ -257,7 +257,7 @@ Grailbird.data.tweets_2011_05 =
     "coordinates" : [ 52.5027995, 13.4126009 ]
   },
   "id_str" : "74395005757833216",
-  "text" : "I just checked in at Betahaus (Prinzessinnenstraße 19-20, Berlin) on @footfeedapp #eurucamp",
+  "text" : "I just checked in at Betahaus (Prinzessinnenstra\u00DFe 19-20, Berlin) on @footfeedapp #eurucamp",
   "id" : 74395005757833216,
   "created_at" : "Sat May 28 08:42:06 +0000 2011",
   "user" : {
@@ -344,7 +344,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Râu Cao",
+      "name" : "R\u00E2u Cao",
       "screen_name" : "skddc",
       "indices" : [ 0, 6 ],
       "id_str" : "12515352",
@@ -391,7 +391,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "73542875421483012",
-  "text" : "RT @zitate: Man ist meistens nur durch Nachdenken unglücklich.\n*Joseph Joubert* (@ Goms) [pic]: http://4sq.com/l2Wh8o",
+  "text" : "RT @zitate: Man ist meistens nur durch Nachdenken ungl\u00FCcklich.\n*Joseph Joubert* (@ Goms) [pic]: http://4sq.com/l2Wh8o",
   "retweeted_status" : {
     "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
     "entities" : {
@@ -405,7 +405,7 @@ Grailbird.data.tweets_2011_05 =
       "coordinates" : [ 46.502738, 8.30902 ]
     },
     "id_str" : "73516222137905152",
-    "text" : "Man ist meistens nur durch Nachdenken unglücklich.\n*Joseph Joubert* (@ Goms) [pic]: http://4sq.com/l2Wh8o",
+    "text" : "Man ist meistens nur durch Nachdenken ungl\u00FCcklich.\n*Joseph Joubert* (@ Goms) [pic]: http://4sq.com/l2Wh8o",
     "id" : 73516222137905152,
     "created_at" : "Wed May 25 22:30:07 +0000 2011",
     "user" : {
@@ -433,13 +433,13 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michał Łomnicki",
+      "name" : "Micha\u0142 \u0141omnicki",
       "screen_name" : "mlomnicki",
       "indices" : [ 0, 10 ],
       "id_str" : "30341256",
       "id" : 30341256
     }, {
-      "name" : "eurucamp 2012",
+      "name" : "eurucamp 2013",
       "screen_name" : "eurucamp",
       "indices" : [ 25, 34 ],
       "id_str" : "263762253",
@@ -494,7 +494,7 @@ Grailbird.data.tweets_2011_05 =
   },
   "id_str" : "71210101637263360",
   "in_reply_to_user_id" : 17130783,
-  "text" : "@stefanwild @pottblog in Bochum ist in kürze Frauenfußball WM",
+  "text" : "@stefanwild @pottblog in Bochum ist in k\u00FCrze Frauenfu\u00DFball WM",
   "id" : 71210101637263360,
   "in_reply_to_status_id" : 71208171347247104,
   "created_at" : "Thu May 19 13:46:25 +0000 2011",
@@ -568,7 +568,7 @@ Grailbird.data.tweets_2011_05 =
   },
   "id_str" : "69793905700376576",
   "in_reply_to_user_id" : 29186725,
-  "text" : "@barcampnr kein wunder wenn man erst durch die Absage vom @barcampnr erfährt",
+  "text" : "@barcampnr kein wunder wenn man erst durch die Absage vom @barcampnr erf\u00E4hrt",
   "id" : 69793905700376576,
   "in_reply_to_status_id" : 69753343018405889,
   "created_at" : "Sun May 15 15:58:58 +0000 2011",
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "69153947566342144",
-  "text" : "Finde den Fehler #2: in Köln ist @DevHouseFriday und bin in Dortmund",
+  "text" : "Finde den Fehler #2: in K\u00F6ln ist @DevHouseFriday und bin in Dortmund",
   "id" : 69153947566342144,
   "created_at" : "Fri May 13 21:36:00 +0000 2011",
   "user" : {
@@ -629,7 +629,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "68253972871380992",
-  "text" : "RT @agento: Ok, der nächste der einen \"Skype + .NET = Skynet\" Witz twittert fliegt raus.",
+  "text" : "RT @agento: Ok, der n\u00E4chste der einen \"Skype + .NET = Skynet\" Witz twittert fliegt raus.",
   "retweeted_status" : {
     "source" : "<a href=\"http://sites.google.com/site/yorufukurou/\" rel=\"nofollow\">YoruFukurou</a>",
     "entities" : {
@@ -641,7 +641,7 @@ Grailbird.data.tweets_2011_05 =
     "geo" : {
     },
     "id_str" : "68209070414381056",
-    "text" : "Ok, der nächste der einen \"Skype + .NET = Skynet\" Witz twittert fliegt raus.",
+    "text" : "Ok, der n\u00E4chste der einen \"Skype + .NET = Skynet\" Witz twittert fliegt raus.",
     "id" : 68209070414381056,
     "created_at" : "Wed May 11 07:01:24 +0000 2011",
     "user" : {
@@ -649,7 +649,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "agento",
       "protected" : false,
       "id_str" : "16361412",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2478530198/b8bj1qa198hdj9fjouty_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3363743696/20cee6ced791e344793e63700898b118_normal.jpeg",
       "id" : 16361412,
       "verified" : false
     }
@@ -747,7 +747,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 52, 71 ],
       "url" : "http://t.co/rcb7GeO",
       "expanded_url" : "http://www.awwwards.com/best-websites/9elements",
-      "display_url" : "awwwards.com/best-websites/…"
+      "display_url" : "awwwards.com/best-websites/\u2026"
     } ]
   },
   "geo" : {
@@ -782,7 +782,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "67722070917791744",
-  "text" : "RT @_sub_rosa_: Engel so: „Hach!“\nTeufel so: „Orrr!“\nGott so: „Ihr macht mich wahnsinnig!“\nIch so: „Ist bei Twitter normal!“\nTherapeut s ...",
+  "text" : "RT @_sub_rosa_: Engel so: \u201EHach!\u201C\nTeufel so: \u201EOrrr!\u201C\nGott so: \u201EIhr macht mich wahnsinnig!\u201C\nIch so: \u201EIst bei Twitter normal!\u201C\nTherapeut s ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -794,7 +794,7 @@ Grailbird.data.tweets_2011_05 =
     "geo" : {
     },
     "id_str" : "67658269652549632",
-    "text" : "Engel so: „Hach!“\nTeufel so: „Orrr!“\nGott so: „Ihr macht mich wahnsinnig!“\nIch so: „Ist bei Twitter normal!“\nTherapeut so: \"Mettbrötchen?\"",
+    "text" : "Engel so: \u201EHach!\u201C\nTeufel so: \u201EOrrr!\u201C\nGott so: \u201EIhr macht mich wahnsinnig!\u201C\nIch so: \u201EIst bei Twitter normal!\u201C\nTherapeut so: \"Mettbr\u00F6tchen?\"",
     "id" : 67658269652549632,
     "created_at" : "Mon May 09 18:32:43 +0000 2011",
     "user" : {
@@ -855,7 +855,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "ohrenflimmern",
       "protected" : false,
       "id_str" : "15837905",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2951904787/c18dfa0d4da7efd843c451b5c77c8a20_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3437289038/bb57506fc528550c0c6707843fee39ed_normal.jpeg",
       "id" : 15837905,
       "verified" : false
     }
@@ -904,11 +904,11 @@ Grailbird.data.tweets_2011_05 =
     "id" : 67270713144393728,
     "created_at" : "Sun May 08 16:52:42 +0000 2011",
     "user" : {
-      "name" : "Уменянет",
-      "screen_name" : "ssixfeetunder",
+      "name" : "Mhh..",
+      "screen_name" : "blowyourrownjob",
       "protected" : false,
       "id_str" : "249782875",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2759516307/bfab714be9d7fa280eaa2a99737be091_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3402085019/8bf3ac73b40d9c2756d7c7be023548dd_normal.png",
       "id" : 249782875,
       "verified" : false
     }
@@ -944,7 +944,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "67248906072895489",
-  "text" : "Wörter des Tages: \"Webmetzger\", \"Codemessie\", \"Pixelnazi\", \"historisch gewachsen\"… Clean Code Session auf dem #bcnue /via @jensscherbl",
+  "text" : "W\u00F6rter des Tages: \"Webmetzger\", \"Codemessie\", \"Pixelnazi\", \"historisch gewachsen\"\u2026 Clean Code Session auf dem #bcnue /via @jensscherbl",
   "id" : 67248906072895489,
   "created_at" : "Sun May 08 15:26:03 +0000 2011",
   "user" : {
@@ -1408,7 +1408,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "66435516022792193",
-  "text" : "korrigiere, sind doch keine neuen Satellitenbilder, hab mich von den 45° Bildern täuschen lassen",
+  "text" : "korrigiere, sind doch keine neuen Satellitenbilder, hab mich von den 45\u00B0 Bildern t\u00E4uschen lassen",
   "id" : 66435516022792193,
   "created_at" : "Fri May 06 09:33:55 +0000 2011",
   "user" : {
@@ -1496,7 +1496,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 3, 8 ],
       "id_str" : "18448838",
@@ -1525,11 +1525,11 @@ Grailbird.data.tweets_2011_05 =
     "id" : 66119341690728448,
     "created_at" : "Thu May 05 12:37:34 +0000 2011",
     "user" : {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "protected" : false,
       "id_str" : "18448838",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2199838425/_MG_9290_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3514331375/da06ee128ba700ef99de9b8ae165d786_normal.jpeg",
       "id" : 18448838,
       "verified" : false
     }
@@ -1610,7 +1610,7 @@ Grailbird.data.tweets_2011_05 =
   },
   "id_str" : "65446525865689089",
   "in_reply_to_user_id" : 23240502,
-  "text" : "@dan_nrw @shinaio kann jeder Zeit überall sein, Essen wäre naheliegt",
+  "text" : "@dan_nrw @shinaio kann jeder Zeit \u00FCberall sein, Essen w\u00E4re naheliegt",
   "id" : 65446525865689089,
   "in_reply_to_status_id" : 65445764666630144,
   "created_at" : "Tue May 03 16:04:02 +0000 2011",
@@ -1641,7 +1641,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 85, 104 ],
       "url" : "http://t.co/dA1dvE9",
       "expanded_url" : "http://culturedcode.com/things/blog/2011/05/things-cloud-sync-beta-begins.html",
-      "display_url" : "culturedcode.com/things/blog/20…"
+      "display_url" : "culturedcode.com/things/blog/20\u2026"
     } ]
   },
   "geo" : {
@@ -1658,7 +1658,7 @@ Grailbird.data.tweets_2011_05 =
         "indices" : [ 67, 86 ],
         "url" : "http://t.co/dA1dvE9",
         "expanded_url" : "http://culturedcode.com/things/blog/2011/05/things-cloud-sync-beta-begins.html",
-        "display_url" : "culturedcode.com/things/blog/20…"
+        "display_url" : "culturedcode.com/things/blog/20\u2026"
       } ]
     },
     "geo" : {
@@ -1692,7 +1692,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ΛNGELO",
+      "name" : "\u039BNGELO",
       "screen_name" : "PhillipAngelo",
       "indices" : [ 3, 17 ],
       "id_str" : "153483519",
@@ -1721,11 +1721,11 @@ Grailbird.data.tweets_2011_05 =
     "id" : 64987557842264065,
     "created_at" : "Mon May 02 09:40:15 +0000 2011",
     "user" : {
-      "name" : "ΛNGELO",
+      "name" : "\u039BNGELO",
       "screen_name" : "PhillipAngelo",
       "protected" : false,
       "id_str" : "153483519",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3061755874/09e668ecddddcc8a564c35dd5bcb5caa_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3311694974/a539672e765e9baef4d288b4dda4accc_normal.jpeg",
       "id" : 153483519,
       "verified" : false
     }

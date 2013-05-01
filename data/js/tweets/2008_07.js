@@ -10,7 +10,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "873671391",
-  "text" : "Die Klimaanlage UBahn am genießen",
+  "text" : "Die Klimaanlage UBahn am genie\u00DFen",
   "id" : 873671391,
   "created_at" : "Thu Jul 31 14:28:59 +0000 2008",
   "user" : {
@@ -36,7 +36,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "872516152",
-  "text" : "http://is.gd/18N4 wenn ich mc donalts wäre, ich würde mc fit aufkaufen und mich in mc wirverdienenehandir umbenennen #kundengenerierung",
+  "text" : "http://is.gd/18N4 wenn ich mc donalts w\u00E4re, ich w\u00FCrde mc fit aufkaufen und mich in mc wirverdienenehandir umbenennen #kundengenerierung",
   "id" : 872516152,
   "created_at" : "Wed Jul 30 12:33:46 +0000 2008",
   "user" : {
@@ -90,7 +90,7 @@ Grailbird.data.tweets_2008_07 =
   },
   "id_str" : "872407166",
   "in_reply_to_user_id" : 15636877,
-  "text" : "@ilonka_ilonka auch ne möglichkein aber hoffen wirs mal nicht",
+  "text" : "@ilonka_ilonka auch ne m\u00F6glichkein aber hoffen wirs mal nicht",
   "id" : 872407166,
   "in_reply_to_status_id" : 872405214,
   "created_at" : "Wed Jul 30 09:15:02 +0000 2008",
@@ -150,7 +150,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "872034303",
-  "text" : "zurück von der pl0gbar bochum und auf dem weg ins bett, bis morgen welt",
+  "text" : "zur\u00FCck von der pl0gbar bochum und auf dem weg ins bett, bis morgen welt",
   "id" : 872034303,
   "created_at" : "Tue Jul 29 23:00:08 +0000 2008",
   "user" : {
@@ -289,7 +289,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "871599758",
-  "text" : "einem LKW Fahrer ist grade eine Palette Flaschen von der Laderampe gefallen, ob Scherben wirklich Glück bringen und ob reicht?",
+  "text" : "einem LKW Fahrer ist grade eine Palette Flaschen von der Laderampe gefallen, ob Scherben wirklich Gl\u00FCck bringen und ob reicht?",
   "id" : 871599758,
   "created_at" : "Tue Jul 29 14:18:24 +0000 2008",
   "user" : {
@@ -312,7 +312,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "871596935",
-  "text" : "der Regen hat ja doch glücklicherweise zur Senkung des Klimas beigetragen",
+  "text" : "der Regen hat ja doch gl\u00FCcklicherweise zur Senkung des Klimas beigetragen",
   "id" : 871596935,
   "created_at" : "Tue Jul 29 14:15:28 +0000 2008",
   "user" : {
@@ -361,7 +361,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "871469662",
-  "text" : "Ich muss der Realität einen Besuch Abstaten #Bankbesuch",
+  "text" : "Ich muss der Realit\u00E4t einen Besuch Abstaten #Bankbesuch",
   "id" : 871469662,
   "created_at" : "Tue Jul 29 11:36:37 +0000 2008",
   "user" : {
@@ -384,7 +384,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "871420538",
-  "text" : "muss mal aufhören das netz nach interessanten zu durchstöbern und anfangen zu arbeiten",
+  "text" : "muss mal aufh\u00F6ren das netz nach interessanten zu durchst\u00F6bern und anfangen zu arbeiten",
   "id" : 871420538,
   "created_at" : "Tue Jul 29 10:05:14 +0000 2008",
   "user" : {
@@ -441,7 +441,7 @@ Grailbird.data.tweets_2008_07 =
   },
   "id_str" : "870987339",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb den unterschied zwischen normaler nachricht, antwort und direkt nachricht erklärt",
+  "text" : "@michelb den unterschied zwischen normaler nachricht, antwort und direkt nachricht erkl\u00E4rt",
   "id" : 870987339,
   "in_reply_to_status_id" : 870980541,
   "created_at" : "Mon Jul 28 22:15:03 +0000 2008",
@@ -475,7 +475,7 @@ Grailbird.data.tweets_2008_07 =
   },
   "id_str" : "870968880",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb bin grade twitter am erklären",
+  "text" : "@michelb bin grade twitter am erkl\u00E4ren",
   "id" : 870968880,
   "in_reply_to_status_id" : 870960668,
   "created_at" : "Mon Jul 28 21:50:24 +0000 2008",
@@ -536,7 +536,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "870518089",
-  "text" : "Wortschöpfung: ubahnen (Verb) ~ U-Bahn fahren",
+  "text" : "Wortsch\u00F6pfung: ubahnen (Verb) ~ U-Bahn fahren",
   "id" : 870518089,
   "created_at" : "Mon Jul 28 13:04:22 +0000 2008",
   "user" : {
@@ -680,7 +680,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "869335959",
-  "text" : "hat jemand einen lifestream beta code für mich?",
+  "text" : "hat jemand einen lifestream beta code f\u00FCr mich?",
   "id" : 869335959,
   "created_at" : "Sat Jul 26 23:29:04 +0000 2008",
   "user" : {
@@ -841,7 +841,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "869219473",
-  "text" : "grade währe meinem leben fast ein frühzeitiges ende durch einen herzinfakt aus grund zulauter flashanimusik",
+  "text" : "grade w\u00E4hre meinem leben fast ein fr\u00FChzeitiges ende durch einen herzinfakt aus grund zulauter flashanimusik",
   "id" : 869219473,
   "created_at" : "Sat Jul 26 19:59:53 +0000 2008",
   "user" : {
@@ -859,7 +859,7 @@ Grailbird.data.tweets_2008_07 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "bildstörung",
+      "text" : "bildst\u00F6rung",
       "indices" : [ 16, 28 ]
     }, {
       "text" : "magenter",
@@ -873,7 +873,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "869216848",
-  "text" : "schleichwerbung #bildstörung #magenter #twitterlesung",
+  "text" : "schleichwerbung #bildst\u00F6rung #magenter #twitterlesung",
   "id" : 869216848,
   "created_at" : "Sat Jul 26 19:55:12 +0000 2008",
   "user" : {
@@ -925,7 +925,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "869216188",
-  "text" : "uff glückgehabt, stream bekommen #twitterlesung",
+  "text" : "uff gl\u00FCckgehabt, stream bekommen #twitterlesung",
   "id" : 869216188,
   "created_at" : "Sat Jul 26 19:54:06 +0000 2008",
   "user" : {
@@ -951,7 +951,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "869215677",
-  "text" : "*mmm das #twitterlesung streamfester hätte ich wohl lieber nicht schließen sollen",
+  "text" : "*mmm das #twitterlesung streamfester h\u00E4tte ich wohl lieber nicht schlie\u00DFen sollen",
   "id" : 869215677,
   "created_at" : "Sat Jul 26 19:53:15 +0000 2008",
   "user" : {
@@ -1006,7 +1006,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "869208716",
-  "text" : "#twitterlesungen sollten öfters sein",
+  "text" : "#twitterlesungen sollten \u00F6fters sein",
   "id" : 869208716,
   "created_at" : "Sat Jul 26 19:41:25 +0000 2008",
   "user" : {
@@ -1022,7 +1022,7 @@ Grailbird.data.tweets_2008_07 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Harm Lübben",
+      "name" : "Harm L\u00FCbben",
       "screen_name" : "codepolizei",
       "indices" : [ 0, 12 ],
       "id_str" : "10455432",
@@ -1276,7 +1276,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "867326153",
-  "text" : "fährt jemand aus dem Ruhrgebiet oder NRW am Sa zur Twitterlesung?",
+  "text" : "f\u00E4hrt jemand aus dem Ruhrgebiet oder NRW am Sa zur Twitterlesung?",
   "id" : 867326153,
   "created_at" : "Thu Jul 24 17:53:10 +0000 2008",
   "user" : {
@@ -1299,7 +1299,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "867296384",
-  "text" : "Milchshake schlürfend auf dem Nachhauseweg",
+  "text" : "Milchshake schl\u00FCrfend auf dem Nachhauseweg",
   "id" : 867296384,
   "created_at" : "Thu Jul 24 17:19:28 +0000 2008",
   "user" : {
@@ -1322,7 +1322,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "867281871",
-  "text" : "Skandal Mäuse im Stadtpark #!Bild",
+  "text" : "Skandal M\u00E4use im Stadtpark #!Bild",
   "id" : 867281871,
   "created_at" : "Thu Jul 24 17:03:15 +0000 2008",
   "user" : {
@@ -1345,7 +1345,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "867275880",
-  "text" : "Im Stadtpark liegend die Sonne genießen",
+  "text" : "Im Stadtpark liegend die Sonne genie\u00DFen",
   "id" : 867275880,
   "created_at" : "Thu Jul 24 16:56:29 +0000 2008",
   "user" : {
@@ -1397,7 +1397,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "866623133",
-  "text" : "fündig geworden #Currywurstsnack #Aral",
+  "text" : "f\u00FCndig geworden #Currywurstsnack #Aral",
   "id" : 866623133,
   "created_at" : "Thu Jul 24 00:53:01 +0000 2008",
   "user" : {
@@ -1443,7 +1443,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "866577339",
-  "text" : "Sammlung Prinzhorn / Kreativität und Wahnsinn auf Phoenix gesehen http://snurl.com/33w70",
+  "text" : "Sammlung Prinzhorn / Kreativit\u00E4t und Wahnsinn auf Phoenix gesehen http://snurl.com/33w70",
   "id" : 866577339,
   "created_at" : "Wed Jul 23 22:40:37 +0000 2008",
   "user" : {
@@ -1515,7 +1515,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "865350774",
-  "text" : "beim Versuch zuüberleben und auf der Suche nach Nahrung",
+  "text" : "beim Versuch zu\u00FCberleben und auf der Suche nach Nahrung",
   "id" : 865350774,
   "created_at" : "Tue Jul 22 18:15:08 +0000 2008",
   "user" : {
@@ -1538,7 +1538,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "865176393",
-  "text" : "In der U35 auf dem Weg nach Herne, ne Geschäftsidee anhören, mal hören ob's was taugt",
+  "text" : "In der U35 auf dem Weg nach Herne, ne Gesch\u00E4ftsidee anh\u00F6ren, mal h\u00F6ren ob's was taugt",
   "id" : 865176393,
   "created_at" : "Tue Jul 22 15:04:59 +0000 2008",
   "user" : {
@@ -1561,7 +1561,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "865071231",
-  "text" : "kennt jemand eine iPhone-App die Bilder in Orginalauflösung mit EXIF-Daten nach Flickr hochläd?",
+  "text" : "kennt jemand eine iPhone-App die Bilder in Orginalaufl\u00F6sung mit EXIF-Daten nach Flickr hochl\u00E4d?",
   "id" : 865071231,
   "created_at" : "Tue Jul 22 13:07:58 +0000 2008",
   "user" : {
@@ -1689,7 +1689,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "859902273",
-  "text" : "Warum man niemals, niemals, niemals seinem Online-Übersetzungstool trauen sollte http://is.gd/UIe",
+  "text" : "Warum man niemals, niemals, niemals seinem Online-\u00DCbersetzungstool trauen sollte http://is.gd/UIe",
   "id" : 859902273,
   "created_at" : "Wed Jul 16 12:05:32 +0000 2008",
   "user" : {
@@ -1726,7 +1726,7 @@ Grailbird.data.tweets_2008_07 =
   },
   "id_str" : "859901969",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb Glückwunsch #MacBook #Neid",
+  "text" : "@michelb Gl\u00FCckwunsch #MacBook #Neid",
   "id" : 859901969,
   "in_reply_to_status_id" : 859901628,
   "created_at" : "Wed Jul 16 12:05:02 +0000 2008",
@@ -1783,7 +1783,7 @@ Grailbird.data.tweets_2008_07 =
   },
   "id_str" : "859145690",
   "in_reply_to_user_id" : 5769802,
-  "text" : "@pottblog pottblog gibt es da einbestimmten grund für das du google-analytics rausschmeißt?",
+  "text" : "@pottblog pottblog gibt es da einbestimmten grund f\u00FCr das du google-analytics rausschmei\u00DFt?",
   "id" : 859145690,
   "in_reply_to_status_id" : 859132274,
   "created_at" : "Tue Jul 15 16:32:17 +0000 2008",
@@ -1832,7 +1832,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "857524875",
-  "text" : "Auf Phoenix einen Bericht über Quanten Mechanik, auch im Bezug auf die Nutzung in der IT, sehr interessant",
+  "text" : "Auf Phoenix einen Bericht \u00FCber Quanten Mechanik, auch im Bezug auf die Nutzung in der IT, sehr interessant",
   "id" : 857524875,
   "created_at" : "Sun Jul 13 22:52:57 +0000 2008",
   "user" : {
@@ -1878,7 +1878,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "856609754",
-  "text" : "Zurück vom Ausflug nach Venlo, erst mal noch etwas arbeiten und dann schaum was der Abend noch so bringt",
+  "text" : "Zur\u00FCck vom Ausflug nach Venlo, erst mal noch etwas arbeiten und dann schaum was der Abend noch so bringt",
   "id" : 856609754,
   "created_at" : "Sat Jul 12 16:21:25 +0000 2008",
   "user" : {
@@ -1901,7 +1901,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "855950682",
-  "text" : "Feierabendbier im Bermuderdreieck am genießen. http://twitpic.com/3lc5",
+  "text" : "Feierabendbier im Bermuderdreieck am genie\u00DFen. http://twitpic.com/3lc5",
   "id" : 855950682,
   "created_at" : "Fri Jul 11 19:19:00 +0000 2008",
   "user" : {
@@ -1958,7 +1958,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "855586631",
-  "text" : "zurück vom essen und bücher finden",
+  "text" : "zur\u00FCck vom essen und b\u00FCcher finden",
   "id" : 855586631,
   "created_at" : "Fri Jul 11 12:39:42 +0000 2008",
   "user" : {

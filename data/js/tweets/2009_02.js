@@ -3,7 +3,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "<a href=\"http://www.natsulion.org/\" rel=\"nofollow\">NatsuLion</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Felipe Del Río",
+      "name" : "Felipe Del R\u00EDo",
       "screen_name" : "Coffeeandtv",
       "indices" : [ 0, 12 ],
       "id_str" : "1043016686",
@@ -32,7 +32,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ChristophMüllerGirod",
+      "name" : "Mueller-Girod",
       "screen_name" : "schwarzesgold",
       "indices" : [ 44, 58 ],
       "id_str" : "16048372",
@@ -61,7 +61,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ChristophMüllerGirod",
+      "name" : "Mueller-Girod",
       "screen_name" : "schwarzesgold",
       "indices" : [ 0, 14 ],
       "id_str" : "16048372",
@@ -75,7 +75,7 @@ Grailbird.data.tweets_2009_02 =
   },
   "id_str" : "1254143644",
   "in_reply_to_user_id" : 16048372,
-  "text" : "@schwarzesgold hier noch mal die Adresse:\nCafe Zentral\nLuisenstr. 15\n44787 Bochum\nWäre schön wenn du an die Bilder und die Tastatur denkst",
+  "text" : "@schwarzesgold hier noch mal die Adresse:\nCafe Zentral\nLuisenstr. 15\n44787 Bochum\nW\u00E4re sch\u00F6n wenn du an die Bilder und die Tastatur denkst",
   "id" : 1254143644,
   "created_at" : "Thu Feb 26 16:17:16 +0000 2009",
   "in_reply_to_screen_name" : "schwarzesgold",
@@ -124,7 +124,7 @@ Grailbird.data.tweets_2009_02 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "EinKäfigvollerHelden",
+      "text" : "EinK\u00E4figvollerHelden",
       "indices" : [ 85, 106 ]
     }, {
       "text" : "Kabel1",
@@ -135,7 +135,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1251920024",
-  "text" : "warum kommen die guten Sendungen eigentlich immer, wenn ich eigentlich ins Bett will #EinKäfigvollerHelden #Kabel1",
+  "text" : "warum kommen die guten Sendungen eigentlich immer, wenn ich eigentlich ins Bett will #EinK\u00E4figvollerHelden #Kabel1",
   "id" : 1251920024,
   "created_at" : "Thu Feb 26 02:04:52 +0000 2009",
   "user" : {
@@ -210,7 +210,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1228056402",
-  "text" : "Geht doch nicht's über ne gescheite Schneeballschlacht",
+  "text" : "Geht doch nicht's \u00FCber ne gescheite Schneeballschlacht",
   "id" : 1228056402,
   "created_at" : "Thu Feb 19 20:53:14 +0000 2009",
   "user" : {
@@ -233,7 +233,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1226272102",
-  "text" : "Grade ist ein Überraschungsei an mir vorbei gelaufen",
+  "text" : "Grade ist ein \u00DCberraschungsei an mir vorbei gelaufen",
   "id" : 1226272102,
   "created_at" : "Thu Feb 19 11:12:33 +0000 2009",
   "user" : {
@@ -259,7 +259,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1225853706",
-  "text" : "Die Dame im Zug neben mir beschwert sich darüber das ihre Schüler zuviel Fragen #SuperBildungssystem",
+  "text" : "Die Dame im Zug neben mir beschwert sich dar\u00FCber das ihre Sch\u00FCler zuviel Fragen #SuperBildungssystem",
   "id" : 1225853706,
   "created_at" : "Thu Feb 19 07:10:06 +0000 2009",
   "user" : {
@@ -288,7 +288,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1224729940",
-  "text" : "habe einen #Speedtest gemacht, das Ergebnis liegt heute bei 10% dessen was ich sonst habe, die Tests sind wohl überlastet nach #SternTV",
+  "text" : "habe einen #Speedtest gemacht, das Ergebnis liegt heute bei 10% dessen was ich sonst habe, die Tests sind wohl \u00FCberlastet nach #SternTV",
   "id" : 1224729940,
   "created_at" : "Wed Feb 18 23:13:33 +0000 2009",
   "user" : {
@@ -369,7 +369,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1223158436",
-  "text" : "arg hab meine TAN Liste verlegt und 1 Woche lang gesucht. Nun 5 Min. nach dem ich sie gespert habe, fällt sie mir in die Hände",
+  "text" : "arg hab meine TAN Liste verlegt und 1 Woche lang gesucht. Nun 5 Min. nach dem ich sie gespert habe, f\u00E4llt sie mir in die H\u00E4nde",
   "id" : 1223158436,
   "created_at" : "Wed Feb 18 15:36:55 +0000 2009",
   "user" : {
@@ -401,7 +401,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1223043972",
-  "text" : "kann mir jemand hier den Fehler erklären? http://bit.ly/13wUX4 #OSX #Skype #Bug",
+  "text" : "kann mir jemand hier den Fehler erkl\u00E4ren? http://bit.ly/13wUX4 #OSX #Skype #Bug",
   "id" : 1223043972,
   "created_at" : "Wed Feb 18 15:05:37 +0000 2009",
   "user" : {
@@ -519,7 +519,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1217245957",
-  "text" : "Mir sind grade nach einen Gespräch die Schuppen von den Augen gefallen, werde nun ins Bett gegen und das ganze noch weiter sacken lassen ...",
+  "text" : "Mir sind grade nach einen Gespr\u00E4ch die Schuppen von den Augen gefallen, werde nun ins Bett gegen und das ganze noch weiter sacken lassen ...",
   "id" : 1217245957,
   "created_at" : "Tue Feb 17 00:39:49 +0000 2009",
   "user" : {
@@ -574,7 +574,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1215176426",
-  "text" : "ich könnte glatt im stehen einschlafen, wenn ich nicht sitzen würde",
+  "text" : "ich k\u00F6nnte glatt im stehen einschlafen, wenn ich nicht sitzen w\u00FCrde",
   "id" : 1215176426,
   "created_at" : "Mon Feb 16 13:06:21 +0000 2009",
   "user" : {
@@ -629,7 +629,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1213695116",
-  "text" : "werde nun mal ins Bett gehen und morgen wieder versuchen die Weltherrschaft an mich zu reißen",
+  "text" : "werde nun mal ins Bett gehen und morgen wieder versuchen die Weltherrschaft an mich zu rei\u00DFen",
   "id" : 1213695116,
   "created_at" : "Mon Feb 16 00:08:33 +0000 2009",
   "user" : {
@@ -756,7 +756,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1212634402",
-  "text" : "Hier im Zug liegen gefühlte 3,5 Promille flüssiger Karnevalskonsum in der Luft",
+  "text" : "Hier im Zug liegen gef\u00FChlte 3,5 Promille fl\u00FCssiger Karnevalskonsum in der Luft",
   "id" : 1212634402,
   "created_at" : "Sun Feb 15 16:39:34 +0000 2009",
   "user" : {
@@ -1000,7 +1000,7 @@ Grailbird.data.tweets_2009_02 =
   },
   "id_str" : "1203895800",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel über RuhrDigital beim #tfruhr09",
+  "text" : "@florianfiegel \u00FCber RuhrDigital beim #tfruhr09",
   "id" : 1203895800,
   "created_at" : "Thu Feb 12 20:04:42 +0000 2009",
   "in_reply_to_screen_name" : "florianfiegel",
@@ -1100,7 +1100,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1199845145",
-  "text" : "rt @rotlicht Ein Tweet (Eine E-Mail) veranlasste mich, mal nach draußen zu schauen. Brrr...",
+  "text" : "rt @rotlicht Ein Tweet (Eine E-Mail) veranlasste mich, mal nach drau\u00DFen zu schauen. Brrr...",
   "id" : 1199845145,
   "created_at" : "Wed Feb 11 18:29:10 +0000 2009",
   "user" : {
@@ -1268,7 +1268,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1186823579",
-  "text" : "Heute scheint in Dortmund die Schwerkraft besonders groß sein",
+  "text" : "Heute scheint in Dortmund die Schwerkraft besonders gro\u00DF sein",
   "id" : 1186823579,
   "created_at" : "Sat Feb 07 18:08:01 +0000 2009",
   "user" : {
@@ -1314,7 +1314,7 @@ Grailbird.data.tweets_2009_02 =
   "geo" : {
   },
   "id_str" : "1184284320",
-  "text" : "verkaufe 28\" TV-Gerät mangels gescheitem Programmangebot",
+  "text" : "verkaufe 28\" TV-Ger\u00E4t mangels gescheitem Programmangebot",
   "id" : 1184284320,
   "created_at" : "Fri Feb 06 19:57:16 +0000 2009",
   "user" : {

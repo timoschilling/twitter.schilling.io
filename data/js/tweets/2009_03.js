@@ -10,7 +10,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1415003963",
-  "text" : "Begrüße meinen 2^7. Follower",
+  "text" : "Begr\u00FC\u00DFe meinen 2^7. Follower",
   "id" : 1415003963,
   "created_at" : "Mon Mar 30 00:46:07 +0000 2009",
   "user" : {
@@ -36,7 +36,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1412346190",
-  "text" : "#bcruhr2 ist zuende, bis zum nächsten mal",
+  "text" : "#bcruhr2 ist zuende, bis zum n\u00E4chsten mal",
   "id" : 1412346190,
   "created_at" : "Sun Mar 29 14:58:23 +0000 2009",
   "user" : {
@@ -82,7 +82,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1411056358",
-  "text" : "schon wieder Probleme bei der Bahn auf der Strecke Do-E-Du. RE6 fährt nicht über Bochum",
+  "text" : "schon wieder Probleme bei der Bahn auf der Strecke Do-E-Du. RE6 f\u00E4hrt nicht \u00FCber Bochum",
   "id" : 1411056358,
   "created_at" : "Sun Mar 29 06:09:59 +0000 2009",
   "user" : {
@@ -114,7 +114,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1411046158",
-  "text" : "hab grade eine Idee für ein #Poken #Startup. Vieleicht hat jemand beim #bcruhr2 Interesse",
+  "text" : "hab grade eine Idee f\u00FCr ein #Poken #Startup. Vieleicht hat jemand beim #bcruhr2 Interesse",
   "id" : 1411046158,
   "created_at" : "Sun Mar 29 06:06:25 +0000 2009",
   "user" : {
@@ -218,7 +218,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1408789181",
-  "text" : "#bcruhr ist für heute für mich zuende, cooler Tag, morgen gehts weiter",
+  "text" : "#bcruhr ist f\u00FCr heute f\u00FCr mich zuende, cooler Tag, morgen gehts weiter",
   "id" : 1408789181,
   "created_at" : "Sat Mar 28 20:59:39 +0000 2009",
   "user" : {
@@ -332,7 +332,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Malte Münchert",
+      "name" : "Malte M\u00FCnchert",
       "screen_name" : "halbmalte",
       "indices" : [ 126, 136 ],
       "id_str" : "15572832",
@@ -348,7 +348,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1407325304",
-  "text" : "yeah zum ersten mal hab ich das gefühl early-adopter zu sein: poken und dieses namenslose ssjs-framework vorhin #bcruhr2 (via @halbmalte)",
+  "text" : "yeah zum ersten mal hab ich das gef\u00FChl early-adopter zu sein: poken und dieses namenslose ssjs-framework vorhin #bcruhr2 (via @halbmalte)",
   "id" : 1407325304,
   "created_at" : "Sat Mar 28 15:40:56 +0000 2009",
   "user" : {
@@ -426,7 +426,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1406545215",
-  "text" : "Anstellen für Essen, Verhältnisse wie im Osten #bcruhr http://twitpic.com/2ixvl",
+  "text" : "Anstellen f\u00FCr Essen, Verh\u00E4ltnisse wie im Osten #bcruhr http://twitpic.com/2ixvl",
   "id" : 1406545215,
   "created_at" : "Sat Mar 28 11:55:25 +0000 2009",
   "user" : {
@@ -442,7 +442,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -463,7 +463,7 @@ Grailbird.data.tweets_2009_03 =
   },
   "id_str" : "1406484388",
   "in_reply_to_user_id" : 18448838,
-  "text" : "@echt kilngt gut, wäre dabei #Twitter Session #bcruhr2",
+  "text" : "@echt kilngt gut, w\u00E4re dabei #Twitter Session #bcruhr2",
   "id" : 1406484388,
   "in_reply_to_status_id" : 1406472990,
   "created_at" : "Sat Mar 28 11:28:48 +0000 2009",
@@ -492,7 +492,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1406425884",
-  "text" : "liege in der Cloudcomputing Session, so macht Informationskonsum Spaß #bcruhr2 http://twitpic.com/2iwx8",
+  "text" : "liege in der Cloudcomputing Session, so macht Informationskonsum Spa\u00DF #bcruhr2 http://twitpic.com/2iwx8",
   "id" : 1406425884,
   "created_at" : "Sat Mar 28 11:01:48 +0000 2009",
   "user" : {
@@ -607,7 +607,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1406187072",
-  "text" : "Eine Käse-Pizza bitte #bcruhr2 http://twitpic.com/2iuvg",
+  "text" : "Eine K\u00E4se-Pizza bitte #bcruhr2 http://twitpic.com/2iuvg",
   "id" : 1406187072,
   "created_at" : "Sat Mar 28 09:00:53 +0000 2009",
   "user" : {
@@ -695,7 +695,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "<a href=\"http://iphone.natsulion.org/\" rel=\"nofollow\">NatsuLiphone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Harm Lübben",
+      "name" : "Harm L\u00FCbben",
       "screen_name" : "codepolizei",
       "indices" : [ 11, 23 ],
       "id_str" : "10455432",
@@ -753,7 +753,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "<a href=\"http://iphone.natsulion.org/\" rel=\"nofollow\">NatsuLiphone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Harm Lübben",
+      "name" : "Harm L\u00FCbben",
       "screen_name" : "codepolizei",
       "indices" : [ 49, 61 ],
       "id_str" : "10455432",
@@ -822,7 +822,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "<a href=\"http://www.nambu.com\" rel=\"nofollow\">Nambu</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Markus Klöschen",
+      "name" : "Markus Kl\u00F6schen",
       "screen_name" : "kloeschen",
       "indices" : [ 0, 10 ],
       "id_str" : "14187954",
@@ -923,7 +923,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1381555211",
-  "text" : "3m » mache mal mittag",
+  "text" : "3m \u00BB mache mal mittag",
   "id" : 1381555211,
   "created_at" : "Tue Mar 24 13:03:16 +0000 2009",
   "user" : {
@@ -1070,7 +1070,7 @@ Grailbird.data.tweets_2009_03 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "Flaschenöffner",
+      "text" : "Flaschen\u00F6ffner",
       "indices" : [ 77, 92 ]
     } ],
     "urls" : [ ]
@@ -1078,7 +1078,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1371778297",
-  "text" : "http://twitpic.com/2cu0m - ein Edding ist auch nicht mehr das was er mal war #Flaschenöffner",
+  "text" : "http://twitpic.com/2cu0m - ein Edding ist auch nicht mehr das was er mal war #Flaschen\u00F6ffner",
   "id" : 1371778297,
   "created_at" : "Sun Mar 22 19:57:20 +0000 2009",
   "user" : {
@@ -1193,7 +1193,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1343245676",
-  "text" : "Ein schöner Tag, komm Welt, lass Dich umarmen, welch ein Tag ...",
+  "text" : "Ein sch\u00F6ner Tag, komm Welt, lass Dich umarmen, welch ein Tag ...",
   "id" : 1343245676,
   "created_at" : "Tue Mar 17 17:13:18 +0000 2009",
   "user" : {
@@ -1285,7 +1285,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1328474660",
-  "text" : "cool K-Pax läuft aber misst Grossteil verpasst",
+  "text" : "cool K-Pax l\u00E4uft aber misst Grossteil verpasst",
   "id" : 1328474660,
   "created_at" : "Sat Mar 14 20:31:42 +0000 2009",
   "user" : {
@@ -1382,7 +1382,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1316277469",
-  "text" : "wenn ich es nicht noch geschaft hätte, diesen Tweet zu schreiben, würde ich glatt sagen ich bin tod",
+  "text" : "wenn ich es nicht noch geschaft h\u00E4tte, diesen Tweet zu schreiben, w\u00FCrde ich glatt sagen ich bin tod",
   "id" : 1316277469,
   "created_at" : "Thu Mar 12 14:43:43 +0000 2009",
   "user" : {
@@ -1430,7 +1430,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "<a href=\"http://www.natsulion.org/\" rel=\"nofollow\">NatsuLion</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Markus Klöschen",
+      "name" : "Markus Kl\u00F6schen",
       "screen_name" : "kloeschen",
       "indices" : [ 0, 10 ],
       "id_str" : "14187954",
@@ -1445,7 +1445,7 @@ Grailbird.data.tweets_2009_03 =
   },
   "id_str" : "1309337699",
   "in_reply_to_user_id" : 14187954,
-  "text" : "@kloeschen ich habe keine 404's aber ein Zeichensatzproblem in den Tags bei 'M�nchengladbach' im FF unter OS X",
+  "text" : "@kloeschen ich habe keine 404's aber ein Zeichensatzproblem in den Tags bei 'M\uFFFDnchengladbach' im FF unter OS X",
   "id" : 1309337699,
   "in_reply_to_status_id" : 1309326458,
   "created_at" : "Wed Mar 11 05:27:27 +0000 2009",
@@ -1474,7 +1474,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1308128225",
-  "text" : "Shops die Frames nutzen sind ja wohl für Arsch #conrad.de",
+  "text" : "Shops die Frames nutzen sind ja wohl f\u00FCr Arsch #conrad.de",
   "id" : 1308128225,
   "created_at" : "Wed Mar 11 00:05:12 +0000 2009",
   "user" : {
@@ -1497,7 +1497,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1306952558",
-  "text" : "diese neuen Kamps Karamell-Vanilla Muffins, machen glaube echt süchtig",
+  "text" : "diese neuen Kamps Karamell-Vanilla Muffins, machen glaube echt s\u00FCchtig",
   "id" : 1306952558,
   "created_at" : "Tue Mar 10 19:44:35 +0000 2009",
   "user" : {
@@ -1528,7 +1528,7 @@ Grailbird.data.tweets_2009_03 =
   },
   "id_str" : "1305645134",
   "in_reply_to_user_id" : 16394309,
-  "text" : "wie @florianfiegel immer so schön sagt: habe Grundlagenlogistik betrieben",
+  "text" : "wie @florianfiegel immer so sch\u00F6n sagt: habe Grundlagenlogistik betrieben",
   "id" : 1305645134,
   "in_reply_to_status_id" : 1305249028,
   "created_at" : "Tue Mar 10 14:49:49 +0000 2009",
@@ -1577,7 +1577,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1294152538",
-  "text" : "man sollte das TV Programm auflösen und ein neues wählen",
+  "text" : "man sollte das TV Programm aufl\u00F6sen und ein neues w\u00E4hlen",
   "id" : 1294152538,
   "created_at" : "Sat Mar 07 21:43:48 +0000 2009",
   "user" : {
@@ -1623,7 +1623,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1285176657",
-  "text" : "zurück vom Frischluftkonsum",
+  "text" : "zur\u00FCck vom Frischluftkonsum",
   "id" : 1285176657,
   "created_at" : "Thu Mar 05 20:55:55 +0000 2009",
   "user" : {

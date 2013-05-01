@@ -33,7 +33,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1030977007",
-  "text" : "habe heute fast 700 posts in netnewswire überflogen und gelesen",
+  "text" : "habe heute fast 700 posts in netnewswire \u00FCberflogen und gelesen",
   "id" : 1030977007,
   "created_at" : "Sun Nov 30 18:12:04 +0000 2008",
   "user" : {
@@ -79,7 +79,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1029830094",
-  "text" : "Ich wurde grade gekleiderbügelt",
+  "text" : "Ich wurde grade gekleiderb\u00FCgelt",
   "id" : 1029830094,
   "created_at" : "Sat Nov 29 21:03:29 +0000 2008",
   "user" : {
@@ -125,7 +125,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1028477108",
-  "text" : "Gefühlt ist die S1 nach Do besser bewacht als Fort Nox und Guantanamo zusammen",
+  "text" : "Gef\u00FChlt ist die S1 nach Do besser bewacht als Fort Nox und Guantanamo zusammen",
   "id" : 1028477108,
   "created_at" : "Fri Nov 28 20:54:34 +0000 2008",
   "user" : {
@@ -148,7 +148,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1028089559",
-  "text" : "oh, meine Inbox ist leer, mal schaun wie lange die ordnung hält",
+  "text" : "oh, meine Inbox ist leer, mal schaun wie lange die ordnung h\u00E4lt",
   "id" : 1028089559,
   "created_at" : "Fri Nov 28 15:58:47 +0000 2008",
   "user" : {
@@ -179,7 +179,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1027824695",
   "in_reply_to_user_id" : 13258552,
-  "text" : "@mactux hätte Interesse!",
+  "text" : "@mactux h\u00E4tte Interesse!",
   "id" : 1027824695,
   "in_reply_to_status_id" : 1025096771,
   "created_at" : "Fri Nov 28 12:15:58 +0000 2008",
@@ -273,7 +273,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1027043594",
   "in_reply_to_user_id" : 14487571,
-  "text" : "@kalaydo macht nichts, ich werde es überleben, war ja nicht der letzte Zug",
+  "text" : "@kalaydo macht nichts, ich werde es \u00FCberleben, war ja nicht der letzte Zug",
   "id" : 1027043594,
   "in_reply_to_status_id" : 1027036456,
   "created_at" : "Thu Nov 27 22:24:30 +0000 2008",
@@ -349,7 +349,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ChristophMüllerGirod",
+      "name" : "Mueller-Girod",
       "screen_name" : "schwarzesgold",
       "indices" : [ 0, 14 ],
       "id_str" : "16048372",
@@ -511,7 +511,7 @@ Grailbird.data.tweets_2008_11 =
       "text" : "Amazon",
       "indices" : [ 62, 69 ]
     }, {
-      "text" : "Überladen",
+      "text" : "\u00DCberladen",
       "indices" : [ 70, 80 ]
     } ],
     "urls" : [ ]
@@ -521,7 +521,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1026465854",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel bin schon am übelegen nen UserCSS zu schreiben #Amazon #Überladen",
+  "text" : "@florianfiegel bin schon am \u00FCbelegen nen UserCSS zu schreiben #Amazon #\u00DCberladen",
   "id" : 1026465854,
   "in_reply_to_status_id" : 1026464289,
   "created_at" : "Thu Nov 27 15:07:03 +0000 2008",
@@ -547,7 +547,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1026435585",
-  "text" : "wurde im übrigen gestern von meiner Freundin aufgefordert wieder mehr zu twittern",
+  "text" : "wurde im \u00FCbrigen gestern von meiner Freundin aufgefordert wieder mehr zu twittern",
   "id" : 1026435585,
   "created_at" : "Thu Nov 27 14:45:50 +0000 2008",
   "user" : {
@@ -570,7 +570,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1026431802",
-  "text" : "bin ich eigentlich der einzige der die Amazon Produktseiten überladen findet?",
+  "text" : "bin ich eigentlich der einzige der die Amazon Produktseiten \u00FCberladen findet?",
   "id" : 1026431802,
   "created_at" : "Thu Nov 27 14:43:00 +0000 2008",
   "user" : {
@@ -588,7 +588,7 @@ Grailbird.data.tweets_2008_11 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "Falkstraße",
+      "text" : "Falkstra\u00DFe",
       "indices" : [ 65, 76 ]
     }, {
       "text" : "Bochum",
@@ -599,7 +599,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1026126455",
-  "text" : "arg, Sitze im \"dunkeln\", in der ganzen Straße ist der Strom weg. #Falkstraße #Bochum",
+  "text" : "arg, Sitze im \"dunkeln\", in der ganzen Stra\u00DFe ist der Strom weg. #Falkstra\u00DFe #Bochum",
   "id" : 1026126455,
   "created_at" : "Thu Nov 27 09:36:33 +0000 2008",
   "user" : {
@@ -630,7 +630,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1026031227",
   "in_reply_to_user_id" : 15820221,
-  "text" : "@philharmoniker freue mich auch, komme jedoch nur zur hälfte, meine bessere kommt leider nicht mit",
+  "text" : "@philharmoniker freue mich auch, komme jedoch nur zur h\u00E4lfte, meine bessere kommt leider nicht mit",
   "id" : 1026031227,
   "in_reply_to_status_id" : 1025485533,
   "created_at" : "Thu Nov 27 07:43:21 +0000 2008",
@@ -815,7 +815,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1016400609",
-  "text" : "Der ganze Bochumer Weinachtsmarkt ist in Aufruhr, Zwangsschließung bis min. 17 Uhr wegen Sturmwarnung",
+  "text" : "Der ganze Bochumer Weinachtsmarkt ist in Aufruhr, Zwangsschlie\u00DFung bis min. 17 Uhr wegen Sturmwarnung",
   "id" : 1016400609,
   "created_at" : "Fri Nov 21 12:47:23 +0000 2008",
   "user" : {
@@ -841,7 +841,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1016394529",
-  "text" : "Nach 8 Jahren Onlinebanking wieder eine Papierüberweisung gemacht #grauenhaft",
+  "text" : "Nach 8 Jahren Onlinebanking wieder eine Papier\u00FCberweisung gemacht #grauenhaft",
   "id" : 1016394529,
   "created_at" : "Fri Nov 21 12:41:21 +0000 2008",
   "user" : {
@@ -864,7 +864,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1016139899",
-  "text" : "Grade in der Bahn böse Blicke kassiert weil ich über einen Podcast geschmunzelt habe",
+  "text" : "Grade in der Bahn b\u00F6se Blicke kassiert weil ich \u00FCber einen Podcast geschmunzelt habe",
   "id" : 1016139899,
   "created_at" : "Fri Nov 21 07:41:33 +0000 2008",
   "user" : {
@@ -887,7 +887,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1016138523",
-  "text" : "bin ich verwöhnt oder hat Starbucks wirklich den einzigen trinkbaren Bahnhofs Kakao?",
+  "text" : "bin ich verw\u00F6hnt oder hat Starbucks wirklich den einzigen trinkbaren Bahnhofs Kakao?",
   "id" : 1016138523,
   "created_at" : "Fri Nov 21 07:39:44 +0000 2008",
   "user" : {
@@ -933,7 +933,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1014896980",
-  "text" : "das kommt davon wenn man aufräumt, man findet nichts wieder",
+  "text" : "das kommt davon wenn man aufr\u00E4umt, man findet nichts wieder",
   "id" : 1014896980,
   "created_at" : "Thu Nov 20 16:05:44 +0000 2008",
   "user" : {
@@ -998,7 +998,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1013509143",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel Schnitzelstarre - Bezeichnung für die schläfrige Phase nach üppigen, zumeist fleischlastigen Mahlzeiten http://bit.ly/cBdK",
+  "text" : "@florianfiegel Schnitzelstarre - Bezeichnung f\u00FCr die schl\u00E4frige Phase nach \u00FCppigen, zumeist fleischlastigen Mahlzeiten http://bit.ly/cBdK",
   "id" : 1013509143,
   "in_reply_to_status_id" : 1013503025,
   "created_at" : "Wed Nov 19 20:27:46 +0000 2008",
@@ -1147,7 +1147,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1011457969",
-  "text" : "schon interessant zu sehen wie einer nach dem anderen merkt das twitter wieder läuft, wird immer lesenswerter",
+  "text" : "schon interessant zu sehen wie einer nach dem anderen merkt das twitter wieder l\u00E4uft, wird immer lesenswerter",
   "id" : 1011457969,
   "created_at" : "Tue Nov 18 17:58:52 +0000 2008",
   "user" : {
@@ -1235,7 +1235,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1009513955",
   "in_reply_to_user_id" : 16417811,
-  "text" : "@MoritzFiege wäre mit dabei",
+  "text" : "@MoritzFiege w\u00E4re mit dabei",
   "id" : 1009513955,
   "in_reply_to_status_id" : 1009510877,
   "created_at" : "Mon Nov 17 13:04:26 +0000 2008",
@@ -1284,7 +1284,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1007305969",
-  "text" : "So beim King gespeißt, nen Bierchen zum vorglühen getrunken. Nun geht's los zur Gourmet http://www.perfetto-gourmetnacht.de",
+  "text" : "So beim King gespei\u00DFt, nen Bierchen zum vorgl\u00FChen getrunken. Nun geht's los zur Gourmet http://www.perfetto-gourmetnacht.de",
   "id" : 1007305969,
   "created_at" : "Sat Nov 15 19:02:02 +0000 2008",
   "user" : {
@@ -1401,7 +1401,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1005296529",
-  "text" : "Ich habe gesündigt, man möge mir vergeben. Ich habe den Spiegel gekauft. Das erschreckende war der Preis von 3,50€ #SouthParkInsider",
+  "text" : "Ich habe ges\u00FCndigt, man m\u00F6ge mir vergeben. Ich habe den Spiegel gekauft. Das erschreckende war der Preis von 3,50\u20AC #SouthParkInsider",
   "id" : 1005296529,
   "created_at" : "Fri Nov 14 11:12:03 +0000 2008",
   "user" : {
@@ -1435,7 +1435,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1005295180",
   "in_reply_to_user_id" : 5769802,
-  "text" : "@pottblog du würst lachen Altenbeken war früher mal in der Ecke das Haubtdrehkreutz der Bahn #Gutealtezeit",
+  "text" : "@pottblog du w\u00FCrst lachen Altenbeken war fr\u00FCher mal in der Ecke das Haubtdrehkreutz der Bahn #Gutealtezeit",
   "id" : 1005295180,
   "in_reply_to_status_id" : 1005294224,
   "created_at" : "Fri Nov 14 11:10:14 +0000 2008",
@@ -1526,7 +1526,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1004150043",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel es geht doch nichts über Leute die einen durchschauen ;)",
+  "text" : "@florianfiegel es geht doch nichts \u00FCber Leute die einen durchschauen ;)",
   "id" : 1004150043,
   "in_reply_to_status_id" : 1004146463,
   "created_at" : "Thu Nov 13 17:30:22 +0000 2008",
@@ -1560,7 +1560,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1004146512",
   "in_reply_to_user_id" : 17025260,
-  "text" : "@HabariMag das CSS im Twitter könnte beim Text etwas Kontrastreicher sein",
+  "text" : "@HabariMag das CSS im Twitter k\u00F6nnte beim Text etwas Kontrastreicher sein",
   "id" : 1004146512,
   "in_reply_to_status_id" : 1004142959,
   "created_at" : "Thu Nov 13 17:28:05 +0000 2008",
@@ -1722,7 +1722,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1003893863",
-  "text" : "endlich mal Zeit fürs Frühstück",
+  "text" : "endlich mal Zeit f\u00FCrs Fr\u00FChst\u00FCck",
   "id" : 1003893863,
   "created_at" : "Thu Nov 13 14:52:56 +0000 2008",
   "user" : {
@@ -1776,7 +1776,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1000612858",
   "in_reply_to_user_id" : 15820221,
-  "text" : "@philharmoniker dein neues Logo ist sehr augenkrebsverdächtig",
+  "text" : "@philharmoniker dein neues Logo ist sehr augenkrebsverd\u00E4chtig",
   "id" : 1000612858,
   "in_reply_to_status_id" : 1000097611,
   "created_at" : "Tue Nov 11 16:28:06 +0000 2008",
@@ -1836,7 +1836,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1000422212",
-  "text" : "warum haben Geschäfte eigentlich nie das was man kaufen will",
+  "text" : "warum haben Gesch\u00E4fte eigentlich nie das was man kaufen will",
   "id" : 1000422212,
   "created_at" : "Tue Nov 11 14:16:29 +0000 2008",
   "user" : {
@@ -1859,7 +1859,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1000296327",
-  "text" : "Scheißhauskalender http://twitpic.com/l66t",
+  "text" : "Schei\u00DFhauskalender http://twitpic.com/l66t",
   "id" : 1000296327,
   "created_at" : "Tue Nov 11 12:22:52 +0000 2008",
   "user" : {
@@ -1890,7 +1890,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1000251981",
   "in_reply_to_user_id" : 14487571,
-  "text" : "@kalaydo hier ist noch der Podcast Berlin von unten http://tinyurl.com/56pu89, es gibt noch alte Folgen im Archiv, habe aber noch ältere",
+  "text" : "@kalaydo hier ist noch der Podcast Berlin von unten http://tinyurl.com/56pu89, es gibt noch alte Folgen im Archiv, habe aber noch \u00E4ltere",
   "id" : 1000251981,
   "in_reply_to_status_id" : 1000185933,
   "created_at" : "Tue Nov 11 11:30:13 +0000 2008",
@@ -1924,7 +1924,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1000226362",
   "in_reply_to_user_id" : 959201,
-  "text" : "@Katti mach ne Geschäftsidee raus",
+  "text" : "@Katti mach ne Gesch\u00E4ftsidee raus",
   "id" : 1000226362,
   "in_reply_to_status_id" : 1000225626,
   "created_at" : "Tue Nov 11 10:58:44 +0000 2008",
@@ -1950,7 +1950,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "1000203397",
-  "text" : "werde jetzt mal Duschen, mich um die Narungsaufnahme kümmern und dann das 2/3 des Arbeitstages beginnen",
+  "text" : "werde jetzt mal Duschen, mich um die Narungsaufnahme k\u00FCmmern und dann das 2/3 des Arbeitstages beginnen",
   "id" : 1000203397,
   "created_at" : "Tue Nov 11 10:26:08 +0000 2008",
   "user" : {
@@ -1966,7 +1966,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "<a href=\"http://www.natsulion.org/\" rel=\"nofollow\">NatsuLion</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Henning Schürig",
+      "name" : "Henning Sch\u00FCrig",
       "screen_name" : "hensch",
       "indices" : [ 0, 7 ],
       "id_str" : "3728881",
@@ -2015,7 +2015,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "1000199325",
   "in_reply_to_user_id" : 16417811,
-  "text" : "@MoritzFiege danke für die Info",
+  "text" : "@MoritzFiege danke f\u00FCr die Info",
   "id" : 1000199325,
   "in_reply_to_status_id" : 1000098733,
   "created_at" : "Tue Nov 11 10:19:41 +0000 2008",
@@ -2144,7 +2144,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "998683846",
-  "text" : "hat jemand nen Tip für NTFS read/write unter 10.5?",
+  "text" : "hat jemand nen Tip f\u00FCr NTFS read/write unter 10.5?",
   "id" : 998683846,
   "created_at" : "Mon Nov 10 12:44:39 +0000 2008",
   "user" : {
@@ -2167,7 +2167,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "998621450",
-  "text" : "Hat jemand etwas Zeit für mich? Meine ist mir grade ausgegangen!",
+  "text" : "Hat jemand etwas Zeit f\u00FCr mich? Meine ist mir grade ausgegangen!",
   "id" : 998621450,
   "created_at" : "Mon Nov 10 11:35:06 +0000 2008",
   "user" : {
@@ -2190,7 +2190,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "998015804",
-  "text" : "sitze in einer leeren Dortmunder Ubahn, man könnte glatt denken hier wohnt niemand, hat was von Bielefeld",
+  "text" : "sitze in einer leeren Dortmunder Ubahn, man k\u00F6nnte glatt denken hier wohnt niemand, hat was von Bielefeld",
   "id" : 998015804,
   "created_at" : "Sun Nov 09 23:29:10 +0000 2008",
   "user" : {
@@ -2273,7 +2273,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "997834051",
-  "text" : "dachte bisher immer die KIK Tv Werbung sei schlimm, auf Türkisch klingt sie noch schlimmer",
+  "text" : "dachte bisher immer die KIK Tv Werbung sei schlimm, auf T\u00FCrkisch klingt sie noch schlimmer",
   "id" : 997834051,
   "created_at" : "Sun Nov 09 20:27:59 +0000 2008",
   "user" : {
@@ -2296,7 +2296,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "997776322",
-  "text" : "mit einem erwärmten Herz, an einem Frühlingsabend, mittem im kühlen Herbst, on my way home",
+  "text" : "mit einem erw\u00E4rmten Herz, an einem Fr\u00FChlingsabend, mittem im k\u00FChlen Herbst, on my way home",
   "id" : 997776322,
   "created_at" : "Sun Nov 09 19:24:52 +0000 2008",
   "user" : {
@@ -2369,7 +2369,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "<a href=\"http://www.natsulion.org/\" rel=\"nofollow\">NatsuLion</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Markus Klöschen",
+      "name" : "Markus Kl\u00F6schen",
       "screen_name" : "kloeschen",
       "indices" : [ 0, 10 ],
       "id_str" : "14187954",
@@ -2512,7 +2512,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "994714313",
-  "text" : "bin dann mal wieder weg, einmal Rein-Ruhr und zurück",
+  "text" : "bin dann mal wieder weg, einmal Rein-Ruhr und zur\u00FCck",
   "id" : 994714313,
   "created_at" : "Fri Nov 07 10:40:53 +0000 2008",
   "user" : {
@@ -2600,7 +2600,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "994167224",
   "in_reply_to_user_id" : 14487571,
-  "text" : "@kalaydo war ein schöner Abend, danke für die Karten",
+  "text" : "@kalaydo war ein sch\u00F6ner Abend, danke f\u00FCr die Karten",
   "id" : 994167224,
   "in_reply_to_status_id" : 993331553,
   "created_at" : "Fri Nov 07 00:36:21 +0000 2008",
@@ -2668,7 +2668,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "994154734",
   "in_reply_to_user_id" : 15820221,
-  "text" : "@philharmoniker war ein toller abend, gerne wieder! Wir hören uns die Tage",
+  "text" : "@philharmoniker war ein toller abend, gerne wieder! Wir h\u00F6ren uns die Tage",
   "id" : 994154734,
   "in_reply_to_status_id" : 993746692,
   "created_at" : "Fri Nov 07 00:25:43 +0000 2008",
@@ -2796,7 +2796,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "989461298",
   "in_reply_to_user_id" : 14487571,
-  "text" : "@kalaydo ;) dabei ist diese ganze verfolgerrei doch garnicht gut für meine Paranoidität",
+  "text" : "@kalaydo ;) dabei ist diese ganze verfolgerrei doch garnicht gut f\u00FCr meine Paranoidit\u00E4t",
   "id" : 989461298,
   "in_reply_to_status_id" : 989443934,
   "created_at" : "Tue Nov 04 15:17:59 +0000 2008",
@@ -2851,7 +2851,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "988510186",
-  "text" : "bin mit einem kleinen Umweg zurück vom Webmontag und werde jetzt gepflegt ins Komma fallen",
+  "text" : "bin mit einem kleinen Umweg zur\u00FCck vom Webmontag und werde jetzt gepflegt ins Komma fallen",
   "id" : 988510186,
   "created_at" : "Tue Nov 04 00:42:22 +0000 2008",
   "user" : {
@@ -2954,7 +2954,7 @@ Grailbird.data.tweets_2008_11 =
   },
   "id_str" : "987432638",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb bei mir ist es jetzt der erste denn ich schaffe, das nächste mal klappts bestimmt",
+  "text" : "@michelb bei mir ist es jetzt der erste denn ich schaffe, das n\u00E4chste mal klappts bestimmt",
   "id" : 987432638,
   "in_reply_to_status_id" : 987431426,
   "created_at" : "Mon Nov 03 10:34:56 +0000 2008",
@@ -3037,7 +3037,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "987421181",
-  "text" : "oh... grade erste Familienmitglieder der älteren Generation im Web 2.0 gesichtet",
+  "text" : "oh... grade erste Familienmitglieder der \u00E4lteren Generation im Web 2.0 gesichtet",
   "id" : 987421181,
   "created_at" : "Mon Nov 03 10:20:36 +0000 2008",
   "user" : {
@@ -3060,7 +3060,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "987409515",
-  "text" : "hat jemand ne idee wie man den Laustärkeregler von iTunes per Tastertur steuern kann?",
+  "text" : "hat jemand ne idee wie man den Laust\u00E4rkeregler von iTunes per Tastertur steuern kann?",
   "id" : 987409515,
   "created_at" : "Mon Nov 03 10:04:57 +0000 2008",
   "user" : {
@@ -3078,7 +3078,7 @@ Grailbird.data.tweets_2008_11 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "Geschäftsidee",
+      "text" : "Gesch\u00E4ftsidee",
       "indices" : [ 93, 107 ]
     } ],
     "urls" : [ ]
@@ -3086,7 +3086,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "987406788",
-  "text" : "wie so kann mein Briefkasten eigentlich noch nicht twittern das er neue Briefe für mich hat? #Geschäftsidee?",
+  "text" : "wie so kann mein Briefkasten eigentlich noch nicht twittern das er neue Briefe f\u00FCr mich hat? #Gesch\u00E4ftsidee?",
   "id" : 987406788,
   "created_at" : "Mon Nov 03 10:00:42 +0000 2008",
   "user" : {
@@ -3143,7 +3143,7 @@ Grailbird.data.tweets_2008_11 =
   "geo" : {
   },
   "id_str" : "987394271",
-  "text" : "füttere grade iTunes mit CD's",
+  "text" : "f\u00FCttere grade iTunes mit CD's",
   "id" : 987394271,
   "created_at" : "Mon Nov 03 09:40:30 +0000 2008",
   "user" : {

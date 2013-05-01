@@ -16,7 +16,7 @@ Grailbird.data.tweets_2011_10 =
   "geo" : {
   },
   "id_str" : "126755852098084864",
-  "text" : "RT @oOtrinityOo: Schüchtern? Nüchtern? Dagegen gibts doch was von Alkohol.",
+  "text" : "RT @oOtrinityOo: Sch\u00FCchtern? N\u00FCchtern? Dagegen gibts doch was von Alkohol.",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
@@ -28,7 +28,7 @@ Grailbird.data.tweets_2011_10 =
     "geo" : {
     },
     "id_str" : "126748829470031873",
-    "text" : "Schüchtern? Nüchtern? Dagegen gibts doch was von Alkohol.",
+    "text" : "Sch\u00FCchtern? N\u00FCchtern? Dagegen gibts doch was von Alkohol.",
     "id" : 126748829470031873,
     "created_at" : "Wed Oct 19 19:57:30 +0000 2011",
     "user" : {
@@ -36,7 +36,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "oOtrinityOo",
       "protected" : false,
       "id_str" : "44138615",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3157931674/929982409600d5c62d5087637a4f0a11_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3283577395/a220794bc1c3a67563773ada3314ac53_normal.jpeg",
       "id" : 44138615,
       "verified" : false
     }
@@ -69,7 +69,7 @@ Grailbird.data.tweets_2011_10 =
   "geo" : {
   },
   "id_str" : "119922442570436608",
-  "text" : "RT @Agent_Dexter: Die Nacht bringt keine Ruhe, sondern den Dingen den Raum, die man tagsüber erfolgreich verdrängen konnte.",
+  "text" : "RT @Agent_Dexter: Die Nacht bringt keine Ruhe, sondern den Dingen den Raum, die man tags\u00FCber erfolgreich verdr\u00E4ngen konnte.",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
@@ -81,7 +81,7 @@ Grailbird.data.tweets_2011_10 =
     "geo" : {
     },
     "id_str" : "119547847510200320",
-    "text" : "Die Nacht bringt keine Ruhe, sondern den Dingen den Raum, die man tagsüber erfolgreich verdrängen konnte.",
+    "text" : "Die Nacht bringt keine Ruhe, sondern den Dingen den Raum, die man tags\u00FCber erfolgreich verdr\u00E4ngen konnte.",
     "id" : 119547847510200320,
     "created_at" : "Thu Sep 29 23:03:22 +0000 2011",
     "user" : {
@@ -89,7 +89,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "Agent_Dexter",
       "protected" : false,
       "id_str" : "22347534",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3235990291/a5d1c990700e65733df41d4f28132c2c_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3522224077/3fb53ca95c2b14bfdd727c777e6c7010_normal.jpeg",
       "id" : 22347534,
       "verified" : false
     }

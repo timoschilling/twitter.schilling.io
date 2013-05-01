@@ -15,7 +15,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 33, 52 ],
       "url" : "http://t.co/LbXJ5gG",
       "expanded_url" : "http://itunes.apple.com/de/app/led-light-for-iphone-4-free/id379753015?mt=8",
-      "display_url" : "itunes.apple.com/de/app/led-lig…"
+      "display_url" : "itunes.apple.com/de/app/led-lig\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "32085855547953152",
@@ -42,13 +42,13 @@ Grailbird.data.tweets_2011_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
       "id" : 18448838
     }, {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 52, 57 ],
       "id_str" : "18448838",
@@ -97,7 +97,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "id_str" : "29886910222565376",
   "in_reply_to_user_id" : 17130783,
-  "text" : "@stefanwild bekam eine SMS mit dem Wortlaut: \"Laut AGB behalten wir uns das Recht der Kündigung vor\"",
+  "text" : "@stefanwild bekam eine SMS mit dem Wortlaut: \"Laut AGB behalten wir uns das Recht der K\u00FCndigung vor\"",
   "id" : 29886910222565376,
   "in_reply_to_status_id" : 29881712615882752,
   "created_at" : "Tue Jan 25 13:02:49 +0000 2011",
@@ -253,7 +253,7 @@ Grailbird.data.tweets_2011_01 =
   "geo" : {
   },
   "id_str" : "29485498330259456",
-  "text" : "RT @nurZitate: »Wir brauchen mehr Querdenker, die lernen, Fehler machen und wieder aufstehen.« http://bit.ly/bkFqq0\n #Zitate",
+  "text" : "RT @nurZitate: \u00BBWir brauchen mehr Querdenker, die lernen, Fehler machen und wieder aufstehen.\u00AB http://bit.ly/bkFqq0\n #Zitate",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.nur-zitate.com/\" rel=\"nofollow\">nur-Zitate.com</a>",
     "entities" : {
@@ -268,7 +268,7 @@ Grailbird.data.tweets_2011_01 =
     "geo" : {
     },
     "id_str" : "29221832892612608",
-    "text" : "»Wir brauchen mehr Querdenker, die lernen, Fehler machen und wieder aufstehen.« http://bit.ly/bkFqq0\n #Zitate",
+    "text" : "\u00BBWir brauchen mehr Querdenker, die lernen, Fehler machen und wieder aufstehen.\u00AB http://bit.ly/bkFqq0\n #Zitate",
     "id" : 29221832892612608,
     "created_at" : "Sun Jan 23 17:00:02 +0000 2011",
     "user" : {
@@ -311,7 +311,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "id_str" : "27901306886684672",
   "in_reply_to_user_id" : 15035029,
-  "text" : "@sippndipp leider zu spät mitbekommen :(",
+  "text" : "@sippndipp leider zu sp\u00E4t mitbekommen :(",
   "id" : 27901306886684672,
   "in_reply_to_status_id" : 27874029826215936,
   "created_at" : "Thu Jan 20 01:32:44 +0000 2011",
@@ -454,7 +454,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "ot",
       "protected" : false,
       "id_str" : "3504641",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3147288973/0a81b1b839c93d4abf56ec37a976b7e0_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3561115579/155bc72a78a18295d634d9504bcf5f84_normal.png",
       "id" : 3504641,
       "verified" : false
     }
@@ -510,7 +510,7 @@ Grailbird.data.tweets_2011_01 =
   "geo" : {
   },
   "id_str" : "26696843794587649",
-  "text" : "RT @lukashed: You need 6553,6 text messages to transfer 1MB. With my current T-Mobile contract (19ct/SMS) that is about €125/MB. Go die, ...",
+  "text" : "RT @lukashed: You need 6553,6 text messages to transfer 1MB. With my current T-Mobile contract (19ct/SMS) that is about \u20AC125/MB. Go die, ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
     "entities" : {
@@ -522,7 +522,7 @@ Grailbird.data.tweets_2011_01 =
     "geo" : {
     },
     "id_str" : "27945888037",
-    "text" : "You need 6553,6 text messages to transfer 1MB. With my current T-Mobile contract (19ct/SMS) that is about €125/MB. Go die, SMS!",
+    "text" : "You need 6553,6 text messages to transfer 1MB. With my current T-Mobile contract (19ct/SMS) that is about \u20AC125/MB. Go die, SMS!",
     "id" : 27945888037,
     "created_at" : "Wed Oct 20 16:25:30 +0000 2010",
     "user" : {
@@ -563,7 +563,7 @@ Grailbird.data.tweets_2011_01 =
   "geo" : {
   },
   "id_str" : "26643073752629248",
-  "text" : "RT @unueberlegt: Twitter ist eine Station in unserem Leben. Wir treffen uns zufällig, mögen uns und wünschen uns irgendwann mit Träne im ...",
+  "text" : "RT @unueberlegt: Twitter ist eine Station in unserem Leben. Wir treffen uns zuf\u00E4llig, m\u00F6gen uns und w\u00FCnschen uns irgendwann mit Tr\u00E4ne im ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -575,7 +575,7 @@ Grailbird.data.tweets_2011_01 =
     "geo" : {
     },
     "id_str" : "26618620071124992",
-    "text" : "Twitter ist eine Station in unserem Leben. Wir treffen uns zufällig, mögen uns und wünschen uns irgendwann mit Träne im Auge eine gute Reise",
+    "text" : "Twitter ist eine Station in unserem Leben. Wir treffen uns zuf\u00E4llig, m\u00F6gen uns und w\u00FCnschen uns irgendwann mit Tr\u00E4ne im Auge eine gute Reise",
     "id" : 26618620071124992,
     "created_at" : "Sun Jan 16 12:35:48 +0000 2011",
     "user" : {
@@ -648,7 +648,7 @@ Grailbird.data.tweets_2011_01 =
   "geo" : {
   },
   "id_str" : "25592286385541121",
-  "text" : "RT @hansdorsch: was fehlt: iBooks für den Mac.",
+  "text" : "RT @hansdorsch: was fehlt: iBooks f\u00FCr den Mac.",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
     "entities" : {
@@ -660,7 +660,7 @@ Grailbird.data.tweets_2011_01 =
     "geo" : {
     },
     "id_str" : "25585394980491264",
-    "text" : "was fehlt: iBooks für den Mac.",
+    "text" : "was fehlt: iBooks f\u00FCr den Mac.",
     "id" : 25585394980491264,
     "created_at" : "Thu Jan 13 16:10:08 +0000 2011",
     "user" : {

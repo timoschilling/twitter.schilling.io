@@ -16,7 +16,7 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "92662576349057024",
-  "text" : "RT @moeffju: \"LSD is a drug that produces fear in people who don’t take it.\" — Timothy Leary",
+  "text" : "RT @moeffju: \"LSD is a drug that produces fear in people who don\u2019t take it.\" \u2014 Timothy Leary",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
     "entities" : {
@@ -28,7 +28,7 @@ Grailbird.data.tweets_2011_07 =
     "geo" : {
     },
     "id_str" : "92658128390328320",
-    "text" : "\"LSD is a drug that produces fear in people who don’t take it.\" — Timothy Leary",
+    "text" : "\"LSD is a drug that produces fear in people who don\u2019t take it.\" \u2014 Timothy Leary",
     "id" : 92658128390328320,
     "created_at" : "Sun Jul 17 18:13:13 +0000 2011",
     "user" : {
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "izs",
       "protected" : false,
       "id_str" : "8038312",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3257360171/ee1c3f4f268cda20558c727be649010c_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3562107406/e44ff890bc0ad41a5396d88ebdf5c8b6_normal.png",
       "id" : 8038312,
       "verified" : false
     }
@@ -163,7 +163,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 4, 9 ],
       "id_str" : "18448838",
@@ -199,7 +199,7 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "86775619395911680",
-  "text" : "sie haben Anschluss an den ICE Fünfhunderölf",
+  "text" : "sie haben Anschluss an den ICE F\u00FCnfhunder\u00F6lf",
   "id" : 86775619395911680,
   "created_at" : "Fri Jul 01 12:38:14 +0000 2011",
   "user" : {

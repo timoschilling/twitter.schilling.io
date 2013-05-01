@@ -10,7 +10,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1088611131",
-  "text" : "so, das hier ist mein letzter Tweet für dieses Jahr. Ich wünsch allen ein guten Rutsch ins neue Jahr",
+  "text" : "so, das hier ist mein letzter Tweet f\u00FCr dieses Jahr. Ich w\u00FCnsch allen ein guten Rutsch ins neue Jahr",
   "id" : 1088611131,
   "created_at" : "Wed Dec 31 19:38:36 +0000 2008",
   "user" : {
@@ -33,7 +33,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1088326272",
-  "text" : "frei nach dem Motto \"Scherben bringen glück\", habe ich grade einen Teller runter geschmissen, ist aber nichts geworden mit den Scherben",
+  "text" : "frei nach dem Motto \"Scherben bringen gl\u00FCck\", habe ich grade einen Teller runter geschmissen, ist aber nichts geworden mit den Scherben",
   "id" : 1088326272,
   "created_at" : "Wed Dec 31 17:02:38 +0000 2008",
   "user" : {
@@ -79,7 +79,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1088314328",
-  "text" : "ich glaube ich habe nen Löffel abgegeben, zumindest fehlen mir welche",
+  "text" : "ich glaube ich habe nen L\u00F6ffel abgegeben, zumindest fehlen mir welche",
   "id" : 1088314328,
   "created_at" : "Wed Dec 31 16:56:32 +0000 2008",
   "user" : {
@@ -102,7 +102,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1088240703",
-  "text" : "habe mir grade meine Vorsetze für 08 noch mal angeschaut, das Jahr noch mal Revue passieren lassen und neue mir neue Vorsetze für 09 gesetzt",
+  "text" : "habe mir grade meine Vorsetze f\u00FCr 08 noch mal angeschaut, das Jahr noch mal Revue passieren lassen und neue mir neue Vorsetze f\u00FCr 09 gesetzt",
   "id" : 1088240703,
   "created_at" : "Wed Dec 31 16:17:59 +0000 2008",
   "user" : {
@@ -240,7 +240,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1081486519",
-  "text" : "zu zweit Zähne zu putzen ist viel weniger langweilig",
+  "text" : "zu zweit Z\u00E4hne zu putzen ist viel weniger langweilig",
   "id" : 1081486519,
   "created_at" : "Sat Dec 27 23:45:45 +0000 2008",
   "user" : {
@@ -286,7 +286,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1076461312",
-  "text" : "werde jetzt einen schönen Abend mit meiner Liebsten Verbringen",
+  "text" : "werde jetzt einen sch\u00F6nen Abend mit meiner Liebsten Verbringen",
   "id" : 1076461312,
   "created_at" : "Wed Dec 24 16:02:53 +0000 2008",
   "user" : {
@@ -309,7 +309,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1076459959",
-  "text" : "Wünsche allen Followern frohe Weihnachten",
+  "text" : "W\u00FCnsche allen Followern frohe Weihnachten",
   "id" : 1076459959,
   "created_at" : "Wed Dec 24 16:02:04 +0000 2008",
   "user" : {
@@ -355,7 +355,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1076224433",
-  "text" : "hab grade im Starbucks im Duisburger Forum zur Feier des Tages einen Venti anstelle eines Grande und ein Stück Kuchen geschenkt bekommen",
+  "text" : "hab grade im Starbucks im Duisburger Forum zur Feier des Tages einen Venti anstelle eines Grande und ein St\u00FCck Kuchen geschenkt bekommen",
   "id" : 1076224433,
   "created_at" : "Wed Dec 24 13:22:41 +0000 2008",
   "user" : {
@@ -378,7 +378,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1076159925",
-  "text" : "kaputte Fahrkartenautomaten, pampige Schaffner, nicht grade ein schöner Feiertag",
+  "text" : "kaputte Fahrkartenautomaten, pampige Schaffner, nicht grade ein sch\u00F6ner Feiertag",
   "id" : 1076159925,
   "created_at" : "Wed Dec 24 12:22:19 +0000 2008",
   "user" : {
@@ -424,7 +424,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1074688633",
-  "text" : "Hab mich grade beim Anblick einiger Kinderbücher in mein Kindheit zurück versetzt gefühlt",
+  "text" : "Hab mich grade beim Anblick einiger Kinderb\u00FCcher in mein Kindheit zur\u00FCck versetzt gef\u00FChlt",
   "id" : 1074688633,
   "created_at" : "Tue Dec 23 17:48:47 +0000 2008",
   "user" : {
@@ -470,7 +470,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1074485288",
-  "text" : "bin grade etwas übervordert, bei der anzahl der Verfügbaren Schriften auf einem Mac",
+  "text" : "bin grade etwas \u00FCbervordert, bei der anzahl der Verf\u00FCgbaren Schriften auf einem Mac",
   "id" : 1074485288,
   "created_at" : "Tue Dec 23 16:00:14 +0000 2008",
   "user" : {
@@ -539,7 +539,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1072630406",
-  "text" : "... naja der Laden für Geschenk #1 hat vor 31 sek. zu gemacht, soviel dazu",
+  "text" : "... naja der Laden f\u00FCr Geschenk #1 hat vor 31 sek. zu gemacht, soviel dazu",
   "id" : 1072630406,
   "created_at" : "Mon Dec 22 17:31:51 +0000 2008",
   "user" : {
@@ -562,7 +562,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1072628498",
-  "text" : "versuche folgenden Plan umzusetzen:\r\n- Wäsche waschen\r\n- Essen\r\n- Geschenke und dazu gehöriges Verpackungsmaterial kaufen\r\n\r\nMal schauen ...",
+  "text" : "versuche folgenden Plan umzusetzen:\r\n- W\u00E4sche waschen\r\n- Essen\r\n- Geschenke und dazu geh\u00F6riges Verpackungsmaterial kaufen\r\n\r\nMal schauen ...",
   "id" : 1072628498,
   "created_at" : "Mon Dec 22 17:30:48 +0000 2008",
   "user" : {
@@ -686,7 +686,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1061529466",
-  "text" : "Heute stand dann doch noch auch ein Linker Schuh zum kauf zur Verfügung http://bit.ly/vZGM",
+  "text" : "Heute stand dann doch noch auch ein Linker Schuh zum kauf zur Verf\u00FCgung http://bit.ly/vZGM",
   "id" : 1061529466,
   "created_at" : "Tue Dec 16 22:06:05 +0000 2008",
   "user" : {
@@ -709,7 +709,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1060457251",
-  "text" : "hätt mich grade beiner vertwittert und geschrieben was ich gekauft habe",
+  "text" : "h\u00E4tt mich grade beiner vertwittert und geschrieben was ich gekauft habe",
   "id" : 1060457251,
   "created_at" : "Tue Dec 16 11:59:21 +0000 2008",
   "user" : {
@@ -732,7 +732,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1059264480",
-  "text" : "Um diese Zeit läst es sich richtig REALaxt einkaufen",
+  "text" : "Um diese Zeit l\u00E4st es sich richtig REALaxt einkaufen",
   "id" : 1059264480,
   "created_at" : "Mon Dec 15 20:56:59 +0000 2008",
   "user" : {
@@ -771,7 +771,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "<a href=\"http://iphone.natsulion.org/\" rel=\"nofollow\">NatsuLiphone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hendric Rüsch",
+      "name" : "Hendric R\u00FCsch",
       "screen_name" : "out_bug_out",
       "indices" : [ 0, 12 ],
       "id_str" : "23047207",
@@ -812,7 +812,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1057381725",
-  "text" : "habe eine neue teils nicht ganz faire Bedeutung für SOS. Kommt jemand drauf?",
+  "text" : "habe eine neue teils nicht ganz faire Bedeutung f\u00FCr SOS. Kommt jemand drauf?",
   "id" : 1057381725,
   "created_at" : "Sun Dec 14 21:55:36 +0000 2008",
   "user" : {
@@ -858,7 +858,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1057321571",
-  "text" : "schlage mich grade mit Gimp rum, momentaner Stand 3:2 für Gimp",
+  "text" : "schlage mich grade mit Gimp rum, momentaner Stand 3:2 f\u00FCr Gimp",
   "id" : 1057321571,
   "created_at" : "Sun Dec 14 21:11:21 +0000 2008",
   "user" : {
@@ -904,7 +904,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1055976557",
-  "text" : "hab grade eine Sternschnuppe gesehen, ob sie mir den Weg zeigt und mein Wunsch in Erfüllung geht?",
+  "text" : "hab grade eine Sternschnuppe gesehen, ob sie mir den Weg zeigt und mein Wunsch in Erf\u00FCllung geht?",
   "id" : 1055976557,
   "created_at" : "Sat Dec 13 23:23:49 +0000 2008",
   "user" : {
@@ -1018,7 +1018,7 @@ Grailbird.data.tweets_2008_12 =
   },
   "id_str" : "1053966959",
   "in_reply_to_user_id" : 959201,
-  "text" : "@Katti kannst du für den Genion nicht ne zweite sim bekommen?",
+  "text" : "@Katti kannst du f\u00FCr den Genion nicht ne zweite sim bekommen?",
   "id" : 1053966959,
   "in_reply_to_status_id" : 1053964425,
   "created_at" : "Fri Dec 12 19:08:35 +0000 2008",
@@ -1078,7 +1078,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1053844843",
-  "text" : "oh der Schauspieler von Stromberg als Stimme eines Büroleiters in dem Zeichnentrickfilm vom Groening",
+  "text" : "oh der Schauspieler von Stromberg als Stimme eines B\u00FCroleiters in dem Zeichnentrickfilm vom Groening",
   "id" : 1053844843,
   "created_at" : "Fri Dec 12 18:02:43 +0000 2008",
   "user" : {
@@ -1124,7 +1124,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1053579499",
-  "text" : "Versuch ein paar Schuhe zu kaufen ist grade daran gescheitert das nur Linke in meiner Größe da wahren und ein Rechter nicht aufindbar war",
+  "text" : "Versuch ein paar Schuhe zu kaufen ist grade daran gescheitert das nur Linke in meiner Gr\u00F6\u00DFe da wahren und ein Rechter nicht aufindbar war",
   "id" : 1053579499,
   "created_at" : "Fri Dec 12 15:48:18 +0000 2008",
   "user" : {
@@ -1147,7 +1147,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1053395852",
-  "text" : "höre entlich mal wieder Brand Eins",
+  "text" : "h\u00F6re entlich mal wieder Brand Eins",
   "id" : 1053395852,
   "created_at" : "Fri Dec 12 14:08:11 +0000 2008",
   "user" : {
@@ -1276,7 +1276,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1047836520",
-  "text" : "Nach dem ich Günther Jauch, jetzt mal in Natura gesehen habe, mach ich mir mehr Sorgen um ihn, als um Steve Jobs",
+  "text" : "Nach dem ich G\u00FCnther Jauch, jetzt mal in Natura gesehen habe, mach ich mir mehr Sorgen um ihn, als um Steve Jobs",
   "id" : 1047836520,
   "created_at" : "Tue Dec 09 21:06:32 +0000 2008",
   "user" : {
@@ -1299,7 +1299,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1047831999",
-  "text" : "zurück von der WWM Aufzeichnung für denn 05.01.",
+  "text" : "zur\u00FCck von der WWM Aufzeichnung f\u00FCr denn 05.01.",
   "id" : 1047831999,
   "created_at" : "Tue Dec 09 21:04:02 +0000 2008",
   "user" : {
@@ -1399,7 +1399,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1034541866",
-  "text" : "Mit @florianfiegel zwecks #pl0gbar vorglühen auf dem Bochumer Weihnachtsmarkt",
+  "text" : "Mit @florianfiegel zwecks #pl0gbar vorgl\u00FChen auf dem Bochumer Weihnachtsmarkt",
   "id" : 1034541866,
   "created_at" : "Tue Dec 02 17:33:46 +0000 2008",
   "user" : {
@@ -1428,7 +1428,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1034536139",
-  "text" : "oh @adventskalender lebt habe grade ein Türchen bekommen",
+  "text" : "oh @adventskalender lebt habe grade ein T\u00FCrchen bekommen",
   "id" : 1034536139,
   "created_at" : "Tue Dec 02 17:30:27 +0000 2008",
   "user" : {
@@ -1451,7 +1451,7 @@ Grailbird.data.tweets_2008_12 =
   "geo" : {
   },
   "id_str" : "1033998138",
-  "text" : "oh, die ersten Weihnachtsgeschänke sind eingetroffen, leider nicht für mich sondern nur zur aufbewahrung",
+  "text" : "oh, die ersten Weihnachtsgesch\u00E4nke sind eingetroffen, leider nicht f\u00FCr mich sondern nur zur aufbewahrung",
   "id" : 1033998138,
   "created_at" : "Tue Dec 02 11:23:22 +0000 2008",
   "user" : {

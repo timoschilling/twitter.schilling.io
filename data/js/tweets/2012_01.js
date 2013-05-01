@@ -15,7 +15,7 @@ Grailbird.data.tweets_2012_01 =
   "geo" : {
   },
   "id_str" : "156753102438014976",
-  "text" : "Fresh Ruby-oriented conference in Wrocław, Poland. Get ready March 2012: http://t.co/HHKKFLHh Please RT",
+  "text" : "Fresh Ruby-oriented conference in Wroc\u0142aw, Poland. Get ready March 2012: http://t.co/HHKKFLHh Please RT",
   "id" : 156753102438014976,
   "created_at" : "Tue Jan 10 15:03:46 +0000 2012",
   "user" : {

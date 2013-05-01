@@ -99,7 +99,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "id_str" : "1649145474",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb bei Crank2 wäre ich vielleicht mit von der Partie",
+  "text" : "@michelb bei Crank2 w\u00E4re ich vielleicht mit von der Partie",
   "id" : 1649145474,
   "in_reply_to_status_id" : 1641884197,
   "created_at" : "Wed Apr 29 14:22:19 +0000 2009",
@@ -191,7 +191,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1638559757",
-  "text" : "RT @eBayDE: Wir verlosen heute noch einmal zwei PayPal-Gutscheine à 50€ - für die Teilnahme bitte einfach diesen Tweet retweeten! #verlo ...",
+  "text" : "RT @eBayDE: Wir verlosen heute noch einmal zwei PayPal-Gutscheine \u00E0 50\u20AC - f\u00FCr die Teilnahme bitte einfach diesen Tweet retweeten! #verlo ...",
   "id" : 1638559757,
   "created_at" : "Tue Apr 28 12:55:05 +0000 2009",
   "user" : {
@@ -396,7 +396,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1628699750",
-  "text" : "RT @florianfiegel:@philharmoniker Gute Besserung von BO nach OB … ;)",
+  "text" : "RT @florianfiegel:@philharmoniker Gute Besserung von BO nach OB \u2026 ;)",
   "id" : 1628699750,
   "created_at" : "Mon Apr 27 13:17:22 +0000 2009",
   "user" : {
@@ -442,7 +442,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1625329044",
-  "text" : "wenn man es 10 Jahre lang nicht gesehen hat kann man glatt wieder über Police Academy lachen",
+  "text" : "wenn man es 10 Jahre lang nicht gesehen hat kann man glatt wieder \u00FCber Police Academy lachen",
   "id" : 1625329044,
   "created_at" : "Mon Apr 27 01:58:15 +0000 2009",
   "user" : {
@@ -685,7 +685,7 @@ Grailbird.data.tweets_2009_04 =
   "source" : "<a href=\"http://www.nambu.com\" rel=\"nofollow\">Nambu</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 3, 8 ],
       "id_str" : "18448838",
@@ -729,7 +729,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "id_str" : "1603035811",
   "in_reply_to_user_id" : 15071293,
-  "text" : "@DerWesten was braucht ihr den für Funktionen? Habt ihr Interesse an einer JavaScript Version? Dann ist auch die Accessibility gewährleistet",
+  "text" : "@DerWesten was braucht ihr den f\u00FCr Funktionen? Habt ihr Interesse an einer JavaScript Version? Dann ist auch die Accessibility gew\u00E4hrleistet",
   "id" : 1603035811,
   "in_reply_to_status_id" : 1602836166,
   "created_at" : "Fri Apr 24 12:05:43 +0000 2009",
@@ -842,7 +842,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1598210091",
-  "text" : "geregelte Arbeitszeiten werden überschätzt",
+  "text" : "geregelte Arbeitszeiten werden \u00FCbersch\u00E4tzt",
   "id" : 1598210091,
   "created_at" : "Thu Apr 23 22:10:16 +0000 2009",
   "user" : {
@@ -865,7 +865,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1597985857",
-  "text" : "was passiert eigentlich wenn man eine Googlebombe auf &lt;eine der befürwortenden Partien&gt;.de mit Kinderpornografie zündet?",
+  "text" : "was passiert eigentlich wenn man eine Googlebombe auf &lt;eine der bef\u00FCrwortenden Partien&gt;.de mit Kinderpornografie z\u00FCndet?",
   "id" : 1597985857,
   "created_at" : "Thu Apr 23 21:42:22 +0000 2009",
   "user" : {
@@ -888,7 +888,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1597920200",
-  "text" : "stell grade fest das Nambu ein Autocomplete für Twitter-Usernamen hat",
+  "text" : "stell grade fest das Nambu ein Autocomplete f\u00FCr Twitter-Usernamen hat",
   "id" : 1597920200,
   "created_at" : "Thu Apr 23 21:34:16 +0000 2009",
   "user" : {
@@ -948,7 +948,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "id_str" : "1594521378",
   "in_reply_to_user_id" : 15820221,
-  "text" : "@philharmoniker da kann ich leider nicht, dem nächst mal wieder",
+  "text" : "@philharmoniker da kann ich leider nicht, dem n\u00E4chst mal wieder",
   "id" : 1594521378,
   "in_reply_to_status_id" : 1594471241,
   "created_at" : "Thu Apr 23 14:35:54 +0000 2009",
@@ -981,7 +981,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "id_str" : "1594447880",
   "in_reply_to_user_id" : 15820221,
-  "text" : "@philharmoniker wann ist denn WebAtClassic würde vieleicht kommen",
+  "text" : "@philharmoniker wann ist denn WebAtClassic w\u00FCrde vieleicht kommen",
   "id" : 1594447880,
   "created_at" : "Thu Apr 23 14:26:43 +0000 2009",
   "in_reply_to_screen_name" : "philharmoniker",
@@ -1029,7 +1029,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1589131684",
-  "text" : "ich habe grade 84g Uhu geschnüffelt",
+  "text" : "ich habe grade 84g Uhu geschn\u00FCffelt",
   "id" : 1589131684,
   "created_at" : "Wed Apr 22 23:07:23 +0000 2009",
   "user" : {
@@ -1083,7 +1083,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "id_str" : "1588969507",
   "in_reply_to_user_id" : 762000,
-  "text" : "@podpimp das hägt vom individuelen Mehrwert der aufzunehmenden Informationen ab, hoher Infowert=kleiner Preis, kleiner Infowert=hoher Preis",
+  "text" : "@podpimp das h\u00E4gt vom individuelen Mehrwert der aufzunehmenden Informationen ab, hoher Infowert=kleiner Preis, kleiner Infowert=hoher Preis",
   "id" : 1588969507,
   "in_reply_to_status_id" : 1586192542,
   "created_at" : "Wed Apr 22 22:46:17 +0000 2009",
@@ -1115,7 +1115,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1586321994",
-  "text" : "\"1984\" heißt jetzt \"2009\" - sonst ändert sich nix. (via @ifranz)",
+  "text" : "\"1984\" hei\u00DFt jetzt \"2009\" - sonst \u00E4ndert sich nix. (via @ifranz)",
   "id" : 1586321994,
   "created_at" : "Wed Apr 22 17:12:26 +0000 2009",
   "user" : {
@@ -1161,7 +1161,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1585426876",
-  "text" : "habe grade einen einsamen Karamel-Vanille Muffin bei Kamps entdeckt und ihn erlöst",
+  "text" : "habe grade einen einsamen Karamel-Vanille Muffin bei Kamps entdeckt und ihn erl\u00F6st",
   "id" : 1585426876,
   "created_at" : "Wed Apr 22 15:22:29 +0000 2009",
   "user" : {
@@ -1213,7 +1213,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1579844302",
-  "text" : "unproduktiver Tag heute, nur eine Firma gegründet",
+  "text" : "unproduktiver Tag heute, nur eine Firma gegr\u00FCndet",
   "id" : 1579844302,
   "created_at" : "Tue Apr 21 23:46:03 +0000 2009",
   "user" : {
@@ -1375,7 +1375,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1574745278",
-  "text" : "RT @mspro:ich hab keine lust mehr unter idioten zu leben. lasst uns mit anderen hirnbesitzern die freie internetrepublik gründen!",
+  "text" : "RT @mspro:ich hab keine lust mehr unter idioten zu leben. lasst uns mit anderen hirnbesitzern die freie internetrepublik gr\u00FCnden!",
   "id" : 1574745278,
   "created_at" : "Tue Apr 21 13:16:45 +0000 2009",
   "user" : {
@@ -1398,7 +1398,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1567549019",
-  "text" : "Ironie des Schicksals: sich über den Tod tot lachen",
+  "text" : "Ironie des Schicksals: sich \u00FCber den Tod tot lachen",
   "id" : 1567549019,
   "created_at" : "Mon Apr 20 18:14:45 +0000 2009",
   "user" : {
@@ -1495,7 +1495,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1526596981",
-  "text" : "verspüre die Lust zu Grillen",
+  "text" : "versp\u00FCre die Lust zu Grillen",
   "id" : 1526596981,
   "created_at" : "Wed Apr 15 16:57:21 +0000 2009",
   "user" : {
@@ -1616,7 +1616,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1497038786",
-  "text" : "füße im wasser, nase im wind / wie wir kinder so sind. (via @frank93)",
+  "text" : "f\u00FC\u00DFe im wasser, nase im wind / wie wir kinder so sind. (via @frank93)",
   "id" : 1497038786,
   "created_at" : "Sat Apr 11 14:11:33 +0000 2009",
   "user" : {
@@ -1639,7 +1639,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1496970570",
-  "text" : "fahre durch das Ruhrgebiet, durch seine alten Industriegebiete und denke über den Begriff Ge-schichte nach",
+  "text" : "fahre durch das Ruhrgebiet, durch seine alten Industriegebiete und denke \u00FCber den Begriff Ge-schichte nach",
   "id" : 1496970570,
   "created_at" : "Sat Apr 11 13:54:45 +0000 2009",
   "user" : {
@@ -1685,7 +1685,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1481957562",
-  "text" : "oh Herne du bist so hässlich, so dreckig und grau",
+  "text" : "oh Herne du bist so h\u00E4sslich, so dreckig und grau",
   "id" : 1481957562,
   "created_at" : "Thu Apr 09 06:23:03 +0000 2009",
   "user" : {
@@ -1790,7 +1790,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "id_str" : "1470834044",
   "in_reply_to_user_id" : 10138192,
-  "text" : "@having Kölsch  http://twitpic.com/2yotl",
+  "text" : "@having K\u00F6lsch  http://twitpic.com/2yotl",
   "id" : 1470834044,
   "created_at" : "Tue Apr 07 17:33:06 +0000 2009",
   "in_reply_to_screen_name" : "having",
@@ -1844,7 +1844,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1468679774",
-  "text" : "Das Regal fürs Leben http://stylespion.de/ein-regal-fuers-leben/3836/ (via @stylespion)",
+  "text" : "Das Regal f\u00FCrs Leben http://stylespion.de/ein-regal-fuers-leben/3836/ (via @stylespion)",
   "id" : 1468679774,
   "created_at" : "Tue Apr 07 10:07:30 +0000 2009",
   "user" : {
@@ -1942,7 +1942,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1463337570",
-  "text" : "arg, komm ist der Frühling da, ist auch gleich der erste Mückenstich da",
+  "text" : "arg, komm ist der Fr\u00FChling da, ist auch gleich der erste M\u00FCckenstich da",
   "id" : 1463337570,
   "created_at" : "Mon Apr 06 15:13:46 +0000 2009",
   "user" : {
@@ -1988,7 +1988,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1457797811",
-  "text" : "Kabrio Saison eröffnet",
+  "text" : "Kabrio Saison er\u00F6ffnet",
   "id" : 1457797811,
   "created_at" : "Sun Apr 05 17:17:49 +0000 2009",
   "user" : {
@@ -2041,7 +2041,7 @@ Grailbird.data.tweets_2009_04 =
   },
   "id_str" : "1447394961",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel habari Google Calendar Plugin für http://ruhrdigital.de prerelease am Mo",
+  "text" : "@florianfiegel habari Google Calendar Plugin f\u00FCr http://ruhrdigital.de prerelease am Mo",
   "id" : 1447394961,
   "created_at" : "Fri Apr 03 19:57:37 +0000 2009",
   "in_reply_to_screen_name" : "florianfiegel",
@@ -2127,7 +2127,7 @@ Grailbird.data.tweets_2009_04 =
   "geo" : {
   },
   "id_str" : "1445351107",
-  "text" : "RT @agento:W☼W :)",
+  "text" : "RT @agento:W\u263CW :)",
   "id" : 1445351107,
   "created_at" : "Fri Apr 03 13:55:18 +0000 2009",
   "user" : {

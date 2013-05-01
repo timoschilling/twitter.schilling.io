@@ -15,7 +15,7 @@ Grailbird.data.tweets_2010_05 =
     "coordinates" : [ 51.4519971, 7.3568926833 ]
   },
   "id_str" : "15119246619",
-  "text" : "#webmontagruhr — at Universität Witten-Herdecke http://gowal.la/v/c/QAzM/tw",
+  "text" : "#webmontagruhr \u2014 at Universit\u00E4t Witten-Herdecke http://gowal.la/v/c/QAzM/tw",
   "id" : 15119246619,
   "created_at" : "Mon May 31 16:47:12 +0000 2010",
   "user" : {
@@ -98,7 +98,7 @@ Grailbird.data.tweets_2010_05 =
   },
   "id_str" : "14852295245",
   "in_reply_to_user_id" : 19961029,
-  "text" : "@shinaio freud mich für dich, viel Spaß!",
+  "text" : "@shinaio freud mich f\u00FCr dich, viel Spa\u00DF!",
   "id" : 14852295245,
   "in_reply_to_status_id" : 14851735738,
   "created_at" : "Thu May 27 18:39:31 +0000 2010",
@@ -127,7 +127,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "14821702082",
-  "text" : "ich würde heute auch gerne so etwas twittern wie \"Out for delivery!!!!\" #ipad",
+  "text" : "ich w\u00FCrde heute auch gerne so etwas twittern wie \"Out for delivery!!!!\" #ipad",
   "id" : 14821702082,
   "created_at" : "Thu May 27 08:32:06 +0000 2010",
   "user" : {
@@ -156,7 +156,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "14821261258",
-  "text" : "RT @diktator: Die Apathie weiß nicht mehr, wie oft sie dich in den Schlaf streichelte.\nDie Ignoranz vergaß, wie oft sie tolerierte.\nNur  ...",
+  "text" : "RT @diktator: Die Apathie wei\u00DF nicht mehr, wie oft sie dich in den Schlaf streichelte.\nDie Ignoranz verga\u00DF, wie oft sie tolerierte.\nNur  ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://83degrees.com/to/powertwitter\" rel=\"nofollow\">Power Twitter</a>",
     "entities" : {
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2010_05 =
     "geo" : {
     },
     "id_str" : "14791565397",
-    "text" : "Die Apathie weiß nicht mehr, wie oft sie dich in den Schlaf streichelte.\nDie Ignoranz vergaß, wie oft sie tolerierte.\nNur die Liebe. Zählt.",
+    "text" : "Die Apathie wei\u00DF nicht mehr, wie oft sie dich in den Schlaf streichelte.\nDie Ignoranz verga\u00DF, wie oft sie tolerierte.\nNur die Liebe. Z\u00E4hlt.",
     "id" : 14791565397,
     "created_at" : "Wed May 26 22:13:06 +0000 2010",
     "user" : {
@@ -299,7 +299,7 @@ Grailbird.data.tweets_2010_05 =
     "coordinates" : [ 51.5184555, 7.33216845 ]
   },
   "id_str" : "14562819689",
-  "text" : "Photo: Schachtzeichen — at Zeche Zollern http://gowal.la/c/Nae7",
+  "text" : "Photo: Schachtzeichen \u2014 at Zeche Zollern http://gowal.la/c/Nae7",
   "id" : 14562819689,
   "created_at" : "Sun May 23 15:29:41 +0000 2010",
   "user" : {
@@ -340,7 +340,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "14460158245",
-  "text" : "H.264 ist VP8/WebM offensichtlich deutlich überlegen! http://bit.ly/8XKqTP /via @andreasdotorg @timpritlove @kyriii",
+  "text" : "H.264 ist VP8/WebM offensichtlich deutlich \u00FCberlegen! http://bit.ly/8XKqTP /via @andreasdotorg @timpritlove @kyriii",
   "id" : 14460158245,
   "created_at" : "Fri May 21 23:50:43 +0000 2010",
   "user" : {
@@ -467,7 +467,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "3782931",
       "id" : 3782931
     }, {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 73, 78 ],
       "id_str" : "18448838",
@@ -503,7 +503,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "14359565916",
-  "text" : "hab scheiße gebaut",
+  "text" : "hab schei\u00DFe gebaut",
   "id" : 14359565916,
   "created_at" : "Thu May 20 13:01:19 +0000 2010",
   "user" : {
@@ -599,7 +599,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "tobestobs",
       "protected" : false,
       "id_str" : "9121002",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1217405057/avatar2_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3533682296/39804ede70cc9746bdfdebd3027a88d8_normal.jpeg",
       "id" : 9121002,
       "verified" : false
     }
@@ -690,7 +690,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "14250149093",
-  "text" : "die Twitter App vormals Tweetie steht in Version 3.0 im AppStore, lässt sich aber noch nicht laden  http://img.ly/1fZm",
+  "text" : "die Twitter App vormals Tweetie steht in Version 3.0 im AppStore, l\u00E4sst sich aber noch nicht laden  http://img.ly/1fZm",
   "id" : 14250149093,
   "created_at" : "Tue May 18 21:07:28 +0000 2010",
   "user" : {
@@ -722,7 +722,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "14239936175",
-  "text" : "ob sich auch ortsbezogene sauerstoffmoleküle im lüfter der #streetview-autos verfangen. hat das mal wer nachgeprüft? (via @mspro)",
+  "text" : "ob sich auch ortsbezogene sauerstoffmolek\u00FCle im l\u00FCfter der #streetview-autos verfangen. hat das mal wer nachgepr\u00FCft? (via @mspro)",
   "id" : 14239936175,
   "created_at" : "Tue May 18 17:24:32 +0000 2010",
   "user" : {
@@ -738,7 +738,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcel Böttcher",
+      "name" : "Marcel B\u00F6ttcher",
       "screen_name" : "73inches",
       "indices" : [ 115, 124 ],
       "id_str" : "6917602",
@@ -782,7 +782,7 @@ Grailbird.data.tweets_2010_05 =
   },
   "id_str" : "14179582860",
   "in_reply_to_user_id" : 16361412,
-  "text" : "@agento und wer will schon Würmer?",
+  "text" : "@agento und wer will schon W\u00FCrmer?",
   "id" : 14179582860,
   "in_reply_to_status_id" : 14145813240,
   "created_at" : "Mon May 17 19:41:42 +0000 2010",
@@ -813,7 +813,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "29006886",
       "id" : 29006886
     }, {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 103, 108 ],
       "id_str" : "18448838",
@@ -826,7 +826,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13978804806",
-  "text" : "Apple responds to Adobe's ‘We ♥ Apple’ advertisement - http://yfrog.com/83n4fp (via @iMusix @Oliversum @echt)",
+  "text" : "Apple responds to Adobe's \u2018We \u2665 Apple\u2019 advertisement - http://yfrog.com/83n4fp (via @iMusix @Oliversum @echt)",
   "id" : 13978804806,
   "created_at" : "Fri May 14 14:20:06 +0000 2010",
   "user" : {
@@ -854,7 +854,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "29006886",
       "id" : 29006886
     }, {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 103, 108 ],
       "id_str" : "18448838",
@@ -867,7 +867,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13978796817",
-  "text" : "Apple responds to Adobe's ‘We ♥ Apple’ advertisement - http://yfrog.com/83n4fp (via @iMusix @Oliversum @echt)",
+  "text" : "Apple responds to Adobe's \u2018We \u2665 Apple\u2019 advertisement - http://yfrog.com/83n4fp (via @iMusix @Oliversum @echt)",
   "id" : 13978796817,
   "created_at" : "Fri May 14 14:19:55 +0000 2010",
   "user" : {
@@ -890,7 +890,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13856774454",
-  "text" : "habe grade aus Hans, Hans im Glück gemacht",
+  "text" : "habe grade aus Hans, Hans im Gl\u00FCck gemacht",
   "id" : 13856774454,
   "created_at" : "Wed May 12 15:25:54 +0000 2010",
   "user" : {
@@ -906,7 +906,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sascha sprunk",
+      "name" : "elbpoet",
       "screen_name" : "elbpoet",
       "indices" : [ 87, 95 ],
       "id_str" : "297399526",
@@ -919,7 +919,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13849821696",
-  "text" : "wenn einem zu früh einfällt, dass es zu spät ist, muss man sich trotzdem beeilen. (via @elbpoet)",
+  "text" : "wenn einem zu fr\u00FCh einf\u00E4llt, dass es zu sp\u00E4t ist, muss man sich trotzdem beeilen. (via @elbpoet)",
   "id" : 13849821696,
   "created_at" : "Wed May 12 13:03:10 +0000 2010",
   "user" : {
@@ -942,7 +942,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13793359417",
-  "text" : "Erfahrung ist nur der Name, den wir unseren Irrtümern verleihen - Oscar Wild",
+  "text" : "Erfahrung ist nur der Name, den wir unseren Irrt\u00FCmern verleihen - Oscar Wild",
   "id" : 13793359417,
   "created_at" : "Tue May 11 15:11:43 +0000 2010",
   "user" : {
@@ -1003,7 +1003,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13737987974",
-  "text" : "heute ist es bei Twitter wie nach dem Krieg, alle müssen wieder bei Null anfangen #socialmediawars",
+  "text" : "heute ist es bei Twitter wie nach dem Krieg, alle m\u00FCssen wieder bei Null anfangen #socialmediawars",
   "id" : 13737987974,
   "created_at" : "Mon May 10 17:23:38 +0000 2010",
   "user" : {
@@ -1064,7 +1064,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13737709823",
-  "text" : "RT @_DerHeld_: Von jetzt auf hier O Follower. Fühl mich ein bischen wie Jürgen Rüttgers...",
+  "text" : "RT @_DerHeld_: Von jetzt auf hier O Follower. F\u00FChl mich ein bischen wie J\u00FCrgen R\u00FCttgers...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -1076,7 +1076,7 @@ Grailbird.data.tweets_2010_05 =
     "geo" : {
     },
     "id_str" : "13737433930",
-    "text" : "Von jetzt auf hier O Follower. Fühl mich ein bischen wie Jürgen Rüttgers...",
+    "text" : "Von jetzt auf hier O Follower. F\u00FChl mich ein bischen wie J\u00FCrgen R\u00FCttgers...",
     "id" : 13737433930,
     "created_at" : "Mon May 10 17:14:16 +0000 2010",
     "user" : {
@@ -1084,7 +1084,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "_DerHeld_",
       "protected" : false,
       "id_str" : "7513352",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3185451104/07730ebe6a8aa4fb7ad3003f2f4b1551_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3562115617/a054f24ed8ea71c56ccf740280c92316_normal.jpeg",
       "id" : 7513352,
       "verified" : false
     }
@@ -1250,7 +1250,7 @@ Grailbird.data.tweets_2010_05 =
     "coordinates" : [ 51.4907531631, 7.2071478729 ]
   },
   "id_str" : "13657446040",
-  "text" : "#Wahllokal — at Familienpädagogisches Zentrum http://gowal.la/c/JoUz",
+  "text" : "#Wahllokal \u2014 at Familienp\u00E4dagogisches Zentrum http://gowal.la/c/JoUz",
   "id" : 13657446040,
   "created_at" : "Sun May 09 08:28:35 +0000 2010",
   "user" : {
@@ -1273,7 +1273,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13618809510",
-  "text" : "scheint so das ich mich heute Abend in die Arbeit flüchte",
+  "text" : "scheint so das ich mich heute Abend in die Arbeit fl\u00FCchte",
   "id" : 13618809510,
   "created_at" : "Sat May 08 17:03:51 +0000 2010",
   "user" : {
@@ -1299,7 +1299,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13610183460",
-  "text" : "ist wer heute Abend bei der \"Nacht der Museen\" in Düsseldorf? #ndm10 http://bit.ly/dzKL36",
+  "text" : "ist wer heute Abend bei der \"Nacht der Museen\" in D\u00FCsseldorf? #ndm10 http://bit.ly/dzKL36",
   "id" : 13610183460,
   "created_at" : "Sat May 08 14:14:14 +0000 2010",
   "user" : {
@@ -1322,7 +1322,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13609564417",
-  "text" : "scheiße, im Bochumer Haubtbahnhof steckt einer im S-Bahn Gleis, sieht wohl nicht gut aus, S-Bahn nach Dortmund fählt aus",
+  "text" : "schei\u00DFe, im Bochumer Haubtbahnhof steckt einer im S-Bahn Gleis, sieht wohl nicht gut aus, S-Bahn nach Dortmund f\u00E4hlt aus",
   "id" : 13609564417,
   "created_at" : "Sat May 08 14:01:24 +0000 2010",
   "user" : {
@@ -1338,7 +1338,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marko Tošić",
+      "name" : "Marko To\u0161i\u0107",
       "screen_name" : "markotosic",
       "indices" : [ 0, 11 ],
       "id_str" : "301942772",
@@ -1456,7 +1456,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13546363510",
-  "text" : "Teufels Küche: heute Pasta Pädophilia. Man stecke 100 Priester in den Mixa und röste das Ganze für eine Ewigkeit auf hoher Flamme /@Jahwe",
+  "text" : "Teufels K\u00FCche: heute Pasta P\u00E4dophilia. Man stecke 100 Priester in den Mixa und r\u00F6ste das Ganze f\u00FCr eine Ewigkeit auf hoher Flamme /@Jahwe",
   "id" : 13546363510,
   "created_at" : "Fri May 07 12:41:33 +0000 2010",
   "user" : {
@@ -1479,7 +1479,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13543055972",
-  "text" : "jemand morgen Abend in Düsseldorf bei der Nacht der Museen?",
+  "text" : "jemand morgen Abend in D\u00FCsseldorf bei der Nacht der Museen?",
   "id" : 13543055972,
   "created_at" : "Fri May 07 11:25:14 +0000 2010",
   "user" : {
@@ -1513,7 +1513,7 @@ Grailbird.data.tweets_2010_05 =
   },
   "id_str" : "13539770421",
   "in_reply_to_user_id" : 5618832,
-  "text" : "@moeffju was steht denn so auf den Kärtchen? #rechtedesfotografen",
+  "text" : "@moeffju was steht denn so auf den K\u00E4rtchen? #rechtedesfotografen",
   "id" : 13539770421,
   "in_reply_to_status_id" : 13539524573,
   "created_at" : "Fri May 07 09:52:17 +0000 2010",
@@ -1645,7 +1645,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Павел Кочетов",
+      "name" : "\u041F\u0430\u0432\u0435\u043B \u041A\u043E\u0447\u0435\u0442\u043E\u0432",
       "screen_name" : "Pi_Key",
       "indices" : [ 132, 139 ],
       "id_str" : "221517043",
@@ -1658,7 +1658,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13483365135",
-  "text" : "Die Umschläge zur Briefwahl sind wie die Politik selbst: passt irgendwie nicht, und das einzige, was hilft ist zusammenfalten. (via @pi_key)",
+  "text" : "Die Umschl\u00E4ge zur Briefwahl sind wie die Politik selbst: passt irgendwie nicht, und das einzige, was hilft ist zusammenfalten. (via @pi_key)",
   "id" : 13483365135,
   "created_at" : "Thu May 06 12:03:01 +0000 2010",
   "user" : {
@@ -1721,7 +1721,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "16361412",
       "id" : 16361412
     }, {
-      "name" : "zebramädchen",
+      "name" : "zebram\u00E4dchen",
       "screen_name" : "zebramaedchen",
       "indices" : [ 126, 140 ],
       "id_str" : "379077033",
@@ -1734,7 +1734,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13482610194",
-  "text" : "iPad vs. @agento: @agento ist vielseitiger, hat aber keine Alu-Rückseite. iPad pupst nicht. Im Zweifelsfall also @agento /via @zebramaedchen",
+  "text" : "iPad vs. @agento: @agento ist vielseitiger, hat aber keine Alu-R\u00FCckseite. iPad pupst nicht. Im Zweifelsfall also @agento /via @zebramaedchen",
   "id" : 13482610194,
   "created_at" : "Thu May 06 11:44:53 +0000 2010",
   "user" : {
@@ -1844,7 +1844,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13481754826",
-  "text" : "Qualitätsjournalismus ist immer noch das beste Werbeumfeld: aktuell auf bild.de http://bit.ly/bGH5gC (via @mathiasrichel @jbenno @tknuewer)",
+  "text" : "Qualit\u00E4tsjournalismus ist immer noch das beste Werbeumfeld: aktuell auf bild.de http://bit.ly/bGH5gC (via @mathiasrichel @jbenno @tknuewer)",
   "id" : 13481754826,
   "created_at" : "Thu May 06 11:22:55 +0000 2010",
   "user" : {
@@ -1908,7 +1908,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13431297555",
-  "text" : "ich weiß nicht, ob mir die Formulierung gefällt ... gleich 24? 25? RT: @DerWesten: 23 Tote bei Busunglück. Gleich mehr. (via @shinaio)",
+  "text" : "ich wei\u00DF nicht, ob mir die Formulierung gef\u00E4llt ... gleich 24? 25? RT: @DerWesten: 23 Tote bei Busungl\u00FCck. Gleich mehr. (via @shinaio)",
   "id" : 13431297555,
   "created_at" : "Wed May 05 15:07:43 +0000 2010",
   "user" : {
@@ -1933,7 +1933,7 @@ Grailbird.data.tweets_2010_05 =
     "coordinates" : [ 51.4775495611, 7.217076392 ]
   },
   "id_str" : "13421453666",
-  "text" : "Geschäftsessen sind immer noch die besten Essen — at Oh' Scoozi http://gowal.la/c/HgKx",
+  "text" : "Gesch\u00E4ftsessen sind immer noch die besten Essen \u2014 at Oh' Scoozi http://gowal.la/c/HgKx",
   "id" : 13421453666,
   "created_at" : "Wed May 05 11:44:28 +0000 2010",
   "user" : {
@@ -1994,7 +1994,7 @@ Grailbird.data.tweets_2010_05 =
   "geo" : {
   },
   "id_str" : "13365499577",
-  "text" : "in der Nase bohren und auf Öl stoßen. #wasfehlt (via @kcu)",
+  "text" : "in der Nase bohren und auf \u00D6l sto\u00DFen. #wasfehlt (via @kcu)",
   "id" : 13365499577,
   "created_at" : "Tue May 04 13:48:53 +0000 2010",
   "user" : {

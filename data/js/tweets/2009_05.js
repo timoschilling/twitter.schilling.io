@@ -10,7 +10,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1972947010",
-  "text" : "Juist ist wirklich sehr idyllisch, wenn ich hier nicht twittern könnte, würde ich glatt denken ich hätte eine Zeitreise gemacht",
+  "text" : "Juist ist wirklich sehr idyllisch, wenn ich hier nicht twittern k\u00F6nnte, w\u00FCrde ich glatt denken ich h\u00E4tte eine Zeitreise gemacht",
   "id" : 1972947010,
   "created_at" : "Sat May 30 17:11:08 +0000 2009",
   "user" : {
@@ -47,7 +47,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "id_str" : "1963352083",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel danke und schöne Grüße von @die_nina und mir in den Pott",
+  "text" : "@florianfiegel danke und sch\u00F6ne Gr\u00FC\u00DFe von @die_nina und mir in den Pott",
   "id" : 1963352083,
   "in_reply_to_status_id" : 1961569758,
   "created_at" : "Fri May 29 19:35:35 +0000 2009",
@@ -191,7 +191,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1950168159",
-  "text" : "zurück von shoppen, jetzt gehts ans Kofferpacken #kurzurlaub",
+  "text" : "zur\u00FCck von shoppen, jetzt gehts ans Kofferpacken #kurzurlaub",
   "id" : 1950168159,
   "created_at" : "Thu May 28 18:29:46 +0000 2009",
   "user" : {
@@ -214,7 +214,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1937443816",
-  "text" : "ich fühle mich wie eine Schlange",
+  "text" : "ich f\u00FChle mich wie eine Schlange",
   "id" : 1937443816,
   "created_at" : "Wed May 27 16:46:53 +0000 2009",
   "user" : {
@@ -341,7 +341,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1916171063",
-  "text" : "Opium fürs Volk! (statt Kokain in der Cola) (via @moeffju)",
+  "text" : "Opium f\u00FCrs Volk! (statt Kokain in der Cola) (via @moeffju)",
   "id" : 1916171063,
   "created_at" : "Mon May 25 20:48:32 +0000 2009",
   "user" : {
@@ -359,7 +359,7 @@ Grailbird.data.tweets_2009_05 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "Zeichensatzrätsel",
+      "text" : "Zeichensatzr\u00E4tsel",
       "indices" : [ 16, 34 ]
     } ],
     "urls" : [ ]
@@ -367,7 +367,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1914232303",
-  "text" : "O was ist das? #Zeichensatzrätsel",
+  "text" : "\uF8FFO was ist das? #Zeichensatzr\u00E4tsel",
   "id" : 1914232303,
   "created_at" : "Mon May 25 17:23:42 +0000 2009",
   "user" : {
@@ -390,7 +390,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1913713152",
-  "text" : "Die Jagt ist eröffnet  http://img.ly/x3",
+  "text" : "Die Jagt ist er\u00F6ffnet  http://img.ly/x3",
   "id" : 1913713152,
   "created_at" : "Mon May 25 16:24:57 +0000 2009",
   "user" : {
@@ -419,7 +419,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1912625040",
-  "text" : "auf meinem Monitor läuft grade ein animalischer Porno #Fliegen #Paarungszeit",
+  "text" : "auf meinem Monitor l\u00E4uft grade ein animalischer Porno #Fliegen #Paarungszeit",
   "id" : 1912625040,
   "created_at" : "Mon May 25 14:16:35 +0000 2009",
   "user" : {
@@ -477,7 +477,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1912539046",
-  "text" : "RT @florianfiegel:Votet für uns bei der stARThilfe:http://tr.im/mkDH Mehr Infos:http://bit.ly/stARThilfe Helft dem UpH! (via @Unperfekthaus)",
+  "text" : "RT @florianfiegel:Votet f\u00FCr uns bei der stARThilfe:http://tr.im/mkDH Mehr Infos:http://bit.ly/stARThilfe Helft dem UpH! (via @Unperfekthaus)",
   "id" : 1912539046,
   "created_at" : "Mon May 25 14:05:15 +0000 2009",
   "user" : {
@@ -532,7 +532,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1911486478",
-  "text" : "Hat jemand Erfahrung mit iPhoto Flickr Sync? Hab Probleme mit den Möglichkeiten von iPhoto gibts was besseres? Externe Tools oder ein HowTo?",
+  "text" : "Hat jemand Erfahrung mit iPhoto Flickr Sync? Hab Probleme mit den M\u00F6glichkeiten von iPhoto gibts was besseres? Externe Tools oder ein HowTo?",
   "id" : 1911486478,
   "created_at" : "Mon May 25 11:03:58 +0000 2009",
   "user" : {
@@ -566,7 +566,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "id_str" : "1907481340",
   "in_reply_to_user_id" : 16361412,
-  "text" : "@agento was macht der böse Junge dir denn für ärger? #Debian",
+  "text" : "@agento was macht der b\u00F6se Junge dir denn f\u00FCr \u00E4rger? #Debian",
   "id" : 1907481340,
   "in_reply_to_status_id" : 1907005753,
   "created_at" : "Mon May 25 00:27:15 +0000 2009",
@@ -696,7 +696,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1901681831",
-  "text" : "heute ist mal wieder so ein Wetter bei dem ich mich ärgere das ich kein MacBook habe #Arbeiten im #Park",
+  "text" : "heute ist mal wieder so ein Wetter bei dem ich mich \u00E4rgere das ich kein MacBook habe #Arbeiten im #Park",
   "id" : 1901681831,
   "created_at" : "Sun May 24 10:36:30 +0000 2009",
   "user" : {
@@ -848,7 +848,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1897761100",
-  "text" : "nach mittelmässiger Unterhaltung #sdr, jetzt mittelmässiger Horror #iwniwdlsgh",
+  "text" : "nach mittelm\u00E4ssiger Unterhaltung #sdr, jetzt mittelm\u00E4ssiger Horror #iwniwdlsgh",
   "id" : 1897761100,
   "created_at" : "Sat May 23 23:39:20 +0000 2009",
   "user" : {
@@ -990,7 +990,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1891958032",
-  "text" : "Liebes @grundgesetz, ich wünsche dir alles Gute zum Geburtstag. Bleib so wie du bist. (via @denQuer)",
+  "text" : "Liebes @grundgesetz, ich w\u00FCnsche dir alles Gute zum Geburtstag. Bleib so wie du bist. (via @denQuer)",
   "id" : 1891958032,
   "created_at" : "Sat May 23 08:56:29 +0000 2009",
   "user" : {
@@ -1019,7 +1019,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1888735566",
-  "text" : "RT @Sillium PR-Gag, \"Kokainfund\" in Red-Bull-Cola. What next? Thujonfund in Absinth? Cannabis in Schweizer Duftsäckli? Idioten in der FDP?",
+  "text" : "RT @Sillium PR-Gag, \"Kokainfund\" in Red-Bull-Cola. What next? Thujonfund in Absinth? Cannabis in Schweizer Dufts\u00E4ckli? Idioten in der FDP?",
   "id" : 1888735566,
   "created_at" : "Sat May 23 00:49:21 +0000 2009",
   "user" : {
@@ -1050,7 +1050,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "id_str" : "1888538080",
   "in_reply_to_user_id" : 33271472,
-  "text" : "@die_nina der See bezeichnet einen großen Teich und ist in ein Süßgewesser, die See hingegen bezeichnet das Meer welches Salz halltich ist",
+  "text" : "@die_nina der See bezeichnet einen gro\u00DFen Teich und ist in ein S\u00FC\u00DFgewesser, die See hingegen bezeichnet das Meer welches Salz halltich ist",
   "id" : 1888538080,
   "in_reply_to_status_id" : 1887974506,
   "created_at" : "Sat May 23 00:25:53 +0000 2009",
@@ -1076,7 +1076,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1888487558",
-  "text" : "Herne Hbf und 02:00 Uhr, zwei negative Multiplikatoren die zu keinem positivem Ergebnis führen",
+  "text" : "Herne Hbf und 02:00 Uhr, zwei negative Multiplikatoren die zu keinem positivem Ergebnis f\u00FChren",
   "id" : 1888487558,
   "created_at" : "Sat May 23 00:19:56 +0000 2009",
   "user" : {
@@ -1141,7 +1141,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "id_str" : "1887986768",
   "in_reply_to_user_id" : 33271472,
-  "text" : "@die_nina und das ist auch gut so, danke für das Kompliement",
+  "text" : "@die_nina und das ist auch gut so, danke f\u00FCr das Kompliement",
   "id" : 1887986768,
   "in_reply_to_status_id" : 1887649401,
   "created_at" : "Fri May 22 23:20:39 +0000 2009",
@@ -1216,7 +1216,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1882225479",
-  "text" : "60 Jahre #Grundgesetz sind ja wohl genug, wird Zeit es langsam auflösen, bin gespannt wann wir bei den Menschenrechten ankommen",
+  "text" : "60 Jahre #Grundgesetz sind ja wohl genug, wird Zeit es langsam aufl\u00F6sen, bin gespannt wann wir bei den Menschenrechten ankommen",
   "id" : 1882225479,
   "created_at" : "Fri May 22 13:28:40 +0000 2009",
   "user" : {
@@ -1322,7 +1322,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "id_str" : "1858874837",
   "in_reply_to_user_id" : 17676119,
-  "text" : "@Unperfekthaus ich werde mir heute Abend vor der HabariUserGroup mal eine Nase gönnen",
+  "text" : "@Unperfekthaus ich werde mir heute Abend vor der HabariUserGroup mal eine Nase g\u00F6nnen",
   "id" : 1858874837,
   "in_reply_to_status_id" : 1858863502,
   "created_at" : "Wed May 20 13:05:07 +0000 2009",
@@ -1495,7 +1495,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1847491883",
-  "text" : "ich muss mir echt mal Gedanken über einen anderen Schreibtisch machen",
+  "text" : "ich muss mir echt mal Gedanken \u00FCber einen anderen Schreibtisch machen",
   "id" : 1847491883,
   "created_at" : "Tue May 19 14:15:31 +0000 2009",
   "user" : {
@@ -1570,7 +1570,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1845948082",
-  "text" : "habe heute ein dickes Packet mit Coding Büchern bekommen, das werden lange Nächte",
+  "text" : "habe heute ein dickes Packet mit Coding B\u00FCchern bekommen, das werden lange N\u00E4chte",
   "id" : 1845948082,
   "created_at" : "Tue May 19 10:31:23 +0000 2009",
   "user" : {
@@ -1635,7 +1635,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "id_str" : "1845690292",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel was ist das denn für eine Hashtag Mathematik?",
+  "text" : "@florianfiegel was ist das denn f\u00FCr eine Hashtag Mathematik?",
   "id" : 1845690292,
   "in_reply_to_status_id" : 1845640503,
   "created_at" : "Tue May 19 09:35:30 +0000 2009",
@@ -1695,7 +1695,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1842275536",
-  "text" : "fühle mich im Moment bei N24 Heimisch, erst eine Reportage aus Detmold (meiner alten Heimat) und jetzt aus Bochum",
+  "text" : "f\u00FChle mich im Moment bei N24 Heimisch, erst eine Reportage aus Detmold (meiner alten Heimat) und jetzt aus Bochum",
   "id" : 1842275536,
   "created_at" : "Tue May 19 01:16:56 +0000 2009",
   "user" : {
@@ -1741,7 +1741,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1840227119",
-  "text" : "Goolges neues Werbemodel: Ad Translate, Werbung in Übersetzungen http://tr.im/lHzt",
+  "text" : "Goolges neues Werbemodel: Ad Translate, Werbung in \u00DCbersetzungen http://tr.im/lHzt",
   "id" : 1840227119,
   "created_at" : "Mon May 18 21:33:07 +0000 2009",
   "user" : {
@@ -1822,7 +1822,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1836224452",
-  "text" : "Man ist diese Aussenwelt heute wieder gefährlich, bin grade fasst überfahren worden",
+  "text" : "Man ist diese Aussenwelt heute wieder gef\u00E4hrlich, bin grade fasst \u00FCberfahren worden",
   "id" : 1836224452,
   "created_at" : "Mon May 18 14:36:36 +0000 2009",
   "user" : {
@@ -1877,7 +1877,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1836125377",
-  "text" : "Nahrungsaufnahme terminiert … #doppeldeutig (via @florianfiegel)",
+  "text" : "Nahrungsaufnahme terminiert \u2026 #doppeldeutig (via @florianfiegel)",
   "id" : 1836125377,
   "created_at" : "Mon May 18 14:25:12 +0000 2009",
   "user" : {
@@ -2074,7 +2074,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1815150939",
-  "text" : "§5  * 23.05.1949 ✝ 22.04.2009  http://img.ly/jP",
+  "text" : "\u00A75  * 23.05.1949 \u271D 22.04.2009  http://img.ly/jP",
   "id" : 1815150939,
   "created_at" : "Sat May 16 08:41:01 +0000 2009",
   "user" : {
@@ -2144,7 +2144,7 @@ Grailbird.data.tweets_2009_05 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "Glücksspiel",
+      "text" : "Gl\u00FCcksspiel",
       "indices" : [ 85, 97 ]
     }, {
       "text" : "Fail",
@@ -2155,7 +2155,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1810108954",
-  "text" : "Hausverlosung auf VOX, interessantes Geschäftsmodel, nur leider nicht in Deutschland #Glücksspiel #Fail",
+  "text" : "Hausverlosung auf VOX, interessantes Gesch\u00E4ftsmodel, nur leider nicht in Deutschland #Gl\u00FCcksspiel #Fail",
   "id" : 1810108954,
   "created_at" : "Fri May 15 20:52:04 +0000 2009",
   "user" : {
@@ -2201,7 +2201,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1805020153",
-  "text" : "grade ne Idee für einen Twitter Webservice gehabt",
+  "text" : "grade ne Idee f\u00FCr einen Twitter Webservice gehabt",
   "id" : 1805020153,
   "created_at" : "Fri May 15 11:19:09 +0000 2009",
   "user" : {
@@ -2362,7 +2362,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "id_str" : "1786863983",
   "in_reply_to_user_id" : 16361412,
-  "text" : "@agento ich nutze unter OS X GitX und die Git Unterstützung von Textmate, nur leider nutzt die Partner Agentur Windows",
+  "text" : "@agento ich nutze unter OS X GitX und die Git Unterst\u00FCtzung von Textmate, nur leider nutzt die Partner Agentur Windows",
   "id" : 1786863983,
   "in_reply_to_status_id" : 1786238981,
   "created_at" : "Wed May 13 18:10:19 +0000 2009",
@@ -2388,7 +2388,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1786848948",
-  "text" : "Es gibt Fernsehprogramme, bei denen man seine eingeschlafenen Füße beneidet.",
+  "text" : "Es gibt Fernsehprogramme, bei denen man seine eingeschlafenen F\u00FC\u00DFe beneidet.",
   "id" : 1786848948,
   "created_at" : "Wed May 13 18:08:43 +0000 2009",
   "user" : {
@@ -2417,7 +2417,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1786224827",
-  "text" : "lese grade ein Git-Windows HowTo und es läuft mir einskalt den Nacken runter #UI #Fail",
+  "text" : "lese grade ein Git-Windows HowTo und es l\u00E4uft mir einskalt den Nacken runter #UI #Fail",
   "id" : 1786224827,
   "created_at" : "Wed May 13 17:02:59 +0000 2009",
   "user" : {
@@ -2440,7 +2440,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1782968513",
-  "text" : "bekomme langsam kalte Füsse",
+  "text" : "bekomme langsam kalte F\u00FCsse",
   "id" : 1782968513,
   "created_at" : "Wed May 13 09:44:27 +0000 2009",
   "user" : {
@@ -2463,7 +2463,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1782918767",
-  "text" : "so langsam gewöhne ich mich an Tweetie, hab alle anderen Clients erstmal verbannt",
+  "text" : "so langsam gew\u00F6hne ich mich an Tweetie, hab alle anderen Clients erstmal verbannt",
   "id" : 1782918767,
   "created_at" : "Wed May 13 09:32:49 +0000 2009",
   "user" : {
@@ -2543,7 +2543,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1766429401",
-  "text" : "teste nochmal Tweetie, die Animationen sind nett, die Suche überzeugt noch nicht ganz",
+  "text" : "teste nochmal Tweetie, die Animationen sind nett, die Suche \u00FCberzeugt noch nicht ganz",
   "id" : 1766429401,
   "created_at" : "Mon May 11 20:22:27 +0000 2009",
   "user" : {
@@ -2600,7 +2600,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1765267943",
-  "text" : "Können sich der RE1 und die U35 nicht mal zeitlich etwas besser absprechen?",
+  "text" : "K\u00F6nnen sich der RE1 und die U35 nicht mal zeitlich etwas besser absprechen?",
   "id" : 1765267943,
   "created_at" : "Mon May 11 18:09:39 +0000 2009",
   "user" : {
@@ -2657,7 +2657,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1765185015",
-  "text" : "nach 5 Tagen zu Besuch bei der Familie würde mir Urlaub jetzt richtig gut tun. Gut das es nur noch 18 Tag bis zum verlängertem Juist WE sind",
+  "text" : "nach 5 Tagen zu Besuch bei der Familie w\u00FCrde mir Urlaub jetzt richtig gut tun. Gut das es nur noch 18 Tag bis zum verl\u00E4ngertem Juist WE sind",
   "id" : 1765185015,
   "created_at" : "Mon May 11 18:00:23 +0000 2009",
   "user" : {
@@ -2847,7 +2847,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1747393155",
-  "text" : "http://twitpic.com/4ugjm - Podcast-Überwachung im Innenministerium (via @threepwood)",
+  "text" : "http://twitpic.com/4ugjm - Podcast-\u00DCberwachung im Innenministerium (via @threepwood)",
   "id" : 1747393155,
   "created_at" : "Sat May 09 16:42:26 +0000 2009",
   "user" : {
@@ -2910,7 +2910,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1745655789",
-  "text" : "schönes Wahlplakat der SPD aufgetaucht: http://twitpic.com/3toct - das gilt aber leider für fast jede Partei (via @getoliverleon)",
+  "text" : "sch\u00F6nes Wahlplakat der SPD aufgetaucht: http://twitpic.com/3toct - das gilt aber leider f\u00FCr fast jede Partei (via @getoliverleon)",
   "id" : 1745655789,
   "created_at" : "Sat May 09 11:38:37 +0000 2009",
   "user" : {
@@ -3005,7 +3005,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1705679235",
-  "text" : "wer Frames erfunden hat gehört erschlagen #html",
+  "text" : "wer Frames erfunden hat geh\u00F6rt erschlagen #html",
   "id" : 1705679235,
   "created_at" : "Tue May 05 12:53:15 +0000 2009",
   "user" : {
@@ -3031,7 +3031,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1696815672",
-  "text" : "oh die Bielefeld-Verschwörung ist in den alten Medien angekommen #RTL",
+  "text" : "oh die Bielefeld-Verschw\u00F6rung ist in den alten Medien angekommen #RTL",
   "id" : 1696815672,
   "created_at" : "Mon May 04 16:01:55 +0000 2009",
   "user" : {
@@ -3129,7 +3129,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1677827007",
-  "text" : "hab grad zwei bedruckte tote Bäume gekauft #Zeitung #Wohnungssuche",
+  "text" : "hab grad zwei bedruckte tote B\u00E4ume gekauft #Zeitung #Wohnungssuche",
   "id" : 1677827007,
   "created_at" : "Sat May 02 11:11:55 +0000 2009",
   "user" : {
@@ -3206,7 +3206,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "id_str" : "1670830410",
   "in_reply_to_user_id" : 959201,
-  "text" : "@Katti dass nenn ich doch mal Timing, erst trifft man sich und dann twittert man auch noch zur selben Zeit drüber",
+  "text" : "@Katti dass nenn ich doch mal Timing, erst trifft man sich und dann twittert man auch noch zur selben Zeit dr\u00FCber",
   "id" : 1670830410,
   "in_reply_to_status_id" : 1670808860,
   "created_at" : "Fri May 01 17:06:10 +0000 2009",
@@ -3261,7 +3261,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1670809470",
-  "text" : "zurück von einer schönen Radtour durch Bochum",
+  "text" : "zur\u00FCck von einer sch\u00F6nen Radtour durch Bochum",
   "id" : 1670809470,
   "created_at" : "Fri May 01 17:03:48 +0000 2009",
   "user" : {
@@ -3284,7 +3284,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1670798275",
-  "text" : "es geht doch nichts über einen schönen Sommerregen",
+  "text" : "es geht doch nichts \u00FCber einen sch\u00F6nen Sommerregen",
   "id" : 1670798275,
   "created_at" : "Fri May 01 17:02:32 +0000 2009",
   "user" : {

@@ -10,7 +10,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "22556334336",
-  "text" : "fühle mich halb tot und wünsche mir im Moment es währe nicht nur halb so",
+  "text" : "f\u00FChle mich halb tot und w\u00FCnsche mir im Moment es w\u00E4hre nicht nur halb so",
   "id" : 22556334336,
   "created_at" : "Mon Aug 30 21:09:28 +0000 2010",
   "user" : {
@@ -73,7 +73,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "22358196958",
-  "text" : "Berlin-Kreuzberg bereitet sich auf die Übernahme des öffentlichen Raums durch Google vor. http://twitpic.com/2iy2v0 (via @jensbest)",
+  "text" : "Berlin-Kreuzberg bereitet sich auf die \u00DCbernahme des \u00F6ffentlichen Raums durch Google vor. http://twitpic.com/2iy2v0 (via @jensbest)",
   "id" : 22358196958,
   "created_at" : "Sat Aug 28 14:47:46 +0000 2010",
   "user" : {
@@ -119,7 +119,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "22173267576",
-  "text" : "grade durch Zufall nützlichen Shortcut im Google Chrome gefunden, mit CMD + ` kann man die Fenster durch wechseln",
+  "text" : "grade durch Zufall n\u00FCtzlichen Shortcut im Google Chrome gefunden, mit CMD + ` kann man die Fenster durch wechseln",
   "id" : 22173267576,
   "created_at" : "Thu Aug 26 12:29:23 +0000 2010",
   "user" : {
@@ -144,7 +144,7 @@ Grailbird.data.tweets_2010_08 =
     "coordinates" : [ 51.48139822, 7.21578776 ]
   },
   "id_str" : "22003049631",
-  "text" : "Wie gut das der Ferienfahrplan der U35 nächste Woche wieder ein Ende hat",
+  "text" : "Wie gut das der Ferienfahrplan der U35 n\u00E4chste Woche wieder ein Ende hat",
   "id" : 22003049631,
   "created_at" : "Tue Aug 24 14:06:23 +0000 2010",
   "user" : {
@@ -169,7 +169,7 @@ Grailbird.data.tweets_2010_08 =
     "coordinates" : [ 51.48066627, 7.2185589 ]
   },
   "id_str" : "22000174470",
-  "text" : "habe festgestellt das sich offene Schnürsenkel und Rolltreppen nicht ganz so gut vertragen",
+  "text" : "habe festgestellt das sich offene Schn\u00FCrsenkel und Rolltreppen nicht ganz so gut vertragen",
   "id" : 22000174470,
   "created_at" : "Tue Aug 24 13:25:36 +0000 2010",
   "user" : {
@@ -197,7 +197,7 @@ Grailbird.data.tweets_2010_08 =
     "coordinates" : [ 51.4782018515, 7.226116447 ]
   },
   "id_str" : "21999242759",
-  "text" : "da will muss man seit Monaten mal wieder zur Analogpost gehen, da haben die Zug #analogfail — at Hauptpost http://gowal.la/r/24uMX",
+  "text" : "da will muss man seit Monaten mal wieder zur Analogpost gehen, da haben die Zug #analogfail \u2014 at Hauptpost http://gowal.la/r/24uMX",
   "id" : 21999242759,
   "created_at" : "Tue Aug 24 13:09:02 +0000 2010",
   "user" : {
@@ -226,7 +226,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "21983472783",
-  "text" : "RT @himmelkreis: Wie Geeks Schafe zählen: \n\nwhile(!asleep()) { sheep++; }",
+  "text" : "RT @himmelkreis: Wie Geeks Schafe z\u00E4hlen: \n\nwhile(!asleep()) { sheep++; }",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
@@ -238,7 +238,7 @@ Grailbird.data.tweets_2010_08 =
     "geo" : {
     },
     "id_str" : "21857544152",
-    "text" : "Wie Geeks Schafe zählen: \n\nwhile(!asleep()) { sheep++; }",
+    "text" : "Wie Geeks Schafe z\u00E4hlen: \n\nwhile(!asleep()) { sheep++; }",
     "id" : 21857544152,
     "created_at" : "Sun Aug 22 20:52:46 +0000 2010",
     "user" : {
@@ -325,7 +325,7 @@ Grailbird.data.tweets_2010_08 =
     "coordinates" : [ 53.34517383, 7.18820416 ]
   },
   "id_str" : "21220963239",
-  "text" : "ab auf Insel — at Hafen Emden http://gowal.la/r/22Kaq",
+  "text" : "ab auf Insel \u2014 at Hafen Emden http://gowal.la/r/22Kaq",
   "id" : 21220963239,
   "created_at" : "Sun Aug 15 10:02:52 +0000 2010",
   "user" : {
@@ -348,7 +348,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "21217175142",
-  "text" : "der IC nach Münster-&gt;Emden hällt ja in Käffern in denen man sich fragt wieso sie überhaupt einen Bahnhof haben",
+  "text" : "der IC nach M\u00FCnster-&gt;Emden h\u00E4llt ja in K\u00E4ffern in denen man sich fragt wieso sie \u00FCberhaupt einen Bahnhof haben",
   "id" : 21217175142,
   "created_at" : "Sun Aug 15 08:34:01 +0000 2010",
   "user" : {
@@ -373,7 +373,7 @@ Grailbird.data.tweets_2010_08 =
     "coordinates" : [ 51.9566701868, 7.6357555389 ]
   },
   "id_str" : "21213439981",
-  "text" : "naja, schön ist was anderes — at Hauptbahnhof Münster http://gowal.la/r/22Jt4",
+  "text" : "naja, sch\u00F6n ist was anderes \u2014 at Hauptbahnhof M\u00FCnster http://gowal.la/r/22Jt4",
   "id" : 21213439981,
   "created_at" : "Sun Aug 15 07:10:27 +0000 2010",
   "user" : {
@@ -396,7 +396,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "21182812489",
-  "text" : "ich glaub ich bin reif für die Insel, geht ja morgen zum Glück los",
+  "text" : "ich glaub ich bin reif f\u00FCr die Insel, geht ja morgen zum Gl\u00FCck los",
   "id" : 21182812489,
   "created_at" : "Sat Aug 14 22:32:00 +0000 2010",
   "user" : {
@@ -453,7 +453,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "20867636349",
-  "text" : "F: Was stört sie an PHP am meisten?\nA: $();",
+  "text" : "F: Was st\u00F6rt sie an PHP am meisten?\nA: $();",
   "id" : 20867636349,
   "created_at" : "Wed Aug 11 07:50:02 +0000 2010",
   "user" : {
@@ -469,7 +469,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marko Tošić",
+      "name" : "Marko To\u0161i\u0107",
       "screen_name" : "markotosic",
       "indices" : [ 0, 11 ],
       "id_str" : "301942772",
@@ -526,7 +526,7 @@ Grailbird.data.tweets_2010_08 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "Blumenkübel",
+      "text" : "Blumenk\u00FCbel",
       "indices" : [ 69, 81 ]
     } ],
     "urls" : [ ]
@@ -534,7 +534,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "20390547289",
-  "text" : "@HeRo795 scheint ja nen echt großes Sommerloch zu sein dieses Jahre! #Blumenkübel",
+  "text" : "@HeRo795 scheint ja nen echt gro\u00DFes Sommerloch zu sein dieses Jahre! #Blumenk\u00FCbel",
   "id" : 20390547289,
   "created_at" : "Thu Aug 05 14:11:07 +0000 2010",
   "user" : {
@@ -552,7 +552,7 @@ Grailbird.data.tweets_2010_08 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "Blumenkübel",
+      "text" : "Blumenk\u00FCbel",
       "indices" : [ 32, 44 ]
     } ],
     "urls" : [ ]
@@ -560,7 +560,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "20390368442",
-  "text" : "kann mich mal jemand aufklären? #Blumenkübel",
+  "text" : "kann mich mal jemand aufkl\u00E4ren? #Blumenk\u00FCbel",
   "id" : 20390368442,
   "created_at" : "Thu Aug 05 14:08:26 +0000 2010",
   "user" : {
@@ -583,7 +583,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "20382072510",
-  "text" : "Zahnarzt besuche währen ja wesentlich angenehmer wenn man nicht immer so lange im Behandlungszimmer warten müsste",
+  "text" : "Zahnarzt besuche w\u00E4hren ja wesentlich angenehmer wenn man nicht immer so lange im Behandlungszimmer warten m\u00FCsste",
   "id" : 20382072510,
   "created_at" : "Thu Aug 05 11:55:53 +0000 2010",
   "user" : {
@@ -621,7 +621,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "20373204638",
-  "text" : "erschütternd: watching - Wer es gestern verpasst hat: #Kik-Doku in der ARD-Mediathek http://bit.ly/cPCrD3 (via @ChaosPhoenx, @nerotunes)",
+  "text" : "ersch\u00FCtternd: watching - Wer es gestern verpasst hat: #Kik-Doku in der ARD-Mediathek http://bit.ly/cPCrD3 (via @ChaosPhoenx, @nerotunes)",
   "id" : 20373204638,
   "created_at" : "Thu Aug 05 08:40:59 +0000 2010",
   "user" : {
@@ -650,7 +650,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "20292775356",
-  "text" : "RT @skyfyre: RT: Selbstmordankündigung 2.0: Bei Facebook die Veranstaltung \"Morgiger Tag\" erstellen, \"nehme nicht teil\" anklicken, alle  ...",
+  "text" : "RT @skyfyre: RT: Selbstmordank\u00FCndigung 2.0: Bei Facebook die Veranstaltung \"Morgiger Tag\" erstellen, \"nehme nicht teil\" anklicken, alle  ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
@@ -662,7 +662,7 @@ Grailbird.data.tweets_2010_08 =
     "geo" : {
     },
     "id_str" : "20291699643",
-    "text" : "RT: Selbstmordankündigung 2.0: Bei Facebook die Veranstaltung \"Morgiger Tag\" erstellen, \"nehme nicht teil\" anklicken, alle Freunde einladen.",
+    "text" : "RT: Selbstmordank\u00FCndigung 2.0: Bei Facebook die Veranstaltung \"Morgiger Tag\" erstellen, \"nehme nicht teil\" anklicken, alle Freunde einladen.",
     "id" : 20291699643,
     "created_at" : "Wed Aug 04 09:22:01 +0000 2010",
     "user" : {
@@ -766,7 +766,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "20205816152",
-  "text" : "na super die Bäckereifachverkäuferin sitzt im Sozialraum mit einer Zigarette unter einem Schild mit der Aufschrift \"Rauchen verboten!\"",
+  "text" : "na super die B\u00E4ckereifachverk\u00E4uferin sitzt im Sozialraum mit einer Zigarette unter einem Schild mit der Aufschrift \"Rauchen verboten!\"",
   "id" : 20205816152,
   "created_at" : "Tue Aug 03 08:02:57 +0000 2010",
   "user" : {
@@ -792,7 +792,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "20078872276",
-  "text" : "da mussten wohl die Mädels den Männern erstmal zeigen wie man es richtig macht #fussballwm",
+  "text" : "da mussten wohl die M\u00E4dels den M\u00E4nnern erstmal zeigen wie man es richtig macht #fussballwm",
   "id" : 20078872276,
   "created_at" : "Sun Aug 01 18:14:09 +0000 2010",
   "user" : {

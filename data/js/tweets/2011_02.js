@@ -16,7 +16,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : {
   },
   "id_str" : "41258947650387969",
-  "text" : "“So will DER WESTEN Gaddafi in die Knie zwingen: http://www.derwesten.de/b2plUg”/via @DerWesten -jetzt werdet ihr aber übermütig ;)",
+  "text" : "\u201CSo will DER WESTEN Gaddafi in die Knie zwingen: http://www.derwesten.de/b2plUg\u201D/via @DerWesten -jetzt werdet ihr aber \u00FCberm\u00FCtig ;)",
   "id" : 41258947650387969,
   "created_at" : "Fri Feb 25 22:11:14 +0000 2011",
   "user" : {
@@ -97,7 +97,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : {
   },
   "id_str" : "40465196833046528",
-  "text" : "nein der Rüttenscheider Stern ist nicht der Berliner Platz, scheiß Gewohnheitsverhalten",
+  "text" : "nein der R\u00FCttenscheider Stern ist nicht der Berliner Platz, schei\u00DF Gewohnheitsverhalten",
   "id" : 40465196833046528,
   "created_at" : "Wed Feb 23 17:37:09 +0000 2011",
   "user" : {
@@ -120,7 +120,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : {
   },
   "id_str" : "40415596852023296",
-  "text" : "iTunes meint ich hätte 5228 ungehörte PodCasts, sollte wohl doch mal ausmisten",
+  "text" : "iTunes meint ich h\u00E4tte 5228 ungeh\u00F6rte PodCasts, sollte wohl doch mal ausmisten",
   "id" : 40415596852023296,
   "created_at" : "Wed Feb 23 14:20:03 +0000 2011",
   "user" : {
@@ -204,7 +204,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "id_str" : "40343796273266688",
   "in_reply_to_user_id" : 19961029,
-  "text" : "@shinaio kommt auf den Spam an würde ich sagen, mit unter ist es das gleiche ;)",
+  "text" : "@shinaio kommt auf den Spam an w\u00FCrde ich sagen, mit unter ist es das gleiche ;)",
   "id" : 40343796273266688,
   "in_reply_to_status_id" : 40333926908174336,
   "created_at" : "Wed Feb 23 09:34:45 +0000 2011",
@@ -319,7 +319,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : {
   },
   "id_str" : "39712815929495552",
-  "text" : "RT @final_method: MontagOS is running...\n\nStatus:\n- Hirn.exe ✘\n- Motivation.exe ✘\n- GuteLaune.exe ✘\n- Optimismus.exe ✘\n- Kaffeemaschine. ...",
+  "text" : "RT @final_method: MontagOS is running...\n\nStatus:\n- Hirn.exe \u2718\n- Motivation.exe \u2718\n- GuteLaune.exe \u2718\n- Optimismus.exe \u2718\n- Kaffeemaschine. ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -331,7 +331,7 @@ Grailbird.data.tweets_2011_02 =
     "geo" : {
     },
     "id_str" : "39584442284638208",
-    "text" : "MontagOS is running...\n\nStatus:\n- Hirn.exe ✘\n- Motivation.exe ✘\n- GuteLaune.exe ✘\n- Optimismus.exe ✘\n- Kaffeemaschine.exe ✔\n- Twitter.exe ✔",
+    "text" : "MontagOS is running...\n\nStatus:\n- Hirn.exe \u2718\n- Motivation.exe \u2718\n- GuteLaune.exe \u2718\n- Optimismus.exe \u2718\n- Kaffeemaschine.exe \u2714\n- Twitter.exe \u2714",
     "id" : 39584442284638208,
     "created_at" : "Mon Feb 21 07:17:21 +0000 2011",
     "user" : {
@@ -339,7 +339,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "final_method",
       "protected" : false,
       "id_str" : "84408407",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2991384546/d4cb12e7d9b727d3e282f8f1dc4e1a36_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3447722300/10959d3055bae3419158ab2a02706a57_normal.png",
       "id" : 84408407,
       "verified" : false
     }
@@ -441,7 +441,7 @@ Grailbird.data.tweets_2011_02 =
       "id_str" : "828881",
       "id" : 828881
     }, {
-      "name" : "Râu Cao",
+      "name" : "R\u00E2u Cao",
       "screen_name" : "skddc",
       "indices" : [ 33, 39 ],
       "id_str" : "12515352",
@@ -527,7 +527,7 @@ Grailbird.data.tweets_2011_02 =
     "coordinates" : [ 50.9496135556, 6.9868326187 ]
   },
   "id_str" : "38280904048648192",
-  "text" : "I just checked in at Coworking Cologne (Deutz-Mülheimer Straße 129, Cologne) on @footfeedapp",
+  "text" : "I just checked in at Coworking Cologne (Deutz-M\u00FClheimer Stra\u00DFe 129, Cologne) on @footfeedapp",
   "id" : 38280904048648192,
   "created_at" : "Thu Feb 17 16:57:33 +0000 2011",
   "user" : {
@@ -550,7 +550,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : {
   },
   "id_str" : "38166868942520320",
-  "text" : "Bahn fahren ohne Inear-Kopfhörer ist ja echt nicht zu ertragen",
+  "text" : "Bahn fahren ohne Inear-Kopfh\u00F6rer ist ja echt nicht zu ertragen",
   "id" : 38166868942520320,
   "created_at" : "Thu Feb 17 09:24:25 +0000 2011",
   "user" : {
@@ -590,7 +590,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : {
   },
   "id_str" : "37310653412679680",
-  "text" : "RT @railscamp_de: Tipp: diesen Donnerstag (17.2.) Ruby/Rails User Group im @cowoco in Köln. Einlass 19h, Start 20h. http://t.co/EfXR1zl",
+  "text" : "RT @railscamp_de: Tipp: diesen Donnerstag (17.2.) Ruby/Rails User Group im @cowoco in K\u00F6ln. Einlass 19h, Start 20h. http://t.co/EfXR1zl",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -613,7 +613,7 @@ Grailbird.data.tweets_2011_02 =
     "geo" : {
     },
     "id_str" : "37284218203541504",
-    "text" : "Tipp: diesen Donnerstag (17.2.) Ruby/Rails User Group im @cowoco in Köln. Einlass 19h, Start 20h. http://t.co/EfXR1zl",
+    "text" : "Tipp: diesen Donnerstag (17.2.) Ruby/Rails User Group im @cowoco in K\u00F6ln. Einlass 19h, Start 20h. http://t.co/EfXR1zl",
     "id" : 37284218203541504,
     "created_at" : "Mon Feb 14 22:57:04 +0000 2011",
     "user" : {
@@ -656,7 +656,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "id_str" : "37231582188281856",
   "in_reply_to_user_id" : 15636877,
-  "text" : "@ilonka_ilonka ach so, Glück gehabt. Das du Fassetten reich bist weiß ich ja aber das du auf Sekt und Kaviar stehst hätte ich nicht gedacht!",
+  "text" : "@ilonka_ilonka ach so, Gl\u00FCck gehabt. Das du Fassetten reich bist wei\u00DF ich ja aber das du auf Sekt und Kaviar stehst h\u00E4tte ich nicht gedacht!",
   "id" : 37231582188281856,
   "in_reply_to_status_id" : 37229994581172225,
   "created_at" : "Mon Feb 14 19:27:55 +0000 2011",
@@ -732,7 +732,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marko Tošić",
+      "name" : "Marko To\u0161i\u0107",
       "screen_name" : "markotosic",
       "indices" : [ 0, 11 ],
       "id_str" : "301942772",
@@ -747,7 +747,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "id_str" : "37139122262908928",
   "in_reply_to_user_id" : 23934650,
-  "text" : "@MarkoTosic was hätte den Wackeln sollen? Ist was hoch gegangen?",
+  "text" : "@MarkoTosic was h\u00E4tte den Wackeln sollen? Ist was hoch gegangen?",
   "id" : 37139122262908928,
   "in_reply_to_status_id" : 37135872423895040,
   "created_at" : "Mon Feb 14 13:20:31 +0000 2011",
@@ -825,7 +825,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : {
   },
   "id_str" : "36180730723700736",
-  "text" : "RT @CooperVisual: Wenn die Realität so weiter macht, hat Satire keine Zukunft.",
+  "text" : "RT @CooperVisual: Wenn die Realit\u00E4t so weiter macht, hat Satire keine Zukunft.",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
@@ -837,7 +837,7 @@ Grailbird.data.tweets_2011_02 =
     "geo" : {
     },
     "id_str" : "36179472306667520",
-    "text" : "Wenn die Realität so weiter macht, hat Satire keine Zukunft.",
+    "text" : "Wenn die Realit\u00E4t so weiter macht, hat Satire keine Zukunft.",
     "id" : 36179472306667520,
     "created_at" : "Fri Feb 11 21:47:13 +0000 2011",
     "user" : {
@@ -845,7 +845,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Twelectra",
       "protected" : false,
       "id_str" : "37247729",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3153072964/8cdf1c0f2670d419f862edaa458a61e7_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3497338210/1d1abc2f79e219cc6d08f2a215ec25f0_normal.jpeg",
       "id" : 37247729,
       "verified" : false
     }
@@ -884,7 +884,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : {
   },
   "id_str" : "36162359185637376",
-  "text" : "RT @pottblog: Eigentlich schade, dass die Geschäfte jetzt schließen. Okay, für die Mitarbeiter (und mein Konto!) nicht. #Ruhrpark #fb",
+  "text" : "RT @pottblog: Eigentlich schade, dass die Gesch\u00E4fte jetzt schlie\u00DFen. Okay, f\u00FCr die Mitarbeiter (und mein Konto!) nicht. #Ruhrpark #fb",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
@@ -904,7 +904,7 @@ Grailbird.data.tweets_2011_02 =
       "coordinates" : [ 51.495412226, 7.279990084 ]
     },
     "id_str" : "36135922798051328",
-    "text" : "Eigentlich schade, dass die Geschäfte jetzt schließen. Okay, für die Mitarbeiter (und mein Konto!) nicht. #Ruhrpark #fb",
+    "text" : "Eigentlich schade, dass die Gesch\u00E4fte jetzt schlie\u00DFen. Okay, f\u00FCr die Mitarbeiter (und mein Konto!) nicht. #Ruhrpark #fb",
     "id" : 36135922798051328,
     "created_at" : "Fri Feb 11 18:54:10 +0000 2011",
     "user" : {
@@ -912,7 +912,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "pottblog",
       "protected" : false,
       "id_str" : "5769802",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2215014275/twitter_pottblog_schale_pokal_128pc_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3597356609/f5d4d1d93906d5777b33295320aa0c01_normal.jpeg",
       "id" : 5769802,
       "verified" : false
     }
@@ -932,7 +932,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "off_the_record ",
+      "name" : "kolbrueck",
       "screen_name" : "off_the_record",
       "indices" : [ 3, 18 ],
       "id_str" : "14083809",
@@ -973,7 +973,7 @@ Grailbird.data.tweets_2011_02 =
     "id" : 36102642740498432,
     "created_at" : "Fri Feb 11 16:41:55 +0000 2011",
     "user" : {
-      "name" : "off_the_record ",
+      "name" : "kolbrueck",
       "screen_name" : "off_the_record",
       "protected" : false,
       "id_str" : "14083809",
@@ -997,7 +997,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Loretta ٩(͡๏̯͡๏)۶",
+      "name" : "Loretta \u0669(\u0361\u0E4F\u032F\u0361\u0E4F)\u06F6",
       "screen_name" : "freelancerhh",
       "indices" : [ 3, 16 ],
       "id_str" : "78854328",
@@ -1010,7 +1010,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : {
   },
   "id_str" : "34919310958792705",
-  "text" : "RT @freelancerhh: Als Nerd hätte ich auch Windows programmiert.\nEffektiver kann man seinen Hass auf die Gesellschaft nicht zurück geben.",
+  "text" : "RT @freelancerhh: Als Nerd h\u00E4tte ich auch Windows programmiert.\nEffektiver kann man seinen Hass auf die Gesellschaft nicht zur\u00FCck geben.",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -1022,11 +1022,11 @@ Grailbird.data.tweets_2011_02 =
     "geo" : {
     },
     "id_str" : "34891096278437888",
-    "text" : "Als Nerd hätte ich auch Windows programmiert.\nEffektiver kann man seinen Hass auf die Gesellschaft nicht zurück geben.",
+    "text" : "Als Nerd h\u00E4tte ich auch Windows programmiert.\nEffektiver kann man seinen Hass auf die Gesellschaft nicht zur\u00FCck geben.",
     "id" : 34891096278437888,
     "created_at" : "Tue Feb 08 08:27:40 +0000 2011",
     "user" : {
-      "name" : "Loretta ٩(͡๏̯͡๏)۶",
+      "name" : "Loretta \u0669(\u0361\u0E4F\u032F\u0361\u0E4F)\u06F6",
       "screen_name" : "freelancerhh",
       "protected" : false,
       "id_str" : "78854328",
@@ -1083,7 +1083,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "onlinegott",
       "protected" : false,
       "id_str" : "81891682",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3112425547/ec365ca924ece797c10054ae55f33bd6_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3306710271/48e9965b683400645af8cbfdf6b40795_normal.jpeg",
       "id" : 81891682,
       "verified" : false
     }

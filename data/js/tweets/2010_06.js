@@ -10,7 +10,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : {
   },
   "id_str" : "17354286428",
-  "text" : "wenn wundert's wenn ein Flugzeug vom Typ Ikarus abstürzt?",
+  "text" : "wenn wundert's wenn ein Flugzeug vom Typ Ikarus abst\u00FCrzt?",
   "id" : 17354286428,
   "created_at" : "Tue Jun 29 18:33:27 +0000 2010",
   "user" : {
@@ -281,7 +281,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "id_str" : "17016626898",
   "in_reply_to_user_id" : 15071293,
-  "text" : "@DerWesten manchmal frag ich mich ob ihr euch überhaut noch für schämt für den Scheiß den ihr da schreibt ...",
+  "text" : "@DerWesten manchmal frag ich mich ob ihr euch \u00FCberhaut noch f\u00FCr sch\u00E4mt f\u00FCr den Schei\u00DF den ihr da schreibt ...",
   "id" : 17016626898,
   "in_reply_to_status_id" : 17013549027,
   "created_at" : "Fri Jun 25 14:11:12 +0000 2010",
@@ -412,7 +412,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : {
   },
   "id_str" : "16877041409",
-  "text" : "ich bin für eine Three-Strikes Regelung im Straßenverkehr, 3 mal unnützes hupen = Fahrverbot",
+  "text" : "ich bin f\u00FCr eine Three-Strikes Regelung im Stra\u00DFenverkehr, 3 mal unn\u00FCtzes hupen = Fahrverbot",
   "id" : 16877041409,
   "created_at" : "Wed Jun 23 21:02:52 +0000 2010",
   "user" : {
@@ -441,7 +441,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : {
   },
   "id_str" : "16863399532",
-  "text" : "HiFi-Anlage: 500 €\nTorjubel: Aus dem Internet.\nDen Nachbar mit dem langsamer HD-TV in den Wahnsinn treiben: Unbezahlbar.\n(via @diktator)",
+  "text" : "HiFi-Anlage: 500 \u20AC\nTorjubel: Aus dem Internet.\nDen Nachbar mit dem langsamer HD-TV in den Wahnsinn treiben: Unbezahlbar.\n(via @diktator)",
   "id" : 16863399532,
   "created_at" : "Wed Jun 23 17:10:49 +0000 2010",
   "user" : {
@@ -486,7 +486,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Philipp Kühn",
+      "name" : "Philipp K\u00FChn",
       "screen_name" : "Weltentummler",
       "indices" : [ 0, 14 ],
       "id_str" : "14445852",
@@ -596,7 +596,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : {
   },
   "id_str" : "16709779557",
-  "text" : "seit heute gehört mein Classic dann wohl endgültig zum alten Eisen :,)",
+  "text" : "seit heute geh\u00F6rt mein Classic dann wohl endg\u00FCltig zum alten Eisen :,)",
   "id" : 16709779557,
   "created_at" : "Mon Jun 21 17:40:53 +0000 2010",
   "user" : {
@@ -624,7 +624,7 @@ Grailbird.data.tweets_2010_06 =
     "coordinates" : [ 51.4283827879, 6.8688433338 ]
   },
   "id_str" : "16572096447",
-  "text" : "#Extraschicht — at Ringlokschuppen http://gowal.la/r/9cvE",
+  "text" : "#Extraschicht \u2014 at Ringlokschuppen http://gowal.la/r/9cvE",
   "id" : 16572096447,
   "created_at" : "Sat Jun 19 21:23:41 +0000 2010",
   "user" : {
@@ -652,7 +652,7 @@ Grailbird.data.tweets_2010_06 =
     "coordinates" : [ 51.4404264462, 6.7704105377 ]
   },
   "id_str" : "16564295753",
-  "text" : "#Extraschicht — at Lego Discovery Center http://gowal.la/r/9agQ",
+  "text" : "#Extraschicht \u2014 at Lego Discovery Center http://gowal.la/r/9agQ",
   "id" : 16564295753,
   "created_at" : "Sat Jun 19 18:35:38 +0000 2010",
   "user" : {
@@ -676,7 +676,7 @@ Grailbird.data.tweets_2010_06 =
     } ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "übersetzung",
+      "text" : "\u00FCbersetzung",
       "indices" : [ 37, 49 ]
     } ],
     "urls" : [ ]
@@ -686,7 +686,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "id_str" : "16460528853",
   "in_reply_to_user_id" : 859571,
-  "text" : "@paulinepauline http://bit.ly/9JtEt5 #übersetzung",
+  "text" : "@paulinepauline http://bit.ly/9JtEt5 #\u00FCbersetzung",
   "id" : 16460528853,
   "in_reply_to_status_id" : 16460235665,
   "created_at" : "Fri Jun 18 10:34:41 +0000 2010",
@@ -714,7 +714,7 @@ Grailbird.data.tweets_2010_06 =
     "coordinates" : [ 51.4784858167, 7.21900635 ]
   },
   "id_str" : "16387684581",
-  "text" : "MacBook Pro geordert — at Gravis http://gowal.la/r/8De9",
+  "text" : "MacBook Pro geordert \u2014 at Gravis http://gowal.la/r/8De9",
   "id" : 16387684581,
   "created_at" : "Thu Jun 17 13:15:10 +0000 2010",
   "user" : {
@@ -745,7 +745,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "id_str" : "16325708473",
   "in_reply_to_user_id" : 959201,
-  "text" : "@Katti früher half da mal, ein zweites wiederherstellen, weis nicht ob es noch so ist, versuch ist es vielleicht wert",
+  "text" : "@Katti fr\u00FCher half da mal, ein zweites wiederherstellen, weis nicht ob es noch so ist, versuch ist es vielleicht wert",
   "id" : 16325708473,
   "in_reply_to_status_id" : 16324321134,
   "created_at" : "Wed Jun 16 18:18:41 +0000 2010",
@@ -814,7 +814,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "id_str" : "16238243331",
   "in_reply_to_user_id" : 5769802,
-  "text" : "@pottblog versuch es doch mal in einem der dutzend Handyläden die Bochum so zu bieten hat",
+  "text" : "@pottblog versuch es doch mal in einem der dutzend Handyl\u00E4den die Bochum so zu bieten hat",
   "id" : 16238243331,
   "in_reply_to_status_id" : 16237978938,
   "created_at" : "Tue Jun 15 16:50:48 +0000 2010",
@@ -921,7 +921,7 @@ Grailbird.data.tweets_2010_06 =
     "coordinates" : [ 51.4966678013, 7.4571204185 ]
   },
   "id_str" : "16086402463",
-  "text" : "was mit Fußball kucken — at Westfalenhalle Dortmund http://gowal.la/r/5sba",
+  "text" : "was mit Fu\u00DFball kucken \u2014 at Westfalenhalle Dortmund http://gowal.la/r/5sba",
   "id" : 16086402463,
   "created_at" : "Sun Jun 13 17:39:44 +0000 2010",
   "user" : {
@@ -944,7 +944,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : {
   },
   "id_str" : "16069600172",
-  "text" : "Es ist Sonntagnachmittag, die Sonne scheint und ich sitze drin und arbeite, irgendetwas läuft hier schief.",
+  "text" : "Es ist Sonntagnachmittag, die Sonne scheint und ich sitze drin und arbeite, irgendetwas l\u00E4uft hier schief.",
   "id" : 16069600172,
   "created_at" : "Sun Jun 13 12:55:35 +0000 2010",
   "user" : {
@@ -979,7 +979,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : {
   },
   "id_str" : "15919235456",
-  "text" : "Sehr schönes Video! Der Kaffeefleck in der BP-Zentrale. http://bit.ly/9VMoDf (via @turi2 @diktator)",
+  "text" : "Sehr sch\u00F6nes Video! Der Kaffeefleck in der BP-Zentrale. http://bit.ly/9VMoDf (via @turi2 @diktator)",
   "id" : 15919235456,
   "created_at" : "Fri Jun 11 10:41:01 +0000 2010",
   "user" : {
@@ -1086,7 +1086,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : {
   },
   "id_str" : "15844406936",
-  "text" : "RT @danielleicher: NEIN! #BP hat den #Failwhale getötet! http://yfrog.com/5oys1g (via @michelb)",
+  "text" : "RT @danielleicher: NEIN! #BP hat den #Failwhale get\u00F6tet! http://yfrog.com/5oys1g (via @michelb)",
   "id" : 15844406936,
   "created_at" : "Thu Jun 10 11:41:12 +0000 2010",
   "user" : {
@@ -1118,7 +1118,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : {
   },
   "id_str" : "15789636824",
-  "text" : "RT @twart1st: #TWITTERART          \n╭━━━━━━━━╮┏━━━━┓\n┃┊┊┊┊┊┊┊┊┃╰━┓┏━╯\n┃┊┊┊┊┊┊┊┊┃◯◯┃┃◯◯\n┃┊┊┊┊╰━╯┊╰━━╯┃◯◯\n┗━━━━━━━╯┊┊┊┊┃◯◯\n◯◯╰━━━━━━━━━━╯◯ ...",
+  "text" : "RT @twart1st: #TWITTERART \u2003\u2003\u2003\u2003\u2003\u2003\u2003\u2003\u2003\n\u256D\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u256E\u250F\u2501\u2501\u2501\u2501\u2513\n\u2503\u250A\u250A\u250A\u250A\u250A\u250A\u250A\u250A\u2503\u2570\u2501\u2513\u250F\u2501\u256F\n\u2503\u250A\u250A\u250A\u250A\u250A\u250A\u250A\u250A\u2503\u25EF\u25EF\u2503\u2503\u25EF\u25EF\n\u2503\u250A\u250A\u250A\u250A\u2570\u2501\u256F\u250A\u2570\u2501\u2501\u256F\u2503\u25EF\u25EF\n\u2517\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u256F\u250A\u250A\u250A\u250A\u2503\u25EF\u25EF\n\u25EF\u25EF\u2570\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u256F\u25EF ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -1133,7 +1133,7 @@ Grailbird.data.tweets_2010_06 =
     "geo" : {
     },
     "id_str" : "15783095641",
-    "text" : "#TWITTERART          \n╭━━━━━━━━╮┏━━━━┓\n┃┊┊┊┊┊┊┊┊┃╰━┓┏━╯\n┃┊┊┊┊┊┊┊┊┃◯◯┃┃◯◯\n┃┊┊┊┊╰━╯┊╰━━╯┃◯◯\n┗━━━━━━━╯┊┊┊┊┃◯◯\n◯◯╰━━━━━━━━━━╯◯◯\nⓌⒽⒶⓁⒺ☁ⓉⒾⓂⒺ☁ⒶⒼⒶⒾⓃ",
+    "text" : "#TWITTERART \u2003\u2003\u2003\u2003\u2003\u2003\u2003\u2003\u2003\n\u256D\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u256E\u250F\u2501\u2501\u2501\u2501\u2513\n\u2503\u250A\u250A\u250A\u250A\u250A\u250A\u250A\u250A\u2503\u2570\u2501\u2513\u250F\u2501\u256F\n\u2503\u250A\u250A\u250A\u250A\u250A\u250A\u250A\u250A\u2503\u25EF\u25EF\u2503\u2503\u25EF\u25EF\n\u2503\u250A\u250A\u250A\u250A\u2570\u2501\u256F\u250A\u2570\u2501\u2501\u256F\u2503\u25EF\u25EF\n\u2517\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u256F\u250A\u250A\u250A\u250A\u2503\u25EF\u25EF\n\u25EF\u25EF\u2570\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u256F\u25EF\u25EF\n\u24CC\u24BD\u24B6\u24C1\u24BA\u2601\u24C9\u24BE\u24C2\u24BA\u2601\u24B6\u24BC\u24B6\u24BE\u24C3",
     "id" : 15783095641,
     "created_at" : "Wed Jun 09 13:53:00 +0000 2010",
     "user" : {
@@ -1217,7 +1217,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : {
   },
   "id_str" : "15639971565",
-  "text" : "#WWDC fängt ja gleich an, ich mach Twitter dann mal aus",
+  "text" : "#WWDC f\u00E4ngt ja gleich an, ich mach Twitter dann mal aus",
   "id" : 15639971565,
   "created_at" : "Mon Jun 07 16:19:29 +0000 2010",
   "user" : {
@@ -1271,7 +1271,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : {
   },
   "id_str" : "15181140399",
-  "text" : "Okay, jetzt habe ich Sinn und Zweck eines iPads … -&gt; http://vimeo.com/11886557 ;) (via @nerotunes)",
+  "text" : "Okay, jetzt habe ich Sinn und Zweck eines iPads \u2026 -&gt; http://vimeo.com/11886557 ;) (via @nerotunes)",
   "id" : 15181140399,
   "created_at" : "Tue Jun 01 14:24:44 +0000 2010",
   "user" : {

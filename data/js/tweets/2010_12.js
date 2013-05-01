@@ -12,7 +12,7 @@ Grailbird.data.tweets_2010_12 =
     "coordinates" : [ 53.623915133, 7.157900533 ]
   },
   "id_str" : "20116924276932608",
-  "text" : "ab auf die Insel — at Fähre Juist http://gowal.la/c/3ewnK",
+  "text" : "ab auf die Insel \u2014 at F\u00E4hre Juist http://gowal.la/c/3ewnK",
   "id" : 20116924276932608,
   "created_at" : "Wed Dec 29 14:00:23 +0000 2010",
   "user" : {
@@ -35,7 +35,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "20016307160219650",
-  "text" : "reif für die Insel, ab in den Urlaub",
+  "text" : "reif f\u00FCr die Insel, ab in den Urlaub",
   "id" : 20016307160219650,
   "created_at" : "Wed Dec 29 07:20:34 +0000 2010",
   "user" : {
@@ -58,7 +58,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "18287242158022656",
-  "text" : "Das werden dieses Jahr schräge Weihnachten http://img.ly/2GqC",
+  "text" : "Das werden dieses Jahr schr\u00E4ge Weihnachten http://img.ly/2GqC",
   "id" : 18287242158022656,
   "created_at" : "Fri Dec 24 12:49:52 +0000 2010",
   "user" : {
@@ -127,7 +127,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "17559551750447104",
-  "text" : "ich bin Apphängig",
+  "text" : "ich bin Apph\u00E4ngig",
   "id" : 17559551750447104,
   "created_at" : "Wed Dec 22 12:38:18 +0000 2010",
   "user" : {
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : " Macnotes.de",
+      "name" : "\uF8FF Macnotes.de",
       "screen_name" : "Macnotes",
       "indices" : [ 47, 56 ],
       "id_str" : "6057542",
@@ -185,7 +185,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "17520067994451968",
-  "text" : "Bestes Zitat: \"Jahresrückblicke? Die ganze Scheiße nochmal reinziehen! Das ist ja wie ein Besuch auf der Kläranlage... \" (via @podpimp)",
+  "text" : "Bestes Zitat: \"Jahresr\u00FCckblicke? Die ganze Schei\u00DFe nochmal reinziehen! Das ist ja wie ein Besuch auf der Kl\u00E4ranlage... \" (via @podpimp)",
   "id" : 17520067994451968,
   "created_at" : "Wed Dec 22 10:01:24 +0000 2010",
   "user" : {
@@ -249,7 +249,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "17398238072016896",
-  "text" : "Seit einer Ewigkeit mal wieder F8 gedrückt, zum Glück nur in einer VM",
+  "text" : "Seit einer Ewigkeit mal wieder F8 gedr\u00FCckt, zum Gl\u00FCck nur in einer VM",
   "id" : 17398238072016896,
   "created_at" : "Wed Dec 22 01:57:17 +0000 2010",
   "user" : {
@@ -358,7 +358,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "16941403514871808",
-  "text" : "Schneechaos... Pfff. Damals vor Moskau hieß das noch strenger Winter. #Weicheierblabla (via @Fuehrers_Hund)",
+  "text" : "Schneechaos... Pfff. Damals vor Moskau hie\u00DF das noch strenger Winter. #Weicheierblabla (via @Fuehrers_Hund)",
   "id" : 16941403514871808,
   "created_at" : "Mon Dec 20 19:42:00 +0000 2010",
   "user" : {
@@ -445,7 +445,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "15505026499747840",
-  "text" : "Kaum ändert so ein bisschen Wasser seinen Aggregatzustand und schon spielen alle verrückt",
+  "text" : "Kaum \u00E4ndert so ein bisschen Wasser seinen Aggregatzustand und schon spielen alle verr\u00FCckt",
   "id" : 15505026499747840,
   "created_at" : "Thu Dec 16 20:34:21 +0000 2010",
   "user" : {
@@ -550,7 +550,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "15174454841712641",
-  "text" : "oh die Hasselnuß mal nüchtern #tvtotal",
+  "text" : "oh die Hasselnu\u00DF mal n\u00FCchtern #tvtotal",
   "id" : 15174454841712641,
   "created_at" : "Wed Dec 15 22:40:46 +0000 2010",
   "user" : {
@@ -598,7 +598,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "14025259594289152",
-  "text" : "Doodle Jump hätte Honecker sicher gefallen, das Motto kennt er ja bestens: Vorwärts immer, rückwärts nimmer",
+  "text" : "Doodle Jump h\u00E4tte Honecker sicher gefallen, das Motto kennt er ja bestens: Vorw\u00E4rts immer, r\u00FCckw\u00E4rts nimmer",
   "id" : 14025259594289152,
   "created_at" : "Sun Dec 12 18:34:17 +0000 2010",
   "user" : {
@@ -652,7 +652,7 @@ Grailbird.data.tweets_2010_12 =
   },
   "id_str" : "12638710231212032",
   "in_reply_to_user_id" : 14122938,
-  "text" : "@SimSullen hab auch nichts vom vermeintlich großen Knall mit bekommen",
+  "text" : "@SimSullen hab auch nichts vom vermeintlich gro\u00DFen Knall mit bekommen",
   "id" : 12638710231212032,
   "in_reply_to_status_id" : 12637742647222272,
   "created_at" : "Wed Dec 08 22:44:37 +0000 2010",
@@ -678,7 +678,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "12603438156226561",
-  "text" : "warum muss meine Tochter ausgerechnet im Mülleimer der S-Bahn einen halben Schokoweihnachtsmann finden?",
+  "text" : "warum muss meine Tochter ausgerechnet im M\u00FClleimer der S-Bahn einen halben Schokoweihnachtsmann finden?",
   "id" : 12603438156226561,
   "created_at" : "Wed Dec 08 20:24:28 +0000 2010",
   "user" : {
@@ -703,7 +703,7 @@ Grailbird.data.tweets_2010_12 =
     "coordinates" : [ 51.4489381549, 6.8532736749 ]
   },
   "id_str" : "12602359385432064",
-  "text" : "auch mal ein schönes Gefühl: mit der S-Bahn einen ICE überholen",
+  "text" : "auch mal ein sch\u00F6nes Gef\u00FChl: mit der S-Bahn einen ICE \u00FCberholen",
   "id" : 12602359385432064,
   "created_at" : "Wed Dec 08 20:20:11 +0000 2010",
   "user" : {
@@ -728,7 +728,7 @@ Grailbird.data.tweets_2010_12 =
     "coordinates" : [ 51.44894373, 6.8531348311 ]
   },
   "id_str" : "12600175453282304",
-  "text" : "Es gibt bessere Bahnhöfe um 25 Min. Auf den Anschlusszug zu warten, idyllisch ist es dennoch http://img.ly/2Agm http://img.ly/2Agn",
+  "text" : "Es gibt bessere Bahnh\u00F6fe um 25 Min. Auf den Anschlusszug zu warten, idyllisch ist es dennoch http://img.ly/2Agm http://img.ly/2Agn",
   "id" : 12600175453282304,
   "created_at" : "Wed Dec 08 20:11:30 +0000 2010",
   "user" : {
@@ -805,7 +805,13 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "m+",
+      "screen_name" : "mplusk_",
+      "indices" : [ 3, 11 ],
+      "id_str" : "191080530",
+      "id" : 191080530
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -813,7 +819,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "12453426545827840",
-  "text" : "RT @mplusk_: Hätten die Chinesen Humor, würden sie nun Julian Assange einen Friedenspreis verleihen",
+  "text" : "RT @mplusk_: H\u00E4tten die Chinesen Humor, w\u00FCrden sie nun Julian Assange einen Friedenspreis verleihen",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -825,15 +831,15 @@ Grailbird.data.tweets_2010_12 =
     "geo" : {
     },
     "id_str" : "12231099904167936",
-    "text" : "Hätten die Chinesen Humor, würden sie nun Julian Assange einen Friedenspreis verleihen",
+    "text" : "H\u00E4tten die Chinesen Humor, w\u00FCrden sie nun Julian Assange einen Friedenspreis verleihen",
     "id" : 12231099904167936,
     "created_at" : "Tue Dec 07 19:44:56 +0000 2010",
     "user" : {
       "name" : "m+",
-      "screen_name" : "eightyfoursix",
+      "screen_name" : "mplusk_",
       "protected" : false,
       "id_str" : "191080530",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2610329142/ybiXfElA_normal",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3410171162/1e6986fb66e63271c82c2e5109f813f9_normal.png",
       "id" : 191080530,
       "verified" : false
     }
@@ -853,7 +859,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -868,7 +874,7 @@ Grailbird.data.tweets_2010_12 =
   },
   "id_str" : "12290875065372672",
   "in_reply_to_user_id" : 18448838,
-  "text" : "@echt wenigstens zeugt das Selbstgespräch von einer gewissen reflektionsfähigkeit",
+  "text" : "@echt wenigstens zeugt das Selbstgespr\u00E4ch von einer gewissen reflektionsf\u00E4higkeit",
   "id" : 12290875065372672,
   "in_reply_to_status_id" : 12279302192111617,
   "created_at" : "Tue Dec 07 23:42:27 +0000 2010",
@@ -920,7 +926,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "nerotunes",
       "protected" : false,
       "id_str" : "3193351",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2966784906/ebcb5cd505d19229505516bab54af02b_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3384211746/9191180ddcae696e6e8c5c93c99575d7_normal.jpeg",
       "id" : 3193351,
       "verified" : false
     }
@@ -955,7 +961,7 @@ Grailbird.data.tweets_2010_12 =
   },
   "id_str" : "11875397004173314",
   "in_reply_to_user_id" : 3193351,
-  "text" : "@nerotunes macht nen interessanten Eindruck, hat was von \"Täglich grüßt das Murmeltier\" auf Speed",
+  "text" : "@nerotunes macht nen interessanten Eindruck, hat was von \"T\u00E4glich gr\u00FC\u00DFt das Murmeltier\" auf Speed",
   "id" : 11875397004173314,
   "in_reply_to_status_id" : 11872257685061632,
   "created_at" : "Mon Dec 06 20:11:29 +0000 2010",
@@ -1177,7 +1183,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "10284143900364801",
-  "text" : "welche App würdet ihr für Basecamp empfehlen?",
+  "text" : "welche App w\u00FCrdet ihr f\u00FCr Basecamp empfehlen?",
   "id" : 10284143900364801,
   "created_at" : "Thu Dec 02 10:48:25 +0000 2010",
   "user" : {
@@ -1243,7 +1249,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "9921938449244160",
-  "text" : "RT @stefanlesser: Bundes-Trojaner. Killerspiele. Stoppschilder. Streetview. #JMStV. \nDeutschland. Wir können alles. Außer Internet.",
+  "text" : "RT @stefanlesser: Bundes-Trojaner. Killerspiele. Stoppschilder. Streetview. #JMStV. \nDeutschland. Wir k\u00F6nnen alles. Au\u00DFer Internet.",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -1258,7 +1264,7 @@ Grailbird.data.tweets_2010_12 =
     "geo" : {
     },
     "id_str" : "9592844792635392",
-    "text" : "Bundes-Trojaner. Killerspiele. Stoppschilder. Streetview. #JMStV. \nDeutschland. Wir können alles. Außer Internet.",
+    "text" : "Bundes-Trojaner. Killerspiele. Stoppschilder. Streetview. #JMStV. \nDeutschland. Wir k\u00F6nnen alles. Au\u00DFer Internet.",
     "id" : 9592844792635392,
     "created_at" : "Tue Nov 30 13:01:27 +0000 2010",
     "user" : {

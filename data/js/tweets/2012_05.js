@@ -17,7 +17,7 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 52.3614037741, 4.8962824579 ]
   },
   "id_str" : "208158319632850944",
-  "text" : "Was ist heisst Kochunfall auf Holländisch? ;) http://t.co/oWLvrckX",
+  "text" : "Was ist heisst Kochunfall auf Holl\u00E4ndisch? ;) http://t.co/oWLvrckX",
   "id" : 208158319632850944,
   "created_at" : "Thu May 31 11:29:45 +0000 2012",
   "user" : {
@@ -53,7 +53,7 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 52.3636785123, 4.8825679956 ]
   },
   "id_str" : "208121086494253058",
-  "text" : "Kein Wunder das die Holländer das mit dem Fussball nicht können, die üben auf dem Boden //via @thetaesch  http://t.co/ZLNJk448",
+  "text" : "Kein Wunder das die Holl\u00E4nder das mit dem Fussball nicht k\u00F6nnen, die \u00FCben auf dem Boden //via @thetaesch  http://t.co/ZLNJk448",
   "id" : 208121086494253058,
   "created_at" : "Thu May 31 09:01:48 +0000 2012",
   "user" : {
@@ -199,7 +199,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "itcmcgrath",
       "protected" : false,
       "id_str" : "192198128",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1126227862/ProfilePic_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3507910753/55d1833dd18ffe5e375d503df893df2c_normal.jpeg",
       "id" : 192198128,
       "verified" : false
     }
@@ -232,7 +232,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "207778390802051072",
-  "text" : "RT @schneyra: Hörte gerade, dass Dubstep in Wubwubwuppertal erfunden wurde.",
+  "text" : "RT @schneyra: H\u00F6rte gerade, dass Dubstep in Wubwubwuppertal erfunden wurde.",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -244,7 +244,7 @@ Grailbird.data.tweets_2012_05 =
     "geo" : {
     },
     "id_str" : "207772946817753088",
-    "text" : "Hörte gerade, dass Dubstep in Wubwubwuppertal erfunden wurde.",
+    "text" : "H\u00F6rte gerade, dass Dubstep in Wubwubwuppertal erfunden wurde.",
     "id" : 207772946817753088,
     "created_at" : "Wed May 30 09:58:25 +0000 2012",
     "user" : {
@@ -318,7 +318,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "207538732117663745",
-  "text" : "Wenn man doch immer so eine Auswahl hätte http://t.co/LDeZEuUX",
+  "text" : "Wenn man doch immer so eine Auswahl h\u00E4tte http://t.co/LDeZEuUX",
   "id" : 207538732117663745,
   "created_at" : "Tue May 29 18:27:44 +0000 2012",
   "user" : {
@@ -355,7 +355,7 @@ Grailbird.data.tweets_2012_05 =
   },
   "id_str" : "207396661440430080",
   "in_reply_to_user_id" : 10934052,
-  "text" : "@DASGiB hier gibt's T-Shirts für dich  http://t.co/6NpW8imp",
+  "text" : "@DASGiB hier gibt's T-Shirts f\u00FCr dich  http://t.co/6NpW8imp",
   "id" : 207396661440430080,
   "created_at" : "Tue May 29 09:03:11 +0000 2012",
   "in_reply_to_screen_name" : "DASGiB",
@@ -382,7 +382,7 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 52.3707398591, 4.8928754474 ]
   },
   "id_str" : "206439412517711873",
-  "text" : "Was heißt Drogerie auf Holländisch? Coffeeshop?",
+  "text" : "Was hei\u00DFt Drogerie auf Holl\u00E4ndisch? Coffeeshop?",
   "id" : 206439412517711873,
   "created_at" : "Sat May 26 17:39:26 +0000 2012",
   "user" : {
@@ -435,7 +435,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "206134478236692480",
-  "text" : "Leute die, die Fernbedienung neben den Fehrnseher legen, sollten wenigsten konsequent sein und den Autoschlüssel ins Handschuhfach tun",
+  "text" : "Leute die, die Fernbedienung neben den Fehrnseher legen, sollten wenigsten konsequent sein und den Autoschl\u00FCssel ins Handschuhfach tun",
   "id" : 206134478236692480,
   "created_at" : "Fri May 25 21:27:44 +0000 2012",
   "user" : {
@@ -475,7 +475,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "206015041806401536",
-  "text" : "RT @shinaio: heute mit handtuch. aus gründen. #TowelDay #tdhh http://t.co/ArnEMeXk",
+  "text" : "RT @shinaio: heute mit handtuch. aus gr\u00FCnden. #TowelDay #tdhh http://t.co/ArnEMeXk",
   "retweeted_status" : {
     "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
     "entities" : {
@@ -498,7 +498,7 @@ Grailbird.data.tweets_2012_05 =
     "geo" : {
     },
     "id_str" : "205943394286055424",
-    "text" : "heute mit handtuch. aus gründen. #TowelDay #tdhh http://t.co/ArnEMeXk",
+    "text" : "heute mit handtuch. aus gr\u00FCnden. #TowelDay #tdhh http://t.co/ArnEMeXk",
     "id" : 205943394286055424,
     "created_at" : "Fri May 25 08:48:26 +0000 2012",
     "user" : {
@@ -592,7 +592,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "205088310375350274",
-  "text" : "RT @Agent_Dexter: Vielleicht sind die, die jetzt nicht schlafen können, einfach auf der falschen Erdhalbkugel zur Welt gekommen.",
+  "text" : "RT @Agent_Dexter: Vielleicht sind die, die jetzt nicht schlafen k\u00F6nnen, einfach auf der falschen Erdhalbkugel zur Welt gekommen.",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -604,7 +604,7 @@ Grailbird.data.tweets_2012_05 =
     "geo" : {
     },
     "id_str" : "205079418824175616",
-    "text" : "Vielleicht sind die, die jetzt nicht schlafen können, einfach auf der falschen Erdhalbkugel zur Welt gekommen.",
+    "text" : "Vielleicht sind die, die jetzt nicht schlafen k\u00F6nnen, einfach auf der falschen Erdhalbkugel zur Welt gekommen.",
     "id" : 205079418824175616,
     "created_at" : "Tue May 22 23:35:18 +0000 2012",
     "user" : {
@@ -612,7 +612,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "Agent_Dexter",
       "protected" : false,
       "id_str" : "22347534",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3235990291/a5d1c990700e65733df41d4f28132c2c_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3522224077/3fb53ca95c2b14bfdd727c777e6c7010_normal.jpeg",
       "id" : 22347534,
       "verified" : false
     }
@@ -792,7 +792,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "rubiii",
       "protected" : false,
       "id_str" : "18100029",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1858084041/new_gravatar_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3448330804/9303f2096bb625f0e6107bdfe111a0a7_normal.png",
       "id" : 18100029,
       "verified" : false
     }
@@ -981,7 +981,7 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 51.4730606491, 7.4849807017 ]
   },
   "id_str" : "201350887799664640",
-  "text" : "O-Ton der Kasse: Zuviel Probiert, gleich gibts Ärger! (@ Hellweg Baumarkt Hacheney) http://t.co/WSemzNeL",
+  "text" : "O-Ton der Kasse: Zuviel Probiert, gleich gibts \u00C4rger! (@ Hellweg Baumarkt Hacheney) http://t.co/WSemzNeL",
   "id" : 201350887799664640,
   "created_at" : "Sat May 12 16:39:27 +0000 2012",
   "user" : {
@@ -997,7 +997,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ᗰᗩᑭ",
+      "name" : "\u15F0\u15E9\u146D",
       "screen_name" : "map",
       "indices" : [ 3, 7 ],
       "id_str" : "6256252",
@@ -1016,7 +1016,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "200905533534912512",
-  "text" : "RT @map: \"Habt ihr schon den Aufruf der 100 Kühe gesehen? Wir sind die Burger.\" (© 2012 @zeitweise)",
+  "text" : "RT @map: \"Habt ihr schon den Aufruf der 100 K\u00FChe gesehen? Wir sind die Burger.\" (\u00A9 2012 @zeitweise)",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -1034,11 +1034,11 @@ Grailbird.data.tweets_2012_05 =
     "geo" : {
     },
     "id_str" : "200887353202573312",
-    "text" : "\"Habt ihr schon den Aufruf der 100 Kühe gesehen? Wir sind die Burger.\" (© 2012 @zeitweise)",
+    "text" : "\"Habt ihr schon den Aufruf der 100 K\u00FChe gesehen? Wir sind die Burger.\" (\u00A9 2012 @zeitweise)",
     "id" : 200887353202573312,
     "created_at" : "Fri May 11 09:57:31 +0000 2012",
     "user" : {
-      "name" : "ᗰᗩᑭ",
+      "name" : "\u15F0\u15E9\u146D",
       "screen_name" : "map",
       "protected" : false,
       "id_str" : "6256252",
@@ -1098,7 +1098,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "200180759137484800",
-  "text" : "Earlybird Ticket für die @nosqlmatters abzugeben",
+  "text" : "Earlybird Ticket f\u00FCr die @nosqlmatters abzugeben",
   "id" : 200180759137484800,
   "created_at" : "Wed May 09 11:09:46 +0000 2012",
   "user" : {
@@ -1130,7 +1130,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "200038381449789440",
-  "text" : "RT @cmenschel: Niemand hat die Absicht einen Flughafen zu eröffnen. #Berlin",
+  "text" : "RT @cmenschel: Niemand hat die Absicht einen Flughafen zu er\u00F6ffnen. #Berlin",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
@@ -1145,7 +1145,7 @@ Grailbird.data.tweets_2012_05 =
     "geo" : {
     },
     "id_str" : "199959111415238657",
-    "text" : "Niemand hat die Absicht einen Flughafen zu eröffnen. #Berlin",
+    "text" : "Niemand hat die Absicht einen Flughafen zu er\u00F6ffnen. #Berlin",
     "id" : 199959111415238657,
     "created_at" : "Tue May 08 20:29:01 +0000 2012",
     "user" : {
@@ -1203,7 +1203,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "198531334535266307",
-  "text" : "es ist fünf vor zwölf",
+  "text" : "es ist f\u00FCnf vor zw\u00F6lf",
   "id" : 198531334535266307,
   "created_at" : "Fri May 04 21:55:33 +0000 2012",
   "user" : {
@@ -1231,7 +1231,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 0, 21 ],
       "url" : "https://t.co/dlLBkCmq",
       "expanded_url" : "https://www.youtube.com/watch?v=8S8CbDvMn0Q",
-      "display_url" : "youtube.com/watch?v=8S8CbD…"
+      "display_url" : "youtube.com/watch?v=8S8CbD\u2026"
     } ]
   },
   "geo" : {
@@ -1260,7 +1260,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "198327014195855360",
-  "text" : "wenn ich groß bin werde ich auch mal Automobileexperte",
+  "text" : "wenn ich gro\u00DF bin werde ich auch mal Automobileexperte",
   "id" : 198327014195855360,
   "created_at" : "Fri May 04 08:23:39 +0000 2012",
   "user" : {
@@ -1294,7 +1294,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "198038489697230849",
-  "text" : "In Köln wird heute gebingt #bing #streetview http://t.co/ckFai8Bi",
+  "text" : "In K\u00F6ln wird heute gebingt #bing #streetview http://t.co/ckFai8Bi",
   "id" : 198038489697230849,
   "created_at" : "Thu May 03 13:17:09 +0000 2012",
   "user" : {
@@ -1325,7 +1325,7 @@ Grailbird.data.tweets_2012_05 =
   },
   "id_str" : "198028599880724484",
   "in_reply_to_user_id" : 17564058,
-  "text" : "@thegcat bringt nichts, dann ist der nächste Commit von denen ja ein noch kruderer Merge",
+  "text" : "@thegcat bringt nichts, dann ist der n\u00E4chste Commit von denen ja ein noch kruderer Merge",
   "id" : 198028599880724484,
   "in_reply_to_status_id" : 198028378060754945,
   "created_at" : "Thu May 03 12:37:52 +0000 2012",
@@ -1351,7 +1351,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "198027373592051712",
-  "text" : "Leute für ihre Git Commits/Merges steinigen wollen",
+  "text" : "Leute f\u00FCr ihre Git Commits/Merges steinigen wollen",
   "id" : 198027373592051712,
   "created_at" : "Thu May 03 12:32:59 +0000 2012",
   "user" : {
@@ -1511,7 +1511,7 @@ Grailbird.data.tweets_2012_05 =
   },
   "id_str" : "197988313829883904",
   "in_reply_to_user_id" : 16361412,
-  "text" : "@agento das Gefühl kenne ich",
+  "text" : "@agento das Gef\u00FChl kenne ich",
   "id" : 197988313829883904,
   "in_reply_to_status_id" : 197934275046277120,
   "created_at" : "Thu May 03 09:57:47 +0000 2012",
@@ -1537,7 +1537,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "197816800187133953",
-  "text" : "irgendwas läuft hier falsch:\nRails.application.routes.routes.routes",
+  "text" : "irgendwas l\u00E4uft hier falsch:\nRails.application.routes.routes.routes",
   "id" : 197816800187133953,
   "created_at" : "Wed May 02 22:36:15 +0000 2012",
   "user" : {
@@ -1567,7 +1567,7 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 50.9431986273, 6.9588974118 ]
   },
   "id_str" : "197715200684728321",
-  "text" : "Hallo Kölle, ich bin's mal wieder (@ Köln Hauptbahnhof w/ 4 others) http://t.co/qmsUsS5L",
+  "text" : "Hallo K\u00F6lle, ich bin's mal wieder (@ K\u00F6ln Hauptbahnhof w/ 4 others) http://t.co/qmsUsS5L",
   "id" : 197715200684728321,
   "created_at" : "Wed May 02 15:52:31 +0000 2012",
   "user" : {

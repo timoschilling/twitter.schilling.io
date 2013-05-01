@@ -64,7 +64,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "10934052",
       "id" : 10934052
     }, {
-      "name" : "Felix Bünemann",
+      "name" : "Felix B\u00FCnemann",
       "screen_name" : "felixbuenemann",
       "indices" : [ 8, 23 ],
       "id_str" : "50844482",
@@ -78,7 +78,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "196643241561554944",
   "in_reply_to_user_id" : 10934052,
-  "text" : "@DASGiB @felixbuenemann Glück Wunsch zum 3., von mir hättet ihr den ersten bekommen",
+  "text" : "@DASGiB @felixbuenemann Gl\u00FCck Wunsch zum 3., von mir h\u00E4ttet ihr den ersten bekommen",
   "id" : 196643241561554944,
   "created_at" : "Sun Apr 29 16:52:56 +0000 2012",
   "in_reply_to_screen_name" : "DASGiB",
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "196638035784384512",
   "in_reply_to_user_id" : 51445669,
-  "text" : "@l_ama oh, sorry, dann nimm meins, silberner Stecker und Schwarzer Strich am Typenschild können wir ja tauschen wenn ich wieder in K bin",
+  "text" : "@l_ama oh, sorry, dann nimm meins, silberner Stecker und Schwarzer Strich am Typenschild k\u00F6nnen wir ja tauschen wenn ich wieder in K bin",
   "id" : 196638035784384512,
   "in_reply_to_status_id" : 196635903874170880,
   "created_at" : "Sun Apr 29 16:32:15 +0000 2012",
@@ -286,7 +286,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "196304606517673985",
-  "text" : "RT @l_ama: @captainhagbard @moonbeamlabs @thetaesch drei Fäuste für ein Hallelujah!",
+  "text" : "RT @l_ama: @captainhagbard @moonbeamlabs @thetaesch drei F\u00E4uste f\u00FCr ein Hallelujah!",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -317,7 +317,7 @@ Grailbird.data.tweets_2012_04 =
     },
     "id_str" : "196304465379344385",
     "in_reply_to_user_id" : 13871602,
-    "text" : "@captainhagbard @moonbeamlabs @thetaesch drei Fäuste für ein Hallelujah!",
+    "text" : "@captainhagbard @moonbeamlabs @thetaesch drei F\u00E4uste f\u00FCr ein Hallelujah!",
     "id" : 196304465379344385,
     "created_at" : "Sat Apr 28 18:26:46 +0000 2012",
     "in_reply_to_screen_name" : "captainhagbard",
@@ -490,7 +490,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "13871602",
       "id" : 13871602
     }, {
-      "name" : "Señor Developer",
+      "name" : "Se\u00F1or Developer",
       "screen_name" : "senordeveloper",
       "indices" : [ 123, 138 ],
       "id_str" : "515601627",
@@ -509,7 +509,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "196197000528658432",
-  "text" : "RT @DonSchado: @moonbeamlabs @bitboxer @l_ama @captainhagbard it' a senõr developer INVASION!!!! :} #ah12 #ADVANCEhack /cc @senordeveloper",
+  "text" : "RT @DonSchado: @moonbeamlabs @bitboxer @l_ama @captainhagbard it' a sen\u00F5r developer INVASION!!!! :} #ah12 #ADVANCEhack /cc @senordeveloper",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -538,7 +538,7 @@ Grailbird.data.tweets_2012_04 =
         "id_str" : "13871602",
         "id" : 13871602
       }, {
-        "name" : "Señor Developer",
+        "name" : "Se\u00F1or Developer",
         "screen_name" : "senordeveloper",
         "indices" : [ 108, 123 ],
         "id_str" : "515601627",
@@ -559,7 +559,7 @@ Grailbird.data.tweets_2012_04 =
     },
     "id_str" : "196185218653237248",
     "in_reply_to_user_id" : 28508951,
-    "text" : "@moonbeamlabs @bitboxer @l_ama @captainhagbard it' a senõr developer INVASION!!!! :} #ah12 #ADVANCEhack /cc @senordeveloper",
+    "text" : "@moonbeamlabs @bitboxer @l_ama @captainhagbard it' a sen\u00F5r developer INVASION!!!! :} #ah12 #ADVANCEhack /cc @senordeveloper",
     "id" : 196185218653237248,
     "in_reply_to_status_id" : 196180561310650368,
     "created_at" : "Sat Apr 28 10:32:55 +0000 2012",
@@ -685,7 +685,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Philipp Kühn",
+      "name" : "Philipp K\u00FChn",
       "screen_name" : "Weltentummler",
       "indices" : [ 0, 14 ],
       "id_str" : "14445852",
@@ -719,19 +719,19 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Râu Cao",
+      "name" : "R\u00E2u Cao",
       "screen_name" : "skddc",
       "indices" : [ 42, 48 ],
       "id_str" : "12515352",
       "id" : 12515352
     }, {
-      "name" : "André",
+      "name" : "Andr\u00E9",
       "screen_name" : "angemerkt",
       "indices" : [ 49, 59 ],
       "id_str" : "153952611",
       "id" : 153952611
     }, {
-      "name" : "Harm Lübben",
+      "name" : "Harm L\u00FCbben",
       "screen_name" : "codepolizei",
       "indices" : [ 60, 72 ],
       "id_str" : "10455432",
@@ -849,7 +849,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "195847444205010944",
   "in_reply_to_user_id" : 21211288,
-  "text" : "@9elements wann fahrt ihr los zum Hackathon? Würde euch in Essen joinen",
+  "text" : "@9elements wann fahrt ihr los zum Hackathon? W\u00FCrde euch in Essen joinen",
   "id" : 195847444205010944,
   "created_at" : "Fri Apr 27 12:10:44 +0000 2012",
   "in_reply_to_screen_name" : "9elements",
@@ -882,7 +882,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "195226652991684608",
   "in_reply_to_user_id" : 17564058,
-  "text" : "@thegcat letzter Vortrag läuft",
+  "text" : "@thegcat letzter Vortrag l\u00E4uft",
   "id" : 195226652991684608,
   "in_reply_to_status_id" : 195226072697143297,
   "created_at" : "Wed Apr 25 19:03:55 +0000 2012",
@@ -1014,7 +1014,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "194859952492384258",
   "in_reply_to_user_id" : 17564058,
-  "text" : "@thegcat ne, muss vorher was in Köln erledigen, wollte um 17:30 noch vorher zu Adcloud @molily erzählt was über Chaplin http://t.co/372WQbTP",
+  "text" : "@thegcat ne, muss vorher was in K\u00F6ln erledigen, wollte um 17:30 noch vorher zu Adcloud @molily erz\u00E4hlt was \u00FCber Chaplin http://t.co/372WQbTP",
   "id" : 194859952492384258,
   "in_reply_to_status_id" : 194853935817830401,
   "created_at" : "Tue Apr 24 18:46:47 +0000 2012",
@@ -1080,7 +1080,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "194802174511939585",
-  "text" : "RT @sixtus: Eine Gewerkschaft, die von einem Industrie-Lobbyisten gelobt wird, sollte überlegen, was genau sie gerade falsch macht. http ...",
+  "text" : "RT @sixtus: Eine Gewerkschaft, die von einem Industrie-Lobbyisten gelobt wird, sollte \u00FCberlegen, was genau sie gerade falsch macht. http ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://bitly.com\" rel=\"nofollow\">bitly</a>",
     "entities" : {
@@ -1097,7 +1097,7 @@ Grailbird.data.tweets_2012_04 =
     "geo" : {
     },
     "id_str" : "194799216219004928",
-    "text" : "Eine Gewerkschaft, die von einem Industrie-Lobbyisten gelobt wird, sollte überlegen, was genau sie gerade falsch macht. http://t.co/ar77igKJ",
+    "text" : "Eine Gewerkschaft, die von einem Industrie-Lobbyisten gelobt wird, sollte \u00FCberlegen, was genau sie gerade falsch macht. http://t.co/ar77igKJ",
     "id" : 194799216219004928,
     "created_at" : "Tue Apr 24 14:45:26 +0000 2012",
     "user" : {
@@ -1173,7 +1173,7 @@ Grailbird.data.tweets_2012_04 =
     "user" : {
       "name" : "vivianmeally",
       "screen_name" : "vivianmeally",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "17129996",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/979798729/9131d9ca-76b8-4f0f-9f20-993dd308ea6b_normal.PNG",
       "id" : 17129996,
@@ -1210,7 +1210,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "194784369364303872",
   "in_reply_to_user_id" : 17129996,
-  "text" : "@vivianmeally ich meinte den IE gibt es nicht für OSX und Linux ;)",
+  "text" : "@vivianmeally ich meinte den IE gibt es nicht f\u00FCr OSX und Linux ;)",
   "id" : 194784369364303872,
   "in_reply_to_status_id" : 194784150086107137,
   "created_at" : "Tue Apr 24 13:46:27 +0000 2012",
@@ -1244,7 +1244,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "194783451587686401",
   "in_reply_to_user_id" : 17129996,
-  "text" : "@vivianmeally nicht für OS und Linux ;)",
+  "text" : "@vivianmeally nicht f\u00FCr OS und Linux ;)",
   "id" : 194783451587686401,
   "in_reply_to_status_id" : 194775604778909696,
   "created_at" : "Tue Apr 24 13:42:48 +0000 2012",
@@ -1304,7 +1304,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "194729628995289088",
-  "text" : "habe mich gestern mit Rails gestritten,\nhaben uns heute versöhnt",
+  "text" : "habe mich gestern mit Rails gestritten,\nhaben uns heute vers\u00F6hnt",
   "id" : 194729628995289088,
   "created_at" : "Tue Apr 24 10:08:56 +0000 2012",
   "user" : {
@@ -1425,7 +1425,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 48, 68 ],
       "url" : "http://t.co/jZclETe2",
       "expanded_url" : "http://www.flickr.com/photos/raindrift/7095238893/in/set-72157629492908038/",
-      "display_url" : "flickr.com/photos/raindri…"
+      "display_url" : "flickr.com/photos/raindri\u2026"
     } ]
   },
   "geo" : {
@@ -1442,7 +1442,7 @@ Grailbird.data.tweets_2012_04 =
         "indices" : [ 37, 57 ],
         "url" : "http://t.co/jZclETe2",
         "expanded_url" : "http://www.flickr.com/photos/raindrift/7095238893/in/set-72157629492908038/",
-        "display_url" : "flickr.com/photos/raindri…"
+        "display_url" : "flickr.com/photos/raindri\u2026"
       } ]
     },
     "geo" : {
@@ -1593,7 +1593,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "193043922363219968",
   "in_reply_to_user_id" : 3193351,
-  "text" : "@nerotunes du hast mich Grade beim aussteige aus dem Zug fast über den Haufen gerannt und nicht zurück gegrüßt ;)",
+  "text" : "@nerotunes du hast mich Grade beim aussteige aus dem Zug fast \u00FCber den Haufen gerannt und nicht zur\u00FCck gegr\u00FC\u00DFt ;)",
   "id" : 193043922363219968,
   "in_reply_to_status_id" : 193042593754525696,
   "created_at" : "Thu Apr 19 18:30:32 +0000 2012",
@@ -1644,7 +1644,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ᗰᗩᑭ",
+      "name" : "\u15F0\u15E9\u146D",
       "screen_name" : "map",
       "indices" : [ 3, 7 ],
       "id_str" : "6256252",
@@ -1673,7 +1673,7 @@ Grailbird.data.tweets_2012_04 =
     "id" : 192587913043775488,
     "created_at" : "Wed Apr 18 12:18:31 +0000 2012",
     "user" : {
-      "name" : "ᗰᗩᑭ",
+      "name" : "\u15F0\u15E9\u146D",
       "screen_name" : "map",
       "protected" : false,
       "id_str" : "6256252",
@@ -1746,7 +1746,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Señor Developer",
+      "name" : "Se\u00F1or Developer",
       "screen_name" : "senordeveloper",
       "indices" : [ 0, 15 ],
       "id_str" : "515601627",
@@ -1833,7 +1833,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "192244528479080449",
-  "text" : "RT @nblr: StGB §328 Verursachen einer nuklearen Explosion ⇒ bis zu 5 Jahre Haft | UrHG §108a Gewerbsmäßige unerlaubte Verwertung ⇒ bis z ...",
+  "text" : "RT @nblr: StGB \u00A7328 Verursachen einer nuklearen Explosion \u21D2 bis zu 5 Jahre Haft | UrHG \u00A7108a Gewerbsm\u00E4\u00DFige unerlaubte Verwertung \u21D2 bis z ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -1845,7 +1845,7 @@ Grailbird.data.tweets_2012_04 =
     "geo" : {
     },
     "id_str" : "192141087681417217",
-    "text" : "StGB §328 Verursachen einer nuklearen Explosion ⇒ bis zu 5 Jahre Haft | UrHG §108a Gewerbsmäßige unerlaubte Verwertung ⇒ bis zu 5 Jahre Haft",
+    "text" : "StGB \u00A7328 Verursachen einer nuklearen Explosion \u21D2 bis zu 5 Jahre Haft | UrHG \u00A7108a Gewerbsm\u00E4\u00DFige unerlaubte Verwertung \u21D2 bis zu 5 Jahre Haft",
     "id" : 192141087681417217,
     "created_at" : "Tue Apr 17 06:42:59 +0000 2012",
     "user" : {
@@ -1853,7 +1853,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "nblr",
       "protected" : false,
       "id_str" : "174052946",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2895747109/e8345c9e755200bf1353adb515c689af_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3311942359/003f0d345d2017faf4f04c54b1e19ad6_normal.png",
       "id" : 174052946,
       "verified" : false
     }
@@ -1964,7 +1964,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jörg Tauss",
+      "name" : "J\u00F6rg Tauss",
       "screen_name" : "tauss",
       "indices" : [ 3, 9 ],
       "id_str" : "18219170",
@@ -1980,7 +1980,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "191482199462256640",
-  "text" : "RT @tauss: Gewerkschaft der Polizei #GdP für Kennzeichnung von Radfahrern. Ich bin für Kennzeichnung von Polizisten.",
+  "text" : "RT @tauss: Gewerkschaft der Polizei #GdP f\u00FCr Kennzeichnung von Radfahrern. Ich bin f\u00FCr Kennzeichnung von Polizisten.",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -1995,11 +1995,11 @@ Grailbird.data.tweets_2012_04 =
     "geo" : {
     },
     "id_str" : "191457417882632193",
-    "text" : "Gewerkschaft der Polizei #GdP für Kennzeichnung von Radfahrern. Ich bin für Kennzeichnung von Polizisten.",
+    "text" : "Gewerkschaft der Polizei #GdP f\u00FCr Kennzeichnung von Radfahrern. Ich bin f\u00FCr Kennzeichnung von Polizisten.",
     "id" : 191457417882632193,
     "created_at" : "Sun Apr 15 09:26:20 +0000 2012",
     "user" : {
-      "name" : "Jörg Tauss",
+      "name" : "J\u00F6rg Tauss",
       "screen_name" : "tauss",
       "protected" : false,
       "id_str" : "18219170",
@@ -2041,7 +2041,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "190729798455263232",
-  "text" : "RT @slith76: Schicke GIT Einführung: http://t.co/u3Ad0Ymg",
+  "text" : "RT @slith76: Schicke GIT Einf\u00FChrung: http://t.co/u3Ad0Ymg",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -2058,7 +2058,7 @@ Grailbird.data.tweets_2012_04 =
     "geo" : {
     },
     "id_str" : "190723350807592960",
-    "text" : "Schicke GIT Einführung: http://t.co/u3Ad0Ymg",
+    "text" : "Schicke GIT Einf\u00FChrung: http://t.co/u3Ad0Ymg",
     "id" : 190723350807592960,
     "created_at" : "Fri Apr 13 08:49:24 +0000 2012",
     "user" : {
@@ -2093,7 +2093,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "190491158739292161",
-  "text" : "Das Seminar für Zeitreisen beginnt letzten Samstag",
+  "text" : "Das Seminar f\u00FCr Zeitreisen beginnt letzten Samstag",
   "id" : 190491158739292161,
   "created_at" : "Thu Apr 12 17:26:46 +0000 2012",
   "user" : {
@@ -2133,7 +2133,7 @@ Grailbird.data.tweets_2012_04 =
         "indices" : [ 107, 127 ],
         "url" : "http://t.co/nmKnMb9K",
         "expanded_url" : "http://fffff.at/free-universal-construction-kit/",
-        "display_url" : "fffff.at/free-universal…"
+        "display_url" : "fffff.at/free-universal\u2026"
       } ]
     },
     "geo" : {
@@ -2248,7 +2248,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "189689866429267968",
-  "text" : "RT @dacxp: Firefox: \"Das Dokument ist erloschen\" - Was für ein Glück! Ich habe gar nicht gewusst, dass es gebrannt hat.",
+  "text" : "RT @dacxp: Firefox: \"Das Dokument ist erloschen\" - Was f\u00FCr ein Gl\u00FCck! Ich habe gar nicht gewusst, dass es gebrannt hat.",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -2260,7 +2260,7 @@ Grailbird.data.tweets_2012_04 =
     "geo" : {
     },
     "id_str" : "189656157932093440",
-    "text" : "Firefox: \"Das Dokument ist erloschen\" - Was für ein Glück! Ich habe gar nicht gewusst, dass es gebrannt hat.",
+    "text" : "Firefox: \"Das Dokument ist erloschen\" - Was f\u00FCr ein Gl\u00FCck! Ich habe gar nicht gewusst, dass es gebrannt hat.",
     "id" : 189656157932093440,
     "created_at" : "Tue Apr 10 10:08:46 +0000 2012",
     "user" : {
@@ -2331,7 +2331,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "188645047238004736",
-  "text" : "RT @MissAntrophie: Nehmt Euch das Leben.\n\n\n\n\n\n\nEs ist bunt und herrlich!!",
+  "text" : "RT @MissAntrophie: Nehmt Euch das Leben.\n\nEs ist bunt und herrlich!!",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
@@ -2343,7 +2343,7 @@ Grailbird.data.tweets_2012_04 =
     "geo" : {
     },
     "id_str" : "188636864805224450",
-    "text" : "Nehmt Euch das Leben.\n\n\n\n\n\n\nEs ist bunt und herrlich!!",
+    "text" : "Nehmt Euch das Leben.\n\nEs ist bunt und herrlich!!",
     "id" : 188636864805224450,
     "created_at" : "Sat Apr 07 14:38:27 +0000 2012",
     "user" : {
@@ -2351,7 +2351,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "MissAntrophie",
       "protected" : false,
       "id_str" : "327912082",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3187050798/5e3beace9c4f54220399fdce3ace399c_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3538066727/66bcc8f8ce57446542a25553b2946f8c_normal.jpeg",
       "id" : 327912082,
       "verified" : false
     }
@@ -2378,7 +2378,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "187794311365140481",
-  "text" : "wenn ich auf einer Hotel Webseite \"Färb-TV\" lese, bekomme ich das Gefühl das sie ihre Webseite seit den 60ern nicht mehr geupdatet haben",
+  "text" : "wenn ich auf einer Hotel Webseite \"F\u00E4rb-TV\" lese, bekomme ich das Gef\u00FChl das sie ihre Webseite seit den 60ern nicht mehr geupdatet haben",
   "id" : 187794311365140481,
   "created_at" : "Thu Apr 05 06:50:27 +0000 2012",
   "user" : {
@@ -2700,7 +2700,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -2718,7 +2718,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "186539778521563137",
   "in_reply_to_user_id" : 18448838,
-  "text" : "@echt falsch die Mörderin #tatort",
+  "text" : "@echt falsch die M\u00F6rderin #tatort",
   "id" : 186539778521563137,
   "in_reply_to_status_id" : 186524815761477632,
   "created_at" : "Sun Apr 01 19:45:23 +0000 2012",
@@ -2737,7 +2737,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ⒸⓁⒶⓊⒹⓘⒶ",
+      "name" : "\u24B8\u24C1\u24B6\u24CA\u24B9\u24D8\u24B6",
       "screen_name" : "orbisclaudiae",
       "indices" : [ 3, 17 ],
       "id_str" : "56993919",
@@ -2762,15 +2762,15 @@ Grailbird.data.tweets_2012_04 =
     "geo" : {
     },
     "id_str" : "186485961767653376",
-    "text" : "Bei nervenden Kindern, die in der Warteschlange vor SeaLife nach Nemo fragen, zeige ich gerne stumm auf die Nordsee-Filiale gegenüber.",
+    "text" : "Bei nervenden Kindern, die in der Warteschlange vor SeaLife nach Nemo fragen, zeige ich gerne stumm auf die Nordsee-Filiale gegen\u00FCber.",
     "id" : 186485961767653376,
     "created_at" : "Sun Apr 01 16:11:32 +0000 2012",
     "user" : {
-      "name" : "ⒸⓁⒶⓊⒹⓘⒶ",
+      "name" : "\u24B8\u24C1\u24B6\u24CA\u24B9\u24D8\u24B6",
       "screen_name" : "orbisclaudiae",
       "protected" : false,
       "id_str" : "56993919",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2159833687/gestreift_me_5_normal.JPG",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3391104934/489a08cf3adef948f1d9040b00cf5043_normal.png",
       "id" : 56993919,
       "verified" : false
     }
@@ -2805,7 +2805,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "186516523958013953",
   "in_reply_to_user_id" : 19550858,
-  "text" : "@dacxp hab letztens einen 40 Jahre alten Wein getrunken, der Geschmack war lediglich gewöhnungsbedürftig",
+  "text" : "@dacxp hab letztens einen 40 Jahre alten Wein getrunken, der Geschmack war lediglich gew\u00F6hnungsbed\u00FCrftig",
   "id" : 186516523958013953,
   "in_reply_to_status_id" : 186486446645968897,
   "created_at" : "Sun Apr 01 18:12:59 +0000 2012",
@@ -2836,7 +2836,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "186418760209530883",
-  "text" : "Irgend wie süß diese Geocacher http://t.co/6JP2vcYz",
+  "text" : "Irgend wie s\u00FC\u00DF diese Geocacher http://t.co/6JP2vcYz",
   "id" : 186418760209530883,
   "created_at" : "Sun Apr 01 11:44:30 +0000 2012",
   "user" : {

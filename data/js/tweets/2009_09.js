@@ -3,7 +3,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -53,7 +53,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "id_str" : "4502680753",
   "in_reply_to_user_id" : 19961029,
-  "text" : "@shinaio dann sollte das (Tee)Tief von gestern ja überwunden sein. War denn auch deine Blackmamba dabei?",
+  "text" : "@shinaio dann sollte das (Tee)Tief von gestern ja \u00FCberwunden sein. War denn auch deine Blackmamba dabei?",
   "id" : 4502680753,
   "in_reply_to_status_id" : 4502272967,
   "created_at" : "Wed Sep 30 17:44:19 +0000 2009",
@@ -260,7 +260,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4466606739",
-  "text" : "Studie zu einem alternativen Home-Screen für das iPhone von teehan+lax:   http://tr.im/A4Ob (via @agenturblog) - NICE",
+  "text" : "Studie zu einem alternativen Home-Screen f\u00FCr das iPhone von teehan+lax:   http://tr.im/A4Ob (via @agenturblog) - NICE",
   "id" : 4466606739,
   "created_at" : "Tue Sep 29 09:41:28 +0000 2009",
   "user" : {
@@ -401,7 +401,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "id_str" : "4421661615",
   "in_reply_to_user_id" : 959201,
-  "text" : "@Katti hieß der laden nicht schon immer oder zumindest schon mal Stargate?",
+  "text" : "@Katti hie\u00DF der laden nicht schon immer oder zumindest schon mal Stargate?",
   "id" : 4421661615,
   "in_reply_to_status_id" : 4421201837,
   "created_at" : "Sun Sep 27 17:54:25 +0000 2009",
@@ -488,7 +488,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4390695164",
-  "text" : "Videobotschaft an die Nichtwähler: http://bit.ly/3afe3 #piraten #btw09 (via @Piratenpartei)",
+  "text" : "Videobotschaft an die Nichtw\u00E4hler: http://bit.ly/3afe3 #piraten #btw09 (via @Piratenpartei)",
   "id" : 4390695164,
   "created_at" : "Sat Sep 26 09:29:22 +0000 2009",
   "user" : {
@@ -520,7 +520,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4364120473",
-  "text" : "um einen iPod legal mit Musik zu füllen müsste man 50.000 € zahlen &gt;&gt; Gerd Leonhard. Das muss ich mal nachrechnen. #start09 (via @k_laydo)",
+  "text" : "um einen iPod legal mit Musik zu f\u00FCllen m\u00FCsste man 50.000 \u20AC zahlen &gt;&gt; Gerd Leonhard. Das muss ich mal nachrechnen. #start09 (via @k_laydo)",
   "id" : 4364120473,
   "created_at" : "Fri Sep 25 08:34:05 +0000 2009",
   "user" : {
@@ -549,7 +549,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4364074689",
-  "text" : "Warum #PIRATEN ins Innenministerium müssen: \"Innenministerium will Verfassungsschutz zur Polizei machen\": http://is.gd/3EEpT #btw09",
+  "text" : "Warum #PIRATEN ins Innenministerium m\u00FCssen: \"Innenministerium will Verfassungsschutz zur Polizei machen\": http://is.gd/3EEpT #btw09",
   "id" : 4364074689,
   "created_at" : "Fri Sep 25 08:29:53 +0000 2009",
   "user" : {
@@ -575,7 +575,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4364022307",
-  "text" : "warum gehen meine 50€ teuren Sennheiser Kopfhörer eigentlich immer nach 3 Monaten kaputt? #fail",
+  "text" : "warum gehen meine 50\u20AC teuren Sennheiser Kopfh\u00F6rer eigentlich immer nach 3 Monaten kaputt? #fail",
   "id" : 4364022307,
   "created_at" : "Fri Sep 25 08:24:35 +0000 2009",
   "user" : {
@@ -591,7 +591,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jörg Tauss",
+      "name" : "J\u00F6rg Tauss",
       "screen_name" : "tauss",
       "indices" : [ 1, 7 ],
       "id_str" : "18219170",
@@ -634,7 +634,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jörg Tauss",
+      "name" : "J\u00F6rg Tauss",
       "screen_name" : "tauss",
       "indices" : [ 0, 6 ],
       "id_str" : "18219170",
@@ -776,7 +776,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4297225338",
-  "text" : "Google Chrome Frame, #Webkit und #V8 für den #IE http://tr.im/zqTB #googlechromeframe",
+  "text" : "Google Chrome Frame, #Webkit und #V8 f\u00FCr den #IE http://tr.im/zqTB #googlechromeframe",
   "id" : 4297225338,
   "created_at" : "Tue Sep 22 20:18:08 +0000 2009",
   "user" : {
@@ -827,7 +827,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "c",
+      "name" : "Chris Dian",
       "screen_name" : "crossie2k",
       "indices" : [ 39, 49 ],
       "id_str" : "37992797",
@@ -939,7 +939,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4150575065",
-  "text" : "Und dann ertappt man sich dabei dass man absurderweise dankbar ist für einen Amokläufer der nie Counterstrike gespielt hat (via @saschalobo)",
+  "text" : "Und dann ertappt man sich dabei dass man absurderweise dankbar ist f\u00FCr einen Amokl\u00E4ufer der nie Counterstrike gespielt hat (via @saschalobo)",
   "id" : 4150575065,
   "created_at" : "Mon Sep 21 17:13:06 +0000 2009",
   "user" : {
@@ -968,7 +968,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4148333989",
-  "text" : "Mehr Kühlschrankvideos! Was passiert eigentlich mit dem Licht? Weltexklusiv! http://qik.com/video/2965031 (via @343max)",
+  "text" : "Mehr K\u00FChlschrankvideos! Was passiert eigentlich mit dem Licht? Weltexklusiv! http://qik.com/video/2965031 (via @343max)",
   "id" : 4148333989,
   "created_at" : "Mon Sep 21 15:28:28 +0000 2009",
   "user" : {
@@ -1024,7 +1024,7 @@ Grailbird.data.tweets_2009_09 =
       "text" : "fdp",
       "indices" : [ 79, 83 ]
     }, {
-      "text" : "grüne",
+      "text" : "gr\u00FCne",
       "indices" : [ 85, 91 ]
     } ],
     "urls" : [ ]
@@ -1032,7 +1032,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4129383399",
-  "text" : "Neues Video: Die ganze Wahrheit ist ganz anders! http://bit.ly/8iRKx #piraten+ #fdp- #grüne- (via @Piratenpartei)",
+  "text" : "Neues Video: Die ganze Wahrheit ist ganz anders! http://bit.ly/8iRKx #piraten+ #fdp- #gr\u00FCne- (via @Piratenpartei)",
   "id" : 4129383399,
   "created_at" : "Sun Sep 20 19:20:41 +0000 2009",
   "user" : {
@@ -1084,7 +1084,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4081815803",
-  "text" : "RT @chrisgrabinski: Warum stellt die Polizei nach Amokläufen eigentlich immer den Computer sicher, aber nie das Bücherregal?",
+  "text" : "RT @chrisgrabinski: Warum stellt die Polizei nach Amokl\u00E4ufen eigentlich immer den Computer sicher, aber nie das B\u00FCcherregal?",
   "id" : 4081815803,
   "created_at" : "Fri Sep 18 16:11:12 +0000 2009",
   "user" : {
@@ -1180,7 +1180,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4064406416",
-  "text" : "Sehr gelungenes Harald-Schmidt-Comeback. Die Hälfte der ARD-Intendanten wird ihn feuern wollen. (via @tknuewer)",
+  "text" : "Sehr gelungenes Harald-Schmidt-Comeback. Die H\u00E4lfte der ARD-Intendanten wird ihn feuern wollen. (via @tknuewer)",
   "id" : 4064406416,
   "created_at" : "Thu Sep 17 22:07:12 +0000 2009",
   "user" : {
@@ -1206,7 +1206,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4064016850",
-  "text" : "gleich kommt ein Bericht über die #Piraten im RTL Nachtjournal",
+  "text" : "gleich kommt ein Bericht \u00FCber die #Piraten im RTL Nachtjournal",
   "id" : 4064016850,
   "created_at" : "Thu Sep 17 21:48:17 +0000 2009",
   "user" : {
@@ -1297,7 +1297,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Spließ",
+      "name" : "Christian Splie\u00DF",
       "screen_name" : "NGC6544",
       "indices" : [ 58, 66 ],
       "id_str" : "9413142",
@@ -1319,7 +1319,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4063567407",
-  "text" : "#Schweinegrippenjournalismus! Und alle so: Yeaaahhh! (via @NGC6544) – Yeaahh! ;D (via @florianfiegel)",
+  "text" : "#Schweinegrippenjournalismus! Und alle so: Yeaaahhh! (via @NGC6544) \u2013 Yeaahh! ;D (via @florianfiegel)",
   "id" : 4063567407,
   "created_at" : "Thu Sep 17 21:26:09 +0000 2009",
   "user" : {
@@ -1408,7 +1408,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -1536,7 +1536,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3976946804",
-  "text" : "Anti- #Zensursula - Video Rette Deine Freiheit Toll gemacht. Schön zum verbreiten! http://bit.ly/QUUyV (via @netzpolitik)",
+  "text" : "Anti- #Zensursula - Video Rette Deine Freiheit Toll gemacht. Sch\u00F6n zum verbreiten! http://bit.ly/QUUyV (via @netzpolitik)",
   "id" : 3976946804,
   "created_at" : "Mon Sep 14 09:16:02 +0000 2009",
   "user" : {
@@ -1567,7 +1567,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "id_str" : "3961209930",
   "in_reply_to_user_id" : 6798612,
-  "text" : "@tlehmann naja ob 1000 Zuschauer repräsentativ sind?",
+  "text" : "@tlehmann naja ob 1000 Zuschauer repr\u00E4sentativ sind?",
   "id" : 3961209930,
   "in_reply_to_status_id" : 3961147811,
   "created_at" : "Sun Sep 13 20:20:26 +0000 2009",
@@ -1731,7 +1731,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3960891767",
-  "text" : "habe etwas gelernt, man muss nicht gewählt werden um eine Volkspartei zu sein, es reicht wenn man meint die Meinung des Volkes zu vertreten",
+  "text" : "habe etwas gelernt, man muss nicht gew\u00E4hlt werden um eine Volkspartei zu sein, es reicht wenn man meint die Meinung des Volkes zu vertreten",
   "id" : 3960891767,
   "created_at" : "Sun Sep 13 20:03:14 +0000 2009",
   "user" : {
@@ -1823,7 +1823,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3937858696",
-  "text" : "Auch der schöne Sonnenuntergang entschädigt nich die Verspätung der #Bahn um 30 Min",
+  "text" : "Auch der sch\u00F6ne Sonnenuntergang entsch\u00E4digt nich die Versp\u00E4tung der #Bahn um 30 Min",
   "id" : 3937858696,
   "created_at" : "Sat Sep 12 17:52:28 +0000 2009",
   "user" : {
@@ -1852,7 +1852,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3892606433",
-  "text" : "In Wirklichkeit ist die Realität ganz anders (via @changeworx)",
+  "text" : "In Wirklichkeit ist die Realit\u00E4t ganz anders (via @changeworx)",
   "id" : 3892606433,
   "created_at" : "Thu Sep 10 18:09:12 +0000 2009",
   "user" : {
@@ -1894,7 +1894,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 77, 82 ],
       "id_str" : "18448838",
@@ -1907,7 +1907,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3825094359",
-  "text" : "Früher haben wir Pornos durchgeblättert, heute sind es IKEA Kataloge... (via @echt)",
+  "text" : "Fr\u00FCher haben wir Pornos durchgebl\u00E4ttert, heute sind es IKEA Kataloge... (via @echt)",
   "id" : 3825094359,
   "created_at" : "Mon Sep 07 20:15:21 +0000 2009",
   "user" : {
@@ -1965,7 +1965,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3820497628",
-  "text" : "Unterstütze die @Piratenpartei und zeige Flagge! http://www.piratenvogel.de/ #Piraten+",
+  "text" : "Unterst\u00FCtze die @Piratenpartei und zeige Flagge! http://www.piratenvogel.de/ #Piraten+",
   "id" : 3820497628,
   "created_at" : "Mon Sep 07 15:53:38 +0000 2009",
   "user" : {
@@ -2009,7 +2009,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3817483522",
-  "text" : "Essen fassen mit @rattazong und @captainhagbard … #scoozi (via @florianfiegel)",
+  "text" : "Essen fassen mit @rattazong und @captainhagbard \u2026 #scoozi (via @florianfiegel)",
   "id" : 3817483522,
   "created_at" : "Mon Sep 07 12:20:56 +0000 2009",
   "user" : {
@@ -2111,7 +2111,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3741578889",
-  "text" : "#Google übersetzt #sevenload mit #YouTube http://twitpic.com/gb78j (via @Hyman @annasophie @Ibo)",
+  "text" : "#Google \u00FCbersetzt #sevenload mit #YouTube http://twitpic.com/gb78j (via @Hyman @annasophie @Ibo)",
   "id" : 3741578889,
   "created_at" : "Thu Sep 03 20:42:16 +0000 2009",
   "user" : {
@@ -2134,7 +2134,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3741125395",
-  "text" : "auf der Hernerstr. in Bochum fahren wieder Strassenbahnen, eine neue Bahn für die Bogestra wurde, per Schwerlasttransporter geliefert",
+  "text" : "auf der Hernerstr. in Bochum fahren wieder Strassenbahnen, eine neue Bahn f\u00FCr die Bogestra wurde, per Schwerlasttransporter geliefert",
   "id" : 3741125395,
   "created_at" : "Thu Sep 03 20:18:36 +0000 2009",
   "user" : {
@@ -2169,7 +2169,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3734673692",
-  "text" : "boondock saints II – Nein wie geil! http://bit.ly/RxMKq\n (via @dotdean) (via @florianfiegel)",
+  "text" : "boondock saints II \u2013 Nein wie geil! http://bit.ly/RxMKq\n (via @dotdean) (via @florianfiegel)",
   "id" : 3734673692,
   "created_at" : "Thu Sep 03 14:40:37 +0000 2009",
   "user" : {
@@ -2208,7 +2208,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "id_str" : "3734572863",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel @DerLeereRaum währe auch mit von der Partie #crossgolf",
+  "text" : "@florianfiegel @DerLeereRaum w\u00E4hre auch mit von der Partie #crossgolf",
   "id" : 3734572863,
   "created_at" : "Thu Sep 03 14:35:07 +0000 2009",
   "in_reply_to_screen_name" : "florianfiegel",
@@ -2256,7 +2256,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3714412759",
-  "text" : "Spammail mit Werbung für Alkoholtester trägt den Betreff \"Keine Befoerderung in Aussicht\"",
+  "text" : "Spammail mit Werbung f\u00FCr Alkoholtester tr\u00E4gt den Betreff \"Keine Befoerderung in Aussicht\"",
   "id" : 3714412759,
   "created_at" : "Wed Sep 02 16:51:48 +0000 2009",
   "user" : {
@@ -2302,7 +2302,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3685402636",
-  "text" : "kann man unter OS X das Dock anders einstellen, so das es schneller/früher ausfährt?",
+  "text" : "kann man unter OS X das Dock anders einstellen, so das es schneller/fr\u00FCher ausf\u00E4hrt?",
   "id" : 3685402636,
   "created_at" : "Tue Sep 01 09:39:46 +0000 2009",
   "user" : {

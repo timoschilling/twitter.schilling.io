@@ -46,7 +46,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "171933959633121282",
-  "text" : "Die @DB_Bahn will via Mail über verspätete Züge informieren und so zum Weltweit größten Span Versender aufsteigen http://t.co/OAJxhOy6",
+  "text" : "Die @DB_Bahn will via Mail \u00FCber versp\u00E4tete Z\u00FCge informieren und so zum Weltweit gr\u00F6\u00DFten Span Versender aufsteigen http://t.co/OAJxhOy6",
   "id" : 171933959633121282,
   "created_at" : "Tue Feb 21 12:27:05 +0000 2012",
   "user" : {
@@ -74,7 +74,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "170620449305268224",
-  "text" : "Fresh Ruby-oriented conference in Wrocław, Poland. Get ready March 2012: http://t.co/HHKKFLHh Please RT",
+  "text" : "Fresh Ruby-oriented conference in Wroc\u0142aw, Poland. Get ready March 2012: http://t.co/HHKKFLHh Please RT",
   "id" : 170620449305268224,
   "created_at" : "Fri Feb 17 21:27:39 +0000 2012",
   "user" : {
@@ -166,7 +166,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "170552734980915200",
-  "text" : "RT @spreeblick: Arbeit. Kann Spuren von Müssen enthalten.",
+  "text" : "RT @spreeblick: Arbeit. Kann Spuren von M\u00FCssen enthalten.",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -178,7 +178,7 @@ Grailbird.data.tweets_2012_02 =
     "geo" : {
     },
     "id_str" : "170549831159398400",
-    "text" : "Arbeit. Kann Spuren von Müssen enthalten.",
+    "text" : "Arbeit. Kann Spuren von M\u00FCssen enthalten.",
     "id" : 170549831159398400,
     "created_at" : "Fri Feb 17 16:47:03 +0000 2012",
     "user" : {
@@ -186,7 +186,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "spreeblick",
       "protected" : false,
       "id_str" : "3782931",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1239151673/65a624b6-94ea-4dd4-8f34-708e046a878e_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3374093833/059788882e94132ea654f4eea66a54e5_normal.png",
       "id" : 3782931,
       "verified" : true
     }
@@ -206,7 +206,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Barcamp Nürnberg",
+      "name" : "Barcamp N\u00FCrnberg",
       "screen_name" : "bcnue",
       "indices" : [ 34, 40 ],
       "id_str" : "76110599",
@@ -219,7 +219,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "170445479392444416",
-  "text" : "habe ein Zweitages Ticket für das @bcnue abzugeben, pls rt",
+  "text" : "habe ein Zweitages Ticket f\u00FCr das @bcnue abzugeben, pls rt",
   "id" : 170445479392444416,
   "created_at" : "Fri Feb 17 09:52:23 +0000 2012",
   "user" : {

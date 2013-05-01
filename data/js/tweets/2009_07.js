@@ -88,7 +88,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2948563827",
-  "text" : "Jetzt, wo Politik auch offiziell zu 90% aus Pressearbeit besteht, könnte man sie auch PRolitik nennen. (via @saschalobo)",
+  "text" : "Jetzt, wo Politik auch offiziell zu 90% aus Pressearbeit besteht, k\u00F6nnte man sie auch PRolitik nennen. (via @saschalobo)",
   "id" : 2948563827,
   "created_at" : "Fri Jul 31 09:34:35 +0000 2009",
   "user" : {
@@ -163,7 +163,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2927661590",
-  "text" : "Gut, dass wir in Deutschland offensichtlich immer noch keine größeren Probleme als Ulla Schmidts Dienstwagennutzung haben. (via @pottblog)",
+  "text" : "Gut, dass wir in Deutschland offensichtlich immer noch keine gr\u00F6\u00DFeren Probleme als Ulla Schmidts Dienstwagennutzung haben. (via @pottblog)",
   "id" : 2927661590,
   "created_at" : "Thu Jul 30 09:45:59 +0000 2009",
   "user" : {
@@ -189,7 +189,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2927546567",
-  "text" : "bei der Sparkasse lassen sich Onlineüberweisungen nur von Mo-Fr Terminiren #fail",
+  "text" : "bei der Sparkasse lassen sich Online\u00FCberweisungen nur von Mo-Fr Terminiren #fail",
   "id" : 2927546567,
   "created_at" : "Thu Jul 30 09:32:10 +0000 2009",
   "user" : {
@@ -224,7 +224,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2927493464",
-  "text" : "Wie nennt man rechts-reaktionäre Internetüberwacher? - Blogwart. RT @dirkhillbrecht: (via @Gehirnorgasmus )",
+  "text" : "Wie nennt man rechts-reaktion\u00E4re Internet\u00FCberwacher? - Blogwart. RT @dirkhillbrecht: (via @Gehirnorgasmus )",
   "id" : 2927493464,
   "created_at" : "Thu Jul 30 09:26:00 +0000 2009",
   "user" : {
@@ -276,7 +276,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2910014079",
-  "text" : "Diese @MoritzFiege Lieferung wird sich wohl noch etwas verzögern \nhttp://bit.ly/ahoml http://twitpic.com/c0nm9",
+  "text" : "Diese @MoritzFiege Lieferung wird sich wohl noch etwas verz\u00F6gern \nhttp://bit.ly/ahoml http://twitpic.com/c0nm9",
   "id" : 2910014079,
   "created_at" : "Wed Jul 29 14:13:44 +0000 2009",
   "user" : {
@@ -322,7 +322,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2908114989",
-  "text" : "Um Minister abzusägen, muss man Kleingeldaffären hochkochen, die Bildleser kap... Read More: http://is.gd/1Syzg",
+  "text" : "Um Minister abzus\u00E4gen, muss man Kleingeldaff\u00E4ren hochkochen, die Bildleser kap... Read More: http://is.gd/1Syzg",
   "id" : 2908114989,
   "created_at" : "Wed Jul 29 11:37:43 +0000 2009",
   "user" : {
@@ -444,7 +444,7 @@ Grailbird.data.tweets_2009_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "frühervogel",
+      "text" : "fr\u00FChervogel",
       "indices" : [ 44, 56 ]
     } ],
     "urls" : [ ]
@@ -454,7 +454,7 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2906457174",
   "in_reply_to_user_id" : 9334352,
-  "text" : "@sixtus und die zweite Maus frisst den Käse #frühervogel",
+  "text" : "@sixtus und die zweite Maus frisst den K\u00E4se #fr\u00FChervogel",
   "id" : 2906457174,
   "in_reply_to_status_id" : 2905145374,
   "created_at" : "Wed Jul 29 08:21:15 +0000 2009",
@@ -558,7 +558,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2894766607",
-  "text" : "hat Microsoft die Mozilla Fundation übernommen oder warum stürzt mein FireFox heute so oft ab?",
+  "text" : "hat Microsoft die Mozilla Fundation \u00FCbernommen oder warum st\u00FCrzt mein FireFox heute so oft ab?",
   "id" : 2894766607,
   "created_at" : "Tue Jul 28 18:44:02 +0000 2009",
   "user" : {
@@ -587,7 +587,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2892709196",
-  "text" : "So jetzt brüllt mein Twitter auch in den Buschfunk bei #meinVZ #studiVZ (via @lelei33)",
+  "text" : "So jetzt br\u00FCllt mein Twitter auch in den Buschfunk bei #meinVZ #studiVZ (via @lelei33)",
   "id" : 2892709196,
   "created_at" : "Tue Jul 28 16:40:35 +0000 2009",
   "user" : {
@@ -645,7 +645,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2888594272",
-  "text" : "wenn mein Internet heute noch langsamer wird, überlege ich mir auf Morsen upzugraden",
+  "text" : "wenn mein Internet heute noch langsamer wird, \u00FCberlege ich mir auf Morsen upzugraden",
   "id" : 2888594272,
   "created_at" : "Tue Jul 28 11:50:21 +0000 2009",
   "user" : {
@@ -691,7 +691,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2888083396",
-  "text" : "wenn ich einen Blick auf meine iTunes-Podcastliste werfe, habe ich das Gefühl ich war in letzter Zeit nicht viel unterwegs",
+  "text" : "wenn ich einen Blick auf meine iTunes-Podcastliste werfe, habe ich das Gef\u00FChl ich war in letzter Zeit nicht viel unterwegs",
   "id" : 2888083396,
   "created_at" : "Tue Jul 28 10:53:36 +0000 2009",
   "user" : {
@@ -714,7 +714,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2878034891",
-  "text" : "schon übel wenn Emaille B-Promies in Werbungen ihren Namen sagen müssen damit man sich an sie erinnert",
+  "text" : "schon \u00FCbel wenn Emaille B-Promies in Werbungen ihren Namen sagen m\u00FCssen damit man sich an sie erinnert",
   "id" : 2878034891,
   "created_at" : "Mon Jul 27 21:42:40 +0000 2009",
   "user" : {
@@ -833,7 +833,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2876800501",
-  "text" : "ohje, wie alt ist die Toto&Harry Folge die da grade auf SAT1 läuft? Das ist ja noch der Uralte unrenovierte Bochumer Hbf",
+  "text" : "ohje, wie alt ist die Toto&Harry Folge die da grade auf SAT1 l\u00E4uft? Das ist ja noch der Uralte unrenovierte Bochumer Hbf",
   "id" : 2876800501,
   "created_at" : "Mon Jul 27 20:28:01 +0000 2009",
   "user" : {
@@ -908,7 +908,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2875930164",
-  "text" : "http://twitpic.com/bubok - Gratis-Werbung für Sixt weil genial! (via @kcu) - Merkel musste ja auch schon mal für Sixt herhalten",
+  "text" : "http://twitpic.com/bubok - Gratis-Werbung f\u00FCr Sixt weil genial! (via @kcu) - Merkel musste ja auch schon mal f\u00FCr Sixt herhalten",
   "id" : 2875930164,
   "created_at" : "Mon Jul 27 19:36:00 +0000 2009",
   "user" : {
@@ -924,7 +924,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Markus Klöschen",
+      "name" : "Markus Kl\u00F6schen",
       "screen_name" : "kloeschen",
       "indices" : [ 0, 10 ],
       "id_str" : "14187954",
@@ -965,7 +965,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2873503795",
-  "text" : "grade ein Problem gelöst was ich noch nicht habe, ich werde mir mal die Lösung für schlechte Zeiten notieren",
+  "text" : "grade ein Problem gel\u00F6st was ich noch nicht habe, ich werde mir mal die L\u00F6sung f\u00FCr schlechte Zeiten notieren",
   "id" : 2873503795,
   "created_at" : "Mon Jul 27 17:07:58 +0000 2009",
   "user" : {
@@ -1034,7 +1034,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2856307560",
-  "text" : "@supnub dann drück sie mal ganz lieb von mir und richt ihnen aus das ich sie auch bald mal wieder besuchen komme.",
+  "text" : "@supnub dann dr\u00FCck sie mal ganz lieb von mir und richt ihnen aus das ich sie auch bald mal wieder besuchen komme.",
   "id" : 2856307560,
   "created_at" : "Sun Jul 26 18:19:41 +0000 2009",
   "user" : {
@@ -1080,7 +1080,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2856272471",
-  "text" : "Du weißt nicht mehr, wie Blumen duften, kennst nur die Arbeit und das Schuften, so geh'n sie hin, die schönen Jahre;",
+  "text" : "Du wei\u00DFt nicht mehr, wie Blumen duften, kennst nur die Arbeit und das Schuften, so geh'n sie hin, die sch\u00F6nen Jahre;",
   "id" : 2856272471,
   "created_at" : "Sun Jul 26 18:17:00 +0000 2009",
   "user" : {
@@ -1172,7 +1172,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2843541635",
-  "text" : "Die Wochenschau war damals schon nur grade eben so Witzig, wieso denkt Sat1 eigentlich das hätte sich in den letzten 10 Jahren geändert?",
+  "text" : "Die Wochenschau war damals schon nur grade eben so Witzig, wieso denkt Sat1 eigentlich das h\u00E4tte sich in den letzten 10 Jahren ge\u00E4ndert?",
   "id" : 2843541635,
   "created_at" : "Sat Jul 25 22:02:01 +0000 2009",
   "user" : {
@@ -1218,7 +1218,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2835996635",
-  "text" : "Mhm, mein Aufbackbrödchen hat den Klimawandel wohl noch nicht ganz volzogen, es hat noch kalte und warme Klimazonen",
+  "text" : "Mhm, mein Aufbackbr\u00F6dchen hat den Klimawandel wohl noch nicht ganz volzogen, es hat noch kalte und warme Klimazonen",
   "id" : 2835996635,
   "created_at" : "Sat Jul 25 11:07:57 +0000 2009",
   "user" : {
@@ -1244,7 +1244,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2818736800",
-  "text" : "Oh ein Zugführer mit Ironie bei der #Bahn: Unser Abfahrt verzögert sich da wir noch einen verspätteten ICE vorbeilassen /drüfen/!",
+  "text" : "Oh ein Zugf\u00FChrer mit Ironie bei der #Bahn: Unser Abfahrt verz\u00F6gert sich da wir noch einen versp\u00E4tteten ICE vorbeilassen /dr\u00FCfen/!",
   "id" : 2818736800,
   "created_at" : "Fri Jul 24 14:02:16 +0000 2009",
   "user" : {
@@ -1260,7 +1260,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Björn Schulze",
+      "name" : "Bj\u00F6rn Schulze",
       "screen_name" : "ghostdog19",
       "indices" : [ 128, 139 ],
       "id_str" : "12806792",
@@ -1273,7 +1273,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2818700425",
-  "text" : "Ich hätte vorher bei Wiki nachlesen sollen, was \"Ladendiebstahl\" genau bedeutet. \nThemawechsel: Braucht jemand einen ALDI? (via @ghostdog19)",
+  "text" : "Ich h\u00E4tte vorher bei Wiki nachlesen sollen, was \"Ladendiebstahl\" genau bedeutet. \nThemawechsel: Braucht jemand einen ALDI? (via @ghostdog19)",
   "id" : 2818700425,
   "created_at" : "Fri Jul 24 14:00:00 +0000 2009",
   "user" : {
@@ -1365,7 +1365,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2816178722",
-  "text" : "Juhu, die Aufzüge am Weseler Bahnhof sind endlich in Betrieb, hat ja auch nur 1 1/2 Jahre gedauert",
+  "text" : "Juhu, die Aufz\u00FCge am Weseler Bahnhof sind endlich in Betrieb, hat ja auch nur 1 1/2 Jahre gedauert",
   "id" : 2816178722,
   "created_at" : "Fri Jul 24 10:10:04 +0000 2009",
   "user" : {
@@ -1537,7 +1537,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2802819393",
-  "text" : "zwischen Köln und Düsseldorf liegt ne Brücke auf den Bahnschienen?",
+  "text" : "zwischen K\u00F6ln und D\u00FCsseldorf liegt ne Br\u00FCcke auf den Bahnschienen?",
   "id" : 2802819393,
   "created_at" : "Thu Jul 23 18:22:05 +0000 2009",
   "user" : {
@@ -1700,7 +1700,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2796505845",
-  "text" : "Multimedia für Internetausdrucker und Schlagerfans  http://tr.im/tF0p",
+  "text" : "Multimedia f\u00FCr Internetausdrucker und Schlagerfans  http://tr.im/tF0p",
   "id" : 2796505845,
   "created_at" : "Thu Jul 23 11:18:11 +0000 2009",
   "user" : {
@@ -1723,7 +1723,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2778604794",
-  "text" : "iTunes Geschenkkarten im mStore zu Kaufen ist ja fast komplizierter als ein T-Mobile Vertag abzuschließen",
+  "text" : "iTunes Geschenkkarten im mStore zu Kaufen ist ja fast komplizierter als ein T-Mobile Vertag abzuschlie\u00DFen",
   "id" : 2778604794,
   "created_at" : "Wed Jul 22 14:33:38 +0000 2009",
   "user" : {
@@ -1775,7 +1775,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2776583641",
-  "text" : "Bilder der Sonnenfinsternis:  http://tr.im/tusb (via @DerWesten) - ach so in Indien und China, ich dachte schon ich hätte was verpasst",
+  "text" : "Bilder der Sonnenfinsternis:  http://tr.im/tusb (via @DerWesten) - ach so in Indien und China, ich dachte schon ich h\u00E4tte was verpasst",
   "id" : 2776583641,
   "created_at" : "Wed Jul 22 11:57:11 +0000 2009",
   "user" : {
@@ -1804,7 +1804,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2776497983",
-  "text" : "Wenn wir eh alle Helden nur für einen Tag sind, warum gehen unsere Telefonverträge dann 24 Monate? (via @343max)",
+  "text" : "Wenn wir eh alle Helden nur f\u00FCr einen Tag sind, warum gehen unsere Telefonvertr\u00E4ge dann 24 Monate? (via @343max)",
   "id" : 2776497983,
   "created_at" : "Wed Jul 22 11:48:24 +0000 2009",
   "user" : {
@@ -1833,7 +1833,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2776453279",
-  "text" : "Schon gehört? David Bowie hört mit der Musik auf. Er verkraftet die Kritik an der Vodafonekampagne nicht. (via @haekelschwein)",
+  "text" : "Schon geh\u00F6rt? David Bowie h\u00F6rt mit der Musik auf. Er verkraftet die Kritik an der Vodafonekampagne nicht. (via @haekelschwein)",
   "id" : 2776453279,
   "created_at" : "Wed Jul 22 11:43:47 +0000 2009",
   "user" : {
@@ -1862,7 +1862,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2775910181",
-  "text" : "RT @timpritlove: Wikipedia hat nicht mal 10 Jahre gebraucht:„Man muss die Realitäten stets anerkennen“: R.I.P. Brockhaus http://tr.im/ttZq",
+  "text" : "RT @timpritlove: Wikipedia hat nicht mal 10 Jahre gebraucht:\u201EMan muss die Realit\u00E4ten stets anerkennen\u201C: R.I.P. Brockhaus http://tr.im/ttZq",
   "id" : 2775910181,
   "created_at" : "Wed Jul 22 10:43:44 +0000 2009",
   "user" : {
@@ -1893,7 +1893,7 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2775047080",
   "in_reply_to_user_id" : 5769802,
-  "text" : "@pottblog jo hast recht, werde es noch mal kürzer fassen",
+  "text" : "@pottblog jo hast recht, werde es noch mal k\u00FCrzer fassen",
   "id" : 2775047080,
   "in_reply_to_status_id" : 2775021289,
   "created_at" : "Wed Jul 22 08:59:21 +0000 2009",
@@ -1925,7 +1925,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2774970944",
-  "text" : "Kriegen wir zur Ruhr2010 vielleicht im Rahmen von @ruhrdigital ein digitales Frühstück auf der A 40 hin?  http://tr.im/ttiD PLS RT",
+  "text" : "Kriegen wir zur Ruhr2010 vielleicht im Rahmen von @ruhrdigital ein digitales Fr\u00FChst\u00FCck auf der A 40 hin?  http://tr.im/ttiD PLS RT",
   "id" : 2774970944,
   "created_at" : "Wed Jul 22 08:49:58 +0000 2009",
   "user" : {
@@ -1954,7 +1954,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2765284555",
-  "text" : "Also die Luftfeuchtigkeit ist gerade mal wieder ein klein wenig übertrieben … (via @florianfiegel)",
+  "text" : "Also die Luftfeuchtigkeit ist gerade mal wieder ein klein wenig \u00FCbertrieben \u2026 (via @florianfiegel)",
   "id" : 2765284555,
   "created_at" : "Tue Jul 21 21:23:33 +0000 2009",
   "user" : {
@@ -2006,7 +2006,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2758744453",
-  "text" : "Saufen ist Urlaub für den Kopf (via @agento)",
+  "text" : "Saufen ist Urlaub f\u00FCr den Kopf (via @agento)",
   "id" : 2758744453,
   "created_at" : "Tue Jul 21 14:41:19 +0000 2009",
   "user" : {
@@ -2096,7 +2096,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2744305814",
-  "text" : "Was für ein Marketing-Bullshit: http://bit.ly/1yoCkP Ich empfehle, Kommentare 5 und 16 zu lesen.  #vodafail (via @timpritlove) (via @Omme)",
+  "text" : "Was f\u00FCr ein Marketing-Bullshit: http://bit.ly/1yoCkP Ich empfehle, Kommentare 5 und 16 zu lesen.  #vodafail (via @timpritlove) (via @Omme)",
   "id" : 2744305814,
   "created_at" : "Mon Jul 20 19:50:56 +0000 2009",
   "user" : {
@@ -2125,7 +2125,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2743315333",
-  "text" : "Suche Sponsor für MacBook! Biete volle Haarpracht, offen für viele Farben, Medientauglich! (via @iPeterchen)",
+  "text" : "Suche Sponsor f\u00FCr MacBook! Biete volle Haarpracht, offen f\u00FCr viele Farben, Medientauglich! (via @iPeterchen)",
   "id" : 2743315333,
   "created_at" : "Mon Jul 20 18:48:21 +0000 2009",
   "user" : {
@@ -2154,7 +2154,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2738384988",
-  "text" : "Also ich würde das 103 teilige Demonstranten-Set zu 24.95€ nehmen -&gt; http://twitpic.com/as0l0 (via @iPeterchen)",
+  "text" : "Also ich w\u00FCrde das 103 teilige Demonstranten-Set zu 24.95\u20AC nehmen -&gt; http://twitpic.com/as0l0 (via @iPeterchen)",
   "id" : 2738384988,
   "created_at" : "Mon Jul 20 13:20:30 +0000 2009",
   "user" : {
@@ -2215,7 +2215,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2675512355",
-  "text" : "Insiderwitz des Tages: RT @fasel Netzsperren. Jetzt auch schon für AKWs (Infos: http://is.gd/1BivS) (via @piratennews)",
+  "text" : "Insiderwitz des Tages: RT @fasel Netzsperren. Jetzt auch schon f\u00FCr AKWs (Infos: http://is.gd/1BivS) (via @piratennews)",
   "id" : 2675512355,
   "created_at" : "Thu Jul 16 20:22:52 +0000 2009",
   "user" : {
@@ -2264,7 +2264,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2659437274",
-  "text" : "#Idee ein Mousepad was die Mouse per Induktion auch beim während der Benutzung lädt",
+  "text" : "#Idee ein Mousepad was die Mouse per Induktion auch beim w\u00E4hrend der Benutzung l\u00E4dt",
   "id" : 2659437274,
   "created_at" : "Wed Jul 15 22:51:25 +0000 2009",
   "user" : {
@@ -2377,7 +2377,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2534412081",
-  "text" : "misst warum hab ich von dem Flashmop in Köln nichts mitbekommen?",
+  "text" : "misst warum hab ich von dem Flashmop in K\u00F6ln nichts mitbekommen?",
   "id" : 2534412081,
   "created_at" : "Wed Jul 08 16:10:58 +0000 2009",
   "user" : {
@@ -2438,7 +2438,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2529976116",
-  "text" : "großartiger Audi Q5 Werbespot_ http://bit.ly/nAvnu (via @nerotunes)",
+  "text" : "gro\u00DFartiger Audi Q5 Werbespot_ http://bit.ly/nAvnu (via @nerotunes)",
   "id" : 2529976116,
   "created_at" : "Wed Jul 08 09:05:53 +0000 2009",
   "user" : {
@@ -2464,7 +2464,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2519859912",
-  "text" : "es geht doch nichts über einen schönen Kopfschuss beim Abendbrot #CSI",
+  "text" : "es geht doch nichts \u00FCber einen sch\u00F6nen Kopfschuss beim Abendbrot #CSI",
   "id" : 2519859912,
   "created_at" : "Tue Jul 07 19:42:19 +0000 2009",
   "user" : {
@@ -2510,7 +2510,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2516114684",
-  "text" : "auf der Wohnungssuche in Bo, 2-3 Zimmer, möglichst City nah / guter ÖPNV und Einbauküche PLS RT",
+  "text" : "auf der Wohnungssuche in Bo, 2-3 Zimmer, m\u00F6glichst City nah / guter \u00D6PNV und Einbauk\u00FCche PLS RT",
   "id" : 2516114684,
   "created_at" : "Tue Jul 07 16:12:09 +0000 2009",
   "user" : {
@@ -2526,7 +2526,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 74, 79 ],
       "id_str" : "18448838",
@@ -2614,7 +2614,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2514045951",
-  "text" : "Gibt es eigentlich auch schon Analogfetakäse? Zumindest schmeckt dises weiße Krümelzeug auf meiner Sucuktasche so",
+  "text" : "Gibt es eigentlich auch schon Analogfetak\u00E4se? Zumindest schmeckt dises wei\u00DFe Kr\u00FCmelzeug auf meiner Sucuktasche so",
   "id" : 2514045951,
   "created_at" : "Tue Jul 07 13:47:33 +0000 2009",
   "user" : {
@@ -2694,7 +2694,7 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2500971014",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb was nutzt du denn jetzt für einen DNS Server?",
+  "text" : "@michelb was nutzt du denn jetzt f\u00FCr einen DNS Server?",
   "id" : 2500971014,
   "in_reply_to_status_id" : 2500511651,
   "created_at" : "Mon Jul 06 18:37:48 +0000 2009",
@@ -2715,7 +2715,7 @@ Grailbird.data.tweets_2009_07 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "Luxuslärm",
+      "text" : "Luxusl\u00E4rm",
       "indices" : [ 22, 32 ]
     }, {
       "text" : "BochumTotal",
@@ -2726,7 +2726,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2484880340",
-  "text" : "dieser Lärm ist Luxus #Luxuslärm #BochumTotal",
+  "text" : "dieser L\u00E4rm ist Luxus #Luxusl\u00E4rm #BochumTotal",
   "id" : 2484880340,
   "created_at" : "Sun Jul 05 17:56:34 +0000 2009",
   "user" : {
@@ -2752,7 +2752,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2484352542",
-  "text" : "Schlange stehen für Geld, ich fühle mich so #ostalgisch",
+  "text" : "Schlange stehen f\u00FCr Geld, ich f\u00FChle mich so #ostalgisch",
   "id" : 2484352542,
   "created_at" : "Sun Jul 05 17:13:11 +0000 2009",
   "user" : {
@@ -2775,7 +2775,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2484246770",
-  "text" : "Leider die Hälfte von Boppin´ B verpasst war aber trotzdem wie immer Cool",
+  "text" : "Leider die H\u00E4lfte von Boppin\u00B4 B verpasst war aber trotzdem wie immer Cool",
   "id" : 2484246770,
   "created_at" : "Sun Jul 05 17:04:02 +0000 2009",
   "user" : {
@@ -2801,7 +2801,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2484212144",
-  "text" : "Scheiß Kapelle Boppin´ B #BochumTotal",
+  "text" : "Schei\u00DF Kapelle Boppin\u00B4 B #BochumTotal",
   "id" : 2484212144,
   "created_at" : "Sun Jul 05 17:01:09 +0000 2009",
   "user" : {
@@ -2827,7 +2827,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2484013725",
-  "text" : "Yeah Boppin´ B auf der WAZ Bühne bei #BochumTotal",
+  "text" : "Yeah Boppin\u00B4 B auf der WAZ B\u00FChne bei #BochumTotal",
   "id" : 2484013725,
   "created_at" : "Sun Jul 05 16:43:57 +0000 2009",
   "user" : {
@@ -2908,7 +2908,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2475224267",
-  "text" : "Raum für Notizen: _________________________________________________________________________________________________________ (via @nerotunes)",
+  "text" : "Raum f\u00FCr Notizen: _________________________________________________________________________________________________________ (via @nerotunes)",
   "id" : 2475224267,
   "created_at" : "Sat Jul 04 22:59:25 +0000 2009",
   "user" : {
@@ -3035,7 +3035,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2437226514",
-  "text" : "Ubahnschächte im Sommer sind cool!!!",
+  "text" : "Ubahnsch\u00E4chte im Sommer sind cool!!!",
   "id" : 2437226514,
   "created_at" : "Thu Jul 02 14:05:34 +0000 2009",
   "user" : {
@@ -3096,7 +3096,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2435329732",
-  "text" : "Endlich eine Tchibo-Kamera fürs MacBook  http://twitpic.com/9170u  #fail (via @steffenn @fscklog)",
+  "text" : "Endlich eine Tchibo-Kamera f\u00FCrs MacBook  http://twitpic.com/9170u  #fail (via @steffenn @fscklog)",
   "id" : 2435329732,
   "created_at" : "Thu Jul 02 10:52:29 +0000 2009",
   "user" : {
@@ -3280,7 +3280,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2424848043",
-  "text" : "A:\"Das Universum macht sich über uns Lustig.\"\nB:\"Warum macht sich das Universum über uns Lustig?\"\nA:\"Vielleicht ist es sich unsicher.\" #Life",
+  "text" : "A:\"Das Universum macht sich \u00FCber uns Lustig.\"\nB:\"Warum macht sich das Universum \u00FCber uns Lustig?\"\nA:\"Vielleicht ist es sich unsicher.\" #Life",
   "id" : 2424848043,
   "created_at" : "Wed Jul 01 19:31:40 +0000 2009",
   "user" : {
@@ -3303,7 +3303,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2424803670",
-  "text" : "Life - die ersten Wiederholungen über die ich mich freue",
+  "text" : "Life - die ersten Wiederholungen \u00FCber die ich mich freue",
   "id" : 2424803670,
   "created_at" : "Wed Jul 01 19:28:32 +0000 2009",
   "user" : {
@@ -3360,7 +3360,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2422597955",
-  "text" : "die 30 ºC Indoor sind erreicht, ich träte in den Hitzestreik",
+  "text" : "die 30 \u00BAC Indoor sind erreicht, ich tr\u00E4te in den Hitzestreik",
   "id" : 2422597955,
   "created_at" : "Wed Jul 01 16:50:31 +0000 2009",
   "user" : {
@@ -3406,7 +3406,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2422309897",
-  "text" : "Indoor 28.8 ºC",
+  "text" : "Indoor 28.8 \u00BAC",
   "id" : 2422309897,
   "created_at" : "Wed Jul 01 16:30:05 +0000 2009",
   "user" : {
@@ -3510,7 +3510,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2418874270",
-  "text" : "was sind denn die Geheimtips für #Bochumtotal ? Meiner ist Luxuslärm Sonntag 19:30 Uhr auf der EinsLive-Bühne",
+  "text" : "was sind denn die Geheimtips f\u00FCr #Bochumtotal ? Meiner ist Luxusl\u00E4rm Sonntag 19:30 Uhr auf der EinsLive-B\u00FChne",
   "id" : 2418874270,
   "created_at" : "Wed Jul 01 11:45:10 +0000 2009",
   "user" : {
@@ -3576,7 +3576,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2418330387",
-  "text" : "sind heute die AppStore Zwerge zurück aus dem Urlaub gekommen? 6 Updates an einem Tag.",
+  "text" : "sind heute die AppStore Zwerge zur\u00FCck aus dem Urlaub gekommen? 6 Updates an einem Tag.",
   "id" : 2418330387,
   "created_at" : "Wed Jul 01 10:30:27 +0000 2009",
   "user" : {
@@ -3599,7 +3599,7 @@ Grailbird.data.tweets_2009_07 =
   "geo" : {
   },
   "id_str" : "2410477954",
-  "text" : "möchte jemand noch einen TYPO3 Aufkleber haben?",
+  "text" : "m\u00F6chte jemand noch einen TYPO3 Aufkleber haben?",
   "id" : 2410477954,
   "created_at" : "Tue Jun 30 22:04:17 +0000 2009",
   "user" : {

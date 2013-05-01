@@ -3,7 +3,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -67,7 +67,7 @@ Grailbird.data.tweets_2010_10 =
   "geo" : {
   },
   "id_str" : "28970185254",
-  "text" : "kennt jemand ein paar \"große\" Webseiten die Blocksatz verwenden?",
+  "text" : "kennt jemand ein paar \"gro\u00DFe\" Webseiten die Blocksatz verwenden?",
   "id" : 28970185254,
   "created_at" : "Thu Oct 28 08:34:59 +0000 2010",
   "user" : {
@@ -93,7 +93,7 @@ Grailbird.data.tweets_2010_10 =
   "geo" : {
   },
   "id_str" : "28821286031",
-  "text" : "die epost hat schon wieder Wartungsarbeiten, ich hab das Gefühl, die halten sich an die Schalteröffnungszeiten #fail",
+  "text" : "die epost hat schon wieder Wartungsarbeiten, ich hab das Gef\u00FChl, die halten sich an die Schalter\u00F6ffnungszeiten #fail",
   "id" : 28821286031,
   "created_at" : "Tue Oct 26 20:05:52 +0000 2010",
   "user" : {
@@ -122,7 +122,7 @@ Grailbird.data.tweets_2010_10 =
   "geo" : {
   },
   "id_str" : "28787927531",
-  "text" : "Wenn es einen Gott gibt, dann hat er einen ziemlich pubertären Humor. http://goo.gl/jdvk (via @343max)",
+  "text" : "Wenn es einen Gott gibt, dann hat er einen ziemlich pubert\u00E4ren Humor. http://goo.gl/jdvk (via @343max)",
   "id" : 28787927531,
   "created_at" : "Tue Oct 26 12:59:42 +0000 2010",
   "user" : {
@@ -164,7 +164,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -211,7 +211,7 @@ Grailbird.data.tweets_2010_10 =
   "geo" : {
   },
   "id_str" : "28678855583",
-  "text" : "Wieso heißt es, man habe ‚nur Häme und Spott übrig‘, ich habe derer nie übrig, ist meist aufgebraucht. (via @molily)",
+  "text" : "Wieso hei\u00DFt es, man habe \u201Anur H\u00E4me und Spott \u00FCbrig\u2018, ich habe derer nie \u00FCbrig, ist meist aufgebraucht. (via @molily)",
   "id" : 28678855583,
   "created_at" : "Mon Oct 25 10:46:57 +0000 2010",
   "user" : {
@@ -250,7 +250,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Philipp Kühn",
+      "name" : "Philipp K\u00FChn",
       "screen_name" : "Weltentummler",
       "indices" : [ 0, 14 ],
       "id_str" : "14445852",
@@ -296,7 +296,7 @@ Grailbird.data.tweets_2010_10 =
       "indices" : [ 94, 113 ],
       "url" : "http://t.co/POaEXs0",
       "expanded_url" : "http://www.youtube.com/watch?v=ugV6cLgwomo",
-      "display_url" : "youtube.com/watch?v=ugV6cL…"
+      "display_url" : "youtube.com/watch?v=ugV6cL\u2026"
     } ]
   },
   "geo" : {
@@ -333,7 +333,7 @@ Grailbird.data.tweets_2010_10 =
   },
   "id_str" : "26647018095",
   "in_reply_to_user_id" : 20514752,
-  "text" : "@B_zwitschert last euch Zeit, die Werbung auf Bussen kommt ja eh meinst zu spät",
+  "text" : "@B_zwitschert last euch Zeit, die Werbung auf Bussen kommt ja eh meinst zu sp\u00E4t",
   "id" : 26647018095,
   "in_reply_to_status_id" : 26646519639,
   "created_at" : "Thu Oct 07 13:13:01 +0000 2010",
@@ -371,7 +371,7 @@ Grailbird.data.tweets_2010_10 =
   "geo" : {
   },
   "id_str" : "26584887222",
-  "text" : "inkl. subventioniertem iPad - Die NZZ hat grundsätzlich verstanden was Nutzer wollen: http://nzz.to/aOjtXW (via. @nerotunes @moritzadler)",
+  "text" : "inkl. subventioniertem iPad - Die NZZ hat grunds\u00E4tzlich verstanden was Nutzer wollen: http://nzz.to/aOjtXW (via. @nerotunes @moritzadler)",
   "id" : 26584887222,
   "created_at" : "Wed Oct 06 21:05:04 +0000 2010",
   "user" : {
@@ -401,7 +401,7 @@ Grailbird.data.tweets_2010_10 =
   },
   "id_str" : "26583938786",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb Herzlichen Glückwunsch",
+  "text" : "@michelb Herzlichen Gl\u00FCckwunsch",
   "id" : 26583938786,
   "created_at" : "Wed Oct 06 20:51:28 +0000 2010",
   "in_reply_to_screen_name" : "michelb",

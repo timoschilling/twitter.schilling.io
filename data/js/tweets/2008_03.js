@@ -158,7 +158,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "779669500",
-  "text" : "wieder zurück, stolzer Opa, stralende Enkelin",
+  "text" : "wieder zur\u00FCck, stolzer Opa, stralende Enkelin",
   "id" : 779669500,
   "created_at" : "Sun Mar 30 15:41:34 +0000 2008",
   "user" : {
@@ -407,7 +407,7 @@ Grailbird.data.tweets_2008_03 =
   },
   "id_str" : "779252896",
   "in_reply_to_user_id" : 710613,
-  "text" : "@Gernot ... hab auch schon Pläne für 3-4 Progs",
+  "text" : "@Gernot ... hab auch schon Pl\u00E4ne f\u00FCr 3-4 Progs",
   "id" : 779252896,
   "in_reply_to_status_id" : 779251711,
   "created_at" : "Sat Mar 29 17:40:14 +0000 2008",
@@ -641,7 +641,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "778035897",
-  "text" : "gut gesättigt wieder bei der arbeit",
+  "text" : "gut ges\u00E4ttigt wieder bei der arbeit",
   "id" : 778035897,
   "created_at" : "Thu Mar 27 15:29:17 +0000 2008",
   "user" : {
@@ -850,7 +850,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "776365860",
-  "text" : "Dann doch lieber \"Die Liga ...\", lieber mittelmäsiges Hollywood, als schlechtes Deutsches Fernsehen.",
+  "text" : "Dann doch lieber \"Die Liga ...\", lieber mittelm\u00E4siges Hollywood, als schlechtes Deutsches Fernsehen.",
   "id" : 776365860,
   "created_at" : "Mon Mar 24 19:24:43 +0000 2008",
   "user" : {
@@ -873,7 +873,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "776365028",
-  "text" : "Fernsehen ist auch nicht mehr das was es mal war, siehe \"Siegfried\" auf SAT1, diese Zerstörung Deutschem Geschichtsgutes.",
+  "text" : "Fernsehen ist auch nicht mehr das was es mal war, siehe \"Siegfried\" auf SAT1, diese Zerst\u00F6rung Deutschem Geschichtsgutes.",
   "id" : 776365028,
   "created_at" : "Mon Mar 24 19:22:38 +0000 2008",
   "user" : {
@@ -1064,7 +1064,7 @@ Grailbird.data.tweets_2008_03 =
   },
   "id_str" : "775158471",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb das kannste unter Einstellungen-&gt;Datenschutz-&gt;\"Private Daten\"-&gt;\"löschen bei beenden\" einstellen",
+  "text" : "@michelb das kannste unter Einstellungen-&gt;Datenschutz-&gt;\"Private Daten\"-&gt;\"l\u00F6schen bei beenden\" einstellen",
   "id" : 775158471,
   "in_reply_to_status_id" : 775157693,
   "created_at" : "Fri Mar 21 22:34:10 +0000 2008",
@@ -1159,7 +1159,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "773313041",
-  "text" : "auf dem Rückweg nach Bo mit der kleinen, Kinderwagen kompatible Bahn erwischt",
+  "text" : "auf dem R\u00FCckweg nach Bo mit der kleinen, Kinderwagen kompatible Bahn erwischt",
   "id" : 773313041,
   "created_at" : "Tue Mar 18 12:36:43 +0000 2008",
   "user" : {
@@ -1231,7 +1231,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "772429590",
-  "text" : "#BarCampRuhr ist zu Ende, bin auf dem Rückweg nach Bo, war eine Super Veranstaltung, bin beim nächsten mal auch wieder dabei",
+  "text" : "#BarCampRuhr ist zu Ende, bin auf dem R\u00FCckweg nach Bo, war eine Super Veranstaltung, bin beim n\u00E4chsten mal auch wieder dabei",
   "id" : 772429590,
   "created_at" : "Sun Mar 16 17:44:40 +0000 2008",
   "user" : {
@@ -1257,7 +1257,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "772366569",
-  "text" : "... Vortrag ist sehr gut und sollte für Designer verpflichtent sein. #BarCampRuhr",
+  "text" : "... Vortrag ist sehr gut und sollte f\u00FCr Designer verpflichtent sein. #BarCampRuhr",
   "id" : 772366569,
   "created_at" : "Sun Mar 16 14:42:22 +0000 2008",
   "user" : {
@@ -1280,7 +1280,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "772365741",
-  "text" : "XHTML 2 und (X)HTML 5 vom Standart her OK. Bleibt abzuwarten wer was wie unterstützt und implementiert.",
+  "text" : "XHTML 2 und (X)HTML 5 vom Standart her OK. Bleibt abzuwarten wer was wie unterst\u00FCtzt und implementiert.",
   "id" : 772365741,
   "created_at" : "Sun Mar 16 14:40:04 +0000 2008",
   "user" : {
@@ -1384,7 +1384,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "772068329",
-  "text" : "#BarCampRuhr zu Ende für heute. Zurück zur Arbeit",
+  "text" : "#BarCampRuhr zu Ende f\u00FCr heute. Zur\u00FCck zur Arbeit",
   "id" : 772068329,
   "created_at" : "Sat Mar 15 19:40:31 +0000 2008",
   "user" : {
@@ -1407,7 +1407,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "772041898",
-  "text" : "... wie gut das keiner weiß wie ich heiß",
+  "text" : "... wie gut das keiner wei\u00DF wie ich hei\u00DF",
   "id" : 772041898,
   "created_at" : "Sat Mar 15 18:15:21 +0000 2008",
   "user" : {
@@ -1531,7 +1531,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "771901421",
-  "text" : "in guter Bloger, schlechter Bloger in Mülheim #BarCampRuhr",
+  "text" : "in guter Bloger, schlechter Bloger in M\u00FClheim #BarCampRuhr",
   "id" : 771901421,
   "created_at" : "Sat Mar 15 10:55:33 +0000 2008",
   "user" : {
@@ -1580,7 +1580,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "771857958",
-  "text" : "Mist U-Bahn verpasst. Dann bleibt noch Zeit zum Frühstücken",
+  "text" : "Mist U-Bahn verpasst. Dann bleibt noch Zeit zum Fr\u00FChst\u00FCcken",
   "id" : 771857958,
   "created_at" : "Sat Mar 15 07:27:43 +0000 2008",
   "user" : {
@@ -1747,7 +1747,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "766149171",
-  "text" : "twitter aufm iPhone ist fürn ***",
+  "text" : "twitter aufm iPhone ist f\u00FCrn ***",
   "id" : 766149171,
   "created_at" : "Mon Mar 03 18:07:25 +0000 2008",
   "user" : {
@@ -1770,7 +1770,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "765788053",
-  "text" : "werd jetzt noch ein bisschen Günter beim heuten der Zwibel \"zulesen\" und dann ist schluß für Heute",
+  "text" : "werd jetzt noch ein bisschen G\u00FCnter beim heuten der Zwibel \"zulesen\" und dann ist schlu\u00DF f\u00FCr Heute",
   "id" : 765788053,
   "created_at" : "Sun Mar 02 22:23:00 +0000 2008",
   "user" : {
@@ -1793,7 +1793,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "765773279",
-  "text" : "arbeit fertig, tv nur scheiße, bin da ganz Oliver Kalkofe meinung (http://tinyurl.com/2dkau8)",
+  "text" : "arbeit fertig, tv nur schei\u00DFe, bin da ganz Oliver Kalkofe meinung (http://tinyurl.com/2dkau8)",
   "id" : 765773279,
   "created_at" : "Sun Mar 02 21:26:36 +0000 2008",
   "user" : {
@@ -1816,7 +1816,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "765666321",
-  "text" : "Es geht doch nichts über arbeiten am Sonntag :-(",
+  "text" : "Es geht doch nichts \u00FCber arbeiten am Sonntag :-(",
   "id" : 765666321,
   "created_at" : "Sun Mar 02 13:40:47 +0000 2008",
   "user" : {
@@ -1862,7 +1862,7 @@ Grailbird.data.tweets_2008_03 =
   "geo" : {
   },
   "id_str" : "765488173",
-  "text" : "und zurück...",
+  "text" : "und zur\u00FCck...",
   "id" : 765488173,
   "created_at" : "Sat Mar 01 23:28:51 +0000 2008",
   "user" : {

@@ -47,7 +47,7 @@ Grailbird.data.tweets_2009_08 =
   },
   "id_str" : "3669020283",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel schön währe es!",
+  "text" : "@florianfiegel sch\u00F6n w\u00E4hre es!",
   "id" : 3669020283,
   "in_reply_to_status_id" : 3667337289,
   "created_at" : "Mon Aug 31 16:52:22 +0000 2009",
@@ -79,7 +79,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3666582598",
-  "text" : "Followersammler sind im gleichen Sinne Social-Media-Experten wie Kopfläuse Haarexperten. (via @haekelschwein)",
+  "text" : "Followersammler sind im gleichen Sinne Social-Media-Experten wie Kopfl\u00E4use Haarexperten. (via @haekelschwein)",
   "id" : 3666582598,
   "created_at" : "Mon Aug 31 14:42:47 +0000 2009",
   "user" : {
@@ -108,7 +108,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3662046500",
-  "text" : "T-Mobile ruf mich an um mich zu Informieren wie sie mich zukünftig Informieren wird und will das auch noch aufzeichnen #support #fail",
+  "text" : "T-Mobile ruf mich an um mich zu Informieren wie sie mich zuk\u00FCnftig Informieren wird und will das auch noch aufzeichnen #support #fail",
   "id" : 3662046500,
   "created_at" : "Mon Aug 31 08:15:44 +0000 2009",
   "user" : {
@@ -124,7 +124,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : " Macnotes.de",
+      "name" : "\uF8FF Macnotes.de",
       "screen_name" : "Macnotes",
       "indices" : [ 0, 9 ],
       "id_str" : "6057542",
@@ -174,7 +174,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3654543850",
-  "text" : "Wenn ich euch so lese, bin ich froh den #Zensursula-Quatsch nicht sehen zu können. (via @michelb)",
+  "text" : "Wenn ich euch so lese, bin ich froh den #Zensursula-Quatsch nicht sehen zu k\u00F6nnen. (via @michelb)",
   "id" : 3654543850,
   "created_at" : "Sun Aug 30 23:40:20 +0000 2009",
   "user" : {
@@ -209,7 +209,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3650400300",
-  "text" : "Leute stranden nach Flugzeugabsturz auf einer Insel, Autorenteam weiß nicht warum und wie es weitergeht. (via @michelb) #lost #140zeichen",
+  "text" : "Leute stranden nach Flugzeugabsturz auf einer Insel, Autorenteam wei\u00DF nicht warum und wie es weitergeht. (via @michelb) #lost #140zeichen",
   "id" : 3650400300,
   "created_at" : "Sun Aug 30 19:30:40 +0000 2009",
   "user" : {
@@ -247,7 +247,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3648077956",
-  "text" : "Wenn dieses Land/Bundesland irgendwann von rot-rot-grün regiert wird, wander ich aus! #stillstand (via @marco_jansen) (via @ifranz)",
+  "text" : "Wenn dieses Land/Bundesland irgendwann von rot-rot-gr\u00FCn regiert wird, wander ich aus! #stillstand (via @marco_jansen) (via @ifranz)",
   "id" : 3648077956,
   "created_at" : "Sun Aug 30 17:09:57 +0000 2009",
   "user" : {
@@ -282,7 +282,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3644121497",
-  "text" : "ich werde jetzt mal die Pläne der Regierung durchkreuzen! #wahl #nrw09 #spd- #cdu-",
+  "text" : "ich werde jetzt mal die Pl\u00E4ne der Regierung durchkreuzen! #wahl #nrw09 #spd- #cdu-",
   "id" : 3644121497,
   "created_at" : "Sun Aug 30 12:15:32 +0000 2009",
   "user" : {
@@ -337,7 +337,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3623002264",
-  "text" : "Heute Nacht habe ich mich summend neben eine Mücke gesetzt, damit sie nicht einschlafen konnte. (via @haekelschwein)",
+  "text" : "Heute Nacht habe ich mich summend neben eine M\u00FCcke gesetzt, damit sie nicht einschlafen konnte. (via @haekelschwein)",
   "id" : 3623002264,
   "created_at" : "Sat Aug 29 10:13:31 +0000 2009",
   "user" : {
@@ -376,7 +376,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 51, 56 ],
       "id_str" : "18448838",
@@ -493,7 +493,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3540133887",
-  "text" : "ich hab Rücken, will einer haben?",
+  "text" : "ich hab R\u00FCcken, will einer haben?",
   "id" : 3540133887,
   "created_at" : "Tue Aug 25 18:39:01 +0000 2009",
   "user" : {
@@ -538,7 +538,7 @@ Grailbird.data.tweets_2009_08 =
       "id_str" : "14487571",
       "id" : 14487571
     }, {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 45, 50 ],
       "id_str" : "18448838",
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3427791947",
-  "text" : "kennt jemand eine U-Bahnstation in Bochum mit guter WLAN Anbindung? Überlege mein Büro zu verlegen",
+  "text" : "kennt jemand eine U-Bahnstation in Bochum mit guter WLAN Anbindung? \u00DCberlege mein B\u00FCro zu verlegen",
   "id" : 3427791947,
   "created_at" : "Thu Aug 20 14:01:05 +0000 2009",
   "user" : {
@@ -623,7 +623,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3426823463",
-  "text" : "so 30ºC sind erreicht, wenn ich nicht einen Aussentermin hätte, würde ich jetzt in den Hitzestreik treten",
+  "text" : "so 30\u00BAC sind erreicht, wenn ich nicht einen Aussentermin h\u00E4tte, w\u00FCrde ich jetzt in den Hitzestreik treten",
   "id" : 3426823463,
   "created_at" : "Thu Aug 20 12:58:02 +0000 2009",
   "user" : {
@@ -853,7 +853,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3314432166",
-  "text" : "heut wär so ein tag, für einfach hinter die theke klemmen und stumpf zukippen. kann ich mir aber nicht leisten. (via @mspro)",
+  "text" : "heut w\u00E4r so ein tag, f\u00FCr einfach hinter die theke klemmen und stumpf zukippen. kann ich mir aber nicht leisten. (via @mspro)",
   "id" : 3314432166,
   "created_at" : "Fri Aug 14 20:00:25 +0000 2009",
   "user" : {
@@ -928,7 +928,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3304637927",
-  "text" : "Hilfe, mein iPhone hat Pixelfraß, der Pixelfehler wird immer größer",
+  "text" : "Hilfe, mein iPhone hat Pixelfra\u00DF, der Pixelfehler wird immer gr\u00F6\u00DFer",
   "id" : 3304637927,
   "created_at" : "Fri Aug 14 08:58:04 +0000 2009",
   "user" : {
@@ -951,7 +951,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3273026893",
-  "text" : "wenn mein Drucker in der Gewerkschaft währe, würde er jetzt sicherlich streiken",
+  "text" : "wenn mein Drucker in der Gewerkschaft w\u00E4hre, w\u00FCrde er jetzt sicherlich streiken",
   "id" : 3273026893,
   "created_at" : "Wed Aug 12 21:08:08 +0000 2009",
   "user" : {
@@ -974,7 +974,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3270828304",
-  "text" : "gegen Probleme beim kopieren, gibt's da auch was für Windows? Ja, tcopy.exe!",
+  "text" : "gegen Probleme beim kopieren, gibt's da auch was f\u00FCr Windows? Ja, tcopy.exe!",
   "id" : 3270828304,
   "created_at" : "Wed Aug 12 19:08:16 +0000 2009",
   "user" : {
@@ -1053,7 +1053,7 @@ Grailbird.data.tweets_2009_08 =
   },
   "id_str" : "3263255314",
   "in_reply_to_user_id" : 959201,
-  "text" : "@Katti welche App ist denn 1,81GB groß?",
+  "text" : "@Katti welche App ist denn 1,81GB gro\u00DF?",
   "id" : 3263255314,
   "created_at" : "Wed Aug 12 10:37:31 +0000 2009",
   "in_reply_to_screen_name" : "Katti",
@@ -1078,7 +1078,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3262802709",
-  "text" : "ich bin für ein Stehverbot, auf der mittleren Spur, in Fußgängerzonen",
+  "text" : "ich bin f\u00FCr ein Stehverbot, auf der mittleren Spur, in Fu\u00DFg\u00E4ngerzonen",
   "id" : 3262802709,
   "created_at" : "Wed Aug 12 09:42:10 +0000 2009",
   "user" : {
@@ -1311,7 +1311,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3196792393",
-  "text" : "zwei dutzend Mückenstiche, das war eigentlich nicht das Urlaubssouvenir was ich mir vorgestellt habe",
+  "text" : "zwei dutzend M\u00FCckenstiche, das war eigentlich nicht das Urlaubssouvenir was ich mir vorgestellt habe",
   "id" : 3196792393,
   "created_at" : "Sat Aug 08 19:38:12 +0000 2009",
   "user" : {
@@ -1327,7 +1327,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Björn Schulze",
+      "name" : "Bj\u00F6rn Schulze",
       "screen_name" : "ghostdog19",
       "indices" : [ 104, 115 ],
       "id_str" : "12806792",
@@ -1420,7 +1420,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3194668471",
-  "text" : "Tschüss Wangerooge",
+  "text" : "Tsch\u00FCss Wangerooge",
   "id" : 3194668471,
   "created_at" : "Sat Aug 08 16:29:55 +0000 2009",
   "user" : {
@@ -1500,7 +1500,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3180461569",
-  "text" : "habe grade festgestellt das der Heise Verlag neben c't und iX auch Telefonbücher druckt  http://yfrog.com/3owq7j",
+  "text" : "habe grade festgestellt das der Heise Verlag neben c't und iX auch Telefonb\u00FCcher druckt  http://yfrog.com/3owq7j",
   "id" : 3180461569,
   "created_at" : "Fri Aug 07 17:17:55 +0000 2009",
   "user" : {
@@ -1630,7 +1630,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3075559995",
-  "text" : "Hab mein #TomTom in die Küche gestellt. Bei \"Bitte wenden\" kann ich die Steaks wenden #omahatdassogemacht (via @digicamclub)",
+  "text" : "Hab mein #TomTom in die K\u00FCche gestellt. Bei \"Bitte wenden\" kann ich die Steaks wenden #omahatdassogemacht (via @digicamclub)",
   "id" : 3075559995,
   "created_at" : "Sat Aug 01 20:49:21 +0000 2009",
   "user" : {
@@ -1682,7 +1682,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3074960925",
-  "text" : "Was ist ein Porno-Knopf?\nLösung: Die Private-Browsing Funktion des Browsers\n#genialdaneben",
+  "text" : "Was ist ein Porno-Knopf?\nL\u00F6sung: Die Private-Browsing Funktion des Browsers\n#genialdaneben",
   "id" : 3074960925,
   "created_at" : "Sat Aug 01 20:05:52 +0000 2009",
   "user" : {
@@ -1731,7 +1731,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3073587621",
-  "text" : "schon arm wenn das interessanteste an einem Samstagabend im deutschen TV ein Konzert von André Rieu im ZDF ist",
+  "text" : "schon arm wenn das interessanteste an einem Samstagabend im deutschen TV ein Konzert von Andr\u00E9 Rieu im ZDF ist",
   "id" : 3073587621,
   "created_at" : "Sat Aug 01 18:25:23 +0000 2009",
   "user" : {
@@ -1806,7 +1806,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3069592911",
-  "text" : "mache mich reif für die Insel",
+  "text" : "mache mich reif f\u00FCr die Insel",
   "id" : 3069592911,
   "created_at" : "Sat Aug 01 13:07:10 +0000 2009",
   "user" : {

@@ -90,7 +90,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "789899082",
-  "text" : "zur rück von ner kleinen weldreise, sie war lohnenswert...",
+  "text" : "zur r\u00FCck von ner kleinen weldreise, sie war lohnenswert...",
   "id" : 789899082,
   "created_at" : "Tue Apr 15 23:17:13 +0000 2008",
   "user" : {
@@ -165,7 +165,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "789364881",
-  "text" : "moin an alle da draußen",
+  "text" : "moin an alle da drau\u00DFen",
   "id" : 789364881,
   "created_at" : "Tue Apr 15 06:33:29 +0000 2008",
   "user" : {
@@ -191,7 +191,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "789123920",
-  "text" : "schon schlimm in was für einer stadt ich wohne #totoundharry",
+  "text" : "schon schlimm in was f\u00FCr einer stadt ich wohne #totoundharry",
   "id" : 789123920,
   "created_at" : "Mon Apr 14 20:51:14 +0000 2008",
   "user" : {
@@ -214,7 +214,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "788947300",
-  "text" : "sich über Kunden am ärgern",
+  "text" : "sich \u00FCber Kunden am \u00E4rgern",
   "id" : 788947300,
   "created_at" : "Mon Apr 14 16:05:25 +0000 2008",
   "user" : {
@@ -268,7 +268,7 @@ Grailbird.data.tweets_2008_04 =
   },
   "id_str" : "788771879",
   "in_reply_to_user_id" : 959201,
-  "text" : "@Katti Ich würd erst bei der Hotline anrufen, die nehmen das auf und geben dir ne Bearbeitungsnummer, mit der bekommste bei Gravis den Akku",
+  "text" : "@Katti Ich w\u00FCrd erst bei der Hotline anrufen, die nehmen das auf und geben dir ne Bearbeitungsnummer, mit der bekommste bei Gravis den Akku",
   "id" : 788771879,
   "in_reply_to_status_id" : 788771092,
   "created_at" : "Mon Apr 14 11:21:42 +0000 2008",
@@ -385,7 +385,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "787028030",
-  "text" : "Moin an alle da draußen",
+  "text" : "Moin an alle da drau\u00DFen",
   "id" : 787028030,
   "created_at" : "Fri Apr 11 08:01:05 +0000 2008",
   "user" : {
@@ -408,7 +408,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "786830580",
-  "text" : "so feierabend, war nen langer tag, gn8 an alle da draußen",
+  "text" : "so feierabend, war nen langer tag, gn8 an alle da drau\u00DFen",
   "id" : 786830580,
   "created_at" : "Fri Apr 11 00:32:00 +0000 2008",
   "user" : {
@@ -431,7 +431,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "786719684",
-  "text" : "http://www.hartplatzhelden.de hat die tagesthemen wohl nicht überlebt, bleibt nur zu hoffen das es den prozess besser übersehet, daumendrück",
+  "text" : "http://www.hartplatzhelden.de hat die tagesthemen wohl nicht \u00FCberlebt, bleibt nur zu hoffen das es den prozess besser \u00FCbersehet, daumendr\u00FCck",
   "id" : 786719684,
   "created_at" : "Thu Apr 10 20:46:31 +0000 2008",
   "user" : {
@@ -511,7 +511,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "785789081",
-  "text" : "Zurück vom Mittagessen, waren bei Subway",
+  "text" : "Zur\u00FCck vom Mittagessen, waren bei Subway",
   "id" : 785789081,
   "created_at" : "Wed Apr 09 14:29:43 +0000 2008",
   "user" : {
@@ -606,7 +606,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "785180774",
-  "text" : "fährt zur #pl0gbarbochum",
+  "text" : "f\u00E4hrt zur #pl0gbarbochum",
   "id" : 785180774,
   "created_at" : "Tue Apr 08 16:56:22 +0000 2008",
   "user" : {
@@ -728,7 +728,7 @@ Grailbird.data.tweets_2008_04 =
   },
   "id_str" : "783955627",
   "in_reply_to_user_id" : 2716671,
-  "text" : "@michelb Du zahlst für alles zusammen max. ca. 17€",
+  "text" : "@michelb Du zahlst f\u00FCr alles zusammen max. ca. 17\u20AC",
   "id" : 783955627,
   "in_reply_to_status_id" : 783955231,
   "created_at" : "Sun Apr 06 18:36:55 +0000 2008",
@@ -846,7 +846,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "782058016",
-  "text" : "arbeit ist heute etwas träge",
+  "text" : "arbeit ist heute etwas tr\u00E4ge",
   "id" : 782058016,
   "created_at" : "Thu Apr 03 10:40:51 +0000 2008",
   "user" : {
@@ -869,7 +869,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "781083690",
-  "text" : "für heute ist schicht im schacht",
+  "text" : "f\u00FCr heute ist schicht im schacht",
   "id" : 781083690,
   "created_at" : "Tue Apr 01 21:26:49 +0000 2008",
   "user" : {
@@ -892,7 +892,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "780798185",
-  "text" : "zurück vom Kunden und gleich wieder auf die Arbeit stürzend",
+  "text" : "zur\u00FCck vom Kunden und gleich wieder auf die Arbeit st\u00FCrzend",
   "id" : 780798185,
   "created_at" : "Tue Apr 01 13:01:59 +0000 2008",
   "user" : {

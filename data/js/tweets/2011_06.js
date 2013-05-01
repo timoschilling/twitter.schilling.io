@@ -47,7 +47,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "83641626886541312",
-  "text" : "Wann lernen die Medien endlich, das Passwörter klauen kein hacken sondern fishing ist!!! #sterntv #inkompetenz #fail",
+  "text" : "Wann lernen die Medien endlich, das Passw\u00F6rter klauen kein hacken sondern fishing ist!!! #sterntv #inkompetenz #fail",
   "id" : 83641626886541312,
   "created_at" : "Wed Jun 22 21:04:52 +0000 2011",
   "user" : {
@@ -93,7 +93,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "83337056977305601",
-  "text" : "mainchmal ist die Lösung einfach false",
+  "text" : "mainchmal ist die L\u00F6sung einfach false",
   "id" : 83337056977305601,
   "created_at" : "Wed Jun 22 00:54:37 +0000 2011",
   "user" : {
@@ -124,7 +124,7 @@ Grailbird.data.tweets_2011_06 =
   },
   "id_str" : "80398926737457152",
   "in_reply_to_user_id" : 25992708,
-  "text" : "@maltere das kenne ich, ich fühle mit dir",
+  "text" : "@maltere das kenne ich, ich f\u00FChle mit dir",
   "id" : 80398926737457152,
   "in_reply_to_status_id" : 80369208940167169,
   "created_at" : "Mon Jun 13 22:19:32 +0000 2011",
@@ -326,7 +326,7 @@ Grailbird.data.tweets_2011_06 =
   },
   "id_str" : "76391136024993792",
   "in_reply_to_user_id" : 266212699,
-  "text" : "@Julsythefirst ja zum Glück, haben gewartet bis der Zug zurück kam",
+  "text" : "@Julsythefirst ja zum Gl\u00FCck, haben gewartet bis der Zug zur\u00FCck kam",
   "id" : 76391136024993792,
   "in_reply_to_status_id" : 76379376853327872,
   "created_at" : "Thu Jun 02 20:54:00 +0000 2011",
@@ -381,7 +381,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "76223325361291264",
-  "text" : "ist zufällig jemand im RE6 nach Koblenz (10513) Ankunft 12:42? Wir haben ein Kuscheltier verloren! PLZ RT #dbl",
+  "text" : "ist zuf\u00E4llig jemand im RE6 nach Koblenz (10513) Ankunft 12:42? Wir haben ein Kuscheltier verloren! PLZ RT #dbl",
   "id" : 76223325361291264,
   "created_at" : "Thu Jun 02 09:47:11 +0000 2011",
   "user" : {
@@ -404,7 +404,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "76178043261034496",
-  "text" : "immer diese Leute die ihre Selbstdarstellungsprobleme durch Klingeltöne zu kompensiere versuchen",
+  "text" : "immer diese Leute die ihre Selbstdarstellungsprobleme durch Klingelt\u00F6ne zu kompensiere versuchen",
   "id" : 76178043261034496,
   "created_at" : "Thu Jun 02 06:47:15 +0000 2011",
   "user" : {

@@ -15,7 +15,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 68, 88 ],
       "url" : "http://t.co/EkuA9Qaa",
       "expanded_url" : "http://blog.macromates.com/2011/textmate-2-0-alpha/",
-      "display_url" : "blog.macromates.com/2011/textmate-…"
+      "display_url" : "blog.macromates.com/2011/textmate-\u2026"
     } ]
   },
   "geo" : {
@@ -32,7 +32,7 @@ Grailbird.data.tweets_2011_12 =
         "indices" : [ 52, 72 ],
         "url" : "http://t.co/EkuA9Qaa",
         "expanded_url" : "http://blog.macromates.com/2011/textmate-2-0-alpha/",
-        "display_url" : "blog.macromates.com/2011/textmate-…"
+        "display_url" : "blog.macromates.com/2011/textmate-\u2026"
       } ]
     },
     "geo" : {
@@ -75,7 +75,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 32, 52 ],
       "url" : "http://t.co/K42oGcQC",
       "expanded_url" : "http://blog.macromates.com/2011/textmate-2-0-alpha/",
-      "display_url" : "blog.macromates.com/2011/textmate-…"
+      "display_url" : "blog.macromates.com/2011/textmate-\u2026"
     } ]
   },
   "geo" : {
@@ -138,7 +138,7 @@ Grailbird.data.tweets_2011_12 =
     "coordinates" : [ 50.9392230779, 6.9564639438 ]
   },
   "id_str" : "146592072051326976",
-  "text" : "Kölsch Tastatur http://t.co/SQyfBmsH",
+  "text" : "K\u00F6lsch Tastatur http://t.co/SQyfBmsH",
   "id" : 146592072051326976,
   "created_at" : "Tue Dec 13 14:07:28 +0000 2011",
   "user" : {
@@ -161,7 +161,7 @@ Grailbird.data.tweets_2011_12 =
   "geo" : {
   },
   "id_str" : "142598088597581824",
-  "text" : "Hilfe es laufen Weihnacht's Lieder, wird Zeit für Feierabend",
+  "text" : "Hilfe es laufen Weihnacht's Lieder, wird Zeit f\u00FCr Feierabend",
   "id" : 142598088597581824,
   "created_at" : "Fri Dec 02 13:36:48 +0000 2011",
   "user" : {

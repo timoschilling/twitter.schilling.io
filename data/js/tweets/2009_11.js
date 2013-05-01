@@ -35,7 +35,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -69,7 +69,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -84,7 +84,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "6214667716",
   "in_reply_to_user_id" : 18448838,
-  "text" : "@echt ah, hatte den falschen Denkansatz, wollte von der Liste aus jemanden hinzufügen",
+  "text" : "@echt ah, hatte den falschen Denkansatz, wollte von der Liste aus jemanden hinzuf\u00FCgen",
   "id" : 6214667716,
   "in_reply_to_status_id" : 6214567847,
   "created_at" : "Mon Nov 30 22:22:13 +0000 2009",
@@ -103,7 +103,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicht Kim Frank",
+      "name" : "nicht Olli Schulz",
       "screen_name" : "echt",
       "indices" : [ 0, 5 ],
       "id_str" : "18448838",
@@ -118,7 +118,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "6213704717",
   "in_reply_to_user_id" : 18448838,
-  "text" : "@echt da gibt's kein Manage und unter Edit kann ich nur den Namen und die Beschreibung ändern",
+  "text" : "@echt da gibt's kein Manage und unter Edit kann ich nur den Namen und die Beschreibung \u00E4ndern",
   "id" : 6213704717,
   "in_reply_to_status_id" : 6213494872,
   "created_at" : "Mon Nov 30 21:47:22 +0000 2009",
@@ -150,7 +150,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "6213470319",
-  "text" : "RT @haekelschwein: Erst 103 Jahre nach ihrer Erbauung durfte die katholische St.Michael-Kirche im protestantischen Göttingen um einen Ki ...",
+  "text" : "RT @haekelschwein: Erst 103 Jahre nach ihrer Erbauung durfte die katholische St.Michael-Kirche im protestantischen G\u00F6ttingen um einen Ki ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -162,7 +162,7 @@ Grailbird.data.tweets_2009_11 =
     "geo" : {
     },
     "id_str" : "6213098683",
-    "text" : "Erst 103 Jahre nach ihrer Erbauung durfte die katholische St.Michael-Kirche im protestantischen Göttingen um einen Kirchturm ergänzt werden.",
+    "text" : "Erst 103 Jahre nach ihrer Erbauung durfte die katholische St.Michael-Kirche im protestantischen G\u00F6ttingen um einen Kirchturm erg\u00E4nzt werden.",
     "id" : 6213098683,
     "created_at" : "Mon Nov 30 21:22:30 +0000 2009",
     "user" : {
@@ -203,7 +203,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "6212818769",
-  "text" : "schade das man in @tweetie 2.1 keine User bei den Liste hinzufügen / löschen kann",
+  "text" : "schade das man in @tweetie 2.1 keine User bei den Liste hinzuf\u00FCgen / l\u00F6schen kann",
   "id" : 6212818769,
   "created_at" : "Mon Nov 30 20:55:39 +0000 2009",
   "user" : {
@@ -368,7 +368,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "6201879664",
-  "text" : "Florian Illies in der Zeit: App als Kurzform für Apple http://twitpic.com/rkwi4 Wortwitzelei oder Irrglaube? (via @jkleske  @fscklog) - AUA",
+  "text" : "Florian Illies in der Zeit: App als Kurzform f\u00FCr Apple http://twitpic.com/rkwi4 Wortwitzelei oder Irrglaube? (via @jkleske  @fscklog) - AUA",
   "id" : 6201879664,
   "created_at" : "Mon Nov 30 14:01:06 +0000 2009",
   "user" : {
@@ -423,7 +423,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "6201009962",
-  "text" : "zdf weihnachtsproramm #titanic http://tr.im/GbEZ (wer cdu sät wird raf ernten) (via @oliverg)",
+  "text" : "zdf weihnachtsproramm #titanic http://tr.im/GbEZ (wer cdu s\u00E4t wird raf ernten) (via @oliverg)",
   "id" : 6201009962,
   "created_at" : "Mon Nov 30 13:23:13 +0000 2009",
   "user" : {
@@ -516,7 +516,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "6198634946",
-  "text" : "Nachricht: Bill Kaulitz würde für die große Liebe auch auswandern. Kollege: Hoffentlich findet er sie bald. #tokiohotel (via @DerWesten)",
+  "text" : "Nachricht: Bill Kaulitz w\u00FCrde f\u00FCr die gro\u00DFe Liebe auch auswandern. Kollege: Hoffentlich findet er sie bald. #tokiohotel (via @DerWesten)",
   "id" : 6198634946,
   "created_at" : "Mon Nov 30 11:16:36 +0000 2009",
   "user" : {
@@ -693,7 +693,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "6178447452",
   "in_reply_to_user_id" : 6798612,
-  "text" : "@tlehmann der ist ja größer als du!",
+  "text" : "@tlehmann der ist ja gr\u00F6\u00DFer als du!",
   "id" : 6178447452,
   "in_reply_to_status_id" : 6173097549,
   "created_at" : "Sun Nov 29 20:09:34 +0000 2009",
@@ -754,7 +754,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "6108196526",
-  "text" : "neues Geschäftsmodel für Warteschleifen Musik: Drücken sie 19 um diesen Song zu Kaufen",
+  "text" : "neues Gesch\u00E4ftsmodel f\u00FCr Warteschleifen Musik: Dr\u00FCcken sie 19 um diesen Song zu Kaufen",
   "id" : 6108196526,
   "created_at" : "Fri Nov 27 09:58:59 +0000 2009",
   "user" : {
@@ -849,7 +849,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "6092592192",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel währe mal ne Überlegung wert! #tv #filter",
+  "text" : "@florianfiegel w\u00E4hre mal ne \u00DCberlegung wert! #tv #filter",
   "id" : 6092592192,
   "in_reply_to_status_id" : 6092451625,
   "created_at" : "Thu Nov 26 21:10:39 +0000 2009",
@@ -891,7 +891,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marko Tošić",
+      "name" : "Marko To\u0161i\u0107",
       "screen_name" : "markotosic",
       "indices" : [ 78, 89 ],
       "id_str" : "301942772",
@@ -947,7 +947,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "6091731354",
   "in_reply_to_user_id" : 6798612,
-  "text" : "@tlehmann manchmal kommt der Eindruck das gilt auch für @perfetto Mitarbeiter #Harz4TV",
+  "text" : "@tlehmann manchmal kommt der Eindruck das gilt auch f\u00FCr @perfetto Mitarbeiter #Harz4TV",
   "id" : 6091731354,
   "in_reply_to_status_id" : 6091517795,
   "created_at" : "Thu Nov 26 20:33:45 +0000 2009",
@@ -1005,7 +1005,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "6091067178",
-  "text" : "mainchmal schon übel wenn man liest wer was so im TV schaut!",
+  "text" : "mainchmal schon \u00FCbel wenn man liest wer was so im TV schaut!",
   "id" : 6091067178,
   "created_at" : "Thu Nov 26 20:05:07 +0000 2009",
   "user" : {
@@ -1091,7 +1091,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "6078245228",
-  "text" : "@bend0r würde gerne mit Testen",
+  "text" : "@bend0r w\u00FCrde gerne mit Testen",
   "id" : 6078245228,
   "created_at" : "Thu Nov 26 10:38:28 +0000 2009",
   "user" : {
@@ -1177,7 +1177,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "6046513547",
-  "text" : "1Password für iPhone/iPod Touch ist bis zum 1. Dezember als Gratis Download über den AppStore verfügbar (via @couchpotato_es)",
+  "text" : "1Password f\u00FCr iPhone/iPod Touch ist bis zum 1. Dezember als Gratis Download \u00FCber den AppStore verf\u00FCgbar (via @couchpotato_es)",
   "id" : 6046513547,
   "created_at" : "Wed Nov 25 10:42:02 +0000 2009",
   "user" : {
@@ -1235,7 +1235,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "6007781598",
-  "text" : "Oh, großer pearl Katalog - du quell niemals versiegender WTFs! (via @SimSullen)",
+  "text" : "Oh, gro\u00DFer pearl Katalog - du quell niemals versiegender WTFs! (via @SimSullen)",
   "id" : 6007781598,
   "created_at" : "Tue Nov 24 13:33:07 +0000 2009",
   "user" : {
@@ -1264,7 +1264,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5988111749",
-  "text" : "Wie nennt man RTL-Zuschauer auch... A) Nobelpreisträger oder B) BILD-Leser... Rufen Sie gleich an. (via @kcu)",
+  "text" : "Wie nennt man RTL-Zuschauer auch... A) Nobelpreistr\u00E4ger oder B) BILD-Leser... Rufen Sie gleich an. (via @kcu)",
   "id" : 5988111749,
   "created_at" : "Mon Nov 23 21:28:58 +0000 2009",
   "user" : {
@@ -1339,7 +1339,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5976154756",
-  "text" : "interessanter Ansatz: Zinsen abschaffen und statt dessen Lagergebühren für zu viel Geld",
+  "text" : "interessanter Ansatz: Zinsen abschaffen und statt dessen Lagergeb\u00FChren f\u00FCr zu viel Geld",
   "id" : 5976154756,
   "created_at" : "Mon Nov 23 13:28:13 +0000 2009",
   "user" : {
@@ -1385,7 +1385,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5935062752",
-  "text" : "schon übel was bei rumkommt wenn ein paar Endvierziger ihre Mitlivekrisis am CD Regal ausleben",
+  "text" : "schon \u00FCbel was bei rumkommt wenn ein paar Endvierziger ihre Mitlivekrisis am CD Regal ausleben",
   "id" : 5935062752,
   "created_at" : "Sun Nov 22 02:23:53 +0000 2009",
   "user" : {
@@ -1467,7 +1467,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : " 3Gstore.de ",
+      "name" : "\uF8FF 3Gstore.de ",
       "screen_name" : "3Gstore",
       "indices" : [ 132, 140 ],
       "id_str" : "19483944",
@@ -1515,7 +1515,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5899478027",
-  "text" : "Kann Liebeskummer-Gebete verstehen. Wurde vor 2000 Jahren auch erst genagelt und dann hängen gelassen. (via @Jahwe)",
+  "text" : "Kann Liebeskummer-Gebete verstehen. Wurde vor 2000 Jahren auch erst genagelt und dann h\u00E4ngen gelassen. (via @Jahwe)",
   "id" : 5899478027,
   "created_at" : "Fri Nov 20 20:28:42 +0000 2009",
   "user" : {
@@ -1643,7 +1643,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5813851879",
-  "text" : "A: \"Die neue Regierung fährt in der Kriese auf Sicht\" B: \"Das hat die Titanic auch schon gemacht\" (via http://tr.im/FbyG)",
+  "text" : "A: \"Die neue Regierung f\u00E4hrt in der Kriese auf Sicht\" B: \"Das hat die Titanic auch schon gemacht\" (via http://tr.im/FbyG)",
   "id" : 5813851879,
   "created_at" : "Wed Nov 18 01:49:15 +0000 2009",
   "user" : {
@@ -1659,7 +1659,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : " Macnotes.de",
+      "name" : "\uF8FF Macnotes.de",
       "screen_name" : "Macnotes",
       "indices" : [ 64, 73 ],
       "id_str" : "6057542",
@@ -1672,7 +1672,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5799690918",
-  "text" : "Tipp: Tastenkürzel für das Terminal http://macnot.es/23300 (via @Macnotes)",
+  "text" : "Tipp: Tastenk\u00FCrzel f\u00FCr das Terminal http://macnot.es/23300 (via @Macnotes)",
   "id" : 5799690918,
   "created_at" : "Tue Nov 17 16:28:51 +0000 2009",
   "user" : {
@@ -1752,7 +1752,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5741861864",
-  "text" : "@supnub dann zieh es dir doch aus der Timemaschien und für IMAP kann ich Google Apps for Domain nur empfehlen",
+  "text" : "@supnub dann zieh es dir doch aus der Timemaschien und f\u00FCr IMAP kann ich Google Apps for Domain nur empfehlen",
   "id" : 5741861864,
   "created_at" : "Sun Nov 15 18:21:38 +0000 2009",
   "user" : {
@@ -1775,7 +1775,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5741317801",
-  "text" : "@supnub dafür gibt's Timemachine und IMAP",
+  "text" : "@supnub daf\u00FCr gibt's Timemachine und IMAP",
   "id" : 5741317801,
   "created_at" : "Sun Nov 15 17:57:07 +0000 2009",
   "user" : {
@@ -1827,7 +1827,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5719252672",
-  "text" : "oh mann, Interview mit ehmaliegen DDR Bürgern, pure Blasphemie #SDTV #VOX",
+  "text" : "oh mann, Interview mit ehmaliegen DDR B\u00FCrgern, pure Blasphemie #SDTV #VOX",
   "id" : 5719252672,
   "created_at" : "Sat Nov 14 21:46:36 +0000 2009",
   "user" : {
@@ -1850,7 +1850,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5717819279",
-  "text" : "-- --- •-• ••• • |- •-- • • - ••• |••• -• • •-• -•• •• --• http://tr.im/EXIg",
+  "text" : "--\u00A0---\u00A0\u2022-\u2022\u00A0\u2022\u2022\u2022\u00A0\u2022\u00A0|-\u00A0\u2022--\u00A0\u2022\u00A0\u2022\u00A0-\u00A0\u2022\u2022\u2022\u00A0|\u2022\u2022\u2022\u00A0-\u2022\u00A0\u2022\u00A0\u2022-\u2022\u00A0-\u2022\u2022\u00A0\u2022\u2022\u00A0--\u2022 http://tr.im/EXIg",
   "id" : 5717819279,
   "created_at" : "Sat Nov 14 20:42:04 +0000 2009",
   "user" : {
@@ -1881,7 +1881,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "5681972840",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel Glückwunsch, da trinken wir nachher erstmal einen drauf!",
+  "text" : "@florianfiegel Gl\u00FCckwunsch, da trinken wir nachher erstmal einen drauf!",
   "id" : 5681972840,
   "in_reply_to_status_id" : 5681684822,
   "created_at" : "Fri Nov 13 15:24:24 +0000 2009",
@@ -1915,7 +1915,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "5653277832",
   "in_reply_to_user_id" : 627473,
-  "text" : "@getoliverleon und wann kommt die fürs iPhone?",
+  "text" : "@getoliverleon und wann kommt die f\u00FCrs iPhone?",
   "id" : 5653277832,
   "in_reply_to_status_id" : 5653257251,
   "created_at" : "Thu Nov 12 16:40:23 +0000 2009",
@@ -1971,7 +1971,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "5650923704",
   "in_reply_to_user_id" : 20578419,
-  "text" : "@filshnet Idee für euer FireFox Plugin, Videos von jeder Seite downloadbar machen",
+  "text" : "@filshnet Idee f\u00FCr euer FireFox Plugin, Videos von jeder Seite downloadbar machen",
   "id" : 5650923704,
   "created_at" : "Thu Nov 12 15:05:00 +0000 2009",
   "in_reply_to_screen_name" : "filshnet",
@@ -2004,7 +2004,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "5650664615",
   "in_reply_to_user_id" : 12674992,
-  "text" : "@humpaaa die haben am Schalter gespart, die können nur an und aus, genauso wie im Sommer bei der Klimaanlage",
+  "text" : "@humpaaa die haben am Schalter gespart, die k\u00F6nnen nur an und aus, genauso wie im Sommer bei der Klimaanlage",
   "id" : 5650664615,
   "in_reply_to_status_id" : 5650189673,
   "created_at" : "Thu Nov 12 14:54:22 +0000 2009",
@@ -2124,7 +2124,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5630772581",
-  "text" : "@supnub und was gibt es für einen Pretweet?",
+  "text" : "@supnub und was gibt es f\u00FCr einen Pretweet?",
   "id" : 5630772581,
   "created_at" : "Wed Nov 11 22:04:52 +0000 2009",
   "user" : {
@@ -2153,7 +2153,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5627655617",
-  "text" : "@supnub so langsam übertreibst du es aber mit dem @perfetto PR-Spam",
+  "text" : "@supnub so langsam \u00FCbertreibst du es aber mit dem @perfetto PR-Spam",
   "id" : 5627655617,
   "created_at" : "Wed Nov 11 19:57:00 +0000 2009",
   "user" : {
@@ -2249,7 +2249,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "5621092055",
   "in_reply_to_user_id" : 7141292,
-  "text" : "@stn1978 wie Wahr! \"Wir machen alles\" ist immer ein Indiz für \"Wir können nichts\"",
+  "text" : "@stn1978 wie Wahr! \"Wir machen alles\" ist immer ein Indiz f\u00FCr \"Wir k\u00F6nnen nichts\"",
   "id" : 5621092055,
   "created_at" : "Wed Nov 11 15:24:42 +0000 2009",
   "in_reply_to_screen_name" : "stn1978",
@@ -2280,7 +2280,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5621026627",
-  "text" : "„Full Service ist keine Strategie. Full Service ist ein Zeichen für Strategielosigkeit.“ (via @stn1978)",
+  "text" : "\u201EFull Service ist keine Strategie. Full Service ist ein Zeichen f\u00FCr Strategielosigkeit.\u201C (via @stn1978)",
   "id" : 5621026627,
   "created_at" : "Wed Nov 11 15:22:04 +0000 2009",
   "user" : {
@@ -2375,7 +2375,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5618229021",
-  "text" : "Petition für OpenAccess: http://bit.ly/37yqE3 #signed (via @florianfiegel)",
+  "text" : "Petition f\u00FCr OpenAccess: http://bit.ly/37yqE3 #signed (via @florianfiegel)",
   "id" : 5618229021,
   "created_at" : "Wed Nov 11 13:17:46 +0000 2009",
   "user" : {
@@ -2401,7 +2401,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5617225269",
-  "text" : "das es heute nichts mit dem #Telekom Anschluss wird hätte ich mir ja auch denken können, bei dem Datum",
+  "text" : "das es heute nichts mit dem #Telekom Anschluss wird h\u00E4tte ich mir ja auch denken k\u00F6nnen, bei dem Datum",
   "id" : 5617225269,
   "created_at" : "Wed Nov 11 12:22:20 +0000 2009",
   "user" : {
@@ -2494,7 +2494,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5616251565",
-  "text" : "Die #Telekom #Hotline kann mein Haus nicht finden, naja ist ja auch kein Wunder steht hier ja auch erst geschätzte 60-100 Jahre #fail",
+  "text" : "Die #Telekom #Hotline kann mein Haus nicht finden, naja ist ja auch kein Wunder steht hier ja auch erst gesch\u00E4tzte 60-100 Jahre #fail",
   "id" : 5616251565,
   "created_at" : "Wed Nov 11 11:22:15 +0000 2009",
   "user" : {
@@ -2578,7 +2578,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5607706719",
-  "text" : "und die Polizei hat nichts besseres zu tun als die Alarmanlage alle paar Minuten wieder auszulösen",
+  "text" : "und die Polizei hat nichts besseres zu tun als die Alarmanlage alle paar Minuten wieder auszul\u00F6sen",
   "id" : 5607706719,
   "created_at" : "Wed Nov 11 02:38:05 +0000 2009",
   "user" : {
@@ -2635,7 +2635,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "5605846863",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel da bin ich noch weit von entfernt, habe 4800 Stück und rund 50 Tage vor mir #Podcast-Rückstand",
+  "text" : "@florianfiegel da bin ich noch weit von entfernt, habe 4800 St\u00FCck und rund 50 Tage vor mir #Podcast-R\u00FCckstand",
   "id" : 5605846863,
   "in_reply_to_status_id" : 5601411634,
   "created_at" : "Wed Nov 11 01:22:14 +0000 2009",
@@ -2674,7 +2674,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "5605397842",
   "in_reply_to_user_id" : 12652542,
-  "text" : "@culturedcode things + things iphone are wonderful. any chance to get OTA sync? (webdav, for example) (via @mntmn) – It's really needed … :/",
+  "text" : "@culturedcode things + things iphone are wonderful. any chance to get OTA sync? (webdav, for example) (via @mntmn) \u2013 It's really needed \u2026 :/",
   "id" : 5605397842,
   "created_at" : "Wed Nov 11 01:03:50 +0000 2009",
   "in_reply_to_screen_name" : "culturedcode",
@@ -2702,7 +2702,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5597295499",
-  "text" : "Realität ist etwas für Leute die sich nichts besseres vorstellen können #Simpsons",
+  "text" : "Realit\u00E4t ist etwas f\u00FCr Leute die sich nichts besseres vorstellen k\u00F6nnen #Simpsons",
   "id" : 5597295499,
   "created_at" : "Tue Nov 10 19:43:54 +0000 2009",
   "user" : {
@@ -2728,7 +2728,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5597272872",
-  "text" : "Opium fürs Volk #Simpsons",
+  "text" : "Opium f\u00FCrs Volk #Simpsons",
   "id" : 5597272872,
   "created_at" : "Tue Nov 10 19:42:56 +0000 2009",
   "user" : {
@@ -2817,7 +2817,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5574561638",
-  "text" : "Schleife grade 25 Holzwürfel ab, fühle mich irgentwie in meine Azubi-Zeit zurückversetzt",
+  "text" : "Schleife grade 25 Holzw\u00FCrfel ab, f\u00FChle mich irgentwie in meine Azubi-Zeit zur\u00FCckversetzt",
   "id" : 5574561638,
   "created_at" : "Tue Nov 10 00:41:40 +0000 2009",
   "user" : {
@@ -2843,7 +2843,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5562997585",
-  "text" : "es nähert sich der letzte Akt #projektende",
+  "text" : "es n\u00E4hert sich der letzte Akt #projektende",
   "id" : 5562997585,
   "created_at" : "Mon Nov 09 16:51:42 +0000 2009",
   "user" : {
@@ -3087,7 +3087,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5544016946",
-  "text" : "#Google“Gefahr durch Social Media”87500“Chancen durch Social Media”155000 Das sind 36%negative und 64%positive Suchergebnisse (via @schmitz)",
+  "text" : "#Google\u201CGefahr durch Social Media\u201D87500\u201CChancen durch Social Media\u201D155000 Das sind 36%negative und 64%positive Suchergebnisse (via @schmitz)",
   "id" : 5544016946,
   "created_at" : "Sun Nov 08 23:29:08 +0000 2009",
   "user" : {
@@ -3144,7 +3144,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5541682914",
-  "text" : "Mein Lachsbrötchen schmeckt in etwa soviel nach Fisch, wie ein Leberkäsebrôtchen nach Käse schmäckt",
+  "text" : "Mein Lachsbr\u00F6tchen schmeckt in etwa soviel nach Fisch, wie ein Leberk\u00E4sebr\u00F4tchen nach K\u00E4se schm\u00E4ckt",
   "id" : 5541682914,
   "created_at" : "Sun Nov 08 21:43:28 +0000 2009",
   "user" : {
@@ -3160,7 +3160,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Philipp Kühn",
+      "name" : "Philipp K\u00FChn",
       "screen_name" : "Weltentummler",
       "indices" : [ 0, 14 ],
       "id_str" : "14445852",
@@ -3235,7 +3235,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stefan Oßwald",
+      "name" : "Stefan O\u00DFwald",
       "screen_name" : "StefanOsswald",
       "indices" : [ 106, 120 ],
       "id_str" : "9972472",
@@ -3323,7 +3323,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "5534597202",
   "in_reply_to_user_id" : 16707501,
-  "text" : "@rattazong schon mal die Netzwerkeinstellungen resettet und anschließend neugestartet? #iPhone #Jailbreak #WiFi #Fail",
+  "text" : "@rattazong schon mal die Netzwerkeinstellungen resettet und anschlie\u00DFend neugestartet? #iPhone #Jailbreak #WiFi #Fail",
   "id" : 5534597202,
   "in_reply_to_status_id" : 5534437440,
   "created_at" : "Sun Nov 08 16:15:22 +0000 2009",
@@ -3342,7 +3342,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chaim (חיים)",
+      "name" : "Chaim (\u05D7\u05D9\u05D9\u05DD)",
       "screen_name" : "creanu",
       "indices" : [ 0, 7 ],
       "id_str" : "14156681",
@@ -3389,7 +3389,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5509093482",
-  "text" : "Das Gegenstück zur 5min-Terrine. http://img.ly/bas (via @florianfiegel)",
+  "text" : "Das Gegenst\u00FCck zur 5min-Terrine. http://img.ly/bas (via @florianfiegel)",
   "id" : 5509093482,
   "created_at" : "Sat Nov 07 16:19:09 +0000 2009",
   "user" : {
@@ -3405,7 +3405,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "René Fischer",
+      "name" : "Ren\u00E9 Fischer",
       "screen_name" : "renefischer",
       "indices" : [ 89, 101 ],
       "id_str" : "19090958",
@@ -3418,7 +3418,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5484225936",
-  "text" : "genialer Bühnensketch zum Thema Zeitung  http://tr.im/ElVp \"Wie geil ist das denn?\" (via @renefischer)",
+  "text" : "genialer B\u00FChnensketch zum Thema Zeitung  http://tr.im/ElVp \"Wie geil ist das denn?\" (via @renefischer)",
   "id" : 5484225936,
   "created_at" : "Fri Nov 06 17:42:08 +0000 2009",
   "user" : {
@@ -3486,7 +3486,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "5455770967",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel halten kann ich sie nicht, dafür bin ich noch zu sehr Newbie aber Teilnehmen würde ich",
+  "text" : "@florianfiegel halten kann ich sie nicht, daf\u00FCr bin ich noch zu sehr Newbie aber Teilnehmen w\u00FCrde ich",
   "id" : 5455770967,
   "in_reply_to_status_id" : 5455555463,
   "created_at" : "Thu Nov 05 18:10:56 +0000 2009",
@@ -3528,7 +3528,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "5455217480",
   "in_reply_to_user_id" : 16394309,
-  "text" : "@florianfiegel ner #Textmate Session beim nächsten @gadgetabend würde ich mich anschliessen",
+  "text" : "@florianfiegel ner #Textmate Session beim n\u00E4chsten @gadgetabend w\u00FCrde ich mich anschliessen",
   "id" : 5455217480,
   "created_at" : "Thu Nov 05 17:46:48 +0000 2009",
   "in_reply_to_screen_name" : "florianfiegel",
@@ -3588,7 +3588,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5446421273",
-  "text" : "Für alle die mal #iTunesLP kostenlos ausprobieren möchten.  http://tr.im/EcSK (Entpacken und in #ITunes ziehen.) (via @tlehmann)",
+  "text" : "F\u00FCr alle die mal #iTunesLP kostenlos ausprobieren m\u00F6chten.  http://tr.im/EcSK (Entpacken und in #ITunes ziehen.) (via @tlehmann)",
   "id" : 5446421273,
   "created_at" : "Thu Nov 05 10:25:50 +0000 2009",
   "user" : {
@@ -3668,7 +3668,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "5427381495",
   "in_reply_to_user_id" : 959201,
-  "text" : "@Katti natürlich! Ist doch auch das Geschäftsmodel von eBay, Twitter und Co.",
+  "text" : "@Katti nat\u00FCrlich! Ist doch auch das Gesch\u00E4ftsmodel von eBay, Twitter und Co.",
   "id" : 5427381495,
   "in_reply_to_status_id" : 5426555412,
   "created_at" : "Wed Nov 04 18:57:00 +0000 2009",
@@ -3733,7 +3733,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "♛Michaela Aichberger",
+      "name" : "\u265BMichaela Aichberger",
       "screen_name" : "frauenfuss",
       "indices" : [ 12, 23 ],
       "id_str" : "34912856",
@@ -3804,7 +3804,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5420565122",
-  "text" : "Hat noch jemand etwas Zeit für mich über? Meine ist im Moment etwas rar",
+  "text" : "Hat noch jemand etwas Zeit f\u00FCr mich \u00FCber? Meine ist im Moment etwas rar",
   "id" : 5420565122,
   "created_at" : "Wed Nov 04 14:03:32 +0000 2009",
   "user" : {
@@ -3827,7 +3827,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5418752086",
-  "text" : "der Baum vor meinem Fenster war aber auch schon mal grüner, wird wohl langsam Herbst  http://tr.im/E6VU",
+  "text" : "der Baum vor meinem Fenster war aber auch schon mal gr\u00FCner, wird wohl langsam Herbst  http://tr.im/E6VU",
   "id" : 5418752086,
   "created_at" : "Wed Nov 04 12:25:13 +0000 2009",
   "user" : {
@@ -3843,7 +3843,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : " Macnotes.de",
+      "name" : "\uF8FF Macnotes.de",
       "screen_name" : "Macnotes",
       "indices" : [ 98, 107 ],
       "id_str" : "6057542",
@@ -3856,7 +3856,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5405130118",
-  "text" : "re:Store feiert den Mauerfall – Mac-Begrüßungsgeld für alle alten PCs http://macnot.es/22570 (via @Macnotes)",
+  "text" : "re:Store feiert den Mauerfall \u2013 Mac-Begr\u00FC\u00DFungsgeld f\u00FCr alle alten PCs http://macnot.es/22570 (via @Macnotes)",
   "id" : 5405130118,
   "created_at" : "Tue Nov 03 23:30:43 +0000 2009",
   "user" : {
@@ -3894,7 +3894,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5405094310",
-  "text" : "Erste Studie aus #Finsdorf beweist die erhöhte Suizidgefahr für #Windows7-User. #Stromberg: \"SnowLeopard war meine Idee.\" (via @tlehmann)",
+  "text" : "Erste Studie aus #Finsdorf beweist die erh\u00F6hte Suizidgefahr f\u00FCr #Windows7-User. #Stromberg: \"SnowLeopard war meine Idee.\" (via @tlehmann)",
   "id" : 5405094310,
   "created_at" : "Tue Nov 03 23:29:19 +0000 2009",
   "user" : {
@@ -4111,7 +4111,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5389942778",
-  "text" : "sich nen Timer für das Essen zu stellen und dann den Rechner neu zu starten ist irgendwie unklug",
+  "text" : "sich nen Timer f\u00FCr das Essen zu stellen und dann den Rechner neu zu starten ist irgendwie unklug",
   "id" : 5389942778,
   "created_at" : "Tue Nov 03 12:18:54 +0000 2009",
   "user" : {
@@ -4140,7 +4140,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5370142890",
-  "text" : "RT @saschalobo: Bester Tag in der Firmengeschichte? Quelle sollte über das Geschäftsmodell Insolvenz nachdenken.",
+  "text" : "RT @saschalobo: Bester Tag in der Firmengeschichte? Quelle sollte \u00FCber das Gesch\u00E4ftsmodell Insolvenz nachdenken.",
   "id" : 5370142890,
   "created_at" : "Mon Nov 02 19:02:59 +0000 2009",
   "user" : {
@@ -4208,7 +4208,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ChristophMüllerGirod",
+      "name" : "Mueller-Girod",
       "screen_name" : "schwarzesgold",
       "indices" : [ 0, 14 ],
       "id_str" : "16048372",
@@ -4222,7 +4222,7 @@ Grailbird.data.tweets_2009_11 =
   },
   "id_str" : "5363838454",
   "in_reply_to_user_id" : 16048372,
-  "text" : "@schwarzesgold Danke auch noch mal an dich, auch wenn ich die Beglückwünschung erst suche musste ;)",
+  "text" : "@schwarzesgold Danke auch noch mal an dich, auch wenn ich die Begl\u00FCckw\u00FCnschung erst suche musste ;)",
   "id" : 5363838454,
   "created_at" : "Mon Nov 02 14:21:10 +0000 2009",
   "in_reply_to_screen_name" : "schwarzesgold",
@@ -4330,13 +4330,13 @@ Grailbird.data.tweets_2009_11 =
       "id_str" : "2716671",
       "id" : 2716671
     }, {
-      "name" : "Christian Spließ",
+      "name" : "Christian Splie\u00DF",
       "screen_name" : "NGC6544",
       "indices" : [ 46, 54 ],
       "id_str" : "9413142",
       "id" : 9413142
     }, {
-      "name" : "Marko Tošić",
+      "name" : "Marko To\u0161i\u0107",
       "screen_name" : "markotosic",
       "indices" : [ 55, 66 ],
       "id_str" : "301942772",

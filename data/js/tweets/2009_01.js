@@ -33,7 +33,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1142564543",
-  "text" : "arg, alle Bahnen haben Verspätung, nur nicht die die ich verpasst habe",
+  "text" : "arg, alle Bahnen haben Versp\u00E4tung, nur nicht die die ich verpasst habe",
   "id" : 1142564543,
   "created_at" : "Fri Jan 23 18:00:07 +0000 2009",
   "user" : {
@@ -118,7 +118,7 @@ Grailbird.data.tweets_2009_01 =
   },
   "id_str" : "1140504026",
   "in_reply_to_user_id" : 5769802,
-  "text" : "@pottblog Herzlichen Glückwunsch zum Geburtstag",
+  "text" : "@pottblog Herzlichen Gl\u00FCckwunsch zum Geburtstag",
   "id" : 1140504026,
   "created_at" : "Thu Jan 22 23:23:16 +0000 2009",
   "in_reply_to_screen_name" : "pottblog",
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1136813409",
-  "text" : "grade seit langen mal wieder am Essener HBF ausgeatiegen. Ist ja echt übel.",
+  "text" : "grade seit langen mal wieder am Essener HBF ausgeatiegen. Ist ja echt \u00FCbel.",
   "id" : 1136813409,
   "created_at" : "Wed Jan 21 17:54:48 +0000 2009",
   "user" : {
@@ -174,7 +174,7 @@ Grailbird.data.tweets_2009_01 =
   },
   "id_str" : "1132837435",
   "in_reply_to_user_id" : 6473012,
-  "text" : "@hirnrinde oh, dann waren das wohl nur Gerüchte",
+  "text" : "@hirnrinde oh, dann waren das wohl nur Ger\u00FCchte",
   "id" : 1132837435,
   "in_reply_to_status_id" : 1132828251,
   "created_at" : "Tue Jan 20 10:33:46 +0000 2009",
@@ -303,7 +303,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1131646436",
-  "text" : "oh, jetzt weis ich auch warum mein Podcast Archive so groß ist, hatte einen Video Podcast gleich 3 mal",
+  "text" : "oh, jetzt weis ich auch warum mein Podcast Archive so gro\u00DF ist, hatte einen Video Podcast gleich 3 mal",
   "id" : 1131646436,
   "created_at" : "Mon Jan 19 22:44:42 +0000 2009",
   "user" : {
@@ -326,7 +326,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1131591070",
-  "text" : "wann kommt der 30\" iMac oder bin ich verwöhnt",
+  "text" : "wann kommt der 30\" iMac oder bin ich verw\u00F6hnt",
   "id" : 1131591070,
   "created_at" : "Mon Jan 19 22:20:05 +0000 2009",
   "user" : {
@@ -355,7 +355,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1129148622",
-  "text" : "RT @denQuer Hab mir gerade Freikarten für \"Die drei ???\" in München (ich in Düsseldorf) bestellt -&gt; http://twurl.nl/50riim",
+  "text" : "RT @denQuer Hab mir gerade Freikarten f\u00FCr \"Die drei ???\" in M\u00FCnchen (ich in D\u00FCsseldorf) bestellt -&gt; http://twurl.nl/50riim",
   "id" : 1129148622,
   "created_at" : "Sun Jan 18 23:27:23 +0000 2009",
   "user" : {
@@ -484,7 +484,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1122617827",
-  "text" : "so es sind gefühlte 5 Uhr, Windows ist noch nicht fertig aber ich",
+  "text" : "so es sind gef\u00FChlte 5 Uhr, Windows ist noch nicht fertig aber ich",
   "id" : 1122617827,
   "created_at" : "Fri Jan 16 01:48:34 +0000 2009",
   "user" : {
@@ -558,7 +558,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1122400816",
-  "text" : "ich werd zu alt für diesen Job",
+  "text" : "ich werd zu alt f\u00FCr diesen Job",
   "id" : 1122400816,
   "created_at" : "Fri Jan 16 00:06:26 +0000 2009",
   "user" : {
@@ -607,7 +607,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1122166399",
-  "text" : "Windows 7 ≅ Windows Vista 2.0?",
+  "text" : "Windows 7 \u2245 Windows Vista 2.0?",
   "id" : 1122166399,
   "created_at" : "Thu Jan 15 22:17:13 +0000 2009",
   "user" : {
@@ -630,7 +630,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1122085007",
-  "text" : "schließt sich jemand einer Sammelklage gegen die deutsche TV-Industrie wegen seelischer Grausamkeit an?",
+  "text" : "schlie\u00DFt sich jemand einer Sammelklage gegen die deutsche TV-Industrie wegen seelischer Grausamkeit an?",
   "id" : 1122085007,
   "created_at" : "Thu Jan 15 21:44:44 +0000 2009",
   "user" : {
@@ -676,7 +676,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1121730106",
-  "text" : "Es geht doch nichts über ein strukturiertes Chaos",
+  "text" : "Es geht doch nichts \u00FCber ein strukturiertes Chaos",
   "id" : 1121730106,
   "created_at" : "Thu Jan 15 19:13:49 +0000 2009",
   "user" : {
@@ -808,7 +808,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1120525780",
-  "text" : "jetzt wo die \"Welt\" nicht mehr Weiß ist, ist sie irgendwie trist, wird Zeit das sie wieder Grün wird",
+  "text" : "jetzt wo die \"Welt\" nicht mehr Wei\u00DF ist, ist sie irgendwie trist, wird Zeit das sie wieder Gr\u00FCn wird",
   "id" : 1120525780,
   "created_at" : "Thu Jan 15 08:12:57 +0000 2009",
   "user" : {
@@ -900,7 +900,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1106540487",
-  "text" : "Grade in der Stadt etwas erledigt, was ich vor langer Zeit hätte schon tun sollen",
+  "text" : "Grade in der Stadt etwas erledigt, was ich vor langer Zeit h\u00E4tte schon tun sollen",
   "id" : 1106540487,
   "created_at" : "Fri Jan 09 11:22:27 +0000 2009",
   "user" : {
@@ -946,7 +946,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1104531746",
-  "text" : "schau aus dem Fenster und träume beim anblick eines verschneiten Sonnenuntergangs",
+  "text" : "schau aus dem Fenster und tr\u00E4ume beim anblick eines verschneiten Sonnenuntergangs",
   "id" : 1104531746,
   "created_at" : "Thu Jan 08 15:20:44 +0000 2009",
   "user" : {
@@ -1130,7 +1130,7 @@ Grailbird.data.tweets_2009_01 =
   },
   "id_str" : "1100270878",
   "in_reply_to_user_id" : 959201,
-  "text" : "@Katti @florianfiegel aso hatte ich nicht richtig mitbekommen, dachte das 15\"er hätte auch keinen",
+  "text" : "@Katti @florianfiegel aso hatte ich nicht richtig mitbekommen, dachte das 15\"er h\u00E4tte auch keinen",
   "id" : 1100270878,
   "in_reply_to_status_id" : 1100182781,
   "created_at" : "Tue Jan 06 20:38:27 +0000 2009",
@@ -1236,7 +1236,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1097732365",
-  "text" : "schaue Wer wird Milionär ob wohl ich die Antworten eh schon kenne",
+  "text" : "schaue Wer wird Milion\u00E4r ob wohl ich die Antworten eh schon kenne",
   "id" : 1097732365,
   "created_at" : "Mon Jan 05 19:16:50 +0000 2009",
   "user" : {
@@ -1259,7 +1259,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1091434596",
-  "text" : "fühle mich heute so Analog, lese grade die TAZ",
+  "text" : "f\u00FChle mich heute so Analog, lese grade die TAZ",
   "id" : 1091434596,
   "created_at" : "Fri Jan 02 11:58:55 +0000 2009",
   "user" : {
@@ -1328,7 +1328,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1088953213",
-  "text" : "Wünsche allen ein Frohes neues Jahr",
+  "text" : "W\u00FCnsche allen ein Frohes neues Jahr",
   "id" : 1088953213,
   "created_at" : "Wed Dec 31 23:10:11 +0000 2008",
   "user" : {
